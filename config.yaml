@@ -1,0 +1,17 @@
+# Ontology 文献追踪配置
+
+# 搜索关键词 - 可以添加更多相关词汇
+keywords:
+  - ontology
+  - ontologies
+  - "ontology learning"
+  - "ontology alignment"
+  - "ontology matching"
+  - "knowledge graph"
+  - "semantic web"
+
+# 每个数据源最大返回数量
+max_results: 50
+
+# 结果输出目录
+output_dir: ./results
