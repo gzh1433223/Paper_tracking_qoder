@@ -30,9 +30,6 @@ wheels/
 *.swo
 *~
 
-# Results (可选：如果想保留历史记录，注释掉这行)
-results/
-
 # OS
 .DS_Store
 Thumbs.db
