@@ -4,15 +4,14 @@ Ontology 文献追踪自动化脚本
 从 arXiv 和 PubMed 获取昨天的 ontology 相关论文
 """
 
+import sys
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import json
 import os
 import yaml
-import time
 from pathlib import Path
-from deep_translator import GoogleTranslator, MyMemoryTranslator
 
 
 def load_config():
@@ -20,57 +19,6 @@ def load_config():
     config_path = Path(__file__).parent / "config.yaml"
     with open(config_path, 'r', encoding='utf-8') as f:
         return yaml.safe_load(f)
-
-
-def translate_to_chinese(text, max_retries=2):
-    """将英文文本翻译为中文，失败时返回原文"""
-    if not text or not text.strip():
-        return ""
-    
-    text_to_translate = text[:2000]
-    
-    # 尝试 Google Translate
-    for attempt in range(max_retries):
-        try:
-            result = GoogleTranslator(source='en', target='zh-CN').translate(text_to_translate)
-            time.sleep(2)
-            return result if result else text
-        except Exception as e:
-            if attempt < max_retries - 1:
-                wait_time = 5 * (attempt + 1)
-                print(f"  Google 翻译重试 ({attempt+1}/{max_retries})，等待 {wait_time}s...")
-                time.sleep(wait_time)
-            else:
-                print(f"  Google 翻译不可用，切换到 MyMemory...")
-    
-    # 备选: MyMemory Translator（限制 500 字符）
-    try:
-        short_text = text_to_translate[:450]
-        result = MyMemoryTranslator(source='en-GB', target='zh-CN').translate(short_text)
-        time.sleep(1)
-        return result if result else text
-    except Exception as e:
-        print(f"  MyMemory 翻译也失败: {e}")
-        return text
-
-
-def translate_papers(papers):
-    """为每篇论文生成中文简介（翻译标题和摘要）"""
-    total = len(papers)
-    
-    for i, paper in enumerate(papers, 1):
-        print(f"  翻译中 [{i}/{total}]: {paper['title'][:50]}...")
-        
-        # 翻译标题
-        paper['title_zh'] = translate_to_chinese(paper['title'])
-        
-        # 翻译摘要（截取前 800 字符用于翻译）
-        if paper.get('summary'):
-            paper['summary_zh'] = translate_to_chinese(paper['summary'][:800])
-        else:
-            paper['summary_zh'] = ""
-    
-    return papers
 
 
 def fetch_arxiv_papers(keywords, max_results=50):
@@ -265,8 +213,6 @@ def save_results(papers, output_dir):
                 f.write(f"--- arXiv ({len(arxiv_papers)} 篇) {'-' * 30}\n\n")
                 for i, paper in enumerate(arxiv_papers, 1):
                     f.write(f"{i}. {paper['title']}\n")
-                    if paper.get('title_zh'):
-                        f.write(f"   中文标题: {paper['title_zh']}\n")
                     authors_str = ', '.join(paper['authors'][:5])
                     if len(paper['authors']) > 5:
                         authors_str += f" 等 {len(paper['authors'])} 人"
@@ -274,27 +220,20 @@ def save_results(papers, output_dir):
                     f.write(f"   链接: {paper['url']}\n")
                     if 'pdf_url' in paper:
                         f.write(f"   PDF: {paper['pdf_url']}\n")
-                    if paper.get('summary_zh'):
-                        f.write(f"   简介: {paper['summary_zh']}\n")
-                    else:
-                        f.write(f"   摘要: {paper['summary'][:500]}...\n")
+                    f.write(f"   摘要: {paper['summary'][:500]}...\n")
                     f.write("\n")
             
             if pubmed_papers:
                 f.write(f"--- PubMed ({len(pubmed_papers)} 篇) {'-' * 30}\n\n")
                 for i, paper in enumerate(pubmed_papers, 1):
                     f.write(f"{i}. {paper['title']}\n")
-                    if paper.get('title_zh'):
-                        f.write(f"   中文标题: {paper['title_zh']}\n")
                     authors_str = ', '.join(paper['authors'][:5])
                     if len(paper['authors']) > 5:
                         authors_str += f" 等 {len(paper['authors'])} 人"
                     f.write(f"   作者: {authors_str}\n")
                     f.write(f"   链接: {paper['url']}\n")
                     f.write(f"   PMID: {paper['pmid']}\n")
-                    if paper.get('summary_zh'):
-                        f.write(f"   简介: {paper['summary_zh']}\n")
-                    elif paper.get('summary'):
+                    if paper.get('summary'):
                         f.write(f"   摘要: {paper['summary'][:500]}...\n")
                     f.write("\n")
         else:
@@ -306,45 +245,47 @@ def save_results(papers, output_dir):
 def main():
     print(f"开始获取 ontology 相关文献 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
-    # 加载配置
-    config = load_config()
-    keywords = config.get('keywords', ['ontology', 'ontologies'])
-    max_results = config.get('max_results', 50)
-    output_dir = config.get('output_dir', './results')
-    
-    all_papers = []
-    
-    # 从 arXiv 获取
-    print("正在从 arXiv 获取...")
-    arxiv_papers = fetch_arxiv_papers(keywords, max_results)
-    print(f"arXiv: 找到 {len(arxiv_papers)} 篇昨天的论文")
-    all_papers.extend(arxiv_papers)
-    
-    # 从 PubMed 获取
-    print("正在从 PubMed 获取...")
-    pubmed_papers = fetch_pubmed_papers(keywords, max_results)
-    print(f"PubMed: 找到 {len(pubmed_papers)} 篇昨天的论文")
-    all_papers.extend(pubmed_papers)
-    
-    print(f"\n总计: {len(all_papers)} 篇论文")
-    
-    # 翻译为中文简介
-    if all_papers:
-        print("\n正在翻译论文标题和摘要...")
-        all_papers = translate_papers(all_papers)
-        print("翻译完成")
-    
-    # 保存结果
-    json_path, md_path = save_results(all_papers, output_dir)
-    print(f"\n结果已保存:")
-    print(f"  JSON: {json_path}")
-    print(f"  Markdown: {md_path}")
-    
-    # 输出摘要供 GitHub Actions 使用
-    if all_papers:
-        print(f"\n::notice::发现 {len(all_papers)} 篇 ontology 相关新论文（昨天）")
-    
-    return len(all_papers)
+    try:
+        # 加载配置
+        config = load_config()
+        keywords = config.get('keywords', ['ontology', 'ontologies'])
+        max_results = config.get('max_results', 50)
+        output_dir = config.get('output_dir', './results')
+        
+        all_papers = []
+        
+        # 从 arXiv 获取
+        print("正在从 arXiv 获取...")
+        arxiv_papers = fetch_arxiv_papers(keywords, max_results)
+        print(f"arXiv: 找到 {len(arxiv_papers)} 篇昨天的论文")
+        all_papers.extend(arxiv_papers)
+        
+        # 从 PubMed 获取
+        print("正在从 PubMed 获取...")
+        pubmed_papers = fetch_pubmed_papers(keywords, max_results)
+        print(f"PubMed: 找到 {len(pubmed_papers)} 篇昨天的论文")
+        all_papers.extend(pubmed_papers)
+        
+        print(f"\n总计: {len(all_papers)} 篇论文")
+        
+        # 保存结果
+        json_path, md_path = save_results(all_papers, output_dir)
+        print(f"\n结果已保存:")
+        print(f"  JSON: {json_path}")
+        print(f"  TXT: {md_path}")
+        
+        # 输出摘要供 GitHub Actions 使用
+        if all_papers:
+            print(f"\n::notice::发现 {len(all_papers)} 篇 ontology 相关新论文（昨天）")
+        
+        print(f"\n脚本执行成功，退出码 0")
+        sys.exit(0)
+        
+    except Exception as e:
+        print(f"\n脚本执行出错: {e}", file=sys.stderr)
+        import traceback
+        traceback.print_exc(file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == '__main__':
