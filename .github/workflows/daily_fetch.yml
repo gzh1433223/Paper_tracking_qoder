@@ -38,8 +38,12 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add results/
-        git diff --staged --quiet || git commit -m "Add papers for ${{ steps.date.outputs.date }}"
-        git push
+        if ! git diff --staged --quiet; then
+          git commit -m "Add papers for ${{ steps.date.outputs.date }}"
+          git push
+        else
+          echo "No changes to commit"
+        fi
     
     - name: Summary
       if: always()
