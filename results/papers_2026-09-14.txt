@@ -1,0 +1,37 @@
+Ontology 文献追踪报告 - 2026-09-14
+==================================================
+
+共发现 5 篇新论文
+
+--- PubMed (5 篇) ------------------------------
+
+1. DNA methylome responses to biotic and abiotic stress in Arabidopsis thaliana: A multi-study analysis.
+   作者: Behl R, Gallo-Franco J J, Hazarika R R, Zhang Z, Wilming F 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42734610/
+   PMID: 42734610
+   摘要: Plants experience diverse biotic and abiotic stresses that can induce changes in DNA methylation. However, comparisons among existing studies are complicated by differences in analytical methods and experimental designs. We aimed to identify shared and stress-specific DNA methylation responses across studies....
+
+2. MolADR: Multi-Scale Complementary Learning of Dual-Granularity Molecules and Knowledge Graphs for ADR Prediction in Drug Combinations.
+   作者: Qi Yifan, Ren Qingwen, Wang Chenxu, Chen Guihua, Matsumoto Ami 等 12 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42734537/
+   PMID: 42734537
+   摘要: With the increasing use of multiple medications in clinical practice, accurate and interpretable prediction of organ-level adverse drug reactions (ADRs) induced by drug combinations is essential for drug safety assessment and precision medicine. Existing knowledge graph (KG)-based methods primarily model biomedical associations but leave direct structure-level interactions within drug pairs undercharacterized, while molecular representation methods often rely on whole-molecule or latent substruc...
+
+3. AI-Driven Drug-Target Interaction Prediction: From Data Representation to Model Design.
+   作者: Hu Jiaxuan, Wu Lianlian, He Song, Bo Xiaochen, Lu Jiang
+   链接: https://pubmed.ncbi.nlm.nih.gov/42734525/
+   PMID: 42734525
+   摘要: Drug-target interaction (DTI) prediction is central to drug discovery, target identification, and drug repurposing. With the rapid growth of biomedical data and advances in artificial intelligence (AI), DTI prediction has shifted from docking, similarity-based inference, and hand-crafted features toward data-driven representation learning and interaction modeling. This review examines AI-driven DTI prediction methodologies, covering binding theories, task formulations, data representation, model...
+
+4. Puerarin Attenuates Binge Ethanol-Induced Cortical Neurotoxicity in Association with AKT/mTOR Signaling and Autophagy-Related Responses.
+   作者: Liu Fu, Huang Shuying, Xiao Hongwen, Zhou Yuhong, Lin Long 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42734151/
+   PMID: 42734151
+   摘要: Puerarin (Pue), a major isoflavone derived from...
+
+5. PolluCarc-MFSE: A Multi-Fingerprint Stacking Ensemble Learning Model for Chemical Pollutant Carcinogenicity.
+   作者: Zi Xue-Jiao, Chu Zi-Yong, Li Yu-Long
+   链接: https://pubmed.ncbi.nlm.nih.gov/42679844/
+   PMID: 42679844
+   摘要: Traditional carcinogenicity assessment relies on animal experiments, which are costly, time-consuming, and difficult to extrapolate across species. Consequently, the carcinogenic potential of most chemical pollutants remains uncharacterized, posing significant risks to human health. Here, we combined 2356 compounds from public databases with six molecular fingerprints, five base machine learning models, and ensemble strategies to develop PolluCarc-MFSE (a multifingerprint stacking ensemble learn...
+
