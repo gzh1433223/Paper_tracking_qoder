@@ -1,37 +1,87 @@
 Ontology 文献追踪报告 - 2026-09-14
 ==================================================
 
-共发现 5 篇新论文
+共发现 13 篇新论文
 
---- PubMed (5 篇) ------------------------------
+--- arXiv (6 篇) ------------------------------
 
-1. DNA methylome responses to biotic and abiotic stress in Arabidopsis thaliana: A multi-study analysis.
+1. EvoOntology: A Self-Evolving Ontology Layer for Data Agents
+   作者: Meiduo Chong, Shaolei Zhang, Ju Fan, Xiaoyong Du
+   链接: http://arxiv.org/abs/2609.15779v1
+   PDF: https://arxiv.org/pdf/2609.15779v1
+   摘要: Data agents aim to fulfill natural-language instructions over heterogeneous data, including tables, files, and databases. However, data agents face a challenging agent-data gap: heterogeneous data resides outside the agent, while the agent can access it (e.g., column names and file paths) only through generic tools. Existing approaches either let agents directly explore raw data sources or inject manually constructed semantic layers into prompts. However, neither scales well to large heterogeneo...
+
+2. Knowledge-Enriched Structured EHR Features for 30-Day Hospital Readmission Prediction on MIMIC-IV
+   作者: Mohamad Najafi, Hongyun Fu, Mathias Brochhausen, Jian Wu, Yaohang Li
+   链接: http://arxiv.org/abs/2609.15713v1
+   PDF: https://arxiv.org/pdf/2609.15713v1
+   摘要: Recent approaches to 30-day hospital readmission prediction rely on pre-trained language models applied to discharge summaries. Although these methods achieve strong performance, they depend on the availability of clinical notes, incur substantial computational costs, and yield representations that lack interpretability. We propose a knowledge-enriched feature representation that augments structured Electronic Health Record (EHR) data with four medical knowledge sources: disease ontology mapping...
+
+3. Ontological free will as incompressible information adjunction: A noncomputability boundary beyond P versus NP
+   作者: J{é}rome Clech
+   链接: http://arxiv.org/abs/2609.15464v1
+   PDF: https://arxiv.org/pdf/2609.15464v1
+   摘要: We study a conditional model of ontological free will in which a pre-act state structures several coherent global continuations without intrinsically distinguishing one as the future actualisation. The topos-theoretic component is formalised by a choice sheaf and by the action of automorphisms preserving the pre-act data: the absence of a fixed point rules out any natural equivariant selection. An act changes an unpointed object into a pointed one and reduces its symmetry group to a stabiliser. ...
+
+4. From Ideas to Actions: A Public-Data Decision-Support Toolchain Across the Venture Lifecycle
+   作者: Lei Qu
+   链接: http://arxiv.org/abs/2609.15219v1
+   PDF: https://arxiv.org/pdf/2609.15219v1
+   摘要: Founders face two linked decisions: whether to pursue an idea before founding, and which operating actions and capital partners fit afterward. We present a public-data decision-support toolchain combining time-bounded proposal profiling, market and moat checks, and deterministic aggregation with auditable investor-company event chains for retrospective analysis. Pre-founding: (a) After threshold selection on 198 development companies, the frozen pipeline achieves F0.5=0.5357 [0.412, 0.655] on an...
+
+5. Toward non-textual representation of social anthropology: Modeling cultures as knowledge graphs
+   作者: Manolis Peponakis, Sarantos Kapidakis, Martin Doerr, Eirini Tountasaki
+   链接: http://arxiv.org/abs/2609.15214v1
+   PDF: https://arxiv.org/pdf/2609.15214v1
+   摘要: The study examines the emerging field of knowledge representation in the context of the semantic web and linked data, with a focus on knowledge produced within the social sciences - particularly in sociocultural anthropology. It starts from the premise that natural language, especially its textualized form, has long been the primary vehicle for producing and communicating anthropological research. Informed by theoretical approaches from information science, the study explores how computational m...
+
+6. Legislating World-Model-Based Planning with Legal Reasoning
+   作者: Dylan Waldner, Yiannis Kantaros, Guido Governatori, Risto Miikkulainen, Amir Banifatemi
+   链接: http://arxiv.org/abs/2609.15113v1
+   PDF: https://arxiv.org/pdf/2609.15113v1
+   摘要: As robotic systems grow more general, legal norms are needed to integrate them into society. This paper extends the isomorphism problem of aligning legal source texts with their encodings, and measures two key challenges to robot normative control: (1) the \textit{grounding isomorphism gap}, where perception error grounds false atoms for legal reasoning, and (2) the \textit{ontological isomorphism gap}, where one legal conclusion admits many faithful translations into planning constraints. The p...
+
+--- PubMed (7 篇) ------------------------------
+
+1. Circulating exosomal long non-coding RNAs NAMPT-Antisense and SNHG5 as emerging biomarkers in breast cancer.
+   作者: Abdeljalil Sara M, Abdelhamid Sherehan G, Ghali Ramy, Yasser Montaser B, Kamal Mohamed M 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42735768/
+   PMID: 42735768
+   摘要: Breast cancer (BC) is the leading cause of cancer-related deaths among women globally. The regulatory role of long non-coding RNAs (lncRNAs) in tumorigenesis has emerged in various cancer types, including BC. Exosomes, acting as carriers of lncRNAs and other cargo, play a crucial role in mediating communication between cancer cells and tumor microenvironment. Nicotinamide-phosphoribosyl-transferase (NAMPT) has attracted much attention in cancer research. This study sought to explore the role of ...
+
+2. DNA methylome responses to biotic and abiotic stress in Arabidopsis thaliana: A multi-study analysis.
    作者: Behl R, Gallo-Franco J J, Hazarika R R, Zhang Z, Wilming F 等 8 人
    链接: https://pubmed.ncbi.nlm.nih.gov/42734610/
    PMID: 42734610
    摘要: Plants experience diverse biotic and abiotic stresses that can induce changes in DNA methylation. However, comparisons among existing studies are complicated by differences in analytical methods and experimental designs. We aimed to identify shared and stress-specific DNA methylation responses across studies....
 
-2. MolADR: Multi-Scale Complementary Learning of Dual-Granularity Molecules and Knowledge Graphs for ADR Prediction in Drug Combinations.
+3. MolADR: Multi-Scale Complementary Learning of Dual-Granularity Molecules and Knowledge Graphs for ADR Prediction in Drug Combinations.
    作者: Qi Yifan, Ren Qingwen, Wang Chenxu, Chen Guihua, Matsumoto Ami 等 12 人
    链接: https://pubmed.ncbi.nlm.nih.gov/42734537/
    PMID: 42734537
    摘要: With the increasing use of multiple medications in clinical practice, accurate and interpretable prediction of organ-level adverse drug reactions (ADRs) induced by drug combinations is essential for drug safety assessment and precision medicine. Existing knowledge graph (KG)-based methods primarily model biomedical associations but leave direct structure-level interactions within drug pairs undercharacterized, while molecular representation methods often rely on whole-molecule or latent substruc...
 
-3. AI-Driven Drug-Target Interaction Prediction: From Data Representation to Model Design.
+4. AI-Driven Drug-Target Interaction Prediction: From Data Representation to Model Design.
    作者: Hu Jiaxuan, Wu Lianlian, He Song, Bo Xiaochen, Lu Jiang
    链接: https://pubmed.ncbi.nlm.nih.gov/42734525/
    PMID: 42734525
    摘要: Drug-target interaction (DTI) prediction is central to drug discovery, target identification, and drug repurposing. With the rapid growth of biomedical data and advances in artificial intelligence (AI), DTI prediction has shifted from docking, similarity-based inference, and hand-crafted features toward data-driven representation learning and interaction modeling. This review examines AI-driven DTI prediction methodologies, covering binding theories, task formulations, data representation, model...
 
-4. Puerarin Attenuates Binge Ethanol-Induced Cortical Neurotoxicity in Association with AKT/mTOR Signaling and Autophagy-Related Responses.
+5. Puerarin Attenuates Binge Ethanol-Induced Cortical Neurotoxicity in Association with AKT/mTOR Signaling and Autophagy-Related Responses.
    作者: Liu Fu, Huang Shuying, Xiao Hongwen, Zhou Yuhong, Lin Long 等 9 人
    链接: https://pubmed.ncbi.nlm.nih.gov/42734151/
    PMID: 42734151
    摘要: Puerarin (Pue), a major isoflavone derived from...
 
-5. PolluCarc-MFSE: A Multi-Fingerprint Stacking Ensemble Learning Model for Chemical Pollutant Carcinogenicity.
+6. PolluCarc-MFSE: A Multi-Fingerprint Stacking Ensemble Learning Model for Chemical Pollutant Carcinogenicity.
    作者: Zi Xue-Jiao, Chu Zi-Yong, Li Yu-Long
    链接: https://pubmed.ncbi.nlm.nih.gov/42679844/
    PMID: 42679844
    摘要: Traditional carcinogenicity assessment relies on animal experiments, which are costly, time-consuming, and difficult to extrapolate across species. Consequently, the carcinogenic potential of most chemical pollutants remains uncharacterized, posing significant risks to human health. Here, we combined 2356 compounds from public databases with six molecular fingerprints, five base machine learning models, and ensemble strategies to develop PolluCarc-MFSE (a multifingerprint stacking ensemble learn...
+
+7. DeepMASS v.2: An enhanced deep learning platform for large-scale discovery and structural annotation of unknown plant metabolites.
+   作者: Jiang Siyu, Yang Qiong, Xiong Ziyao, Li Kairong, Dai Qinliang 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42363597/
+   PMID: 42363597
+   摘要: Determining the structures of unknown metabolites remains a fundamental bottleneck in plant metabolomics, as the vast chemical diversity of plant secondary metabolites far exceeds the coverage of existing spectral libraries. Here, we present DeepMASS v.2, a substantially enhanced platform for annotating unknown metabolites from liquid chromatography-tandem mass spectrometry data, designed to address this challenge at scale. DeepMASS v.2 leverages a semantic spectral representation model trained ...
 

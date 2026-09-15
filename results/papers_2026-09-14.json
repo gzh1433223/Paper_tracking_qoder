@@ -1,5 +1,101 @@
 [
   {
+    "title": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents",
+    "summary": "Data agents aim to fulfill natural-language instructions over heterogeneous data, including tables, files, and databases. However, data agents face a challenging agent-data gap: heterogeneous data resides outside the agent, while the agent can access it (e.g., column names and file paths) only through generic tools. Existing approaches either let agents directly explore raw data sources or inject manually constructed semantic layers into prompts. However, neither scales well to large heterogeneous data sources nor adapts to different agent behaviors. In this paper, we introduce EvoOntology, a self-evolving ontology layer for data agents. EvoOntology encapsulates the ontology as an MCP server comprising a schema layer, a content layer, and a tool layer, enabling agents to actively query and interact with the ontology at runtime. To this end, we introduce a builder agent for autonomous ontology construction and a self-evolution loop that continuously refines the ontology through attribution-guided typed edits that are accepted only after a backbone-conditional paired evaluation. Experiments on three well-adopted data-agent benchmarks with four LLM backbones demonstrate that EvoOntology consistently outperforms strong baselines and existing semantic-layer approaches, effectively bridging the agent-data gap and enabling more effective interaction with heterogeneous data. Code: https://github.com/ruc-datalab/EvoOntology",
+    "authors": [
+      "Meiduo Chong",
+      "Shaolei Zhang",
+      "Ju Fan",
+      "Xiaoyong Du"
+    ],
+    "published": "2026-09-14T15:59:24Z",
+    "url": "http://arxiv.org/abs/2609.15779v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.15779v1"
+  },
+  {
+    "title": "Knowledge-Enriched Structured EHR Features for 30-Day Hospital Readmission Prediction on MIMIC-IV",
+    "summary": "Recent approaches to 30-day hospital readmission prediction rely on pre-trained language models applied to discharge summaries. Although these methods achieve strong performance, they depend on the availability of clinical notes, incur substantial computational costs, and yield representations that lack interpretability. We propose a knowledge-enriched feature representation that augments structured Electronic Health Record (EHR) data with four medical knowledge sources: disease ontology mapping, procedure classification, drug ingredient vocabulary, and organ system laboratory aggregation, without using clinical notes. Each feature dimension corresponds to a named clinical concept, yielding a sparse and interpretable patient representation. The approach is evaluated with six classifiers on a MIMIC-IV v2.2 cohort. Under 20-fold cross-validation, the best configuration achieves an AUROC of 0.743. This performance is comparable to that of previously reported methods on this dataset, including both those using only structured data and those incorporating clinical notes, while requiring considerably less computational cost. Interpretability analysis shows that demographics, organ system labs, drug ingredient features, and first-level ontology disease categories drive prediction, while deeper hierarchy levels contribute negligibly. These findings indicate that knowledge-enriched structured features offer a competitive and efficient alternative to embeddings from clinical notes for 30-day readmission prediction.",
+    "authors": [
+      "Mohamad Najafi",
+      "Hongyun Fu",
+      "Mathias Brochhausen",
+      "Jian Wu",
+      "Yaohang Li"
+    ],
+    "published": "2026-09-14T15:14:25Z",
+    "url": "http://arxiv.org/abs/2609.15713v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.15713v1"
+  },
+  {
+    "title": "Ontological free will as incompressible information adjunction: A noncomputability boundary beyond P versus NP",
+    "summary": "We study a conditional model of ontological free will in which a pre-act state structures several coherent global continuations without intrinsically distinguishing one as the future actualisation. The topos-theoretic component is formalised by a choice sheaf and by the action of automorphisms preserving the pre-act data: the absence of a fixed point rules out any natural equivariant selection. An act changes an unpointed object into a pointed one and reduces its symmetry group to a stabiliser. Independently, a causal algorithmic incompressibility axiom imposes nearly maximal online description complexity on the actual choices. Uniformly observable post-act traces then allow their reconstruction. We prove a conditional transfer result: such traces must carry asymptotically all the singularisation information unavailable in the pre-act regime, and no uniform Turing predictor computes the choices from causal histories alone. The formalism proves neither that human beings satisfy the model nor a separation of P from NP; it identifies a boundary at which prediction concerns the existence of a computable function rather than its time complexity.",
+    "authors": [
+      "J{é}rome Clech"
+    ],
+    "published": "2026-09-14T12:26:55Z",
+    "url": "http://arxiv.org/abs/2609.15464v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.15464v1"
+  },
+  {
+    "title": "From Ideas to Actions: A Public-Data Decision-Support Toolchain Across the Venture Lifecycle",
+    "summary": "Founders face two linked decisions: whether to pursue an idea before founding, and which operating actions and capital partners fit afterward. We present a public-data decision-support toolchain combining time-bounded proposal profiling, market and moat checks, and deterministic aggregation with auditable investor-company event chains for retrospective analysis. Pre-founding: (a) After threshold selection on 198 development companies, the frozen pipeline achieves F0.5=0.5357 [0.412, 0.655] on an independent, row-disjoint 198-company validation sample. On the combined 396 rows, the Full Pipeline scores 0.6301 versus 0.2734 for a paired Raw LLM baseline. Post-stratification of 1,027 completed cases in a separate scale cohort yields 0.6506 [0.598, 0.707]; the run remains incomplete. A 377-row composition-matched check yields 0.6573. (b) The AI-inference study identifies distribution-layer businesses as a replicable path to independent profitability with a limited revenue ceiling, and frontier-model ownership as a path to capital-market upside at exceptional capital cost. Post-founding: (a) Public sources support auditable event-chain analysis. (b) In the chip-company study, sustained product, customer, and supply-chain progress is associated with better observed outcomes; financing alone does not establish operating progress. (c) Financing comprises 79% of confirmed visible post-investment actions. Evidence tentatively favors acquisition-experienced strategic corporate investors for acquisition-oriented founders and financing-led institutional VCs with fewer observed control events for independence-oriented founders. Findings are developmental and observational, not causal guarantees or investment advice. We release shared ontology, provenance-bearing EventChain data, schemas, benchmarks, and executable skills for audit, reuse, and extension.",
+    "authors": [
+      "Lei Qu"
+    ],
+    "published": "2026-09-14T08:40:08Z",
+    "url": "http://arxiv.org/abs/2609.15219v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.15219v1"
+  },
+  {
+    "title": "Toward non-textual representation of social anthropology: Modeling cultures as knowledge graphs",
+    "summary": "The study examines the emerging field of knowledge representation in the context of the semantic web and linked data, with a focus on knowledge produced within the social sciences - particularly in sociocultural anthropology. It starts from the premise that natural language, especially its textualized form, has long been the primary vehicle for producing and communicating anthropological research. Informed by theoretical approaches from information science, the study explores how computational methods may offer alternative modes of structuring and representing anthropological knowledge. It challenges the dominance of text as the sole representational medium and highlights the potential of semantic modeling to open new epistemological pathways. At the same time, it acknowledges the conceptual and methodological challenges involved in such a transition. This approach shifts emphasis away from metrics and programming, foregrounding processes of conceptualization, semantics, meaning, and reasoning as key to engaging with anthropological knowledge in digital environments.",
+    "authors": [
+      "Manolis Peponakis",
+      "Sarantos Kapidakis",
+      "Martin Doerr",
+      "Eirini Tountasaki"
+    ],
+    "published": "2026-09-14T08:34:56Z",
+    "url": "http://arxiv.org/abs/2609.15214v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.15214v1"
+  },
+  {
+    "title": "Legislating World-Model-Based Planning with Legal Reasoning",
+    "summary": "As robotic systems grow more general, legal norms are needed to integrate them into society. This paper extends the isomorphism problem of aligning legal source texts with their encodings, and measures two key challenges to robot normative control: (1) the \\textit{grounding isomorphism gap}, where perception error grounds false atoms for legal reasoning, and (2) the \\textit{ontological isomorphism gap}, where one legal conclusion admits many faithful translations into planning constraints. The paper introduces a legal planning stack that employs Defeasible Deontic Logic (DDL) to constrain a motion planner. The stack leverages learned world models to plan and to provide legal context, enabling \\textit{ex ante} governance that intervenes before an illegal action is executed. It was deployed on a simulated robot arm pushing a cube across a $3\\times3$ grid. The findings were (1) the legislated agent abided substantially more often than the non-legislated one, and modeling perception uncertainty lifted abidance even further, (2) the legal reasoning ran efficiently at runtime and its verdicts were auditable, and (3) the stack adapted to exogenous signals and endogenous rule changes. Both gaps were measured: (4) world model and probe error corrupted the factual input for the DDL reasoner, and (5) a single law admitted several faithful metric interpretations yielding drastically different abidance. Thus, \\textit{ex ante} legislation functions as intended, and closing these gaps with a standardized mapping from the law to runtime constraints and improved fact grounding from perception will yield robust laws that align robot behavior with society's norms.",
+    "authors": [
+      "Dylan Waldner",
+      "Yiannis Kantaros",
+      "Guido Governatori",
+      "Risto Miikkulainen",
+      "Amir Banifatemi"
+    ],
+    "published": "2026-09-14T06:45:58Z",
+    "url": "http://arxiv.org/abs/2609.15113v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.15113v1"
+  },
+  {
+    "title": "Circulating exosomal long non-coding RNAs NAMPT-Antisense and SNHG5 as emerging biomarkers in breast cancer.",
+    "summary": "Breast cancer (BC) is the leading cause of cancer-related deaths among women globally. The regulatory role of long non-coding RNAs (lncRNAs) in tumorigenesis has emerged in various cancer types, including BC. Exosomes, acting as carriers of lncRNAs and other cargo, play a crucial role in mediating communication between cancer cells and tumor microenvironment. Nicotinamide-phosphoribosyl-transferase (NAMPT) has attracted much attention in cancer research. This study sought to explore the role of two lncRNAs interrelated with NAMPT; NAMPT-AS and SNHG5 in BC and to investigate their circulating serum exosomal levels in subjects with/without BC. Serum exosomes were isolated from BC patients and healthy controls, and the expression levels of NAMPT-AS, SNHG5 and NAMPT were measured using qRT-PCR. Serum NAMPT protein levels were quantified by ELISA. Thorough analysis of The-Cancer-Genome-Atlas (TCGA) data for BC-patients was conducted. Serum exosomal NAMPT-AS and SNHG5 levels were found to be significantly upregulated in BC patients compared to control subjects, and both of them were found to be strongly associated with each other and positively correlated with serum exosomal NAMPT. Receiver-operating-characteristics (ROC) analysis revealed that both exosomal NAMPT-AS and SNHG5 can differentiate between BC patients and control subjects. Gene-ontology, protein-protein-interaction-networks and survival analyses of TCGA data revealed distinct molecular signatures for high/low NAMPT-AS and SNHG5 BC-samples. Notably, upregulation of both lncRNAs was associated with poor prognosis and reduced overall survival. In conclusion, the results of the current study portray NAMPT-AS and SNHG5 as key interconnected molecular mediators and promising novel diagnostic/prognostic biomarkers and therapeutic targets for BC.",
+    "authors": [
+      "Abdeljalil Sara M",
+      "Abdelhamid Sherehan G",
+      "Ghali Ramy",
+      "Yasser Montaser B",
+      "Kamal Mohamed M",
+      "Kassem Dina H"
+    ],
+    "published": "2026 Sep 14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42735768/",
+    "pmid": "42735768",
+    "source": "PubMed"
+  },
+  {
     "title": "DNA methylome responses to biotic and abiotic stress in Arabidopsis thaliana: A multi-study analysis.",
     "summary": "Plants experience diverse biotic and abiotic stresses that can induce changes in DNA methylation. However, comparisons among existing studies are complicated by differences in analytical methods and experimental designs. We aimed to identify shared and stress-specific DNA methylation responses across studies.",
     "authors": [
@@ -84,6 +180,27 @@
     "published": "2026 Sep 14",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42679844/",
     "pmid": "42679844",
+    "source": "PubMed"
+  },
+  {
+    "title": "DeepMASS v.2: An enhanced deep learning platform for large-scale discovery and structural annotation of unknown plant metabolites.",
+    "summary": "Determining the structures of unknown metabolites remains a fundamental bottleneck in plant metabolomics, as the vast chemical diversity of plant secondary metabolites far exceeds the coverage of existing spectral libraries. Here, we present DeepMASS v.2, a substantially enhanced platform for annotating unknown metabolites from liquid chromatography-tandem mass spectrometry data, designed to address this challenge at scale. DeepMASS v.2 leverages a semantic spectral representation model trained on millions of spectra from GNPS, NIST, and in-house resources. By integrating Spec2Vec-based embeddings with HNSW (hierarchical navigable small world) graph retrieval and a unified chemical space defined by molecular fingerprints, DeepMASS v.2 identifies structurally related neighbors of unknown spectra and ranks candidate structures according to their proximity to the predicted structural neighborhoods within chemical space. Benchmarking against Critical Assessment of Small Molecule Identification datasets and a curated natural product collection demonstrated that DeepMASS v.2 outperforms state-of-the-art in silico annotation tools, including SIRIUS, CFM-ID, MetFrag, and MS-Finder. Importantly, DeepMASS v.2 maintains strong performance for metabolites absent from spectral libraries, highlighting its capacity to annotate genuinely unknown compounds. Application of DeepMASS v.2 to large-scale plant metabolomics datasets demonstrated its ability to expand accessible metabolome coverage. Implemented as an intuitive web platform, DeepMASS v.2 provides the community with a scalable, interpretable, and high-throughput solution for structural annotation, enabling more comprehensive characterization of plant chemical diversity and accelerating natural product discovery in molecular plant science. The DeepMASS v.2 web server is publicly available at http://deepmass.cn.",
+    "authors": [
+      "Jiang Siyu",
+      "Yang Qiong",
+      "Xiong Ziyao",
+      "Li Kairong",
+      "Dai Qinliang",
+      "Su Meifeng",
+      "Lyu Yaqing",
+      "Peng Yanchun",
+      "Du Ran",
+      "Yan Jianbin",
+      "Ji Hongchao"
+    ],
+    "published": "2026 Sep 14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42363597/",
+    "pmid": "42363597",
     "source": "PubMed"
   }
 ]
