@@ -1,0 +1,374 @@
+[
+  {
+    "title": "Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models",
+    "summary": "The quest for new materials increasingly relies on predictive models and comprehensive simulations that span scales from atomic to macroscopic levels. However, essential data necessary for these models and simulations are often embedded in scientific literature as unstructured text, limiting reusability and posing challenges for researchers seeking to leverage existing knowledge effectively. While extracting structured data from unstructured text using large language models is gaining popularity, traditional methods typically generate key-value pairs data with straightforward schemas. In contrast, we introduce eolas, a modular pipeline that uses large language models to automatically transform scientific documents into knowledge graphs aligned with a specified ontology. We demonstrate eolas effectiveness in extracting useful information for scientists studying materials designed to endure the extreme temperatures and radiation levels found in fusion reactors. While a human expert might spend between thirty to ninety minutes extracting relevant data from an article, eolas can generate high-quality knowledge graphs in just a few minutes. These are presented in a tabular format with faceted navigation for easy human validation. Additionally, we introduce the first benchmark dataset designed to assess large language models capabilities in constructing knowledge graphs within the domain of irradiated materials. The analysis of 168 experiments using our dataset, various large language models and prompting techniques provides key insights that we summarize into practical guidelines for effectively extracting knowledge graphs aligned with an input ontology.",
+    "authors": [
+      "Marco Luca Sbodio",
+      "Marcos Martínez Galindo",
+      "Vanessa Lopez",
+      "Blanca Biel",
+      "Pablo Canca",
+      "Pedro Delgado",
+      "Jesús I. Mendieta-Moreno",
+      "Raphael Tack",
+      "Maria J. Caturla"
+    ],
+    "published": "2026-09-15T15:05:57Z",
+    "url": "http://arxiv.org/abs/2609.17291v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.17291v1"
+  },
+  {
+    "title": "Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics",
+    "summary": "Generative AI promises natural language access to the massive numerical telemetry of data centers and Industry 4.0 installations, yet text-to-query and tool-using agents stay unreliable: even frontier models answer little more than half of real-world database questions, and far fewer of the multi-step, operational ones, because the LLM must compose how heterogeneous sources relate and hallucinates the relations, not just the fields. We propose symbolic separation: a deep agent reasons freely but may act on data only through an ontology-constrained Virtual Knowledge Graph with deterministic pre-execution validation. Unlike a tool API's interface contract, this domain-semantic contract turns a complex question into one validated graph traversal instead of LLM-inferred joins. Instantiated as the Neurosymbolic Deep Analyst and evaluated on 49.9 TB of superconputer telemetry against a rigid workflow and a non-symbolic ablation, it raises end-to-end task success from 43% to 86%, prevents silent data-integrity errors that no syntactic check catches, and cuts token cost by 2.4x, letting a smaller on-premise model outperform a larger one.",
+    "authors": [
+      "Baibek Davletiyarov",
+      "Junaid Ahmed Khan",
+      "Andrea Bartolini"
+    ],
+    "published": "2026-09-15T12:38:43Z",
+    "url": "http://arxiv.org/abs/2609.17107v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.17107v1"
+  },
+  {
+    "title": "Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior",
+    "summary": "Assistive autonomous systems must anticipate human goals before an observed behavior is complete. This article formulates anticipation as goal inference from a partially observed multimodal episode together with structured prediction of the remaining behavior, rather than exact motor forecasting. A compact Hierarchical Planning Decoder (HPD) is attached to a frozen neuro-symbolic recognition encoder and predicts, at four ontological levels, the next actions, the remaining activities and low-level intentions, and the episode high-level intention(HLI). The decoder is trained with soft neuro-symbolic regularization combining transition-coherence and hierarchical continuity losses, and is decoded with hard reachability masks that enforce ontological validity at inference. On a compositional four-level benchmark of 15,002 multimodal episodes built over NTU RGB+D 120 features, three headline properties are observed together. The advantage over the strongest sequential baseline grows with the anticipation horizon, from +1.7 points at step 1 to +7.3 points at step 3 (top-5). Under compositional generalization, where one parent association per multi-parent low level intention is held out, this advantage widens to +4.9 points at step 1. At the episode level, 96.8% of anticipated trajectories satisfy the joint logic constraints, above the 88.1% strongest-baseline value and the 73.9% ground-truth floor; soft logic terms alone account for a 59.8 to 71.1% relative reduction of HLI-reachability violations, and the hard masks then eliminate them entirely. Neural generation supplies predictive ranking, symbolic constraints supply onto logical validity, and their combination yields coherent hierarchical anticipation while exposing remaining challenges in compositional goal generalization and unordered set prediction.",
+    "authors": [
+      "Farnaz Soleimani",
+      "Abdelghani Chibani",
+      "Yacine Amirat",
+      "Ghazaleh Khodabandelou"
+    ],
+    "published": "2026-09-15T12:09:03Z",
+    "url": "http://arxiv.org/abs/2609.17064v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.17064v1"
+  },
+  {
+    "title": "NeuroSymbEAD: A Large Scale Neuro-Symbolic Caption Dataset for Omni-Directional Embodied Autonomous Driving",
+    "summary": "This paper introduces NeuroSymbEAD, a large-scale neuro-symbolic caption dataset featuring an ego-centric knowledge graph (KG) of static and dynamic objects annotated with classes, categories, heading directions, orientations, and distances from the ego-vehicle. These annotations are used on the KITTI-360 dataset to generate multilevel textual captions representing a lightweight version of an ego-centric scene map. Outdoor scene-map reconstruction, visual recognition, and object grounding establish baselines for driving common sense and traffic/scene understanding. For these purposes, natural language-based grounded captioning of objects and their complex relationships is a widely adopted contextual representation for indoor scene tasks. Neuro-symbolic representations have proven effective in handling structured information for various computer vision and language applications. Our data annotation pipeline allows the generation of varied map segments, populating simulated or real objects within the bounding boxes predicted by any 3D object detection network, and building hierarchical text captions. We benchmark our neuro-symbolic and ontological caption generation using pre-trained grounding and learned auto-regressive captioning networks. By converting 3D driving scenes into structured ego-centric language, NeuroSymbEAD provides a benchmark for vision-language and foundation models for traffic-scene explanation, 3D reasoning, and interpretable autonomous-driving perception.",
+    "authors": [
+      "Muhammad Ahmed Ullah Khan",
+      "Mohammed Elamine",
+      "Sheikh Talha Uddin",
+      "Didier Stricker",
+      "Sk Aziz Ali",
+      "Muhammad Zeshan Afzal"
+    ],
+    "published": "2026-09-15T09:52:51Z",
+    "url": "http://arxiv.org/abs/2609.16919v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.16919v1"
+  },
+  {
+    "title": "PunGraph: Retrieval-Enhanced Phonetic-Semantic Graph Reasoning for Pun Understanding",
+    "summary": "Puns are a challenging form of figurative language that exploit phonetic similarity and semantic ambiguity to convey multiple meanings. Although large language models (LLMs) demonstrate strong language understanding capabilities, they still struggle with pun reasoning due to limited phonetic modeling and uncontrolled end-to-end generation. We propose \\textbf{PunGraph}, a retrieval-enhanced knowledge graph framework for pun understanding. PunGraph constructs a phonetic-semantic lexical graph using the Unisyn phonetic dictionary, IPA and G2P representations, and WordNet definitions, and retrieves candidate words or senses to constrain LLM reasoning within a structured candidate space. We further introduce \\textbf{WebPun}, a new large-scale dataset containing 5,730 annotated heterographic and homographic puns. Experiments on SemEval-2017 and WebPun show that PunGraph consistently improves the performance of small-scale LLMs and achieves competitive results against strong proprietary models. Further analysis shows that retrieval-guided phonetic and semantic constraints effectively reduce common reasoning errors in pun interpretation, highlighting the benefits of integrating structured knowledge with LLMs. We release our code and dataset at https://github.com/ysu132/PunGraph.",
+    "authors": [
+      "Yuchen Su",
+      "Zijian Huang",
+      "Yaotian Shi",
+      "Shaoxin Zhong",
+      "Ruofan Wang",
+      "Mengze Li",
+      "Yonghua Zhu",
+      "Diana Benavides-Prado",
+      "Michael Witbrock"
+    ],
+    "published": "2026-09-15T02:54:15Z",
+    "url": "http://arxiv.org/abs/2609.16557v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.16557v1"
+  },
+  {
+    "title": "Geospatial Metadata Improves Discoverability by Connecting Datasets Across Scientific Disciplines",
+    "summary": "Research data repositories are essential infrastructure for scientific inquiry and for ensuring that datasets follow FAIR (Findable, Accessible, Interoperable, and Reusable) principles. However, repository reuse depends on the quality and completeness of geospatial and thematic metadata, which researchers generally provide voluntarily. Given limited curation resources, it is unsurprising that even Harvard Dataverse, the world's largest general-purpose research repository, contains many incomplete metadata records. Missing fields represent lost information and reduce interoperability. We find that datasets with more missing metadata receive fewer downstream citations and have fewer resolvable connections to other datasets. The implications are particularly important for geospatial datasets: only 0.3% of research datasets include a bounding box, and most represent archival points rather than complete geographic shapes. Our analysis shows that geospatial metadata helps connect concepts across disciplines. After embedding Harvard Dataverse datasets in a metadata knowledge graph, we find that datasets are twice as likely to connect across scientific disciplines through shared geospatial metadata as through keywords. This suggests that geographic metadata is a more reliable basis for cross-disciplinary interoperability than keyword vocabularies, which often remain discipline-specific. We train and fine-tune a small language model using datasets from Harvard Dataverse. Through geospatial metadata enrichment, we increase the share of datasets from different disciplines connected through metadata elements from 58.5% to 63.2%.",
+    "authors": [
+      "Daniel Ebanks",
+      "Devika Jain"
+    ],
+    "published": "2026-09-15T01:40:36Z",
+    "url": "http://arxiv.org/abs/2609.16498v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.16498v1"
+  },
+  {
+    "title": "Constructing Legal Knowledge Graphs and Tracing Bias in Medical Artificial Intelligence Based on Graph Neural Networks.",
+    "summary": "In medical artificial intelligence (AI) legal compliance analysis, this paper addresses the ambiguity in liability determination caused by the semantic fragmentation of multi-source heterogeneous legal texts and difficulties in tracing algorithmic biases. It constructs a knowledge graph construction and bias propagation path detection method based on graph neural networks. Four types of heterogeneous nodes-legal clauses, medical behaviors, algorithm modules, and responsible parties-are structured and encoded, and a directed graph is constructed based on four types of legal semantic relationships: \"violation\", \"basis\", \"trigger\", and \"attribution\". Next, a relation-aware graph convolutional network, combined with edge-type-specific weights and an attention mechanism, is used to achieve multi-layer feature alignment for cross-modal legal semantics. Then, gradient-based backpropagation is used to identify edges that significantly contribute to bias, construct a bias-propagation subgraph, and use community discovery to locate root-node clusters. Finally, real-time decision flows are mapped to temporary nodes, compliance is verified by embedding similarity, and the dynamics of key edge weights are monitored to warn of systemic bias accumulation. Experiments show that, in terms of semantic alignment accuracy, the proposed method achieves an average entity alignment accuracy of at least 0.92 and an average relation preservation completeness of at least 0.88 across different knowledge graph density gradients. Regarding bias localization capability, the root node recall rate reaches 0.95±±0.02, and the propagation path precision reaches 0.93±±0.03. This research, to a certain extent, achieves a deep coupling between legal logic and algorithmic behavior, providing an explainable and verifiable compliance support system for the trustworthy deployment of medical AI.",
+    "authors": [
+      "Yu Jun"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42747072/",
+    "pmid": "42747072",
+    "source": "PubMed"
+  },
+  {
+    "title": "Protein Arginine Methylation of the Translation Initiation Factor eIF1A Increases Usage of a Near-cognate Start Codon.",
+    "summary": "Protein arginine methylation has emerged as a key post-translational modification responsible for many facets of eukaryotic gene expression. To better understand the extent of this modification in cellular pathways, we carried out bioorthogonal methylation profiling in Saccharomyces cerevisiae to comprehensively identify the in vivo substrates of the major yeast protein arginine methyltransferase Hmt1. Gene ontology analysis of candidate substrates revealed an enrichment of proteins involved in the process of translation. We verified one such factor, eIF1A, by in vitro methylation. Three sites on eIF1A were found to be responsible for its methylation: R13, R14, and R62, with varied capacity by which each site contributed to the overall methylation capacity in vitro. To determine the role of methylation in eIF1A function, we used a battery of arginine-to-alanine substitution mutants to evaluate translation fidelity in these mutants. Our data show that substitution mutants at R13 and R14 in the N-terminal tail improved the fidelity of start codon recognition in an initiation fidelity assay. Overall, our data suggest that Hmt1-mediated methylation of eIF1A fine-tunes the fidelity of start codon recognition for proper translation initiation.",
+    "authors": [
+      "Wegman Rebecca",
+      "Langberg Michael",
+      "Deng Haiteng",
+      "Chen Yuling",
+      "Davis Richoo B",
+      "Liu Xiaozhuo",
+      "Luo Minkui",
+      "Yu Michael C",
+      "Walker Sarah E"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42744250/",
+    "pmid": "42744250",
+    "source": "PubMed"
+  },
+  {
+    "title": "Effects of TRAF6 Knockout on Transcriptomic and Alternative Splicing Responses to VHSV Genotype II Infection.",
+    "summary": "Viral hemorrhagic septicemia virus genotype II is generally considered less virulent than other genotypes. However, the molecular mechanisms underlying viral infection and its impact on host gene expression are poorly understood. The tumor necrosis factor receptor-associated factor 6 (TRAF6) is a pivotal molecule that is involved in different processes and plays an important role in the immune response during viral infection in fish. In this work, we investigated the effect of viral infection with VHSV genotype II on EPC and ΔTRAF6 cells at the gene expression level and on alternative splicing events (ASEs). Following VHSV genotype II infection, ΔTRAF6 cells exhibited more severe cytopathic effects accompanied by significantly higher viral copy numbers than EPC cells, indicating that TRAF6 plays a protective role in the antiviral response against VHSV genotype II. The transcriptomic analysis revealed that 1236 genes were differentially expressed in EPC cells, and 1372 in ΔTRAF6. Following viral infection, the immune-related pathways, including NOD-like receptor signaling, RIG-I-like receptor signaling, toll-like receptor signaling, cytokine-cytokine receptor signaling, C-type lectin receptor signaling pathway, and herpes simplex virus 1 infection, were activated in both cells, with lower gene ratios in ΔTRAF6 cells compared with EPC cells. Furthermore, TRAF6 influences alternative splicing in infected cells. Significant ASEs were observed in both cells, but were notably more frequent in ΔTRAF6 cells. Gene Ontology (GO) enrichment analysis and KEGG pathway enrichment analysis of differential alternative splicing genes showed enrichment in the mRNA surveillance and IgSF CAM signaling pathways. These results suggest that TRAF6 plays an important role in regulating the antiviral response at multiple levels, and that the absence of TRAF6 alters immune responses and signaling pathways, facilitating viral replication of VHSV genotype II and inducing cytopathic effects in cells. In addition, knocking out TRAF6 results in changes in alternative splicing correlating with weakened immune signaling and increased viral replication.",
+    "authors": [
+      "Abdellaoui Najib",
+      "Kim Seon Young",
+      "Kim Hyoung Jun",
+      "Kim Min Sun"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42744106/",
+    "pmid": "42744106",
+    "source": "PubMed"
+  },
+  {
+    "title": "Unifying temporal knowledge Graph and LLMs for Biomedical Hypothesis generation via temporal soft Prompting.",
+    "summary": "Biomedical Hypothesis Generation (HG) is a critical task for discovering latent yet scientifically meaningful associations from continuously evolving literature or knowledge bases, aiding in disease diagnosis and treatment decisions-making. Most existing studies model Temporal Knowledge Graphs (TKGs) for capturing dynamic relation evolution based on temporal explicit and structured knowledge. However, TKG based methods are hard to generate new facts and represent unseen knowledge since the inherent incompleteness and limited scale of TKG. While, Large Language Models (LLMs) are pretrained by enriching large-amount of unlabeled corpus with semantic knowledge of the real world. Therefore, unifying LLMs and TKG together could leverage precise temporal facts and rich semantic knowledge simultaneously.",
+    "authors": [
+      "Wang Lanlan",
+      "Zhou Huiwei",
+      "Gu Jinghang",
+      "Zeng Hongyun",
+      "Zhou Hao",
+      "Li Xuefei",
+      "Lin Suwen",
+      "Liu Ze",
+      "Yao Weihong"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42744066/",
+    "pmid": "42744066",
+    "source": "PubMed"
+  },
+  {
+    "title": "Dynamic coarsened spatio-temporal graph convolutional networks for fMRI classification of addiction-induced sleep disorders.",
+    "summary": "Substance Use Disorder (SUD) is frequently characterized by persistent sleep disturbances that hinder cognitive recovery. Accurately identifying these disruptions requires methods capable of tracking both spatial interactions and the temporal evolution of brain activity. While functional magnetic resonance imaging (fMRI) provides offer valuable insights into broad neural patterns, conventional fMRI classification methods typically rely on static connectivity and predefined knowledge. These conventional approaches fail to account for the complex, time-varying nature of brain networks, thereby posing significant challenges for accurate fMRI classification. To overcome these limitations, this paper proposed the Dynamic Coarsened Spatio-Temporal Graph Convolutional Network (DC-STGCN), a data-driven framework designed to models the brain as a time-evolving directed graph and extracts highly distinct data features. The framework achieves this by integrating two key components: a dynamic causal learning module that maps evolving connections over time, and a noise-reducing Gaussian mixture model. Experimental results indicate that the proposed approach outperforms existing methods in classifying fMRI data related to addiction-induced sleep disturbances, offering a robust solution for high-dimensional fMRI analysis in clinical neurology.",
+    "authors": [
+      "Shen Jiaqi",
+      "Meng Jiaying",
+      "Zeng Jiusun",
+      "Ye Bo"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42743951/",
+    "pmid": "42743951",
+    "source": "PubMed"
+  },
+  {
+    "title": "EA-DualGAT: An error-aware dual-graph attention framework for Parkinson's disease diagnosis from wearable plantar pressure gait signals.",
+    "summary": "Timely diagnosis of Parkinson's disease (PD) is essential for timely intervention and effective disease management. Wearable sensing technologies provide objective gait measurements and have become a promising, low-cost solution for automated PD diagnosis. However, existing deep learning and graph-based methods primarily focus on individual gait representations or fixed graph structures, often overlooking relationships among gait samples, difficult samples, and adaptive graph refinement during training. To address these limitations, this study proposes EA-DualGAT, an Error-Aware Dual Graph Attention Network (GAT) for PD diagnosis using wearable gait signals. A time-series autoencoder is first employed to extract latent representations from gait cycles acquired by 16 plantar pressure sensors measuring vertical ground reaction force (vGRF). These latent representations are subsequently used as graph node features to construct a gait-cycle similarity graph that captures structural dependencies among gait cycles. The proposed architecture combines several components: a residual multi-head GAT with Jumping Knowledge (JK) aggregation, a dynamically constructed Error Graph processed by a dedicated Error-GAT encoder, an Error Memory Bank (EMB), attention-based feature fusion, and self-distillation using an exponential moving average (EMA) teacher. These components work together to progressively refine difficult samples and improve representation learning. Experimental results demonstrate the effectiveness of the proposed framework, achieving 99.87% accuracy, 99.92% precision, 99.82% recall, and 99.87% F1-score on the test set. These findings indicate that EA-DualGAT provides an accurate and computationally efficient framework for wearable sensor-based PD diagnosis on the evaluated dataset, highlighting its potential for deployment in intelligent clinical decision-support systems and remote healthcare applications.",
+    "authors": [
+      "Rashnu Alireza",
+      "Salimi-Badr Armin"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42743854/",
+    "pmid": "42743854",
+    "source": "PubMed"
+  },
+  {
+    "title": "Real-World Use of Controlled Terminologies, Ontologies, and Vocabularies for Evidence Generation Across a Large International Observational Network: Challenges and Lessons Learned From a Mixed Method Study.",
+    "summary": "Large-scale international real-world evidence generation benefits from terminology harmonization. Despite widespread adoption of standardized vocabularies, their effective use and long-term sustainability at scale remain poorly understood.",
+    "authors": [
+      "Ostropolets Anna",
+      "Korsik Vlad",
+      "Skuhareuskaya Tatsiana",
+      "Zhuk Aleh",
+      "Khitrun Maryia",
+      "Davydov Alexander",
+      "Dymshyts Dmitry",
+      "Reich Christian",
+      "Hripcsak George",
+      "Ryan Patrick"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42743438/",
+    "pmid": "42743438",
+    "source": "PubMed"
+  },
+  {
+    "title": "Cross-Modality Causal-Aware Hierarchical Representation Learning for Domain Generalized Object Detection.",
+    "summary": "Domain Generalized Object Detection (DGOD) addresses the critical challenge of detecting objects across diverse unseen visual domains. Recent advances in vision-language models (VLMs) have shown promising zero-shot generalization capabilities that benefit DGOD. However, existing VLM-based DGOD methods primarily leverage VLMs for data augmentation, overlooking the rich generalizable knowledge it contains. Besides, VLM-based methods developed for other domain generalization (DG) tasks suffer from modality gap and representation bias due to their correlation-driven cross-modal interaction paradigms, which severely limit the performance to DGOD. To bridge this research gap and advance the causal-driven VLM-based DG, we develop a Causal-aware Hierarchical Representation Graph that reformulates the VLM-based DG problem into a hierarchical causal representation learning framework. Our framework incorporates a Generalizable Knowledge Transfer module to refine and inherit transferable scene-object features from the VLM's visual encoder, and a Causal Prototype Learning module that employs general text embeddings as causal interventions to guide the construction of a mediator visual causal prototype space, which inherits the generalization and category relational representation ability from text without representation bias. Furthermore, we introduce a Prototypical Cross-attention Classifier that eliminates modality gap by integrating object features with learned causal prototypes for text-free classification, which also directs visual features to approach the mediator causal space, enabling the learning of causal visual features that are invariant to domain-specific confounders. Our causal-driven framework transfers causal invariance from text to visual modality and provides a vision-friendly perspective for leveraging VLMs to solve vision-centric tasks. Extensive experiments on five benchmarks including Diverse Weather, Corruption, Real-to-Artistic, Cross Camera and Sim-to-Real demonstrate that our method achieves superior generalization performance.",
+    "authors": [
+      "Liu Yajing",
+      "Liu Zhiyuan",
+      "Liu Xiyao",
+      "Fan Baojie",
+      "Tian Jiandong"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42743023/",
+    "pmid": "42743023",
+    "source": "PubMed"
+  },
+  {
+    "title": "SSMGCN: Multi-View Graph Clustering with Shared-Specific Information Modelling for Spatially Resolved Transcriptomics.",
+    "summary": "The rapid development of Spatial Transcriptomics (ST) enables simultaneous acquisition of gene expression and spatial locations, offering new avenues to explore tissue organization. However, effectively integrating spatial and transcriptional information for spatial domain identification remains challenging in existing methods. Specifically, most existing methods construct graphs using a single spatial similarity metric, making results sensitive to metric choice. Even methods that build dual graphs from spatial and expression views often fail to disentangle shared and view specific information systematically, which limits their robustness in complex biological contexts. To this end, a novel Shared-Specific Multi-view Graph Convolutional Network (SSMGCN) is proposed. SSMGCN first constructs spatial and gene-expression graphs. Subsequently, to fully exploit the shared and specific information between the two types of graphs, a shared-specific information decoupling autoencoder framework is proposed based on the graph convolutional network. In this framework, we first employ a shared encoder and view specific encoders to capture common and unique knowledge across views. In the decoding phase, a zero-inflated negative binomial (ZINB) decoder is applied to the expression data to model zero inflation and over-dispersion, while two structure decoders are assigned to the spatial and expression graphs to simultaneously reconstruct their adjacency relationships in the latent space, thereby preserving local topological continuity and long-range functional connectivity. Finally, a Student's t-distribution-based clustering is adopted in the embedding space, which leverages soft assignments and KL divergence-based self-training to enhance intra-cluster compactness and inter-cluster separation, thereby yielding discriminative representations for spatial domain partition. Extensive experiments on diverse ST datasets demonstrate that SSMGCN consistently outperforms existing methods in spatial domain identification. Moreover, its unified embedding supports downstream tasks such as cell-type annotation, spatial localization, and functional analysis, providing a robust foundation for mechanistic exploration. The code and dataset of this study are available at https://github.com/ddddoreen/SSMGCN.",
+    "authors": [
+      "Zhang Wei",
+      "Dong Danyang",
+      "Zhang Bangyi",
+      "Zhang Ziqi",
+      "Zhou Jun",
+      "Zuo Yun",
+      "Deng Zhaohong",
+      "Ding Weiping",
+      "Pan Xiaoyong",
+      "Liu Jian"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42743021/",
+    "pmid": "42743021",
+    "source": "PubMed"
+  },
+  {
+    "title": "Transcriptomic and network analyses identify epigenetic regulators of drug-tolerant persister (DTP) subsets in EGFR-mutant HCC827 non-small cell lung cancer.",
+    "summary": "The clinical efficacy of osimertinib, a third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI), in EGFR-mutant non-small cell lung cancer (NSCLC) is limited by the inevitable acquired resistance. Drug-tolerant persister (DTP) cells, which survive initial therapy, are considered a key reservoir for this resistance. Understanding the molecular characteristics of DTPs is essential for developing strategies to prevent relapse.",
+    "authors": [
+      "Han JuneKyu",
+      "Jung Euitaek",
+      "Shin Soon Young"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42742903/",
+    "pmid": "42742903",
+    "source": "PubMed"
+  },
+  {
+    "title": "Evolution of maize recombination landscape during domestication.",
+    "summary": "Despite the plethora of knowledge about the benefits of meiotic recombination and numerous theoretical studies examining how recombination rates evolve, there is a general lack of empirical support and consensus across species. To fill this knowledge gap, we characterized the evolution of recombination landscape in maize during its domestication from teosinte and related the observed changes to established theoretical frameworks. Through examining recombination in experimental populations of maize and teosinte and the population genomics approach of identifying historical recombination events using ancestral recombination graph inference to generate saturated maize and teosinte recombination maps, we found that during domestication, maize experienced a 12% increase in its genome-wide recombination rate. Furthermore, maize evolved higher recombination rates on the long arms of chromosomes in regions closer to centromeres, where recombination is generally very low. The repatterning of crossover events came from changes in global crossover positioning rather than alterations in cis-acting chromatin factors. Consequently, we found evidence of selection acting on trans-acting recombination modifiers affecting crossover interference and controlling the interference-dependent class I crossover pathway. We show that CO repatterning was likely beneficial for maize fitness, as significant recombination rate increases were predominantly in gene-rich regions, which harbor domestication-related variation. This work suggests genomic and mechanistic processes leading to the evolution of meiotic recombination landscape in response to directional selection pressure and provides evidence for the evolutionary advantage of recombination.",
+    "authors": [
+      "Epstein Ruth",
+      "Wheeler J J",
+      "Hubisz Melissa J",
+      "Zhai Jingjing",
+      "Lai Wei-Yun",
+      "Fairbanks Regina A",
+      "Sun Qi",
+      "Buckler Edward S",
+      "Pawlowski Wojciech P"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709783/",
+    "pmid": "42709783",
+    "source": "PubMed"
+  },
+  {
+    "title": "Differential Transcriptomic and Adhesion Responses of Human Periodontal Ligament Cells to Cyclic and Static Hydrostatic Pressure.",
+    "summary": "Periodontal ligament (PDL) cells are continuously exposed to in vivo dynamic mechanical forces; however, how distinct temporal patterns of hydrostatic pressure (HP) regulate their mechanobiological responses remains unclear. This study aimed to elucidate how static and cyclic HP differentially regulate mechanotransduction in human PDL cells. Human PDL cells were exposed to static or cyclic HP using a custom-designed stimulation system. Global transcriptional responses were analyzed using RNA sequencing, followed by gene ontology and Kyoto Encyclopedia of Genes and Genomes pathway enrichment analyses. Focal adhesion (FA) and signaling were further examined using immunofluorescence, protein expression analysis, and targeted gene knockdown. Cyclic HP induced substantially broader transcriptional remodeling than static HP, with 2665 upregulated and 2749 downregulated genes. Enrichment analyses consistently identified the FA and cytoskeletal pathways as the principal mechanosensitive networks. Cyclic HP selectively upregulated FA-associated genes, including integrin-linked kinase (ILK), paxillin (PXN), tensin 1 (TNS1), four-and-a-half LIM domains 3 (FHL3), and YWHAZ, while downregulating integrin subunit-encoding genes, ITGA4 and ITGB8, indicating the remodeling of adhesion composition. Consistently, cyclic HP increased FA count, ILK expression, and Akt phosphorylation than static HP. ILK silencing significantly attenuated HP-induced Akt activation and FA formation. These results suggest that cyclic HP is associated with enhanced ILK-related Akt signaling and alterations in FA architecture in PDL cells, temporally distinct mechanotransductive response. This study provides molecular insight into how dynamic mechanical loading may influence periodontal tissue adaptation and remodeling.",
+    "authors": [
+      "Miyano Takashi",
+      "Kaku Masaru",
+      "Sera Toshihiro"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42663992/",
+    "pmid": "42663992",
+    "source": "PubMed"
+  },
+  {
+    "title": "Regulation of oestrogen signalling by the receptor tyrosine kinase cKIT stabilises Barrett's oesophagus pre-malignant state.",
+    "summary": "The pre-malignant precursor to oesophageal adenocarcinoma (OAC), Barrett's oesophagus (BO), is prevalent in 10-15% of patients with chronic gastroesophageal acid reflux. However, in most cases, the BO condition is stable to cancer promotion; i.e. less than 1% of patients develop OAC. Here, we investigate whether there are factors that can act to prevent BO patients from developing OAC. The receptor tyrosine kinase, cKIT, is expressed in Barrett's tissue, but sparingly so in either normal or OAC tissue. To investigate whether cKIT influences cellular function that might be consistent with sustaining BO, we knocked out the KIT gene. Gene Ontology analysis revealed that cells deleted for cKIT showed differentially expressed genes (DEGs) affecting functions associated with intercellular interactions and tight junction formation. Further analysis of DEGs showed that the absence of cKIT, as well as treatment with acid and bile salts, affected genes associated with oestrogen signalling. Under these conditions, the tight junction protein Occludin was found to translocate to the nucleus. Thus, the cKIT receptor, through regulating intracellular oestrogen signalling, affects cellular tight junction formation. Reducing cKIT function in BO tissue potentially leads to elevated permeability and exposure of basal and stromal cells to luminal noxious agents which could act as OAC promoters.",
+    "authors": [
+      "Suen Kin Man",
+      "Mohajerani Safoura Zahed",
+      "Tyrer Poppy G",
+      "Clark Henry W",
+      "Jones Christopher M",
+      "Ladbury John E"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42572485/",
+    "pmid": "42572485",
+    "source": "PubMed"
+  },
+  {
+    "title": "Protein function-conditioned language models for variant effect prediction and controllable design.",
+    "summary": "Protein function-conditioned generative modeling can unify two core goals in protein engineering: predicting the effects of sequence variants and designing new sequences that satisfy functional constraints. We present a framework that conditions protein language modeling on molecular function semantics encoded from the Gene Ontology (GO) as a text-attributed directed acyclic graph. By embedding GO text and ontology topology, our function embedding captures relationships among functions and supports cross-function transfer. Function-conditioned meta-pretraining across diverse protein families further enables cross-family transfer before family-specific fine-tuning. Using these GO embeddings as conditioning context, we develop Func2Seq, a transformer-based autoregressive model of P(seq|func) that supports likelihood-based variant effect scoring and controllable sequence sampling. We further introduce Func2Prot, a joint sequence-structure extension that models P(seq, str|func) and enables direct backbone generation via a backbone-angle decoder. On a standard family-specific variant effect prediction benchmark, Func2Seq improves predictive performance over strong alignment-free and alignment-based baselines, and ablations show consistent gains from meta-pretraining when paired with family adaptation. A factor analysis indicates the largest improvements for small or low-diversity families. We also include enzyme fitness case studies to probe when joint sequence-structure modeling helps. For controllable design, we focus on the AT-rich interaction domain and show functional site-level constraint preservation while exploring globally novel sequence space, emphasizing function-critical binding regions and structural plausibility under appropriate evaluation pipelines.",
+    "authors": [
+      "Zhu Shaowen",
+      "Cao Yue",
+      "Yang Yihong",
+      "Shen Yang"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42136025/",
+    "pmid": "42136025",
+    "source": "PubMed"
+  },
+  {
+    "title": "SENET-AOP: A computational framework model for prioritizing antioxidant protein targets in drug discovery.",
+    "summary": "Oxidative stress is closely associated with aging and a wide range of major diseases, including cancers, neurodegenerative disorders, and inflammatory conditions. Antioxidant proteins therefore constitute important functional biomolecules and potential therapeutic targets in drug discovery. Accurate and efficient identification of antioxidant proteins is thus of relevance for biomedical research and early-stage target exploration. To address the limitations of existing computational approaches, such as restricted dataset size, limited generalization ability, and simplistic feature representations, we constructed a high-quality benchmark dataset comprising 1144 antioxidant proteins and 2959 non-antioxidant proteins. On this basis, we propose SENET-AOP, an attention-based deep learning framework for antioxidant protein classification and target prioritization. The model integrates complementary semantic representations derived from two protein language models, ESM-2 and ProtT5, and adopts a dual-branch CNN-SENet architecture to capture local sequence patterns and global physicochemical properties, while adaptively recalibrating channel-wise feature importance. Experimental results demonstrate that SENET-AOP achieves an accuracy of 0.9360, a Matthews correlation coefficient of 0.8376, and an AUROC of 0.9721 under five-fold cross-validation. On the independent test set, the model attains an accuracy of 0.9367 and an AUROC of 0.9795, consistently outperforming other methods. Moreover, the proposed framework exhibits favorable interpretability. Collectively, SENET-AOP provides an effective and reliable tool for high-throughput identification and prioritization of antioxidant protein targets, supporting oxidative stress-related diseases research and medicinal chemistry-oriented drug discovery workflows. For user convenience, a freely accessible web server has been developed at: http://www.senetaop.com.cn/.",
+    "authors": [
+      "Chen Shaobin",
+      "Zhu Yuhan",
+      "Liu Jinrun",
+      "Liu Yezi",
+      "He Sisi",
+      "Zhu Xiaolei"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119260/",
+    "pmid": "42119260",
+    "source": "PubMed"
+  },
+  {
+    "title": "ProtLoc-GRPO: Cell line-specific subcellular localization prediction using a graph-based model and reinforcement learning.",
+    "summary": "Subcellular localization prediction is crucial for understanding protein functions and cellular processes. Subcellular localization is dependent on tissue and cell lines derived from different cell types. Predicting cell line-specific subcellular localization using the information of protein-protein interactions (PPIs) offers deeper insights into dynamic cellular organization and molecular mechanisms. However, many existing PPI networks contain systematic errors that limit prediction accuracy. In this study, we propose a reinforcement learning approach, ProtLoc-GRPO, to enhance subcellular localization prediction by optimizing the structure of the underlying PPI network. ProtLoc-GRPO learns to rank and retain the most informative PPI edges to maximize the macro-F1 score for cell line-specific subcellular localization. Our approach yields a 7% improvement in macro-F1 score over the baseline. We further evaluate its robustness across various edge pruning rates and benchmark it against conventional pruning strategies. Results show that our proposed method consistently outperforms existing approaches. To our knowledge, this work represents the first sequence-based study to predict cell line-specific protein subcellular localization and the first application of the Group Relative Policy Optimization (GRPO) framework to a graph-based model for bioinformatics tasks.",
+    "authors": [
+      "Zeng Shuai",
+      "Zhang Weinan",
+      "Li Chaohan",
+      "Jiang Yuexu",
+      "Wang Duolin",
+      "Shao Qing",
+      "Xu Dong"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41645511/",
+    "pmid": "41645511",
+    "source": "PubMed"
+  },
+  {
+    "title": "The CFDE Workbench: Integrating Metadata and Processed Data from Common Fund Programs.",
+    "summary": "The NIH Common Fund Data Ecosystem (CFDE) program was established to facilitate data accessibility and interoperability across multiple Common Fund (CF) programs, promote collaborations and accelerate discoveries by combining diverse data types from different CF programs. The CFDE Data Resource Center (DRC) was tasked with developing two web-based portals: an Information Portal to serve information about the CFDE, and a Data Portal to host harmonized metadata and processed data contributed by participating CF Data Coordination Centers (DCCs) and other sources. To achieve these goals, the CFDE DRC developed the CFDE Workbench, a web-based platform that hosts processed data, metadata, tools, use cases, and analyses developed by the CFDE. The Cross-Cut Metadata Model (C2M2) and several other processed data are hosted by the CFDE Workbench, including set libraries (XMTs), Knowledge Graph (KG) assertions, and attribute tables. These processed data formats make information derived from CF programs more findable, accessible, interoperable, and reusable (FAIR), and artificial intelligence (AI)-ready for cross-DCC knowledge discovery. Besides serving data, metadata, and code assets, the CFDE Workbench has also developed several tools that utilize these resources to enable cross-CF-program knowledge discovery use cases. Overall, the CFDE Workbench is a platform that consolidates efforts toward making CF resources harmonized, FAIR, and AI-ready. The CFDE Workbench website is available from https://cfde.cloud.",
+    "authors": [
+      "Evangelista John Erol",
+      "Clarke Daniel J B",
+      "Byrd Anna I",
+      "Srinivasan Shivaramakrishna",
+      "Srinivasan Sumana",
+      "Maurya Mano R",
+      "Jenkins Sherry L",
+      "Diamant Ido",
+      "Sanchez Ethan",
+      "Xie Zhuorui",
+      "Olaiya Stephanie",
+      "Kim Heesu",
+      "Marino Giacomo B",
+      "Ahmed Nasheath",
+      "Ramachandran Srinivasan",
+      "Subramaniam Shankar",
+      "Ma'ayan Avi"
+    ],
+    "published": "2026 Sep 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41506317/",
+    "pmid": "41506317",
+    "source": "PubMed"
+  }
+]

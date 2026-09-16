@@ -1,0 +1,147 @@
+Ontology 文献追踪报告 - 2026-09-15
+==================================================
+
+共发现 23 篇新论文
+
+--- arXiv (6 篇) ------------------------------
+
+1. Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models
+   作者: Marco Luca Sbodio, Marcos Martínez Galindo, Vanessa Lopez, Blanca Biel, Pablo Canca 等 9 人
+   链接: http://arxiv.org/abs/2609.17291v1
+   PDF: https://arxiv.org/pdf/2609.17291v1
+   摘要: The quest for new materials increasingly relies on predictive models and comprehensive simulations that span scales from atomic to macroscopic levels. However, essential data necessary for these models and simulations are often embedded in scientific literature as unstructured text, limiting reusability and posing challenges for researchers seeking to leverage existing knowledge effectively. While extracting structured data from unstructured text using large language models is gaining popularity...
+
+2. Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics
+   作者: Baibek Davletiyarov, Junaid Ahmed Khan, Andrea Bartolini
+   链接: http://arxiv.org/abs/2609.17107v1
+   PDF: https://arxiv.org/pdf/2609.17107v1
+   摘要: Generative AI promises natural language access to the massive numerical telemetry of data centers and Industry 4.0 installations, yet text-to-query and tool-using agents stay unreliable: even frontier models answer little more than half of real-world database questions, and far fewer of the multi-step, operational ones, because the LLM must compose how heterogeneous sources relate and hallucinates the relations, not just the fields. We propose symbolic separation: a deep agent reasons freely but...
+
+3. Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior
+   作者: Farnaz Soleimani, Abdelghani Chibani, Yacine Amirat, Ghazaleh Khodabandelou
+   链接: http://arxiv.org/abs/2609.17064v1
+   PDF: https://arxiv.org/pdf/2609.17064v1
+   摘要: Assistive autonomous systems must anticipate human goals before an observed behavior is complete. This article formulates anticipation as goal inference from a partially observed multimodal episode together with structured prediction of the remaining behavior, rather than exact motor forecasting. A compact Hierarchical Planning Decoder (HPD) is attached to a frozen neuro-symbolic recognition encoder and predicts, at four ontological levels, the next actions, the remaining activities and low-leve...
+
+4. NeuroSymbEAD: A Large Scale Neuro-Symbolic Caption Dataset for Omni-Directional Embodied Autonomous Driving
+   作者: Muhammad Ahmed Ullah Khan, Mohammed Elamine, Sheikh Talha Uddin, Didier Stricker, Sk Aziz Ali 等 6 人
+   链接: http://arxiv.org/abs/2609.16919v1
+   PDF: https://arxiv.org/pdf/2609.16919v1
+   摘要: This paper introduces NeuroSymbEAD, a large-scale neuro-symbolic caption dataset featuring an ego-centric knowledge graph (KG) of static and dynamic objects annotated with classes, categories, heading directions, orientations, and distances from the ego-vehicle. These annotations are used on the KITTI-360 dataset to generate multilevel textual captions representing a lightweight version of an ego-centric scene map. Outdoor scene-map reconstruction, visual recognition, and object grounding establ...
+
+5. PunGraph: Retrieval-Enhanced Phonetic-Semantic Graph Reasoning for Pun Understanding
+   作者: Yuchen Su, Zijian Huang, Yaotian Shi, Shaoxin Zhong, Ruofan Wang 等 9 人
+   链接: http://arxiv.org/abs/2609.16557v1
+   PDF: https://arxiv.org/pdf/2609.16557v1
+   摘要: Puns are a challenging form of figurative language that exploit phonetic similarity and semantic ambiguity to convey multiple meanings. Although large language models (LLMs) demonstrate strong language understanding capabilities, they still struggle with pun reasoning due to limited phonetic modeling and uncontrolled end-to-end generation. We propose \textbf{PunGraph}, a retrieval-enhanced knowledge graph framework for pun understanding. PunGraph constructs a phonetic-semantic lexical graph usin...
+
+6. Geospatial Metadata Improves Discoverability by Connecting Datasets Across Scientific Disciplines
+   作者: Daniel Ebanks, Devika Jain
+   链接: http://arxiv.org/abs/2609.16498v1
+   PDF: https://arxiv.org/pdf/2609.16498v1
+   摘要: Research data repositories are essential infrastructure for scientific inquiry and for ensuring that datasets follow FAIR (Findable, Accessible, Interoperable, and Reusable) principles. However, repository reuse depends on the quality and completeness of geospatial and thematic metadata, which researchers generally provide voluntarily. Given limited curation resources, it is unsurprising that even Harvard Dataverse, the world's largest general-purpose research repository, contains many incomplet...
+
+--- PubMed (17 篇) ------------------------------
+
+1. Constructing Legal Knowledge Graphs and Tracing Bias in Medical Artificial Intelligence Based on Graph Neural Networks.
+   作者: Yu Jun
+   链接: https://pubmed.ncbi.nlm.nih.gov/42747072/
+   PMID: 42747072
+   摘要: In medical artificial intelligence (AI) legal compliance analysis, this paper addresses the ambiguity in liability determination caused by the semantic fragmentation of multi-source heterogeneous legal texts and difficulties in tracing algorithmic biases. It constructs a knowledge graph construction and bias propagation path detection method based on graph neural networks. Four types of heterogeneous nodes-legal clauses, medical behaviors, algorithm modules, and responsible parties-are structure...
+
+2. Protein Arginine Methylation of the Translation Initiation Factor eIF1A Increases Usage of a Near-cognate Start Codon.
+   作者: Wegman Rebecca, Langberg Michael, Deng Haiteng, Chen Yuling, Davis Richoo B 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42744250/
+   PMID: 42744250
+   摘要: Protein arginine methylation has emerged as a key post-translational modification responsible for many facets of eukaryotic gene expression. To better understand the extent of this modification in cellular pathways, we carried out bioorthogonal methylation profiling in Saccharomyces cerevisiae to comprehensively identify the in vivo substrates of the major yeast protein arginine methyltransferase Hmt1. Gene ontology analysis of candidate substrates revealed an enrichment of proteins involved in ...
+
+3. Effects of TRAF6 Knockout on Transcriptomic and Alternative Splicing Responses to VHSV Genotype II Infection.
+   作者: Abdellaoui Najib, Kim Seon Young, Kim Hyoung Jun, Kim Min Sun
+   链接: https://pubmed.ncbi.nlm.nih.gov/42744106/
+   PMID: 42744106
+   摘要: Viral hemorrhagic septicemia virus genotype II is generally considered less virulent than other genotypes. However, the molecular mechanisms underlying viral infection and its impact on host gene expression are poorly understood. The tumor necrosis factor receptor-associated factor 6 (TRAF6) is a pivotal molecule that is involved in different processes and plays an important role in the immune response during viral infection in fish. In this work, we investigated the effect of viral infection wi...
+
+4. Unifying temporal knowledge Graph and LLMs for Biomedical Hypothesis generation via temporal soft Prompting.
+   作者: Wang Lanlan, Zhou Huiwei, Gu Jinghang, Zeng Hongyun, Zhou Hao 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42744066/
+   PMID: 42744066
+   摘要: Biomedical Hypothesis Generation (HG) is a critical task for discovering latent yet scientifically meaningful associations from continuously evolving literature or knowledge bases, aiding in disease diagnosis and treatment decisions-making. Most existing studies model Temporal Knowledge Graphs (TKGs) for capturing dynamic relation evolution based on temporal explicit and structured knowledge. However, TKG based methods are hard to generate new facts and represent unseen knowledge since the inher...
+
+5. Dynamic coarsened spatio-temporal graph convolutional networks for fMRI classification of addiction-induced sleep disorders.
+   作者: Shen Jiaqi, Meng Jiaying, Zeng Jiusun, Ye Bo
+   链接: https://pubmed.ncbi.nlm.nih.gov/42743951/
+   PMID: 42743951
+   摘要: Substance Use Disorder (SUD) is frequently characterized by persistent sleep disturbances that hinder cognitive recovery. Accurately identifying these disruptions requires methods capable of tracking both spatial interactions and the temporal evolution of brain activity. While functional magnetic resonance imaging (fMRI) provides offer valuable insights into broad neural patterns, conventional fMRI classification methods typically rely on static connectivity and predefined knowledge. These conve...
+
+6. EA-DualGAT: An error-aware dual-graph attention framework for Parkinson's disease diagnosis from wearable plantar pressure gait signals.
+   作者: Rashnu Alireza, Salimi-Badr Armin
+   链接: https://pubmed.ncbi.nlm.nih.gov/42743854/
+   PMID: 42743854
+   摘要: Timely diagnosis of Parkinson's disease (PD) is essential for timely intervention and effective disease management. Wearable sensing technologies provide objective gait measurements and have become a promising, low-cost solution for automated PD diagnosis. However, existing deep learning and graph-based methods primarily focus on individual gait representations or fixed graph structures, often overlooking relationships among gait samples, difficult samples, and adaptive graph refinement during t...
+
+7. Real-World Use of Controlled Terminologies, Ontologies, and Vocabularies for Evidence Generation Across a Large International Observational Network: Challenges and Lessons Learned From a Mixed Method Study.
+   作者: Ostropolets Anna, Korsik Vlad, Skuhareuskaya Tatsiana, Zhuk Aleh, Khitrun Maryia 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42743438/
+   PMID: 42743438
+   摘要: Large-scale international real-world evidence generation benefits from terminology harmonization. Despite widespread adoption of standardized vocabularies, their effective use and long-term sustainability at scale remain poorly understood....
+
+8. Cross-Modality Causal-Aware Hierarchical Representation Learning for Domain Generalized Object Detection.
+   作者: Liu Yajing, Liu Zhiyuan, Liu Xiyao, Fan Baojie, Tian Jiandong
+   链接: https://pubmed.ncbi.nlm.nih.gov/42743023/
+   PMID: 42743023
+   摘要: Domain Generalized Object Detection (DGOD) addresses the critical challenge of detecting objects across diverse unseen visual domains. Recent advances in vision-language models (VLMs) have shown promising zero-shot generalization capabilities that benefit DGOD. However, existing VLM-based DGOD methods primarily leverage VLMs for data augmentation, overlooking the rich generalizable knowledge it contains. Besides, VLM-based methods developed for other domain generalization (DG) tasks suffer from ...
+
+9. SSMGCN: Multi-View Graph Clustering with Shared-Specific Information Modelling for Spatially Resolved Transcriptomics.
+   作者: Zhang Wei, Dong Danyang, Zhang Bangyi, Zhang Ziqi, Zhou Jun 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42743021/
+   PMID: 42743021
+   摘要: The rapid development of Spatial Transcriptomics (ST) enables simultaneous acquisition of gene expression and spatial locations, offering new avenues to explore tissue organization. However, effectively integrating spatial and transcriptional information for spatial domain identification remains challenging in existing methods. Specifically, most existing methods construct graphs using a single spatial similarity metric, making results sensitive to metric choice. Even methods that build dual gra...
+
+10. Transcriptomic and network analyses identify epigenetic regulators of drug-tolerant persister (DTP) subsets in EGFR-mutant HCC827 non-small cell lung cancer.
+   作者: Han JuneKyu, Jung Euitaek, Shin Soon Young
+   链接: https://pubmed.ncbi.nlm.nih.gov/42742903/
+   PMID: 42742903
+   摘要: The clinical efficacy of osimertinib, a third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI), in EGFR-mutant non-small cell lung cancer (NSCLC) is limited by the inevitable acquired resistance. Drug-tolerant persister (DTP) cells, which survive initial therapy, are considered a key reservoir for this resistance. Understanding the molecular characteristics of DTPs is essential for developing strategies to prevent relapse....
+
+11. Evolution of maize recombination landscape during domestication.
+   作者: Epstein Ruth, Wheeler J J, Hubisz Melissa J, Zhai Jingjing, Lai Wei-Yun 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42709783/
+   PMID: 42709783
+   摘要: Despite the plethora of knowledge about the benefits of meiotic recombination and numerous theoretical studies examining how recombination rates evolve, there is a general lack of empirical support and consensus across species. To fill this knowledge gap, we characterized the evolution of recombination landscape in maize during its domestication from teosinte and related the observed changes to established theoretical frameworks. Through examining recombination in experimental populations of mai...
+
+12. Differential Transcriptomic and Adhesion Responses of Human Periodontal Ligament Cells to Cyclic and Static Hydrostatic Pressure.
+   作者: Miyano Takashi, Kaku Masaru, Sera Toshihiro
+   链接: https://pubmed.ncbi.nlm.nih.gov/42663992/
+   PMID: 42663992
+   摘要: Periodontal ligament (PDL) cells are continuously exposed to in vivo dynamic mechanical forces; however, how distinct temporal patterns of hydrostatic pressure (HP) regulate their mechanobiological responses remains unclear. This study aimed to elucidate how static and cyclic HP differentially regulate mechanotransduction in human PDL cells. Human PDL cells were exposed to static or cyclic HP using a custom-designed stimulation system. Global transcriptional responses were analyzed using RNA seq...
+
+13. Regulation of oestrogen signalling by the receptor tyrosine kinase cKIT stabilises Barrett's oesophagus pre-malignant state.
+   作者: Suen Kin Man, Mohajerani Safoura Zahed, Tyrer Poppy G, Clark Henry W, Jones Christopher M 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42572485/
+   PMID: 42572485
+   摘要: The pre-malignant precursor to oesophageal adenocarcinoma (OAC), Barrett's oesophagus (BO), is prevalent in 10-15% of patients with chronic gastroesophageal acid reflux. However, in most cases, the BO condition is stable to cancer promotion; i.e. less than 1% of patients develop OAC. Here, we investigate whether there are factors that can act to prevent BO patients from developing OAC. The receptor tyrosine kinase, cKIT, is expressed in Barrett's tissue, but sparingly so in either normal or OAC ...
+
+14. Protein function-conditioned language models for variant effect prediction and controllable design.
+   作者: Zhu Shaowen, Cao Yue, Yang Yihong, Shen Yang
+   链接: https://pubmed.ncbi.nlm.nih.gov/42136025/
+   PMID: 42136025
+   摘要: Protein function-conditioned generative modeling can unify two core goals in protein engineering: predicting the effects of sequence variants and designing new sequences that satisfy functional constraints. We present a framework that conditions protein language modeling on molecular function semantics encoded from the Gene Ontology (GO) as a text-attributed directed acyclic graph. By embedding GO text and ontology topology, our function embedding captures relationships among functions and suppo...
+
+15. SENET-AOP: A computational framework model for prioritizing antioxidant protein targets in drug discovery.
+   作者: Chen Shaobin, Zhu Yuhan, Liu Jinrun, Liu Yezi, He Sisi 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42119260/
+   PMID: 42119260
+   摘要: Oxidative stress is closely associated with aging and a wide range of major diseases, including cancers, neurodegenerative disorders, and inflammatory conditions. Antioxidant proteins therefore constitute important functional biomolecules and potential therapeutic targets in drug discovery. Accurate and efficient identification of antioxidant proteins is thus of relevance for biomedical research and early-stage target exploration. To address the limitations of existing computational approaches, ...
+
+16. ProtLoc-GRPO: Cell line-specific subcellular localization prediction using a graph-based model and reinforcement learning.
+   作者: Zeng Shuai, Zhang Weinan, Li Chaohan, Jiang Yuexu, Wang Duolin 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/41645511/
+   PMID: 41645511
+   摘要: Subcellular localization prediction is crucial for understanding protein functions and cellular processes. Subcellular localization is dependent on tissue and cell lines derived from different cell types. Predicting cell line-specific subcellular localization using the information of protein-protein interactions (PPIs) offers deeper insights into dynamic cellular organization and molecular mechanisms. However, many existing PPI networks contain systematic errors that limit prediction accuracy. I...
+
+17. The CFDE Workbench: Integrating Metadata and Processed Data from Common Fund Programs.
+   作者: Evangelista John Erol, Clarke Daniel J B, Byrd Anna I, Srinivasan Shivaramakrishna, Srinivasan Sumana 等 17 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/41506317/
+   PMID: 41506317
+   摘要: The NIH Common Fund Data Ecosystem (CFDE) program was established to facilitate data accessibility and interoperability across multiple Common Fund (CF) programs, promote collaborations and accelerate discoveries by combining diverse data types from different CF programs. The CFDE Data Resource Center (DRC) was tasked with developing two web-based portals: an Information Portal to serve information about the CFDE, and a Data Portal to host harmonized metadata and processed data contributed by pa...
+
