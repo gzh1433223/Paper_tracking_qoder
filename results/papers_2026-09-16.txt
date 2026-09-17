@@ -1,0 +1,43 @@
+Ontology 文献追踪报告 - 2026-09-16
+==================================================
+
+共发现 6 篇新论文
+
+--- arXiv (6 篇) ------------------------------
+
+1. PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning
+   作者: Yu Liu, Zeming Liu, Tianle Zhang, Zihao Cheng, Yuhang Guo 等 9 人
+   链接: http://arxiv.org/abs/2609.18861v1
+   PDF: https://arxiv.org/pdf/2609.18861v1
+   摘要: Adaptive learning systems commonly formulate learning path planning as Exercise-Centric (EC) recommendation, where the next step is inferred from item-level interaction logs. Evaluating goal-oriented guidance additionally requires explicit learner goals and curriculum-scale prerequisites: learners with similar exercise records may need different paths toward their targets. We therefore study Knowledge-Centric (KC) personalized learning path planning, where a planner must reason over learner prof...
+
+2. Hyperbolic Graph Representation Learning for Differential Diagnosis on Biomedical Knowledge Graphs
+   作者: Pietro Miotto, Lucia Mellini, Tommaso Marzi, Cesare Alippi, Elena Casiraghi 等 8 人
+   链接: http://arxiv.org/abs/2609.18481v1
+   PDF: https://arxiv.org/pdf/2609.18481v1
+   摘要: Biomedical knowledge graphs combine ontology-derived hierarchies with transversal associations among heterogeneous entities such as phenotypes, diseases, genes, proteins, and patients. This hybrid structure raises the question of whether hyperbolic embeddings, which naturally capture tree-like organization, remain useful beyond purely hierarchical graphs. We present a preliminary study of hyperbolic graph representation learning for Mendelian-disease differential diagnosis on a patient-integrate...
+
+3. Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering
+   作者: Pablo Poulenard, Yannis Karmim, Valentin Barrière
+   链接: http://arxiv.org/abs/2609.18317v1
+   PDF: https://arxiv.org/pdf/2609.18317v1
+   摘要: Large language models (LLMs) suffer from a long-tail deficit: culturally specific facts, particularly those concerning underrepresented regions such as Latin America, appear too rarely in pretraining corpora to be reliably memorized. Retrieval-Augmented Generation (RAG) addresses this by grounding generation in external text, but structured alternatives such as Knowledge Graphs (KGs) offer tighter control over what enters the context, along with potential gains in explainability and updatability...
+
+4. Linking Speakers of the German Parliament to Wikidata: Scope and Coverage of Metadata
+   作者: Thomas Haider, Arne Cypionka, Maximilian Teich
+   链接: http://arxiv.org/abs/2609.18289v1
+   PDF: https://arxiv.org/pdf/2609.18289v1
+   摘要: This paper links all individuals who spoke in the German Bundestag between 1949 and 2021 to Wikidata, creating a longitudinal dataset that connects parliamentary speech transcripts with structured biographical metadata. We evaluate the coverage, composition, and potential biases of the retrieved properties and statements, with particular attention to gender, professional background, historical legacies, and transnational dimensions such as place of birth, languages, and foreign awards. The resul...
+
+5. Too Good to Be Real? Diagnosing and Reducing the Gap Between AI Preference and Real User Engagement
+   作者: Xinglang Zhang, Yuanmeng Xiang, Yunyao Zhang, Zeliang Chen, Junqing Yu 等 6 人
+   链接: http://arxiv.org/abs/2609.18282v1
+   PDF: https://arxiv.org/pdf/2609.18282v1
+   摘要: Large language models are increasingly used to generate and evaluate online content, yet it remains unclear whether the qualities they associate with higher engagement match what real users respond to. We study this question using 1.17 million answers to 25,978 questions from Zhihu, Quora, and Reddit, comparing real platform answers and AI-generated answers across four within-question engagement levels. We introduce Ontological Preference Measurement, which represents answers along three dimensi...
+
+6. Quanta: A Self-Contained Python Library for Hybrid Retrieval over Quantised Embeddings, Lexical Indexes, and Knowledge Graphs
+   作者: Ioannis E. Livieris
+   链接: http://arxiv.org/abs/2609.18248v1
+   PDF: https://arxiv.org/pdf/2609.18248v1
+   摘要: An advanced retrieval-augmented generation pipeline is typically assembled from three or four independently operated systems: an approximate nearest-neighbour index, a full-text search engine, a graph database, and a relational document store. Each contributes its own deployment surface, configuration model, and failure modes, and the integration logic that binds them is written anew in every project. In this work, we present \textsc{Quanta}, an open-source Python library, which unifies dense ve...
+

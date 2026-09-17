@@ -1,0 +1,92 @@
+[
+  {
+    "title": "PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning",
+    "summary": "Adaptive learning systems commonly formulate learning path planning as Exercise-Centric (EC) recommendation, where the next step is inferred from item-level interaction logs. Evaluating goal-oriented guidance additionally requires explicit learner goals and curriculum-scale prerequisites: learners with similar exercise records may need different paths toward their targets. We therefore study Knowledge-Centric (KC) personalized learning path planning, where a planner must reason over learner profiles, mastery states, and prerequisite knowledge structures to decide which textbook, unit, and concept should be studied next. To support this setting, we introduce PersonaPath, a benchmark that pairs 2,000 fine-grained learner personas with a hierarchical knowledge graph of 347 textbooks, 1,751 units, and 4,092 concepts across 77 subjects. We evaluate representative LLMs on PersonaPath. Results show that even the strongest LLM reaches only a 29.5% final pass rate in Basic Education, and that the main bottleneck lies in adaptivity, where no model exceeds 44.7% in tailoring paths to individual learners.",
+    "authors": [
+      "Yu Liu",
+      "Zeming Liu",
+      "Tianle Zhang",
+      "Zihao Cheng",
+      "Yuhang Guo",
+      "Kehai Chen",
+      "Min Zhang",
+      "Yunhong Wang",
+      "Haifeng Wang"
+    ],
+    "published": "2026-09-16T16:00:46Z",
+    "url": "http://arxiv.org/abs/2609.18861v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.18861v1"
+  },
+  {
+    "title": "Hyperbolic Graph Representation Learning for Differential Diagnosis on Biomedical Knowledge Graphs",
+    "summary": "Biomedical knowledge graphs combine ontology-derived hierarchies with transversal associations among heterogeneous entities such as phenotypes, diseases, genes, proteins, and patients. This hybrid structure raises the question of whether hyperbolic embeddings, which naturally capture tree-like organization, remain useful beyond purely hierarchical graphs. We present a preliminary study of hyperbolic graph representation learning for Mendelian-disease differential diagnosis on a patient-integrated biomedical graph. Experiments on isolated ontology subgraphs show that hyperbolic models achieve strong performance in substantially lower dimensions than Euclidean baselines. We then evaluate the models on a link-prediction task that ranks candidate diseases for each patient. Results suggest that hyperbolic embeddings can exploit biomedical hierarchical structure while supporting diagnostic reasoning over heterogeneous patient-level graphs.",
+    "authors": [
+      "Pietro Miotto",
+      "Lucia Mellini",
+      "Tommaso Marzi",
+      "Cesare Alippi",
+      "Elena Casiraghi",
+      "Alberto Paccanaro",
+      "Giorgio Valentini",
+      "Mauricio Soto-Gomez"
+    ],
+    "published": "2026-09-16T11:11:46Z",
+    "url": "http://arxiv.org/abs/2609.18481v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.18481v1"
+  },
+  {
+    "title": "Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering",
+    "summary": "Large language models (LLMs) suffer from a long-tail deficit: culturally specific facts, particularly those concerning underrepresented regions such as Latin America, appear too rarely in pretraining corpora to be reliably memorized. Retrieval-Augmented Generation (RAG) addresses this by grounding generation in external text, but structured alternatives such as Knowledge Graphs (KGs) offer tighter control over what enters the context, along with potential gains in explainability and updatability. We benchmark Graph-RAG against standard RAG on LatamQA, a culturally grounded multiple-choice dataset spanning eight thematic categories. The graphs are built end-to-end from Wikipedia articles with KGGen, a recent open-domain extractor, without manual curation in our main setting. G-Retriever is competitive with RAG and reduces the error of the base LLM by 72\\% with a standard KG and 78\\% with a benchmark-aware variant, the gap to RAG narrowing further as the graph is oriented toward task-relevant content. The trained projection transfers zero-shot to Portuguese without target-language fine-tuning, indicating multilingual reach.",
+    "authors": [
+      "Pablo Poulenard",
+      "Yannis Karmim",
+      "Valentin Barrière"
+    ],
+    "published": "2026-09-16T08:36:30Z",
+    "url": "http://arxiv.org/abs/2609.18317v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.18317v1"
+  },
+  {
+    "title": "Linking Speakers of the German Parliament to Wikidata: Scope and Coverage of Metadata",
+    "summary": "This paper links all individuals who spoke in the German Bundestag between 1949 and 2021 to Wikidata, creating a longitudinal dataset that connects parliamentary speech transcripts with structured biographical metadata. We evaluate the coverage, composition, and potential biases of the retrieved properties and statements, with particular attention to gender, professional background, historical legacies, and transnational dimensions such as place of birth, languages, and foreign awards. The results demonstrate both the analytical potential of combining GermaParl with Wikidata and the importance of critically assessing uneven metadata coverage in open knowledge graphs.",
+    "authors": [
+      "Thomas Haider",
+      "Arne Cypionka",
+      "Maximilian Teich"
+    ],
+    "published": "2026-09-16T08:11:18Z",
+    "url": "http://arxiv.org/abs/2609.18289v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.18289v1"
+  },
+  {
+    "title": "Too Good to Be Real? Diagnosing and Reducing the Gap Between AI Preference and Real User Engagement",
+    "summary": "Large language models are increasingly used to generate and evaluate online content, yet it remains unclear whether the qualities they associate with higher engagement match what real users respond to. We study this question using 1.17 million answers to 25,978 questions from Zhihu, Quora, and Reddit, comparing real platform answers and AI-generated answers across four within-question engagement levels. We introduce Ontological Preference Measurement, which represents answers along three dimensions: logic, affect, and expression. We find a systematic gap between AI preference and real user engagement: as target engagement increases, LLMs add more explicit logical structure, while real user engagement is more strongly associated with affective and expressive salience. We call this tendency logic overbinding. Based on this diagnosis, we propose Ontology-Masked Reasoning Autoencoding (OMRA), a controlled intervention that masks and reconstructs over-explained spans while preserving stance, factual content, and coherence. Across four LLM families, OMRA reduces the measured gap by an average of 54.4%. In human evaluation, OMRA wins 62.4% of pairwise preference judgments against matched real platform answers, even though the real answers are more often judged to be human-written.",
+    "authors": [
+      "Xinglang Zhang",
+      "Yuanmeng Xiang",
+      "Yunyao Zhang",
+      "Zeliang Chen",
+      "Junqing Yu",
+      "Zikai Song"
+    ],
+    "published": "2026-09-16T08:04:14Z",
+    "url": "http://arxiv.org/abs/2609.18282v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.18282v1"
+  },
+  {
+    "title": "Quanta: A Self-Contained Python Library for Hybrid Retrieval over Quantised Embeddings, Lexical Indexes, and Knowledge Graphs",
+    "summary": "An advanced retrieval-augmented generation pipeline is typically assembled from three or four independently operated systems: an approximate nearest-neighbour index, a full-text search engine, a graph database, and a relational document store. Each contributes its own deployment surface, configuration model, and failure modes, and the integration logic that binds them is written anew in every project. In this work, we present \\textsc{Quanta}, an open-source Python library, which unifies dense vector search over 4-bit quantised embeddings, BM25 full-text retrieval, and knowledge-graph traversal behind a single retrieval API. Quanta makes two design commitments, which distinguish it from existing hybrid retrieval stacks. First, signals are combined by \\emph{weighted reciprocal rank fusion} rather than by normalising heterogeneous scores onto a shared range, which we argue is ill-posed because such normalisations are query-dependent. Second, the graph is a \\emph{candidate expander and not a relevance scorer}: traversal widens the candidate pool, and the newly admitted documents are re-scored by the dense indexes under an identifier allowlist, so structural adjacency determines what is considered while content evidence determines how it ranks.",
+    "authors": [
+      "Ioannis E. Livieris"
+    ],
+    "published": "2026-09-16T07:27:19Z",
+    "url": "http://arxiv.org/abs/2609.18248v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.18248v1"
+  }
+]
