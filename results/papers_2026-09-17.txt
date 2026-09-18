@@ -1,0 +1,69 @@
+Ontology 文献追踪报告 - 2026-09-17
+==================================================
+
+共发现 10 篇新论文
+
+--- arXiv (3 篇) ------------------------------
+
+1. WiCleanData: Guaranteeing the Type Consistency of Wikidata by Taxonomy Refinement and Constraint Enforcement
+   作者: Yiwen Peng, Marc Jeanmougin, Thomas Bonald
+   链接: http://arxiv.org/abs/2609.20057v1
+   PDF: https://arxiv.org/pdf/2609.20057v1
+   摘要: Because of its collaborative nature, Wikidata suffers from errors, in- consistencies, and excessive complexity, such as redundant classes, ambiguity between instances and classes, wrong taxonomic paths, and type constraint violations. The manual curation of these issues is infeasible at scale. To address these challenges, we introduce WiCleanData, a refined version of Wikidata with a consistent tax- onomy and free from type constraint violations. Specifically, we have designed an automated pipel...
+
+2. Integrating knowledge from case reports: a medical ontology based multimodal information system with structured summary
+   作者: Shuyu Guo, Lan Huang, Yichen Liu, Hanbin Ma, Tian Bai
+   链接: http://arxiv.org/abs/2609.19775v1
+   PDF: https://arxiv.org/pdf/2609.19775v1
+   摘要: Published medical case reports serve as a crucial medical information carrier, documenting discoveries in rare diseases, diagnostic methods, and innovative treatments. Despite the wealth of clinical knowledge in millions of case reports in the public medicine literature database (PubMed), accessing relevant information efficiently is hindered by the limitations of traditional keyword-based retrieval tools on unstructured and diverse case reports. To address the above issues, we introduce a compr...
+
+3. Large Language Model Agents for Evidence Based Genetic Disease Severity Classification
+   作者: Tohid Ghasemnejad, Ahmadreza Argha, Mark Grosser, John Wang, Min Yang 等 10 人
+   链接: http://arxiv.org/abs/2609.19569v1
+   PDF: https://arxiv.org/pdf/2609.19569v1
+   摘要: Disease severity classification for genetic conditions is subjective and labor-intensive, creating bottlenecks in genomic screening, where commercial panels vary widely in size and overlap. We developed an autonomous AI agent integrating Reasoning and Acting (ReAct) with Retrieval-Augmented Generation (RAG) to classify 10,211 Human Phenotype Ontology terms. It uses American College of Medical Genetics (ACMG)-endorsed severity guidelines and American College of Obstetricians and Gynecologists (AC...
+
+--- PubMed (7 篇) ------------------------------
+
+1. Associations of per- and polyfluoroalkyl substances (PFAS) exposures and firefighting experience with microRNA signatures previously linked to Amyotrophic Lateral Sclerosis (ALS): a cross-sectional analysis of active-duty municipal and airport firefighters.
+   作者: Hawkes Brooke A, Goodrich Jaclyn M, Beitel Shawn C, Porter Cynthia, Burgess Jefferey L 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42753929/
+   PMID: 42753929
+   摘要: Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder with unclear etiology in sporadic cases. Blood microRNA (miRNA) expression varies between individuals with and without ALS. Firefighters may face elevated ALS risks due to occupational exposures, including elevated serum per- and polyfluoroalkyl substances (PFAS) concentrations....
+
+2. Digitalization of the Mandatory Notifications System for Infectious Diseases in Germany: Implementation of DEMIS (the German Electronic Reporting and Information System).
+   作者: Suwono Beneditta, Rode Olaf, Birghan Katarina, Ahl Holger, Pape Eberhard 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42753233/
+   PMID: 42753233
+   摘要: Mandatory notifications of infectious diseases in Germany were paper based until the implementation of DEMIS (Deutsches Elektronisches Melde- und Informationssystem für den Infektionsschutz; German Electronic Reporting and Information System) in 2020. DEMIS provides technical infrastructure for electronic reporting of infectious diseases to public health authorities, with the goal of streamlining processes through automation and reducing the burden of manual data entry....
+
+3. A medically grounded LLM agent-based tool to detect patient safety events in medical records.
+   作者: Trujillo Diego, Wang Dulin, Bahr Nathan, Yi-Jin Hsieh Tina, Cho Byeongyeon 等 12 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42752617/
+   PMID: 42752617
+   摘要: Large language models (LLMs) have shown incredible promise in medicine. While LLMs may be particularly useful in areas requiring extensive review of clinical records, their use remains limited due to their tendency to hallucinate and fabricate information. Hallucination issues, as well as their consequences, are exacerbated in low-probability, high-stakes scenarios such as rare adverse safety events or medical errors. We present SAFE-AI (Structured and Automated Framework for Explainable AI), a ...
+
+4. Extending the W3C Data Privacy Vocabulary to Cover the German Health Data Use Act - Lessons Learned.
+   作者: Flake Julian, Henke Christian, Kuntz Alessandra S, Löbe Matthias, Pandit Harshvardhan J 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42752493/
+   PMID: 42752493
+   摘要: Finding, sharing, and reusing data requires common interoperable vocabularies to adequately describe machine-actionable data policies. Semantic Web standards are a proven way to express such information describing data access and reuse. Narrative descriptions get a stable and agreed meaning by formal definitions of terms that have a globally unique identifier. The Data Privacy Vocabulary (DPV) represents a community standard for privacy, data protection, and related topics. DPV uses modular name...
+
+5. Large Language Model-Based Text-to-Cypher Generation for Question-Answering on Biomedical Knowledge Graphs.
+   作者: Seeha Suteera, Abdelmoula Adem, Boeker Martin, Modersohn Luise, Pallaoro Peter
+   链接: https://pubmed.ncbi.nlm.nih.gov/42752482/
+   PMID: 42752482
+   摘要: Knowledge graphs are widely adopted due to their flexible structure and ability to represent large-scale, heterogeneous data. However, as these graphs grow, the queries used to retrieve information become more complex, making efficient information retrieval and question answering more challenging....
+
+6. Characterisation of whole-blood extrachromosomal circular DNAs in Kawasaki disease complicated by coronary artery aneurysm.
+   作者: Wu Yan Lin, Pang Yusheng, Su Danyan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42751951/
+   PMID: 42751951
+   摘要: Extrachromosomal circular DNAs are critical regulators of stress responses, immunity, and inflammation pathways. However, their role and underlying mechanisms in Kawasaki disease complicated by coronary artery aneurysm remain poorly understood....
+
+7. A stroll beyond the confines of naturalism.
+   作者: Gomez-Marin Alex
+   链接: https://pubmed.ncbi.nlm.nih.gov/42750503/
+   PMID: 42750503
+   摘要: I have recently suggested not to ask what science can do for consciousness but what consciousness can do for science. Here, I extend such a recommendation in the context of naturalism, the meta-ontology shared by most contrasting approaches to the problem of "conscious artificial intelligence": do not ask what naturalism can do for AI but what AI can do for naturalism....
+

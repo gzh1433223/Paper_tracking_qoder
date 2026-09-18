@@ -1,0 +1,162 @@
+[
+  {
+    "title": "WiCleanData: Guaranteeing the Type Consistency of Wikidata by Taxonomy Refinement and Constraint Enforcement",
+    "summary": "Because of its collaborative nature, Wikidata suffers from errors, in- consistencies, and excessive complexity, such as redundant classes, ambiguity between instances and classes, wrong taxonomic paths, and type constraint violations. The manual curation of these issues is infeasible at scale. To address these challenges, we introduce WiCleanData, a refined version of Wikidata with a consistent tax- onomy and free from type constraint violations. Specifically, we have designed an automated pipeline that first cleans the taxonomy with language model assistance, then simplifies type constraints by hierarchical aggregation, and finally filters facts accordingly. The resulting knowledge graph, free from any type violation, is made publicly available via a Web interface, enabling easy exploration and downstream applications.",
+    "authors": [
+      "Yiwen Peng",
+      "Marc Jeanmougin",
+      "Thomas Bonald"
+    ],
+    "published": "2026-09-17T11:09:51Z",
+    "url": "http://arxiv.org/abs/2609.20057v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.20057v1"
+  },
+  {
+    "title": "Integrating knowledge from case reports: a medical ontology based multimodal information system with structured summary",
+    "summary": "Published medical case reports serve as a crucial medical information carrier, documenting discoveries in rare diseases, diagnostic methods, and innovative treatments. Despite the wealth of clinical knowledge in millions of case reports in the public medicine literature database (PubMed), accessing relevant information efficiently is hindered by the limitations of traditional keyword-based retrieval tools on unstructured and diverse case reports. To address the above issues, we introduce a comprehensive multimodal information system for case reports integrating structured clinical summaries of patients including medical images and biomedical named entities from 52949 open-access case reports published from 2000 to 2021. The multimodal essential information is organized in a well-structured medical ontology. Also, a powerful interface for searching and browsing case reports is designed to assist junior clinicians in retrieving cases effectively and improving the identification and diagnosis of rare diseases.",
+    "authors": [
+      "Shuyu Guo",
+      "Lan Huang",
+      "Yichen Liu",
+      "Hanbin Ma",
+      "Tian Bai"
+    ],
+    "published": "2026-09-17T06:41:18Z",
+    "url": "http://arxiv.org/abs/2609.19775v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.19775v1"
+  },
+  {
+    "title": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+    "summary": "Disease severity classification for genetic conditions is subjective and labor-intensive, creating bottlenecks in genomic screening, where commercial panels vary widely in size and overlap. We developed an autonomous AI agent integrating Reasoning and Acting (ReAct) with Retrieval-Augmented Generation (RAG) to classify 10,211 Human Phenotype Ontology terms. It uses American College of Medical Genetics (ACMG)-endorsed severity guidelines and American College of Obstetricians and Gynecologists (ACOG) quality-of-life criteria to retrieve PubMed literature, generate interpretable reasoning chains, and independently verify claims. At the phenotype level, using expert-curated cohorts, the agent achieved 93.55% accuracy (MCC 0.9237) with 82.6% to 91.4% of claims supported by direct evidence or valid inferences. Gene-level severity was aggregated across 8,738 pairs, identifying 3,283 autosomal recessive pairs with severe or profound presentations. External validation showed 95.2% concordance with Mackenzie's Mission gene list. This system enables standardized panel design by providing reliable, automated classification supported by direct evidence.",
+    "authors": [
+      "Tohid Ghasemnejad",
+      "Ahmadreza Argha",
+      "Mark Grosser",
+      "John Wang",
+      "Min Yang",
+      "Thantrira Porntaveetus",
+      "Tony Roscioli",
+      "Nigel H. Lovell",
+      "Mahmoud Aarabi",
+      "Hamid Alinejad-Rokny"
+    ],
+    "published": "2026-09-17T01:56:38Z",
+    "url": "http://arxiv.org/abs/2609.19569v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.19569v1"
+  },
+  {
+    "title": "Associations of per- and polyfluoroalkyl substances (PFAS) exposures and firefighting experience with microRNA signatures previously linked to Amyotrophic Lateral Sclerosis (ALS): a cross-sectional analysis of active-duty municipal and airport firefighters.",
+    "summary": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder with unclear etiology in sporadic cases. Blood microRNA (miRNA) expression varies between individuals with and without ALS. Firefighters may face elevated ALS risks due to occupational exposures, including elevated serum per- and polyfluoroalkyl substances (PFAS) concentrations.",
+    "authors": [
+      "Hawkes Brooke A",
+      "Goodrich Jaclyn M",
+      "Beitel Shawn C",
+      "Porter Cynthia",
+      "Burgess Jefferey L",
+      "Jung Alesia M",
+      "Furlong Melissa A"
+    ],
+    "published": "2026 Sep 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42753929/",
+    "pmid": "42753929",
+    "source": "PubMed"
+  },
+  {
+    "title": "Digitalization of the Mandatory Notifications System for Infectious Diseases in Germany: Implementation of DEMIS (the German Electronic Reporting and Information System).",
+    "summary": "Mandatory notifications of infectious diseases in Germany were paper based until the implementation of DEMIS (Deutsches Elektronisches Melde- und Informationssystem für den Infektionsschutz; German Electronic Reporting and Information System) in 2020. DEMIS provides technical infrastructure for electronic reporting of infectious diseases to public health authorities, with the goal of streamlining processes through automation and reducing the burden of manual data entry.",
+    "authors": [
+      "Suwono Beneditta",
+      "Rode Olaf",
+      "Birghan Katarina",
+      "Ahl Holger",
+      "Pape Eberhard",
+      "Krause Doreen",
+      "Diercke Michaela",
+      "Sievers Claudia"
+    ],
+    "published": "2026 Sep 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42753233/",
+    "pmid": "42753233",
+    "source": "PubMed"
+  },
+  {
+    "title": "A medically grounded LLM agent-based tool to detect patient safety events in medical records.",
+    "summary": "Large language models (LLMs) have shown incredible promise in medicine. While LLMs may be particularly useful in areas requiring extensive review of clinical records, their use remains limited due to their tendency to hallucinate and fabricate information. Hallucination issues, as well as their consequences, are exacerbated in low-probability, high-stakes scenarios such as rare adverse safety events or medical errors. We present SAFE-AI (Structured and Automated Framework for Explainable AI), a novel method for clinical decision making that combines the strengths of clinical expert knowledge with LLMs in an ontology-driven model that minimizes hallucinations using strict rules. We test this method to identify medication errors in medical charts. We collected a sample of 18,402 lines of clinical information from 300 EMS clinical charts that were independently dually reviewed by two expert physicians for epinephrine adverse safety events (ASEs), with 96% inter-rater agreement. We tested SAFE-AI against these labels, achieving similar performance to human experts in detecting epinephrine overdoses with 97.9% accuracy, and 91.6% accuracy in identifying delays in epinephrine administration, greatly outperforming baseline LLMs models. Notably, some disagreements between clinicians and the model were found to be justifiable differences in judgment rather than errors. SAFE-AI presents a novel approach for clinical AI applications that addresses two key limitations of current machine learning methods: 1) over-reliance on probabilistic pattern recognition instead of established medical knowledge, and 2) perpetuation of biases present in training data. This framework is easily adaptable to a range of clinical applications, paving the way for provable and trustworthy AI in medicine.",
+    "authors": [
+      "Trujillo Diego",
+      "Wang Dulin",
+      "Bahr Nathan",
+      "Yi-Jin Hsieh Tina",
+      "Cho Byeongyeon",
+      "Meckler Garth",
+      "Hansen Matthew",
+      "Eriksson Carl",
+      "Seo Kim Kyu",
+      "Bedrick Steven",
+      "Jiang Xiaoqian",
+      "Guise Jeanne-Marie"
+    ],
+    "published": "2026 Sep ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752617/",
+    "pmid": "42752617",
+    "source": "PubMed"
+  },
+  {
+    "title": "Extending the W3C Data Privacy Vocabulary to Cover the German Health Data Use Act - Lessons Learned.",
+    "summary": "Finding, sharing, and reusing data requires common interoperable vocabularies to adequately describe machine-actionable data policies. Semantic Web standards are a proven way to express such information describing data access and reuse. Narrative descriptions get a stable and agreed meaning by formal definitions of terms that have a globally unique identifier. The Data Privacy Vocabulary (DPV) represents a community standard for privacy, data protection, and related topics. DPV uses modular namespaces to define jurisdictions, such as \"EU\", and to represent concepts from laws within that jurisdiction, such as the General Data Protection Regulation (GDPR) and the European Health Data Space (EHDS). In this work, we present the creation of a DPV extension representing the German Health Data Use Act (Gesundheitsdatennutzungsgesetz (GDNG)) that has been set into force in March 2024. The GDNG regulates sharing and using health data for secondary use, such as research purposes and policymaking. It builds the German legal foundation for the future EHDS as the European initiative and regulation providing rules for sharing of health data within Europe. The parallel development of the EHDS and GDNG extensions resulted in many shared concepts, which contributed to an overarching extension: the DPV sector health extension. It sets the foundation of aligned privacy terms for future EHDS member states looking to build a national vocabulary aligned with the EHDS. All extensions were released as draft extensions with the latest DPV version 2.3, released 25th of February 2026.",
+    "authors": [
+      "Flake Julian",
+      "Henke Christian",
+      "Kuntz Alessandra S",
+      "Löbe Matthias",
+      "Pandit Harshvardhan J",
+      "Draeger Christian"
+    ],
+    "published": "2026 Sep 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752493/",
+    "pmid": "42752493",
+    "source": "PubMed"
+  },
+  {
+    "title": "Large Language Model-Based Text-to-Cypher Generation for Question-Answering on Biomedical Knowledge Graphs.",
+    "summary": "Knowledge graphs are widely adopted due to their flexible structure and ability to represent large-scale, heterogeneous data. However, as these graphs grow, the queries used to retrieve information become more complex, making efficient information retrieval and question answering more challenging.",
+    "authors": [
+      "Seeha Suteera",
+      "Abdelmoula Adem",
+      "Boeker Martin",
+      "Modersohn Luise",
+      "Pallaoro Peter"
+    ],
+    "published": "2026 Sep 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752482/",
+    "pmid": "42752482",
+    "source": "PubMed"
+  },
+  {
+    "title": "Characterisation of whole-blood extrachromosomal circular DNAs in Kawasaki disease complicated by coronary artery aneurysm.",
+    "summary": "Extrachromosomal circular DNAs are critical regulators of stress responses, immunity, and inflammation pathways. However, their role and underlying mechanisms in Kawasaki disease complicated by coronary artery aneurysm remain poorly understood.",
+    "authors": [
+      "Wu Yan Lin",
+      "Pang Yusheng",
+      "Su Danyan"
+    ],
+    "published": "2026 Sep 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42751951/",
+    "pmid": "42751951",
+    "source": "PubMed"
+  },
+  {
+    "title": "A stroll beyond the confines of naturalism.",
+    "summary": "I have recently suggested not to ask what science can do for consciousness but what consciousness can do for science. Here, I extend such a recommendation in the context of naturalism, the meta-ontology shared by most contrasting approaches to the problem of \"conscious artificial intelligence\": do not ask what naturalism can do for AI but what AI can do for naturalism.",
+    "authors": [
+      "Gomez-Marin Alex"
+    ],
+    "published": "2026 Sep 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750503/",
+    "pmid": "42750503",
+    "source": "PubMed"
+  }
+]
