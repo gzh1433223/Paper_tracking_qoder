@@ -1,0 +1,175 @@
+[
+  {
+    "title": "Reveal the diagnostic value of a neutrophil inflammation- and cell death-associated gene signature in rheumatoid arthritis.",
+    "summary": "This study aimed to construct an artificial neural network (ANN) diagnostic model for rheumatoid arthritis (RA) based on a neutrophil inflammation- and cell death-associated gene signature derived from a previously reported neutrophil extracellular traps (NETs)-related gene set, and to explore its association with immune infiltration and inflammatory pathways. The GEO dataset GSE110169 was used as the training dataset to identify differentially expressed genes between RA patients and healthy controls. Genes derived from a previously published NETs-related gene set were used as the initial candidate genes. Candidate genes were further screened using a random forest algorithm, and an ANN diagnostic model was constructed using the selected feature genes. Model performance was assessed by 10-fold cross-validation and externally validated in GSE93272. Cell Type Identification By Estimating Relative Samples Of RNA Transcripts was used to estimate immune infiltration, and weighted gene co-expression network analysis, gene ontology, and Kyoto encyclopedia of genes and genomes analyses were performed to explore related biological functions. Eleven selected feature genes were retained for model construction: Wiskott-Aldrich syndrome protein-like actin nucleation promoting factor, MFN1, enolase-1, optic atrophy 1, CLEC7A, interleukin-8, S100A8, ACTN4, RIPK1, CASP1, and integrin-linked kinase. The ANN model achieved an area under the curve of 0.923 in the training dataset and 0.722 in the external validation dataset. Immune infiltration analysis suggested that these genes were associated with gamma delta T cells, macrophages M0, memory B cells, resting dendritic cells, and activated dendritic cells. Functional enrichment analysis indicated involvement in lysosome, osteoclast differentiation, hematopoietic cell lineage, chemokine signaling pathway, and Fc gamma R-mediated phagocytosis. This study developed an ANN diagnostic model based on an neutrophil inflammation- and cell death-associated gene signature with potential diagnostic value for RA. However, because direct NET markers were not experimentally evaluated, the selected genes should not be interpreted as NETs-specific biomarkers. Further experimental validation is required.",
+    "authors": [
+      "Gu Chunsong",
+      "Chen Yujia",
+      "Huang Wei",
+      "Chai Yihui",
+      "Li Xiaoli",
+      "Li Wen"
+    ],
+    "published": "2026 Sep 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42760665/",
+    "pmid": "42760665",
+    "source": "PubMed"
+  },
+  {
+    "title": "Exploring the potential mechanism of Xiaoqinglong Decoction in the treatment of acute exacerbations of chronic obstructive pulmonary disease based on network pharmacology and in silico study.",
+    "summary": "Xiaoqinglong Decoction (XQLD) is a traditional Chinese herbal formula widely used in clinical practice to treat acute exacerbations of chronic obstructive pulmonary disease (AECOPD) with notable efficacy. Studies indicate that XQLD can effectively modulate the inflammatory response during the acute infectious phase of AECOPD; however, its underlying mechanism of action remains unclear. This study employed network pharmacology, molecular docking, and molecular dynamics simulations to investigate the potential target genes of XQLD and its possible mechanisms of action in treating AECOPD. Active ingredients and related targets of XQLD were identified from the Traditional Chinese Medicine Systems Pharmacology Database and Analysis Platform, SwissTargetPrediction, and UniProt. AECOPD-related targets were collected from GeneCards, DrugBank, online Mendelian inheritance in man, and PharmGKB. Common targets between the active ingredients of XQLD and AECOPD were screened. A protein-protein interaction network was constructed using the Search Tool for the Retrieval of Interacting Genes/Proteins database and visualized with Cytoscape. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses were performed using the Database for Annotation, Visualization and Integrated Discovery database. Molecular docking and molecular dynamics simulations were conducted using AutoDock Vina and GROMACS, respectively, to evaluate the binding affinity and stability between core targets and active components. The results revealed that the active ingredients of XQLD, including quercetin, luteolin, and kaempferol, target multiple genes such as nuclear factor kappa B subunit 1, signal transducer and activator of transcription 1, mechanistic target of rapamycin kinase, caspase-3, BCL2‑Like 1, and MYC, primarily through the TNF and PI3K/Akt signaling pathways. Molecular docking and dynamics simulations confirmed stable binding between core targets and active ingredients, particularly between glyuranolide and signal transducer and activator of transcription 1, which merits further investigation. XQLD may alleviate AECOPD progression by regulating the inflammatory response, hypoxia, and apoptosis through multi-component, multi-target, and multi-pathway mechanisms. These findings provide a theoretical basis for further experimental research and potential clinical application of XQLD.",
+    "authors": [
+      "Yu Hongpeng",
+      "Wei Xiaotong",
+      "Hu Shaodan",
+      "Ding Huan",
+      "Cao Zhenghua",
+      "Sun Feng",
+      "Shi Li"
+    ],
+    "published": "2026 Sep 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42760649/",
+    "pmid": "42760649",
+    "source": "PubMed"
+  },
+  {
+    "title": "Autophagy inhibition sensitizes radiotherapy responses in high-grade mutant IDH1 glioma.",
+    "summary": "Mutant isocitrate dehydrogenase 1 (mIDH1) catalyzes 2-hydroxyglutarate (2HG) production which leads to epigenetic reprogramming in astrocytomas with tumor protein p53 (TP53)/α-thalassemia/mental retardation, X-linked (ATRX) loss. RNA-sequencing, single-cell RNA-sequencing, and Chromatin Immunoprecipitation sequencing (ChIP-seq) followed by bioinformatics analysis shows that human and mouse mIDH1 gliomas exhibit downregulated gene ontologies (GOs) related to mitochondrial metabolism and upregulated autophagy-related GOs. Decreased mitochondrial metabolism is accompanied by decreased glycolysis, rendering autophagy as a source of energy in mIDH1 gliomas. Mutant IDH1 glioma cells exhibit increased expression of autophagy-related proteins and enhanced microtubule-associated protein 1 light chain 3 (LC3) I/II conversion, indicating augmented autophagy. Inhibiting autophagy in vivo by administration of synthetic protein nanoparticles (SPNPs) encapsulating autophagy related gene 7 (ATG7) silencing RNA sensitizes mIDH1 glioma cells to radiation, resulting in tumor regression, long-term survival, and immunological memory. This work uncovers autophagy as a critical pathway for survival in mIDH1 gliomas and its inhibition elicits radiosensitivity in vitro in human and mouse mIDH1 glioma cells, and in vivo in mIDH1 models.",
+    "authors": [
+      "Núñez Felipe J",
+      "Banerjee Kaushik",
+      "Mujeeb Anzar A",
+      "Mauser Ava",
+      "Tronrud Claire E",
+      "Zhu Ziwen",
+      "Raghuram Sadhakshi",
+      "Sheth Maya R",
+      "Pena Agudelo Jorge Armando",
+      "Zelaya Julio",
+      "Taher Ayman",
+      "Kadiyala Padma",
+      "Carney Stephen V",
+      "Garcia-Fabiani Maria B",
+      "Comba Andrea",
+      "Alghamri Mahmoud S",
+      "McClellan Brandon L",
+      "Klaiss Adam",
+      "Nwosu Zeribe C",
+      "Hong Hanna S",
+      "Sajjakulnukit Peter",
+      "Qin Tingting",
+      "Sartor Maureen A",
+      "Ljungman Mats",
+      "Welch Joshua D",
+      "Cheng Shi-Yuan",
+      "Lowenstein Pedro R",
+      "Lahann Joerg",
+      "Lyssiotis Costas A",
+      "Castro Maria G"
+    ],
+    "published": "2026 Sep 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42760279/",
+    "pmid": "42760279",
+    "source": "PubMed"
+  },
+  {
+    "title": "Age-dependent genetic effects contribute to immunosenescence in Drosophila melanogaster.",
+    "summary": "Immunosenescence, the age-related decline in immune function, varies widely among individuals. Although both genetic and environmental factors contribute to variation in immunosenescence, the extent to which age-specific genetic effects shape age-related immune decline remains poorly understood. Here, we tested whether age-related variation in bacterial clearance is shaped by age-dependent genetic effects by measuring clearance of Escherichia coli infection in 175 genotypes at 1 week of age and 183 genotypes at 5 weeks of age. Clearance ability declined with age, but the magnitude of decline differed markedly among genotypes. Age-specific genetic effects explained substantially more phenotypic variation than age-independent genetic differences, and the genetic correlation in clearance ability across ages was modest, indicating that genetic effects on immune performance were only partially shared across ages. Consistent with these findings, genome-wide analyses identified largely distinct sets of candidate genes associated with clearance in young and old flies, including genes exhibiting genotype-by-age effects. Network and gene ontology analyses revealed enrichment for plasma membrane-associated genes and pathways involved in cell adhesion and cell migration. Functional follow-up of 14 candidate genes using hemocyte-specific RNA interference produced limited effects overall but confirmed that nebulosa contributes to bacterial clearance. Together, our results demonstrate that immunosenescence is shaped by age-dependent genetic effects and identify conserved pathways and candidate genes for future mechanistic studies of age-related immune decline.",
+    "authors": [
+      "Campbell Shonda",
+      "Gudino Isabella",
+      "Rhee Mary",
+      "Harbison Susan",
+      "Leips Jeff"
+    ],
+    "published": "2026 Sep 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42759491/",
+    "pmid": "42759491",
+    "source": "PubMed"
+  },
+  {
+    "title": "Integrated analysis of transcriptomic and proteomic profiles identifies divergent regulatory networks for intramuscular fat in Chinese versus Western Pigs.",
+    "summary": "Intramuscular fat (IMF) content is a key determinant of pork quality. In this study, the Chinese indigenous Huai pig (a fat-type breed) and the Western Duroc pig (a lean-type breed) were selected to investigate the molecular mechanisms underlying IMF deposition. Proteomic analysis identified 91 differentially expressed proteins (DEPs) between the two breeds. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses revealed that several key lipid metabolism-related pathways were significantly enriched, including the Lipid metabolic process, AMPK signaling pathway, nicotinate and nicotinamide metabolism, and Fat digestion and absorption. Western blotting further confirmed the reliability of the proteomic results. Integrated transcriptomic and proteomic analyses highlighted significant enrichment of the PPAR signaling pathway, which plays a central role in lipid metabolism. These findings suggest that enhanced fatty-acid uptake contributes to increased lipid deposition in muscle tissue. Additionally, several potential candidate genes associated with IMF deposition were identified, including CD36, SCARB2, ACADVL, ACADSB, ACADM, UNC119B, PAS-4, and APOA1. Collectively, this study provides valuable insights into the molecular regulation of IMF deposition in pigs and offers a theoretical basis and genetic resources for improving pork quality and advancing molecular breeding.",
+    "authors": [
+      "Xu Caoyan",
+      "Shen Pengcheng",
+      "Jiang Chang Sheng",
+      "Ghonaim Ahmed H",
+      "Ren Man",
+      "Li Xiaojin",
+      "Hu Qianqian",
+      "Wang Chonglong"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758746/",
+    "pmid": "42758746",
+    "source": "PubMed"
+  },
+  {
+    "title": "Monitoring of insecticide resistance and transcriptomic analysis of detoxification gene expression in field populations of Diaphorina citri (Hemiptera: Psyllidae) in China.",
+    "summary": "Diaphorina citri is one of the most destructive pests to global citrus production. Chemical control through insecticide application has traditionally served as the primary intervention strategy for suppressing D. citri populations. However, recent field observations from China have indicated diminishing control efficacy, suggesting potential resistance development. This study assessed insecticide resistance in 10 D. citri field populations from major citrus-producing provinces across the Guangxi-Hunan-Jiangxi region and characterized transcriptomic changes. Bioassays against 6 insecticides revealed variable resistance profiles. Chlorpyrifos resistance ranged from 9- to 16-fold across 9 of 10 populations, with Huichang showing the highest ratio (16-fold). The Ganxian population showed 6.1-fold thiamethoxam, 8.3-fold imidacloprid, and 14-fold chlorpyrifos resistance. Resistance to dinotefuran (0.75 to 3.2-fold), clothianidin (0.47 to 2.2-fold), and lambda-cyhalothrin (0.95 to 4.7-fold) remained low across all populations, as did resistance in the Nanfeng population to all 6 insecticides (RR₅。 = 0.47 to 2.7). Comparative transcriptomic analysis between the resistant Ganxian and minimally resistant Nanfeng populations revealed distinct gene expression profiles. In the Ganxian population, 19 cytochrome P450 genes, 3 glutathione S-transferase genes, and 1 UDP-glycosyltransferase gene were upregulated, and gene ontology enrichment analysis identified significant enrichment of oxidoreductase activity (false discovery rate < 0.05). Quantitative real-time polymerase chain reaction validation across 4 populations confirmed that CYP4C1, GSTT1, and UGT2B9 expression was broadly consistent with resistance phenotypes, though these associations remain correlative pending functional validation. These findings provide region-specific baseline data to support targeted, population-specific resistance management for D. citri in one of China's most important citrus-producing regions.",
+    "authors": [
+      "Zhang Ning",
+      "Chen Chaoyun",
+      "Yu Yang",
+      "Fan Chuanhao",
+      "Gao Shujing",
+      "Hu Wei"
+    ],
+    "published": "2026 Sep 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758559/",
+    "pmid": "42758559",
+    "source": "PubMed"
+  },
+  {
+    "title": "Integrating Multi-Modal Biological Knowledge via Contrastive Dual-View Graph Learning for Phosphorylation Site-Disease Association Prediction.",
+    "summary": "Accurately characterizing the associations between phosphorylation sites (psites) and diseases is essential for elucidating pathogenic mechanisms and guiding therapeutic discovery. However, existing computational approaches for phosphorylation site-disease association (PDA) prediction remain limited, as they often overlook the integration of biological knowledge across multiple modalities.",
+    "authors": [
+      "Chen Xiangyu",
+      "Quan Lijun",
+      "Mao Yexuan",
+      "Wang Siyuan",
+      "Zhang Guozheng",
+      "Li Siqi",
+      "Jiang Yelu",
+      "Nie Liangpeng",
+      "Wu Tingfang",
+      "Lyu Qiang"
+    ],
+    "published": "2026 Sep 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758144/",
+    "pmid": "42758144",
+    "source": "PubMed"
+  },
+  {
+    "title": "FLNA promotes the progression of diabetic retinopathy by increasing M1 macrophages.",
+    "summary": "To clarify the role of filamin A (FLNA) in promoting diabetic retinopathy (DR) progression and explore its underlying mechanism",
+    "authors": [
+      "Li Chun-Hua",
+      "Feng Mao-Fei",
+      "Zhang Xue",
+      "Yu Lei"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42639319/",
+    "pmid": "42639319",
+    "source": "PubMed"
+  },
+  {
+    "title": "A text mining and ontology-based approach using phenotypes to obtain relevant literature for rare diseases.",
+    "summary": "Diagnosing rare diseases remains a major challenge due to limited clinical knowledge and the frequent absence of diagnostic criteria. We present a digital framework that leverages large language models and biomedical text embeddings to bridge this gap. By mapping Human Phenotype Ontology terms to a shared vector space with millions of PubMed abstracts and full-text articles, our method enables phenotype-driven semantic search and ranks literature relevant to patient symptoms, even without explicit disease mentions. Validated on OMIM-derived benchmarks and applied to RASopathies, including NF1, Noonan, and Costello syndromes, our approach retrieved expected findings, supporting differential diagnosis and research. The framework is implemented in an open-source Python package, py-semtools, and it can be integrated into clinical decision support systems or adapted to other ontologies and corpora. This work demonstrates how AI-driven informatics can enhance rare disease diagnosis and exemplifies the role of digital tools in transforming precision medicine and healthcare delivery.",
+    "authors": [
+      "Pérez-García Jesús",
+      "García-Criado Federico",
+      "Pazos Florencio",
+      "Chagoyen Mónica",
+      "Rojano Elena",
+      "Seoane Pedro",
+      "Ranea Juan A G"
+    ],
+    "published": "2026 Sep 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42631054/",
+    "pmid": "42631054",
+    "source": "PubMed"
+  }
+]

@@ -1,0 +1,61 @@
+Ontology 文献追踪报告 - 2026-09-18
+==================================================
+
+共发现 9 篇新论文
+
+--- PubMed (9 篇) ------------------------------
+
+1. Reveal the diagnostic value of a neutrophil inflammation- and cell death-associated gene signature in rheumatoid arthritis.
+   作者: Gu Chunsong, Chen Yujia, Huang Wei, Chai Yihui, Li Xiaoli 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42760665/
+   PMID: 42760665
+   摘要: This study aimed to construct an artificial neural network (ANN) diagnostic model for rheumatoid arthritis (RA) based on a neutrophil inflammation- and cell death-associated gene signature derived from a previously reported neutrophil extracellular traps (NETs)-related gene set, and to explore its association with immune infiltration and inflammatory pathways. The GEO dataset GSE110169 was used as the training dataset to identify differentially expressed genes between RA patients and healthy con...
+
+2. Exploring the potential mechanism of Xiaoqinglong Decoction in the treatment of acute exacerbations of chronic obstructive pulmonary disease based on network pharmacology and in silico study.
+   作者: Yu Hongpeng, Wei Xiaotong, Hu Shaodan, Ding Huan, Cao Zhenghua 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42760649/
+   PMID: 42760649
+   摘要: Xiaoqinglong Decoction (XQLD) is a traditional Chinese herbal formula widely used in clinical practice to treat acute exacerbations of chronic obstructive pulmonary disease (AECOPD) with notable efficacy. Studies indicate that XQLD can effectively modulate the inflammatory response during the acute infectious phase of AECOPD; however, its underlying mechanism of action remains unclear. This study employed network pharmacology, molecular docking, and molecular dynamics simulations to investigate ...
+
+3. Autophagy inhibition sensitizes radiotherapy responses in high-grade mutant IDH1 glioma.
+   作者: Núñez Felipe J, Banerjee Kaushik, Mujeeb Anzar A, Mauser Ava, Tronrud Claire E 等 30 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42760279/
+   PMID: 42760279
+   摘要: Mutant isocitrate dehydrogenase 1 (mIDH1) catalyzes 2-hydroxyglutarate (2HG) production which leads to epigenetic reprogramming in astrocytomas with tumor protein p53 (TP53)/α-thalassemia/mental retardation, X-linked (ATRX) loss. RNA-sequencing, single-cell RNA-sequencing, and Chromatin Immunoprecipitation sequencing (ChIP-seq) followed by bioinformatics analysis shows that human and mouse mIDH1 gliomas exhibit downregulated gene ontologies (GOs) related to mitochondrial metabolism and upregulat...
+
+4. Age-dependent genetic effects contribute to immunosenescence in Drosophila melanogaster.
+   作者: Campbell Shonda, Gudino Isabella, Rhee Mary, Harbison Susan, Leips Jeff
+   链接: https://pubmed.ncbi.nlm.nih.gov/42759491/
+   PMID: 42759491
+   摘要: Immunosenescence, the age-related decline in immune function, varies widely among individuals. Although both genetic and environmental factors contribute to variation in immunosenescence, the extent to which age-specific genetic effects shape age-related immune decline remains poorly understood. Here, we tested whether age-related variation in bacterial clearance is shaped by age-dependent genetic effects by measuring clearance of Escherichia coli infection in 175 genotypes at 1 week of age and ...
+
+5. Integrated analysis of transcriptomic and proteomic profiles identifies divergent regulatory networks for intramuscular fat in Chinese versus Western Pigs.
+   作者: Xu Caoyan, Shen Pengcheng, Jiang Chang Sheng, Ghonaim Ahmed H, Ren Man 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42758746/
+   PMID: 42758746
+   摘要: Intramuscular fat (IMF) content is a key determinant of pork quality. In this study, the Chinese indigenous Huai pig (a fat-type breed) and the Western Duroc pig (a lean-type breed) were selected to investigate the molecular mechanisms underlying IMF deposition. Proteomic analysis identified 91 differentially expressed proteins (DEPs) between the two breeds. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses revealed that several key lipid metabolism-relate...
+
+6. Monitoring of insecticide resistance and transcriptomic analysis of detoxification gene expression in field populations of Diaphorina citri (Hemiptera: Psyllidae) in China.
+   作者: Zhang Ning, Chen Chaoyun, Yu Yang, Fan Chuanhao, Gao Shujing 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42758559/
+   PMID: 42758559
+   摘要: Diaphorina citri is one of the most destructive pests to global citrus production. Chemical control through insecticide application has traditionally served as the primary intervention strategy for suppressing D. citri populations. However, recent field observations from China have indicated diminishing control efficacy, suggesting potential resistance development. This study assessed insecticide resistance in 10 D. citri field populations from major citrus-producing provinces across the Guangxi...
+
+7. Integrating Multi-Modal Biological Knowledge via Contrastive Dual-View Graph Learning for Phosphorylation Site-Disease Association Prediction.
+   作者: Chen Xiangyu, Quan Lijun, Mao Yexuan, Wang Siyuan, Zhang Guozheng 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42758144/
+   PMID: 42758144
+   摘要: Accurately characterizing the associations between phosphorylation sites (psites) and diseases is essential for elucidating pathogenic mechanisms and guiding therapeutic discovery. However, existing computational approaches for phosphorylation site-disease association (PDA) prediction remain limited, as they often overlook the integration of biological knowledge across multiple modalities....
+
+8. FLNA promotes the progression of diabetic retinopathy by increasing M1 macrophages.
+   作者: Li Chun-Hua, Feng Mao-Fei, Zhang Xue, Yu Lei
+   链接: https://pubmed.ncbi.nlm.nih.gov/42639319/
+   PMID: 42639319
+   摘要: To clarify the role of filamin A (FLNA) in promoting diabetic retinopathy (DR) progression and explore its underlying mechanism...
+
+9. A text mining and ontology-based approach using phenotypes to obtain relevant literature for rare diseases.
+   作者: Pérez-García Jesús, García-Criado Federico, Pazos Florencio, Chagoyen Mónica, Rojano Elena 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42631054/
+   PMID: 42631054
+   摘要: Diagnosing rare diseases remains a major challenge due to limited clinical knowledge and the frequent absence of diagnostic criteria. We present a digital framework that leverages large language models and biomedical text embeddings to bridge this gap. By mapping Human Phenotype Ontology terms to a shared vector space with millions of PubMed abstracts and full-text articles, our method enables phenotype-driven semantic search and ranks literature relevant to patient symptoms, even without explic...
+
