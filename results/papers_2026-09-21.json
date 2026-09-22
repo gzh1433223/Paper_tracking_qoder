@@ -1,5 +1,190 @@
 [
   {
+    "title": "The Copy Ceiling: An Input-Exposure Control for Ontology-Grounded Generation over Curated Corpora",
+    "summary": "When a language model answers from a curated corpus via graph-based retrieval, a large grounding uplift does not establish reasoning over the retrieved structure: the context may already expose the gold answers. We propose exposure accounting, which classifies each gold item by whether the shown context exposes it and whether the answer recovers it. Its scalar reference is the copy ceiling, the recall a verbatim copy of the context achieves; signed gain over copy measures the model's recall relative to this deterministic, judge-free baseline. Across ten models, unaided recall averages 0.26 and grounded recall 0.92, yet gain over copy is uniformly negative (-0.067 to -0.022). Of 11,360 gold-item observations, representing 1,136 target instances evaluated under ten models, only three unexposed items receive lexical credit. A stratified model-judged audit of 423 observations, with a symmetric quotation-verification policy, estimates that 97.1% of credited items assert the requested relation; all three unexposed credits fail relational adjudication. On targets the scaffold does not expose, lexical recovery falls from 0.121 unaided to 0.004 grounded; adjudication validates 71 of the 92 unaided credits and none of the three grounded credits, without establishing full-frame relational recovery rates. Rephrasing questions outside the graph's title vocabulary reduces exposure from 0.964 to 0.328, while an absence-triggered fallback activates on only 2 of 506 questions. A paired production study improves judged quality by +0.27 pooled, but negative controls do not establish content specificity beyond a well-formed on-corpus block. These results support exposure accounting as a standing control for corpus-derived evaluations. The accounting distinguishes exposed-item omissions from beyond-exposure recoveries; it does not determine whether reasoning occurred.",
+    "authors": [
+      "John J. O'Hare"
+    ],
+    "published": "2026-09-21T16:53:00Z",
+    "url": "http://arxiv.org/abs/2609.24885v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.24885v1"
+  },
+  {
+    "title": "GradAgent: A Knowledge-Guided Multi-Agent System for Structure-Preserving Gradient-Flow Computation with an Application to Multicomponent Vesicle Dynamics",
+    "summary": "High-order differential operators and nonlinear coupling make it challenging to construct conservative and energy-stable schemes for coupled gradient-flow systems. We present GradAgent, a knowledge-guided multi-agent system that coordinates three agents across model analysis, algorithm design and proofs, and numerical implementation and validation. Independent audits strengthen reliability by uncovering mathematical errors and proof gaps, guiding revisions, and maintaining consistency across stages. In Reconstruction Mode, GradAgent reconstructs 20 published studies and organizes audited knowledge in an extensible knowledge graph (KG), GradAgent-KG, linking model structures, discretization strategies and proofs, implementations, and numerical evidence. In Design Mode, the agents assess the applicability of retrieved knowledge and develop new schemes informed by relevant discretization strategies. Applied to the fully coupled multicomponent vesicle phase-field-fluid model, GradAgent yields three first-order and three second-order schemes across three algorithmic families, including four linear, decoupled schemes. Under stated assumptions, all six schemes conserve membrane component mass and vesicle volume and dissipate their respective temporally discrete energies unconditionally. Comparisons with and without GradAgent-KG show that it promotes diversity in structure-preserving scheme design for this target model. Numerical tests confirm second-order spatial accuracy, the expected temporal orders, conservation, and temporally discrete energy dissipation, while three-dimensional shear-flow simulations agree qualitatively with experiments. These results demonstrate GradAgent's ability to combine reusable knowledge, coordinated reasoning, and independent auditing to develop and validate structure-preserving algorithms for complex coupled systems.",
+    "authors": [
+      "Zhenlin Guo",
+      "Jiale Meng",
+      "Shuqi Tang",
+      "Haiyan Su",
+      "Maosheng Jiang",
+      "Kaiwen Shi",
+      "Meng Zhao"
+    ],
+    "published": "2026-09-21T16:42:36Z",
+    "url": "http://arxiv.org/abs/2609.24871v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.24871v1"
+  },
+  {
+    "title": "QLoRA Fine-Tuning of Ministral LLM for Sequence-to-Function Protein Annotation",
+    "summary": "Functional annotation of newly sequenced proteins remains a bottleneck in molecular biology: the number of sequences in public repositories grows far faster than the capacity for manual curation. Most computational approaches consider annotation as multi-label classification over a fixed ontology, which constrains predictions to a predefined label set. In this work we study the the protein annotation as a sequence-to-text generation problem. We fine-tune the 3B-parameter Ministral 3 base model with QLoRA (4-bit NF4 quantization with low-rank adapters) on sequence annotation pairs. We assess predictions with an LLM-as-expert protocol: a GPT model prompted as a senior molecular-biology curator scores organism identification as binary and function annotation quality. We conclude that QLoRA-fine-tuned compact LLMs can generate curator-style annotations with genuine biological value for a substantial subset of proteins. We also discuss future directions in data quality, model scaling, and evidence grounding that are needed to make the approach sufficiently reliable for practical use.",
+    "authors": [
+      "Demian Pavlyshenko",
+      "Bohdan Pavlyshenko"
+    ],
+    "published": "2026-09-21T13:09:59Z",
+    "url": "http://arxiv.org/abs/2609.24538v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.24538v1"
+  },
+  {
+    "title": "A Temporal Knowledge Graph for Music Festival Lineup Forecasting",
+    "summary": "Music festival lineups emerge from complex relationships among artists, genres, releases, labels, and past performances, making the prediction of future lineups a natural fit for temporal knowledge graph (TKG) forecasting. In this work, we present a TKG covering 380 festivals over 55 years, comprising more than 90K festival performance quadruples along with information on festivals, artist tours, and artist metadata, and release it as a resource for TKG forecasting evaluation. We formalize festival lineup forecasting as temporal link prediction between artists and festivals at future timestamps. We evaluate six TKG forecasting models on this task, analyze their capabilities and limitations, and compare them against Large Language Models applied zero-shot. Our resource complements existing TKG benchmarks by grounding evaluation in a concrete, real-world application domain.",
+    "authors": [
+      "Julia Gastinger",
+      "Thilo Dieing",
+      "Christian Meilicke",
+      "Heiner Stuckenschmidt"
+    ],
+    "published": "2026-09-21T12:09:57Z",
+    "url": "http://arxiv.org/abs/2609.24467v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.24467v1"
+  },
+  {
+    "title": "Comparing Latent Concept Formation in State Space Models and Transformers via Sparse Autoencoders",
+    "summary": "The quadratic scaling of Transformer self-attention has driven the adoption of sub-quadratic Selective State Space Models (SSMs) like Mamba, which compress past context into a fixed-size recurrent hidden state. This strict informational bottleneck raises a foundational question for mechanistic interpretability: do SSMs and Transformers learn fundamentally distinct latent representations? In this work, we employ Sparse Autoencoders (SAEs) to conduct a large-scale, feature-level correspondence analysis between Mamba-130m and Pythia-70m over a 10-million token corpus. Contrary to hypotheses predicting widespread architectural divergence, we find no evidence of systematic representational divergence between architectures: across the observed Jaccard distribution, 99.98% of Mamba features cluster toward the upper alignment boundary, providing preliminary feature-level support for the Universality Hypothesis. We further identify and qualitatively characterize this microscopic fraction (0.02%) of diverging features, finding patterns consistent with the hypothesis that the recurrent bottleneck selectively limits the parsing of rigid syntax rather than broad semantic ontology. We demonstrate that while Pythia's unconstrained attention permits the monosemantic decomposition of distinct formatting edge-cases, Mamba is forced to compress unrelated syntactical anomalies into polysemantic \"junk drawer\" neurons to preserve state capacity. Collectively, these results suggest that architectural routing mechanisms may have negligible impact on core semantic understanding, with representational divergence confined to extreme structural margins.",
+    "authors": [
+      "Rithin Nagaraj",
+      "Rupa Laalasa Oruganti",
+      "Prerna Subhashchandra Kunder",
+      "Ashwini M Joshi"
+    ],
+    "published": "2026-09-21T11:35:50Z",
+    "url": "http://arxiv.org/abs/2609.24440v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.24440v1"
+  },
+  {
+    "title": "Probabilistic Modelling of Operational Design Domains, A New Approach for Testing AI Systems",
+    "summary": "The conventional testing process quickly fails when applied to ML-based systems such as obstacle detection in vehicles: if an obstacle is not detected in a test, classical bug fixing is impossible and an AI system will always retain shortcomings. Test results can therefore only be interpreted statistically, which in turn requires test sets that are not only complete with respect to the operational design domain (ODD) of the system, but also representative of it. To this end, we introduce probabilistically extended ontologies (PEONs): ontologies describing the ODD, augmented with a probability distribution over the partitioning they induce. Instead of unmaintainable conditional probability tables, only marginal distributions and functionally described dependencies need to be specified; algorithms based on couplings and optimal transport complete this specification to a Bayesian network. From a PEON we derive the sampling of representative test cases, rigorous end-of-test criteria for given quality targets and significance levels, and methods for re-evaluating existing test results and for assessing the balance of training data. We demonstrate the practical modelling of a complex ODD using the example of automatic train operation.",
+    "authors": [
+      "Hans-Werner Wiesbrock"
+    ],
+    "published": "2026-09-21T10:46:26Z",
+    "url": "http://arxiv.org/abs/2609.24397v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.24397v1"
+  },
+  {
+    "title": "Efficient Dense Vector Search within Knowledge Graph Content Embeddings",
+    "summary": "Knowledge graphs are a core component of today's knowledge infrastructure, supporting reasoning and anchoring knowledge systems to verifiable facts. RDF stores and SPARQL engines fulfill this function, enabling a range of retrieval and inference tasks on structured knowledge. Coupling them with Language Models (LMs) extends RAG toward neurosymbolic reasoning, where structured queries gate or re-rank generative outputs. This line of reasoning requires that SPARQL evaluation natively support tensor operations on dense embeddings, enabling multimodal querying and learned similarity-based ranking to be expressed together with graph-structural constraints. This approach is feasible only if the engine can efficiently perform dense vector search. We present QLever-Unified Indexed Vector Embedding Retrieval (QUIVER), an extension to QLever that adds native support for dense vector retrieval within RDF knowledge graphs. It implements three optimizations: engine-level registration of tensor functions, vocabulary-time parsing of JSON-encoded vectors, and a virtual SERVICE that exposes a vector index inside the query. We propose two new benchmarks: an extension of Berlin Sparql Benchmark (BSBM) with text embeddings and an extension of DBpedia with image embeddings. Against the baselines, vocabulary-time parsing alone yields median speedups of up to 41.9x on BSBM and 20x on DBpedia for single-type ranking; adding an approximate nearest-neighbor index yields speedups of 355x on BSBM and 97.8x on DBpedia. The index further makes cross-modal vector joins on DBpedia feasible in seconds, whereas all non-indexed configurations time out.",
+    "authors": [
+      "Benedikt Kantz",
+      "Tobias Schreck",
+      "Gianmaria Silvello"
+    ],
+    "published": "2026-09-21T07:58:43Z",
+    "url": "http://arxiv.org/abs/2609.24236v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.24236v1"
+  },
+  {
+    "title": "IMPLICIT-Bench: Measuring Implicit Bias in Text-to-Image Models under Neutral Prompts",
+    "summary": "Text-to-image (T2I) models are typically evaluated for bias using slot-based templates such as ``a photo of a [profession]''. Such templates probe only \\emph{explicit} demographic attributes (e.g., gender, skin tone) in isolation. They overlook a broader \\emph{implicit} bias that arises in natural prompts: when stereotype-relevant attributes are left unspecified, models still default to stereotypical outputs. We introduce IMPLICIT-Bench, a benchmark for measuring implicit bias in T2I models under such prompts. The key design is a structured-knowledge-graph (KG) construction of controlled prompt triplets: neutral, stereotype, and anti-stereotype variants that differ only along a single bias dimension while preserving scene semantics. This enables precise attribution of bias effects that template benchmarks cannot achieve. IMPLICIT-Bench comprises 5,493 prompts across 11 bias categories, validated through multi-model agreement, CLIP-based verification, and human evaluation. Using this benchmark, we show that state-of-the-art T2I models exhibit systematic bias under neutral prompts, a failure mode largely invisible to existing evaluations. We then use IMPLICIT-Bench to evaluate debiasing methods, uncovering a fundamental trade-off between bias reduction and semantic fidelity.",
+    "authors": [
+      "Yue Dai",
+      "Ziyang Liu",
+      "Marc Cheong",
+      "Caren Han"
+    ],
+    "published": "2026-09-21T07:47:57Z",
+    "url": "http://arxiv.org/abs/2609.24228v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.24228v1"
+  },
+  {
+    "title": "When More Evidence Hurts: Publication-Bias Drift and Principled Stopping for Biomedical Causal Search",
+    "summary": "Automated biomedical evidence synthesis depends on retrieving published studies, but the biomedical literature is systematically skewed toward positive findings. Deeper retrieval can therefore make a system \\emph{more} likely to falsely infer benefit when the true effect is null. We formalise this phenomenon as \\emph{evidence drift} and prove that, under a standard publication-bias model, the false-positive probability on null-effect queries follows a strictly increasing large-sample envelope in retrieval depth, approaching one. Empirically, on a held-out test set of 140 Cochrane-derived queries, drift rises monotonically from 7.9\\% to 15.7\\% as the retrieval budget grows from 3 to 20 steps, and concentrates in the null-effect class. We present DACG-agent, a drift-aware causal-graph agent that incrementally builds a causal knowledge graph from PubMed abstracts and applies a two-layer stopping policy with complementary roles: a KL-divergence monitor that detects posterior convergence (the accuracy layer), and a Bradley--Terry process reward model (PRM) whose online decline detection halts retrieval once evidence quality peaks (the efficiency layer). Against full-budget retrieval, DACG-agent reduces evidence drift from 15.7\\% to 6.4\\% and improves null-effect accuracy by 21 percentage points (40.0\\%$\\to$61.4\\%) while using 67\\% fewer retrieval steps; overall accuracy rises from 61.4\\% to 69.3\\% (95\\% CI 61--77). A simulation confirms the drift result transfers from the analysed vote-counting aggregator to the deployed noisy-OR one.",
+    "authors": [
+      "Fred Sun",
+      "Shangqi Guo"
+    ],
+    "published": "2026-09-21T04:37:40Z",
+    "url": "http://arxiv.org/abs/2609.24101v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2609.24101v1"
+  },
+  {
+    "title": "Scoping review of the methods used to map clinical expertise and knowledge in the creation of knowledge-based clinical decision support systems.",
+    "summary": "Digital health technologies are rapidly increasing within healthcare services; however, adoption remains limited. Clinical decision support systems (CDSSs) are digital software designed to support decision-making. Reporting practices for CDSS development remain inconsistent and methodological guidance is limited.",
+    "authors": [
+      "Bounsall Katie",
+      "Cong Cen",
+      "Downey John",
+      "Onyeachu Precious",
+      "Haunton Victoria",
+      "Allgar Victoria",
+      "Carroll Camille B"
+    ],
+    "published": "2026 Sep 21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42767739/",
+    "pmid": "42767739",
+    "source": "PubMed"
+  },
+  {
+    "title": "Knowledge augmented causal discovery through large language models and Knowledge Graphs: Application in chronic low back pain.",
+    "summary": "Causal discovery from observational data is limited by structural constraints of available datasets, the absence of causal logic, and the lack of external domain knowledge. We propose a Knowledge-Augmented Causal Discovery (KACD) framework that combines data-driven structural learning with LLM-based knowledge systems to overcome these limitations, with application to chronic low back pain (cLBP).",
+    "authors": [
+      "Lin Damon",
+      "Rizi Marzieh Mussavi",
+      "O'Neill Conor",
+      "Lotz Jeffrey C",
+      "Anderson Paul",
+      "Torres-Espin Abel"
+    ],
+    "published": "2026 Sep 21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42767585/",
+    "pmid": "42767585",
+    "source": "PubMed"
+  },
+  {
+    "title": "Standardised Human Phenotype Ontology Annotation Enables High Quality Phenotypic Data Capture in a Real-World Common Variable Immunodeficiency Cohort.",
+    "summary": "Patients with Common Variable Immunodeficiency (CVID) exhibit diverse clinical manifestations, indicating heterogeneity in pathogenic mechanisms. Systematic application of standardised phenotyping in large cohorts is essential to dissect this heterogeneity. The Human Phenotype Ontology (HPO) provides a structured framework for capturing and comparing disease phenotypes.",
+    "authors": [
+      "Campos Luiza C",
+      "Favreau Émeline",
+      "Greene Daniel",
+      "Blach Justyna",
+      "Thomas Moira",
+      "Alsehaim Khuloud",
+      "Mutlu Leman",
+      "Elhadari Sara",
+      "Herwadkar Archana",
+      "Payne Julia",
+      "Lever Charley",
+      "Mahmoud Dina",
+      "Moreira Fernando",
+      "O'Sullivan Mary",
+      "Berry Maxine",
+      "Twigg George",
+      "Hart Alice C J",
+      "Joshi Nehal",
+      "Fuller Stewart",
+      "Smith Kenneth G C",
+      "Turro Ernest",
+      "Cook Matthew C",
+      "Wallace Chris",
+      "Burns Siobhan O"
+    ],
+    "published": "2026 Sep 21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42767568/",
+    "pmid": "42767568",
+    "source": "PubMed"
+  },
+  {
     "title": "Bioinformatics analysis of genes related to uveitis and differential gene expression in a model of experimental autoimmune uveitis.",
     "summary": "Uveitis is a sight-threatening disease in which autoimmune and inflammatory reactions play a central role. This study aimed to identify key genes involved in the pathogenesis of uveitis using bioinformatics approaches and to validate their expression in a rat model of experimental autoimmune uveitis (EAU). The GSE66936 microarray dataset, comprising transcriptomes of CD14 and CD16 monocytes from five patients with uveitis and four healthy donors, was downloaded from the Gene Expression Omnibus, and known uveitis-related targets were retrieved from six disease-gene databases. Differentially expressed genes (DEGs) were identified and subjected to Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses. A protein-protein interaction network was constructed using STRING, and hub genes were screened with Cytoscape and evaluated by receiver operating characteristic (ROC) curve analysis. EAU was induced in Sprague-Dawley rats by immunization with interphotoreceptor retinoid-binding protein (IRBP), and ocular inflammation was assessed by slit-lamp examination and histopathology. The expression of the hub genes was validated in ocular, liver, and spleen tissues by reverse transcription-quantitative polymerase chain reaction and enzyme-linked immunosorbent assay. A total of 139 uveitis-related genes were identified; these were enriched in inflammatory response, immune response, viral defense response, and the TNF and NF-κB signaling pathways. Ten hub genes (IL17A, IL18, TLR2, IL2, TLR4, IL10, IL1B, IL6, TNF, and CCL2) were identified, each with an area under the ROC curve greater than 0.6. The EAU model was successfully established, with significantly greater anterior segment inflammation than in controls, and the mRNA and protein levels of the hub genes were significantly elevated in the ocular and peripheral tissues of EAU rats (p < 0.05). These findings reveal key genes and pathways involved in the pathogenesis of uveitis and provide candidate targets for its diagnosis and treatment.",
     "authors": [

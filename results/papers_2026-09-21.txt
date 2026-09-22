@@ -1,35 +1,109 @@
 Ontology 文献追踪报告 - 2026-09-21
 ==================================================
 
-共发现 5 篇新论文
+共发现 17 篇新论文
 
---- PubMed (5 篇) ------------------------------
+--- arXiv (9 篇) ------------------------------
 
-1. Bioinformatics analysis of genes related to uveitis and differential gene expression in a model of experimental autoimmune uveitis.
+1. The Copy Ceiling: An Input-Exposure Control for Ontology-Grounded Generation over Curated Corpora
+   作者: John J. O'Hare
+   链接: http://arxiv.org/abs/2609.24885v1
+   PDF: https://arxiv.org/pdf/2609.24885v1
+   摘要: When a language model answers from a curated corpus via graph-based retrieval, a large grounding uplift does not establish reasoning over the retrieved structure: the context may already expose the gold answers. We propose exposure accounting, which classifies each gold item by whether the shown context exposes it and whether the answer recovers it. Its scalar reference is the copy ceiling, the recall a verbatim copy of the context achieves; signed gain over copy measures the model's recall rela...
+
+2. GradAgent: A Knowledge-Guided Multi-Agent System for Structure-Preserving Gradient-Flow Computation with an Application to Multicomponent Vesicle Dynamics
+   作者: Zhenlin Guo, Jiale Meng, Shuqi Tang, Haiyan Su, Maosheng Jiang 等 7 人
+   链接: http://arxiv.org/abs/2609.24871v1
+   PDF: https://arxiv.org/pdf/2609.24871v1
+   摘要: High-order differential operators and nonlinear coupling make it challenging to construct conservative and energy-stable schemes for coupled gradient-flow systems. We present GradAgent, a knowledge-guided multi-agent system that coordinates three agents across model analysis, algorithm design and proofs, and numerical implementation and validation. Independent audits strengthen reliability by uncovering mathematical errors and proof gaps, guiding revisions, and maintaining consistency across sta...
+
+3. QLoRA Fine-Tuning of Ministral LLM for Sequence-to-Function Protein Annotation
+   作者: Demian Pavlyshenko, Bohdan Pavlyshenko
+   链接: http://arxiv.org/abs/2609.24538v1
+   PDF: https://arxiv.org/pdf/2609.24538v1
+   摘要: Functional annotation of newly sequenced proteins remains a bottleneck in molecular biology: the number of sequences in public repositories grows far faster than the capacity for manual curation. Most computational approaches consider annotation as multi-label classification over a fixed ontology, which constrains predictions to a predefined label set. In this work we study the the protein annotation as a sequence-to-text generation problem. We fine-tune the 3B-parameter Ministral 3 base model w...
+
+4. A Temporal Knowledge Graph for Music Festival Lineup Forecasting
+   作者: Julia Gastinger, Thilo Dieing, Christian Meilicke, Heiner Stuckenschmidt
+   链接: http://arxiv.org/abs/2609.24467v1
+   PDF: https://arxiv.org/pdf/2609.24467v1
+   摘要: Music festival lineups emerge from complex relationships among artists, genres, releases, labels, and past performances, making the prediction of future lineups a natural fit for temporal knowledge graph (TKG) forecasting. In this work, we present a TKG covering 380 festivals over 55 years, comprising more than 90K festival performance quadruples along with information on festivals, artist tours, and artist metadata, and release it as a resource for TKG forecasting evaluation. We formalize festi...
+
+5. Comparing Latent Concept Formation in State Space Models and Transformers via Sparse Autoencoders
+   作者: Rithin Nagaraj, Rupa Laalasa Oruganti, Prerna Subhashchandra Kunder, Ashwini M Joshi
+   链接: http://arxiv.org/abs/2609.24440v1
+   PDF: https://arxiv.org/pdf/2609.24440v1
+   摘要: The quadratic scaling of Transformer self-attention has driven the adoption of sub-quadratic Selective State Space Models (SSMs) like Mamba, which compress past context into a fixed-size recurrent hidden state. This strict informational bottleneck raises a foundational question for mechanistic interpretability: do SSMs and Transformers learn fundamentally distinct latent representations? In this work, we employ Sparse Autoencoders (SAEs) to conduct a large-scale, feature-level correspondence ana...
+
+6. Probabilistic Modelling of Operational Design Domains, A New Approach for Testing AI Systems
+   作者: Hans-Werner Wiesbrock
+   链接: http://arxiv.org/abs/2609.24397v1
+   PDF: https://arxiv.org/pdf/2609.24397v1
+   摘要: The conventional testing process quickly fails when applied to ML-based systems such as obstacle detection in vehicles: if an obstacle is not detected in a test, classical bug fixing is impossible and an AI system will always retain shortcomings. Test results can therefore only be interpreted statistically, which in turn requires test sets that are not only complete with respect to the operational design domain (ODD) of the system, but also representative of it. To this end, we introduce probabi...
+
+7. Efficient Dense Vector Search within Knowledge Graph Content Embeddings
+   作者: Benedikt Kantz, Tobias Schreck, Gianmaria Silvello
+   链接: http://arxiv.org/abs/2609.24236v1
+   PDF: https://arxiv.org/pdf/2609.24236v1
+   摘要: Knowledge graphs are a core component of today's knowledge infrastructure, supporting reasoning and anchoring knowledge systems to verifiable facts. RDF stores and SPARQL engines fulfill this function, enabling a range of retrieval and inference tasks on structured knowledge. Coupling them with Language Models (LMs) extends RAG toward neurosymbolic reasoning, where structured queries gate or re-rank generative outputs. This line of reasoning requires that SPARQL evaluation natively support tenso...
+
+8. IMPLICIT-Bench: Measuring Implicit Bias in Text-to-Image Models under Neutral Prompts
+   作者: Yue Dai, Ziyang Liu, Marc Cheong, Caren Han
+   链接: http://arxiv.org/abs/2609.24228v1
+   PDF: https://arxiv.org/pdf/2609.24228v1
+   摘要: Text-to-image (T2I) models are typically evaluated for bias using slot-based templates such as ``a photo of a [profession]''. Such templates probe only \emph{explicit} demographic attributes (e.g., gender, skin tone) in isolation. They overlook a broader \emph{implicit} bias that arises in natural prompts: when stereotype-relevant attributes are left unspecified, models still default to stereotypical outputs. We introduce IMPLICIT-Bench, a benchmark for measuring implicit bias in T2I models unde...
+
+9. When More Evidence Hurts: Publication-Bias Drift and Principled Stopping for Biomedical Causal Search
+   作者: Fred Sun, Shangqi Guo
+   链接: http://arxiv.org/abs/2609.24101v1
+   PDF: https://arxiv.org/pdf/2609.24101v1
+   摘要: Automated biomedical evidence synthesis depends on retrieving published studies, but the biomedical literature is systematically skewed toward positive findings. Deeper retrieval can therefore make a system \emph{more} likely to falsely infer benefit when the true effect is null. We formalise this phenomenon as \emph{evidence drift} and prove that, under a standard publication-bias model, the false-positive probability on null-effect queries follows a strictly increasing large-sample envelope in...
+
+--- PubMed (8 篇) ------------------------------
+
+1. Scoping review of the methods used to map clinical expertise and knowledge in the creation of knowledge-based clinical decision support systems.
+   作者: Bounsall Katie, Cong Cen, Downey John, Onyeachu Precious, Haunton Victoria 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42767739/
+   PMID: 42767739
+   摘要: Digital health technologies are rapidly increasing within healthcare services; however, adoption remains limited. Clinical decision support systems (CDSSs) are digital software designed to support decision-making. Reporting practices for CDSS development remain inconsistent and methodological guidance is limited....
+
+2. Knowledge augmented causal discovery through large language models and Knowledge Graphs: Application in chronic low back pain.
+   作者: Lin Damon, Rizi Marzieh Mussavi, O'Neill Conor, Lotz Jeffrey C, Anderson Paul 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42767585/
+   PMID: 42767585
+   摘要: Causal discovery from observational data is limited by structural constraints of available datasets, the absence of causal logic, and the lack of external domain knowledge. We propose a Knowledge-Augmented Causal Discovery (KACD) framework that combines data-driven structural learning with LLM-based knowledge systems to overcome these limitations, with application to chronic low back pain (cLBP)....
+
+3. Standardised Human Phenotype Ontology Annotation Enables High Quality Phenotypic Data Capture in a Real-World Common Variable Immunodeficiency Cohort.
+   作者: Campos Luiza C, Favreau Émeline, Greene Daniel, Blach Justyna, Thomas Moira 等 24 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42767568/
+   PMID: 42767568
+   摘要: Patients with Common Variable Immunodeficiency (CVID) exhibit diverse clinical manifestations, indicating heterogeneity in pathogenic mechanisms. Systematic application of standardised phenotyping in large cohorts is essential to dissect this heterogeneity. The Human Phenotype Ontology (HPO) provides a structured framework for capturing and comparing disease phenotypes....
+
+4. Bioinformatics analysis of genes related to uveitis and differential gene expression in a model of experimental autoimmune uveitis.
    作者: He Kun, Pan Bingxin, Tian Pengfei, Yang Suyun
    链接: https://pubmed.ncbi.nlm.nih.gov/42766495/
    PMID: 42766495
    摘要: Uveitis is a sight-threatening disease in which autoimmune and inflammatory reactions play a central role. This study aimed to identify key genes involved in the pathogenesis of uveitis using bioinformatics approaches and to validate their expression in a rat model of experimental autoimmune uveitis (EAU). The GSE66936 microarray dataset, comprising transcriptomes of CD14 and CD16 monocytes from five patients with uveitis and four healthy donors, was downloaded from the Gene Expression Omnibus, ...
 
-2. PathSepsisNet: a pathway-aware temporal graph attention network integrating inflammatory crosstalk dynamics for early prediction of multi-organ dysfunction in sepsis.
+5. PathSepsisNet: a pathway-aware temporal graph attention network integrating inflammatory crosstalk dynamics for early prediction of multi-organ dysfunction in sepsis.
    作者: Ustundag Hilal, Doganay Songul
    链接: https://pubmed.ncbi.nlm.nih.gov/42766171/
    PMID: 42766171
    摘要: Sepsis-induced multi-organ dysfunction syndrome (MODS) remains a leading cause of intensive care unit (ICU) mortality worldwide. The complex interplay among inflammatory signaling pathways TLR4/NF-κB, NLRP3/P2X7 and Nrf2/HO-1 plays a critical role in determining organ damage trajectories, yet existing artificial intelligence (AI) models fail to capture these molecular dynamics. We propose PathSepsisNet, a pathway-aware temporal graph attention network that integrates biological pathway crosstalk...
 
-3. Association of MIR137 rs1625579 polymorphisms with cognitive function in patients with untreated first-episode depression.
+6. Association of MIR137 rs1625579 polymorphisms with cognitive function in patients with untreated first-episode depression.
    作者: Liu Xiaoming, Liu Li, Xiao Fan
    链接: https://pubmed.ncbi.nlm.nih.gov/42766101/
    PMID: 42766101
    摘要: Depression arises from genetic and environmental factors, and it may lead to cognitive dysfunction. This study aimed to explore the relationship between microRNA-137 (miR-137) and the MIR137 rs1625579 polymorphism and cognitive function in depression....
 
-4. Jianpi Qingre Qushi Formula attenuates acute gouty arthritis through modulation of the Ras/Raf/MEK/ERK signaling pathway.
+7. Jianpi Qingre Qushi Formula attenuates acute gouty arthritis through modulation of the Ras/Raf/MEK/ERK signaling pathway.
    作者: Zhu Nanfei, Cao Yunxiang, Wang Amin, Wang Hui, Wang Yabing 等 6 人
    链接: https://pubmed.ncbi.nlm.nih.gov/42765312/
    PMID: 42765312
    摘要: The global incidence of acute gouty arthritis (AGA) continues to increase, and its pathogenesis is closely associated with complex inflammatory signaling pathways. Jianpi Qingre Qushi Formula (JQR) has shown favorable therapeutic efficacy in clinical practice; however, its key bioactive components and underlying molecular mechanisms remain unclear. This study integrated network pharmacology, molecular docking, and...
 
-5. Genome-wide DNA methylation landscapes in gallbladder carcinoma: revealing shared and distinct epigenetic signatures across subtypes.
+8. Genome-wide DNA methylation landscapes in gallbladder carcinoma: revealing shared and distinct epigenetic signatures across subtypes.
    作者: Singh Devbrat, Talware Shubham Krushna, Mishra Shridhar, Srivastava Pallavi, Mukherjee Sayali 等 9 人
    链接: https://pubmed.ncbi.nlm.nih.gov/42765145/
    PMID: 42765145
