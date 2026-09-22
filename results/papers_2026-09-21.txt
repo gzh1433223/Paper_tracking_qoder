@@ -1,0 +1,37 @@
+Ontology 文献追踪报告 - 2026-09-21
+==================================================
+
+共发现 5 篇新论文
+
+--- PubMed (5 篇) ------------------------------
+
+1. Bioinformatics analysis of genes related to uveitis and differential gene expression in a model of experimental autoimmune uveitis.
+   作者: He Kun, Pan Bingxin, Tian Pengfei, Yang Suyun
+   链接: https://pubmed.ncbi.nlm.nih.gov/42766495/
+   PMID: 42766495
+   摘要: Uveitis is a sight-threatening disease in which autoimmune and inflammatory reactions play a central role. This study aimed to identify key genes involved in the pathogenesis of uveitis using bioinformatics approaches and to validate their expression in a rat model of experimental autoimmune uveitis (EAU). The GSE66936 microarray dataset, comprising transcriptomes of CD14 and CD16 monocytes from five patients with uveitis and four healthy donors, was downloaded from the Gene Expression Omnibus, ...
+
+2. PathSepsisNet: a pathway-aware temporal graph attention network integrating inflammatory crosstalk dynamics for early prediction of multi-organ dysfunction in sepsis.
+   作者: Ustundag Hilal, Doganay Songul
+   链接: https://pubmed.ncbi.nlm.nih.gov/42766171/
+   PMID: 42766171
+   摘要: Sepsis-induced multi-organ dysfunction syndrome (MODS) remains a leading cause of intensive care unit (ICU) mortality worldwide. The complex interplay among inflammatory signaling pathways TLR4/NF-κB, NLRP3/P2X7 and Nrf2/HO-1 plays a critical role in determining organ damage trajectories, yet existing artificial intelligence (AI) models fail to capture these molecular dynamics. We propose PathSepsisNet, a pathway-aware temporal graph attention network that integrates biological pathway crosstalk...
+
+3. Association of MIR137 rs1625579 polymorphisms with cognitive function in patients with untreated first-episode depression.
+   作者: Liu Xiaoming, Liu Li, Xiao Fan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42766101/
+   PMID: 42766101
+   摘要: Depression arises from genetic and environmental factors, and it may lead to cognitive dysfunction. This study aimed to explore the relationship between microRNA-137 (miR-137) and the MIR137 rs1625579 polymorphism and cognitive function in depression....
+
+4. Jianpi Qingre Qushi Formula attenuates acute gouty arthritis through modulation of the Ras/Raf/MEK/ERK signaling pathway.
+   作者: Zhu Nanfei, Cao Yunxiang, Wang Amin, Wang Hui, Wang Yabing 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42765312/
+   PMID: 42765312
+   摘要: The global incidence of acute gouty arthritis (AGA) continues to increase, and its pathogenesis is closely associated with complex inflammatory signaling pathways. Jianpi Qingre Qushi Formula (JQR) has shown favorable therapeutic efficacy in clinical practice; however, its key bioactive components and underlying molecular mechanisms remain unclear. This study integrated network pharmacology, molecular docking, and...
+
+5. Genome-wide DNA methylation landscapes in gallbladder carcinoma: revealing shared and distinct epigenetic signatures across subtypes.
+   作者: Singh Devbrat, Talware Shubham Krushna, Mishra Shridhar, Srivastava Pallavi, Mukherjee Sayali 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42765145/
+   PMID: 42765145
+   摘要: Gallbladder cancer is an aggressive malignancy with poor survival rates, there are biologically distinct subtypes, yet genome-wide epigenetic differences remain poorly understood. This study was designed as an exploratory investigation of subtype-specific DNA methylation patterns....
+

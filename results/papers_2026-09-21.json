@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Bioinformatics analysis of genes related to uveitis and differential gene expression in a model of experimental autoimmune uveitis.",
+    "summary": "Uveitis is a sight-threatening disease in which autoimmune and inflammatory reactions play a central role. This study aimed to identify key genes involved in the pathogenesis of uveitis using bioinformatics approaches and to validate their expression in a rat model of experimental autoimmune uveitis (EAU). The GSE66936 microarray dataset, comprising transcriptomes of CD14 and CD16 monocytes from five patients with uveitis and four healthy donors, was downloaded from the Gene Expression Omnibus, and known uveitis-related targets were retrieved from six disease-gene databases. Differentially expressed genes (DEGs) were identified and subjected to Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses. A protein-protein interaction network was constructed using STRING, and hub genes were screened with Cytoscape and evaluated by receiver operating characteristic (ROC) curve analysis. EAU was induced in Sprague-Dawley rats by immunization with interphotoreceptor retinoid-binding protein (IRBP), and ocular inflammation was assessed by slit-lamp examination and histopathology. The expression of the hub genes was validated in ocular, liver, and spleen tissues by reverse transcription-quantitative polymerase chain reaction and enzyme-linked immunosorbent assay. A total of 139 uveitis-related genes were identified; these were enriched in inflammatory response, immune response, viral defense response, and the TNF and NF-κB signaling pathways. Ten hub genes (IL17A, IL18, TLR2, IL2, TLR4, IL10, IL1B, IL6, TNF, and CCL2) were identified, each with an area under the ROC curve greater than 0.6. The EAU model was successfully established, with significantly greater anterior segment inflammation than in controls, and the mRNA and protein levels of the hub genes were significantly elevated in the ocular and peripheral tissues of EAU rats (p < 0.05). These findings reveal key genes and pathways involved in the pathogenesis of uveitis and provide candidate targets for its diagnosis and treatment.",
+    "authors": [
+      "He Kun",
+      "Pan Bingxin",
+      "Tian Pengfei",
+      "Yang Suyun"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766495/",
+    "pmid": "42766495",
+    "source": "PubMed"
+  },
+  {
+    "title": "PathSepsisNet: a pathway-aware temporal graph attention network integrating inflammatory crosstalk dynamics for early prediction of multi-organ dysfunction in sepsis.",
+    "summary": "Sepsis-induced multi-organ dysfunction syndrome (MODS) remains a leading cause of intensive care unit (ICU) mortality worldwide. The complex interplay among inflammatory signaling pathways TLR4/NF-κB, NLRP3/P2X7 and Nrf2/HO-1 plays a critical role in determining organ damage trajectories, yet existing artificial intelligence (AI) models fail to capture these molecular dynamics. We propose PathSepsisNet, a pathway-aware temporal graph attention network that integrates biological pathway crosstalk knowledge into a deep learning architecture for early MODS prediction. We developed a biologically-informed graph neural network in which six nodes represent molecular pathway activation states (estimated from routine clinical biomarkers) and twelve directed edges encode established crosstalk relationships. A dual spatial-temporal attention mechanism with gated fusion captures inter-pathway crosstalk dynamics and within-pathway temporal evolution simultaneously. A novel Pathway Divergence Score (PDS) quantifies the imbalance between pro-inflammatory and cytoprotective pathways. The model was trained and validated on 29,765 adult patients with sepsis (Sepsis-3) from the Medical Information Mart for Intensive Care IV (MIMIC-IV) v3.1 using only the first 12 h of ICU data to predict MODS development at 12-36 h, with strict data leakage prevention (no SOFA sub-scores as inputs). PathSepsisNet achieved area under the receiver operating characteristic curve (AUROC) 0.895 and an area under the precision-recall curve (AUPRC) of 0.901 for MODS prediction, outperforming bidirectional long short term memory (BiLSTM) (0.886), Transformer (0.890) and logistic regression (0.876), while providing unique pathway-level interpretability. Gradient boosting methods (XGBoost: 0.906; LightGBM: 0.905) achieved marginally higher raw AUROC, but lack mechanistic insight. The PDS demonstrated remarkable standalone discriminative ability (MODS + : 0.596 ± 0.185 vs. MODS - : 0.299 ± 0.163; PDS AUROC: 0.872). Node importance analysis identified CytokineStorm (0.290), NLRP3/P2X7 (0.212) and mitochondrial dysfunction (0.211) as the most influential pathway modules. MODS + patients exhibited significantly higher lactate (2.34 vs. 1.63 mmol/L), CRP (123.5 vs. 97.2 mg/L), bilirubin (2.91 vs. 0.97 mg/dL) and lower albumin (2.82 vs. 3.04 g/dL) and platelets (160 vs. 207 K/μL), validating pathway-specific hypotheses. PathSepsisNet demonstrates that integrating biological pathway knowledge into graph neural network architectures yields predictive performance competitive with state-of-the-art methods, while uniquely providing pathway-level mechanistic insights. The PDS represents a novel computational biomarker bridging molecular pathway biology and clinical decision support. These findings support the paradigm that biologically informed AI can close the gap between predictive accuracy and clinical interpretability in sepsis management.",
+    "authors": [
+      "Ustundag Hilal",
+      "Doganay Songul"
+    ],
+    "published": "2026 Sep 21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766171/",
+    "pmid": "42766171",
+    "source": "PubMed"
+  },
+  {
+    "title": "Association of MIR137 rs1625579 polymorphisms with cognitive function in patients with untreated first-episode depression.",
+    "summary": "Depression arises from genetic and environmental factors, and it may lead to cognitive dysfunction. This study aimed to explore the relationship between microRNA-137 (miR-137) and the MIR137 rs1625579 polymorphism and cognitive function in depression.",
+    "authors": [
+      "Liu Xiaoming",
+      "Liu Li",
+      "Xiao Fan"
+    ],
+    "published": "2026 Sep 21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766101/",
+    "pmid": "42766101",
+    "source": "PubMed"
+  },
+  {
+    "title": "Jianpi Qingre Qushi Formula attenuates acute gouty arthritis through modulation of the Ras/Raf/MEK/ERK signaling pathway.",
+    "summary": "The global incidence of acute gouty arthritis (AGA) continues to increase, and its pathogenesis is closely associated with complex inflammatory signaling pathways. Jianpi Qingre Qushi Formula (JQR) has shown favorable therapeutic efficacy in clinical practice; however, its key bioactive components and underlying molecular mechanisms remain unclear. This study integrated network pharmacology, molecular docking, and",
+    "authors": [
+      "Zhu Nanfei",
+      "Cao Yunxiang",
+      "Wang Amin",
+      "Wang Hui",
+      "Wang Yabing",
+      "Wang Jianing"
+    ],
+    "published": "2026 Sep 21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42765312/",
+    "pmid": "42765312",
+    "source": "PubMed"
+  },
+  {
+    "title": "Genome-wide DNA methylation landscapes in gallbladder carcinoma: revealing shared and distinct epigenetic signatures across subtypes.",
+    "summary": "Gallbladder cancer is an aggressive malignancy with poor survival rates, there are biologically distinct subtypes, yet genome-wide epigenetic differences remain poorly understood. This study was designed as an exploratory investigation of subtype-specific DNA methylation patterns.",
+    "authors": [
+      "Singh Devbrat",
+      "Talware Shubham Krushna",
+      "Mishra Shridhar",
+      "Srivastava Pallavi",
+      "Mukherjee Sayali",
+      "Pandey Anshuman",
+      "Siddiqi Mohammad Imran",
+      "Tiwari Vandana",
+      "Husain Nuzhat"
+    ],
+    "published": "2026 Sep 21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42765145/",
+    "pmid": "42765145",
+    "source": "PubMed"
+  }
+]
