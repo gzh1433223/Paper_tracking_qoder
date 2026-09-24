@@ -1,0 +1,31 @@
+Ontology 文献追踪报告 - 2026-09-23
+==================================================
+
+共发现 4 篇新论文
+
+--- PubMed (4 篇) ------------------------------
+
+1. Telomere-to-telomere co-mapping of transposable elements and human genes identifies a cluster of young L1 elements in the interferon-alpha domain with potential evolutionary arms-race.
+   作者: Nikitin Daniil
+   链接: https://pubmed.ncbi.nlm.nih.gov/42777117/
+   PMID: 42777117
+   摘要: Transposable elements (TEs) have played a central role in major evolutionary transitions across the human lineage, from eukaryogenesis to the emergence of the eutherian placenta, and are currently reactivated in cancer and autoimmune diseases. The complete telomere-to-telomere (T2T) assembly enables comprehensive investigation of TE contributions to gene regulation. Using a 10 kb window around transcription start sites, we mapped 3,709,429 human TEs to 28,738 genes against a 500-permutation back...
+
+2. NOC4L: An Emerging Dual-Action Target for Cancer Prognosis and Immunotherapy.
+   作者: Bai Hai, Xu Wanqing, Wei Guozheng, Cao Yue, Wang Mingming
+   链接: https://pubmed.ncbi.nlm.nih.gov/42776443/
+   PMID: 42776443
+   摘要: Nucleolar complex associated 4 homolog (NOC4L) is implicated in the pathogenesis of various diseases and has been reported to play a role in tumorigenesis. However, its diagnostic and prognostic significance across diverse cancer types remains underexplored....
+
+3. A course-based undergraduate research experience (CURE) using transposon-directed insertion-site sequencing (TraDIS) to identify genes that are essential for bacteriophage P1 propagation in
+   作者: Ling Gee Chong, Jin Christopher, Karadarevic Dimitri, Tsoi Abraham, Trimby Leah 等 16 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42776129/
+   PMID: 42776129
+   摘要: Understanding gene function through forward genetic screens is foundational to microbial genetics. Here, we describe the design and implementation of a multi-week course-based undergraduate research experience (CURE) embedded within a third-year Microbial Genetics course, developed over three iterations in trimester 3 of 2023-2025. In this CURE, students construct a high-density Tn...
+
+4. Impact of chronic cyclic heat stress on breast muscle proteomics in broiler chicken.
+   作者: Ahmadi F, Xie C, Cottrell J J, Leeming M G, Suleria H A R 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42775416/
+   PMID: 42775416
+   摘要: 1. Previous work has demonstrated that chronic cyclic heat stress (HS; 33°C for 8 h/day) resulted an 18.2% reduction in broiler breast muscle compared to a thermoneutral cohort (TN; 23°C). Given the deleterious impact of HS on broiler breast muscle mass, mass spectrometry (MS)-based proteomics was employed in the following trial to compare muscle protein expression in broiler chicken kept under HS or TN conditions. This investigated molecular mechanisms involved in HS-induced reduction of breast...
+

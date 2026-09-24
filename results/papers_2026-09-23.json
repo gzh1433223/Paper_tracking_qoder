@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Telomere-to-telomere co-mapping of transposable elements and human genes identifies a cluster of young L1 elements in the interferon-alpha domain with potential evolutionary arms-race.",
+    "summary": "Transposable elements (TEs) have played a central role in major evolutionary transitions across the human lineage, from eukaryogenesis to the emergence of the eutherian placenta, and are currently reactivated in cancer and autoimmune diseases. The complete telomere-to-telomere (T2T) assembly enables comprehensive investigation of TE contributions to gene regulation. Using a 10 kb window around transcription start sites, we mapped 3,709,429 human TEs to 28,738 genes against a 500-permutation background and assessed the enrichment and functional associations of 6 TE classes and 44 families. We identified a 220 kb interferon-alpha domain enriched with young L1 elements: 77 of its 175 TEs are evolutionary young L1 copies from 36 subfamilies, at mean divergence 135.7 against 188.2 genome-wide. This is consistent with recent L1 activity and could indicate a recent evolutionary arms-race affecting innate immune gene regulation. Distinct TE classes exhibited specific functional associations: SVA elements were enriched near genes involved in transcription termination; Alu elements were linked to RNA processing and splicing; MIR elements were associated with zinc homeostasis and voltage-gated potassium channel genes; LINE elements were enriched near genes related to lipid metabolism and olfactory perception; and LTR elements were associated with ion transport. This correlative map provides a positional baseline against which epigenomic and functional TE studies can be normalized, and a set of candidate loci for further investigation of evolutionary arms race.",
+    "authors": [
+      "Nikitin Daniil"
+    ],
+    "published": "2026 Sep 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42777117/",
+    "pmid": "42777117",
+    "source": "PubMed"
+  },
+  {
+    "title": "NOC4L: An Emerging Dual-Action Target for Cancer Prognosis and Immunotherapy.",
+    "summary": "Nucleolar complex associated 4 homolog (NOC4L) is implicated in the pathogenesis of various diseases and has been reported to play a role in tumorigenesis. However, its diagnostic and prognostic significance across diverse cancer types remains underexplored.",
+    "authors": [
+      "Bai Hai",
+      "Xu Wanqing",
+      "Wei Guozheng",
+      "Cao Yue",
+      "Wang Mingming"
+    ],
+    "published": "2026 Sep 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776443/",
+    "pmid": "42776443",
+    "source": "PubMed"
+  },
+  {
+    "title": "A course-based undergraduate research experience (CURE) using transposon-directed insertion-site sequencing (TraDIS) to identify genes that are essential for bacteriophage P1 propagation in",
+    "summary": "Understanding gene function through forward genetic screens is foundational to microbial genetics. Here, we describe the design and implementation of a multi-week course-based undergraduate research experience (CURE) embedded within a third-year Microbial Genetics course, developed over three iterations in trimester 3 of 2023-2025. In this CURE, students construct a high-density Tn",
+    "authors": [
+      "Ling Gee Chong",
+      "Jin Christopher",
+      "Karadarevic Dimitri",
+      "Tsoi Abraham",
+      "Trimby Leah",
+      "Syeda Zakia Begum",
+      "Pudasaini Sarita",
+      "Poudyal Pranita",
+      "Bhandari Sabina",
+      "Lu Jackie",
+      "Alquethamy Saleh",
+      "Wu Winton",
+      "Harding Emma Fay",
+      "Cain Amy K",
+      "Tanaka Mark",
+      "Tree Jai J"
+    ],
+    "published": "2026 Sep 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776129/",
+    "pmid": "42776129",
+    "source": "PubMed"
+  },
+  {
+    "title": "Impact of chronic cyclic heat stress on breast muscle proteomics in broiler chicken.",
+    "summary": "1. Previous work has demonstrated that chronic cyclic heat stress (HS; 33°C for 8 h/day) resulted an 18.2% reduction in broiler breast muscle compared to a thermoneutral cohort (TN; 23°C). Given the deleterious impact of HS on broiler breast muscle mass, mass spectrometry (MS)-based proteomics was employed in the following trial to compare muscle protein expression in broiler chicken kept under HS or TN conditions. This investigated molecular mechanisms involved in HS-induced reduction of breast muscle mass.2. The experiment ran in broilers aged days 15-35. Acclimation occurred from day 15 to day 21, when birds in the HS group were exposed to a stepwise increase in temperature from 28°C to 33°C (8 h/day), achieving 33°C by day 21 which was maintained until day 35.3. On day 35, male birds were selected randomly (",
+    "authors": [
+      "Ahmadi F",
+      "Xie C",
+      "Cottrell J J",
+      "Leeming M G",
+      "Suleria H A R",
+      "Dunshea F R"
+    ],
+    "published": "2026 Sep 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42775416/",
+    "pmid": "42775416",
+    "source": "PubMed"
+  }
+]
