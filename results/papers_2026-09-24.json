@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Integrative analysis of cadmium exposure and osteoarthritis: from population evidence to molecular mechanisms.",
+    "summary": "This study integrates epidemiological analysis and computational toxicology approaches to systematically investigate the association between cadmium (Cd) exposure and osteoarthritis (OA), as well as the underlying molecular mechanisms. Based on the data from the 2013-2018 National Health and Nutrition Examination Survey (NHANES), multivariate logistic regression models and forest plot analyses revealed that elevated blood cadmium levels were significantly associated with an increased risk of OA, with particularly pronounced effects observed among individuals with diabetes, hypertension, vitamin D deficiency, low income, and smokers. Further, potential cadmium-related targets were identified through network toxicology, and by integrating differentially expressed genes (DEGs) in OA, weighted gene co-expression network analysis (WGCNA), and protein-protein interaction (PPI) networks (STRING), a total of 113 intersection genes were obtained. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses indicated that cadmium may promote OA progression by regulating pathways, such as cellular senescence, FOXO signaling, and TNF signaling. Through Cytoscape MCC algorithm, forest plot, and Lasso regression analysis, six key hub genes-MYC, FOXO1, FOXO3, ZFP36, AIF1, and KLF4-were identified. Molecular docking simulations further validated the strong binding affinity between cadmium nitrate and these core targets. Overall, this study comprehensively delineates the molecular network by which cadmium exposure may contribute to OA, providing novel insights into the environmental heavy metal toxicity mechanisms and potential therapeutic interventions.",
+    "authors": [
+      "Luo Yingjin",
+      "Zhou Daqian",
+      "Zhou Mingmin",
+      "Zheng Qianghua"
+    ],
+    "published": "2026 Sep 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42778761/",
+    "pmid": "42778761",
+    "source": "PubMed"
+  },
+  {
+    "title": "Pangenome-wide identification and expression analysis of the chalcone synthase (CHS) gene family in five yellowhorn spp.",
+    "summary": "Chalcone synthase (CHS) is a pivotal enzyme in flavonoid biosynthesis involved in plant development, defense, and secondary metabolism. Xanthoceras sorbifolium (yellowhorn) is a medicinal and ornamental species with high resistance to environmental stresses, but its CHS gene family remains uncharacterized. We performed a pangenome-wide identification of CHS genes across five yellowhorn genomes (Xzs4, Xwf8, Xjg, Xg11, and Xzg2). Across the five yellowhorn genomes, 27 CHS genes were identified and classified into four core pangenes, present in all five genomes, and two dispensable genes, present only in a subset of genomes. Phylogenetic analysis grouped these genes into three major clades, and chromosomal mapping and duplication analyses identified four tandemly duplicated gene pairs under purifying selection. The analyses of conserved structural features, including protein motifs and exon-intron organization, together with promoter cis-regulatory elements and gene ontology annotation, further indicated the potential involvement of CHS genes in flavonoid biosynthesis and stress-responsive mechanisms. Gene expression profiling identified significant upregulation of Xg11_CHS1 and Xg11_CHS3 under cold and drought stress, with tissue-specific expression patterns. These findings provide valuable insights into the evolution, functional diversification, and stress-responsive roles of the CHS gene family, identifying candidate genes for future studies targeting stress tolerance and flavonoid biosynthesis in yellowhorn.",
+    "authors": [
+      "Xiangyu Zuo",
+      "Pei Liu",
+      "Peiwen Lei",
+      "Xiangtai Mu",
+      "Fatima Kinza",
+      "Tahir Ul Qamar Muhammad",
+      "Al-Saud Najla B S",
+      "Tao Lu"
+    ],
+    "published": "2026 Sep 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42706599/",
+    "pmid": "42706599",
+    "source": "PubMed"
+  }
+]

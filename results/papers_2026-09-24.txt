@@ -1,0 +1,19 @@
+Ontology 文献追踪报告 - 2026-09-24
+==================================================
+
+共发现 2 篇新论文
+
+--- PubMed (2 篇) ------------------------------
+
+1. Integrative analysis of cadmium exposure and osteoarthritis: from population evidence to molecular mechanisms.
+   作者: Luo Yingjin, Zhou Daqian, Zhou Mingmin, Zheng Qianghua
+   链接: https://pubmed.ncbi.nlm.nih.gov/42778761/
+   PMID: 42778761
+   摘要: This study integrates epidemiological analysis and computational toxicology approaches to systematically investigate the association between cadmium (Cd) exposure and osteoarthritis (OA), as well as the underlying molecular mechanisms. Based on the data from the 2013-2018 National Health and Nutrition Examination Survey (NHANES), multivariate logistic regression models and forest plot analyses revealed that elevated blood cadmium levels were significantly associated with an increased risk of OA,...
+
+2. Pangenome-wide identification and expression analysis of the chalcone synthase (CHS) gene family in five yellowhorn spp.
+   作者: Xiangyu Zuo, Pei Liu, Peiwen Lei, Xiangtai Mu, Fatima Kinza 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42706599/
+   PMID: 42706599
+   摘要: Chalcone synthase (CHS) is a pivotal enzyme in flavonoid biosynthesis involved in plant development, defense, and secondary metabolism. Xanthoceras sorbifolium (yellowhorn) is a medicinal and ornamental species with high resistance to environmental stresses, but its CHS gene family remains uncharacterized. We performed a pangenome-wide identification of CHS genes across five yellowhorn genomes (Xzs4, Xwf8, Xjg, Xg11, and Xzg2). Across the five yellowhorn genomes, 27 CHS genes were identified and...
+
