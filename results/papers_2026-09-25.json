@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Two opposite effects of desmoglein 3 on the growth of oral squamous cell carcinoma between anchorage -dependent and -independent conditions.",
+    "summary": "Desmoglein 3 (Dsg3), a desmosomal cadherin, is aberrantly expressed in oral squamous cell carcinoma (OSCC), although its role remains controversial. Higher Dsg3 expression has been reported in metastatic lymph nodes compared with primary tumors. This study aimed to clarify the role of Dsg3 under anchorage-dependent (AD) and anchorage-independent (AID) conditions. Cell lines derived from primary tumors (P) and metastatic lymph nodes (LY) of three OSCC patients, along with two commercial OSCC cell lines, were analyzed for proliferation, migration, and multicellular aggregate (MCA) formation. Differentially expressed genes (DEGs) following Dsg3 knockdown were also examined, followed by Gene Ontology (GO) analysis. Under AD conditions, Dsg3-low cells showed significantly higher proliferation and migration than Dsg3-high cells (p < 0.05). In contrast, under AID conditions, Dsg3 expression was markedly upregulated (up to 50-fold), and Dsg3-high cells exhibited enhanced proliferation. However, Dsg3 knockdown significantly increased proliferation under AD conditions but had no significant effect under AID conditions. Instead, under AID conditions, Dsg3 knockdown significantly reduced aggregate size and increased variability in circularity, indicating impaired structural organization of MCAs. Consistent with these findings, DEG analysis revealed no enrichment of apoptosis- or cell cycle-related pathways under AID conditions. GO analysis indicated that DEGs under AD conditions were associated with macromolecule biosynthesis, whereas those under AID conditions were related to gene expression and nucleic acid biosynthesis. These results indicate that Dsg3 exerts anchorage-dependent functions in OSCC, suppressing proliferation under AD conditions while contributing to the structural organization of multicellular aggregates under AID conditions. This context-dependent role may underlie the paradoxical effects of Dsg3 and facilitate tumor adaptation to metastatic environments.",
+    "authors": [
+      "Inada Junichirou",
+      "Minabe Masaki",
+      "Akiyama Yurie",
+      "Higa Kazunari",
+      "Nomura Takeshi",
+      "Kouno Michiyoshi"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42789540/",
+    "pmid": "42789540",
+    "source": "PubMed"
+  },
+  {
+    "title": "Comparative transcriptomics reveals stage-specific regulatory pathways of ear thickening in Auricularia polytricha.",
+    "summary": "Auricularia polytricha is an economically important edible and medicinal mushroom widely cultivated in China. Ear thickness, as a core commercial trait of this mushroom, directly determines its product quality and economic value. To explore the potential molecular regulatory mechanisms governing ear thickness, we performed comparative transcriptome sequencing on fruiting bodies of the main cultivar 'Zhang'er 4328' and its stable thick-ear mutant 'B2872' at three key developmental stages: primordium stage (PD), young ear stage (IF), and mature stage (MF). Differentially expressed genes (DEGs) were screened, followed by Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses. GO enrichment results showed that DEGs were mainly enriched in biological processes associated with metabolic activity, cellular component formation, and catalytic function. KEGG enrichment analysis revealed a distinct stage-specific pattern: DEGs at the PD stage were primarily enriched in energy and substance synthesis pathways (e.g., thiamine metabolism, carbon metabolism); at the IF stage, DEGs were concentrated in pathways related to cell proliferation and structure formation (e.g., amino acid metabolism, nitrogen metabolism); and at the MF stage, DEGs were enriched in pathways involved in protein synthesis and cellular homeostasis maintenance (e.g., ribosome, endoplasmic reticulum protein processing). Our findings indicate that pathways related to energy metabolism, cell proliferation, and protein synthesis provide essential energy and material support for ear thickness in A. polytricha. This exploratory study preliminarily fills the research gap in the molecular mechanism underlying ear thickness variation in A. polytricha and provides a preliminary theoretical reference for molecular marker-assisted breeding of thick-ear varieties.",
+    "authors": [
+      "Huang Yi-Ning",
+      "Ke Li-Na",
+      "Yuan Bin",
+      "Lin Yongwen"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42789504/",
+    "pmid": "42789504",
+    "source": "PubMed"
+  },
+  {
+    "title": "SGPP1 as a tumor suppressor in esophageal squamous cell carcinoma: Potential molecular mechanisms involving UGT1A9/UGT2B28 and clinical prognostic significance.",
+    "summary": "The present study aimed to characterize the expression pattern and biological function of sphingosine‑1‑phosphate phosphatase 1 (SGPP1) in esophageal squamous cell carcinoma (ESCC), investigate its potential molecular regulatory mechanisms, and evaluate its clinical value as a prognostic biomarker and therapeutic target. SGPP1 expression in ESCC cell lines was assessed by reverse transcription‑quantitative PCR and western blotting. Models of SGPP1 overexpression in KYSE150 cells and SGPP1 knockdown in ECA109 cells were established. 5‑Ethynyl‑2'‑deoxyuridine, Cell Counting Kit‑8, colony formation, terminal deoxynucleotidyl transferase dUTP nick‑end labeling, wound healing and Transwell assays were performed to systematically analyze the effects of SGPP1 on ESCC cell proliferation, apoptosis, migration and invasion. The Cancer Genome Atlas‑ESCC data were integrated with Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses, gene set enrichment analysis and UpSet plotting to identify key downstream pathways and candidate target genes. SGPP1 protein expression was evaluated by immunohistochemistry in tumor tissues from 68 patients with ESCC, and Cox regression analysis was used to assess its association with patient prognosis. The results demonstrated that SGPP1 expression varied markedly among ESCC cell lines, with low expression in KYSE150 cells and high expression in ECA109 cells. SGPP1 overexpression significantly inhibited ESCC cell proliferation, migration and invasion, and increased apoptosis‑associated DNA fragmentation, whereas SGPP1 knockdown produced the opposite effects. Mechanistically, the data suggested that SGPP1 modulates extracellular matrix remodeling and xenobiotic metabolism, potentially through negative regulation of UGT1A9 and UGT2B28 expression. Clinically, low SGPP1 expression was an independent risk factor for poor prognosis in patients with ESCC (HR=6.016, 95% CI: 3.143‑11.513, P<0.001), and the overall survival was significantly longer in the high‑expression group than in the low‑expression group (P<0.001). In conclusion, SGPP1 functions as a tumor suppressor gene in ESCC and may inhibit tumor progression by regulating UGT1A9/UGT2B28‑mediated metabolic pathways. SGPP1 may therefore serve as a prognostic biomarker and a potential therapeutic target in ESCC.",
+    "authors": [
+      "Su Linlin",
+      "Hou Liubing",
+      "Han Xuetao",
+      "Zhang Ge",
+      "Li Jiayuan",
+      "Wang Yu",
+      "Han Yuxin",
+      "Xue Xiaoying",
+      "Zhou Huandi"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42788356/",
+    "pmid": "42788356",
+    "source": "PubMed"
+  },
+  {
+    "title": "Harnessing computational intelligence for synthetic lethality: A roadmap from network biology to interpretable deep learning in precision oncology.",
+    "summary": "Synthetic lethality (SL) is an emerging therapeutic paradigm in precision oncology that enables the selective targeting of cancer cells based on their specific genetic vulnerabilities. Despite its clinical promise, the enormous combinatorial search space of gene-gene interactions poses a major challenge for experimental screening. This review provides a critical survey of computational SL discovery, moving beyond sequential descriptions to offer a comparative synthesis of architectures ranging from traditional network-based models to advanced graph transformers and knowledge graph reasoning. We address a critical gap in the field by providing evidence-based best practices for methodological evaluation, including rigorous data splitting schemes, metric selection under class imbalance, and strategies for robust negative sampling. Furthermore, we discuss the clinical implications of synthetic rescue, a compensatory phenomenon that bypasses SL-induced cell death and acts as a primary mediator of drug resistance. By integrating multi-omics data, interpretable deep learning, and synthetic rescue mechanisms, we provide a practical translational framework for prioritizing candidates that are robust to resistance mechanisms. This roadmap aims to bridge the gap between computational prediction and actionable clinical insights in precision oncology.",
+    "authors": [
+      "Noh Yumi",
+      "Farh Mohamed El-Agamy",
+      "Ryu Jae Yong",
+      "Jang Woo Dae"
+    ],
+    "published": "2026 Sep 25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42264143/",
+    "pmid": "42264143",
+    "source": "PubMed"
+  }
+]

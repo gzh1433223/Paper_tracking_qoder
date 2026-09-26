@@ -1,0 +1,31 @@
+Ontology 文献追踪报告 - 2026-09-25
+==================================================
+
+共发现 4 篇新论文
+
+--- PubMed (4 篇) ------------------------------
+
+1. Two opposite effects of desmoglein 3 on the growth of oral squamous cell carcinoma between anchorage -dependent and -independent conditions.
+   作者: Inada Junichirou, Minabe Masaki, Akiyama Yurie, Higa Kazunari, Nomura Takeshi 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42789540/
+   PMID: 42789540
+   摘要: Desmoglein 3 (Dsg3), a desmosomal cadherin, is aberrantly expressed in oral squamous cell carcinoma (OSCC), although its role remains controversial. Higher Dsg3 expression has been reported in metastatic lymph nodes compared with primary tumors. This study aimed to clarify the role of Dsg3 under anchorage-dependent (AD) and anchorage-independent (AID) conditions. Cell lines derived from primary tumors (P) and metastatic lymph nodes (LY) of three OSCC patients, along with two commercial OSCC cell...
+
+2. Comparative transcriptomics reveals stage-specific regulatory pathways of ear thickening in Auricularia polytricha.
+   作者: Huang Yi-Ning, Ke Li-Na, Yuan Bin, Lin Yongwen
+   链接: https://pubmed.ncbi.nlm.nih.gov/42789504/
+   PMID: 42789504
+   摘要: Auricularia polytricha is an economically important edible and medicinal mushroom widely cultivated in China. Ear thickness, as a core commercial trait of this mushroom, directly determines its product quality and economic value. To explore the potential molecular regulatory mechanisms governing ear thickness, we performed comparative transcriptome sequencing on fruiting bodies of the main cultivar 'Zhang'er 4328' and its stable thick-ear mutant 'B2872' at three key developmental stages: primord...
+
+3. SGPP1 as a tumor suppressor in esophageal squamous cell carcinoma: Potential molecular mechanisms involving UGT1A9/UGT2B28 and clinical prognostic significance.
+   作者: Su Linlin, Hou Liubing, Han Xuetao, Zhang Ge, Li Jiayuan 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42788356/
+   PMID: 42788356
+   摘要: The present study aimed to characterize the expression pattern and biological function of sphingosine‑1‑phosphate phosphatase 1 (SGPP1) in esophageal squamous cell carcinoma (ESCC), investigate its potential molecular regulatory mechanisms, and evaluate its clinical value as a prognostic biomarker and therapeutic target. SGPP1 expression in ESCC cell lines was assessed by reverse transcription‑quantitative PCR and western blotting. Models of SGPP1 overexpression in KYSE150 cells and SGPP1 knockd...
+
+4. Harnessing computational intelligence for synthetic lethality: A roadmap from network biology to interpretable deep learning in precision oncology.
+   作者: Noh Yumi, Farh Mohamed El-Agamy, Ryu Jae Yong, Jang Woo Dae
+   链接: https://pubmed.ncbi.nlm.nih.gov/42264143/
+   PMID: 42264143
+   摘要: Synthetic lethality (SL) is an emerging therapeutic paradigm in precision oncology that enables the selective targeting of cancer cells based on their specific genetic vulnerabilities. Despite its clinical promise, the enormous combinatorial search space of gene-gene interactions poses a major challenge for experimental screening. This review provides a critical survey of computational SL discovery, moving beyond sequential descriptions to offer a comparative synthesis of architectures ranging f...
+
