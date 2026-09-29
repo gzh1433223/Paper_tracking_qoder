@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Spatial cell-cell communication inference based on cell-spot-ligand-receptor heterogeneous graphs.",
+    "summary": "Cell-cell communication is essential for tissue homeostasis and disease-associated microenvironment remodeling. Spatial transcriptomics enables the study of communication events in situ, but single-cell-resolution inference from spot-based data remains challenging because of uncertain cell-to-spot mapping, limited use of local spatial information, and false positives from ligand-receptor co-expression. Existing methods increasingly emphasize spatial proximity in cell-cell communication inference, while integrating biologically informative signals remains important for improving the interpretability of candidate communication events. Here, we present SpaHCC, a heterogeneous graph learning framework that integrates single-cell transcriptomics, spatial transcriptomics, and prior ligand-receptor knowledge for spatial cell-cell communication inference. By jointly leveraging molecular features, spatial neighborhood information, and cellular functional states, SpaHCC prioritizes candidate communication events and supports their biological contextualization through pathway, transcription factor, and receptor-side response analyses. Benchmark and spatial consistency analyses showed that SpaHCC recovered spatially coherent candidate communication signals. In Alzheimer's disease data, SpaHCC identified recurrent excitatory neuron-associated candidate patterns, including NRXN- and FLRT2-related modules associated with synaptic remodeling and inflammation-related transcriptional programs. Cross-patient analyses showed recurrence of selected AD-associated candidate patterns, while representative cSCC and PDAC analyses illustrated the spatial interpretability of the framework in additional disease contexts. Overall, SpaHCC provides an effective and interpretable framework for spatially resolved cell-cell communication analysis in complex diseases.",
+    "authors": [
+      "Li Xiong",
+      "Wu Dongding",
+      "Zhang Yuejin",
+      "Chen Min",
+      "Liu Chong"
+    ],
+    "published": "2026 Sep 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42804522/",
+    "pmid": "42804522",
+    "source": "PubMed"
+  },
+  {
+    "title": "Prepartum E2-driven tissue-specific transcriptomic changes in the ewe reproductive tract.",
+    "summary": "Estrogens regulate key processes in parturition, yet the specific effects of estradiol (E2) on maternal reproductive tissues in sheep remain unclear. This study investigated the impact of exogenous E2, mimicking physiological prepartum levels, on gene expression in the myometrium, endometrium, cervix, and placental membranes, as well as sex steroid receptor protein expression in uterine compartments of late pregnant ewes. Pregnant ewes (139-142 d gestation) received Silastic implants containing either E2 (200 µg/ewe, n = 6) or control (n = 6), and tissues were collected 26 h post-treatment. Bulk RNA sequencing assessed differential gene expression, while fluorescence immunohistochemistry evaluated nuclear receptor localization and intensity. Transcriptomic analysis (FDR < 0.05) revealed a tissue-specific response, with the cervix showing the most robust transcriptional changes. Gene ontology enrichment indicated downregulation of extracellular matrix organization pathways associated with cervical dilation at parturition. Targeted analyses revealed regulation of genes related to prostaglandin synthesis, steroid metabolism, immune signaling, and ECM remodeling. The endometrium displayed a moderate response, whereas the myometrium and placental tissues exhibited minimal changes. At the protein level, myometrial progesterone receptor (PR) expression was significantly reduced (p < 0.05), while ERα and ERβ were unaffected. These findings demonstrate that the prepartum rise in E2 is associated with tissue-specific gene expression changes in the ewe uterine tract. In the cervix, the most affected tissue, transcriptomic changes are consistent with cervical ripening. Reduced myometrial PR expression suggests decreased progesterone responsiveness.",
+    "authors": [
+      "Davila Ruiz Bethania J",
+      "Kanjanaruch Chutikun",
+      "Diniz Wellison J S",
+      "Banerjee Priyanka",
+      "Dahlen Carl R",
+      "Borowicz Pawel P",
+      "Schauer Christopher S",
+      "Hirchert Mara R",
+      "Caton Joel S",
+      "Conley Alan J",
+      "Reynolds Lawrence P"
+    ],
+    "published": "2026 Sep 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42804472/",
+    "pmid": "42804472",
+    "source": "PubMed"
+  },
+  {
+    "title": "The lung speaks out-and machines are listening.",
+    "summary": "Listening to audible sound for medical diagnosis and monitoring spans health care professionals, physiologists, psychologists, and computer engineers. Artificial intelligence has advanced acoustic analysis in both voice/speech science and respiratory medicine, but asymmetrically. This asymmetry has deep roots: McKusick's adoption of sound spectrography and Forgacs' oscilloscope-based waveform inspection applied methods established in voice/speech acoustics. The same one-way pattern persists: sound-classification methods migrate from voice/speech research into lung sound analysis with a multi-year lag.",
+    "authors": [
+      "Pasterkamp Hans"
+    ],
+    "published": "2026 Sep 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42804411/",
+    "pmid": "42804411",
+    "source": "PubMed"
+  },
+  {
+    "title": "Vibe Analysis: Exploring LLM Adoption by Data Visualization Practitioners.",
+    "summary": "Large language models (LLMs) are enticing in their promise to support data visualization (Vis) through faster and simpler workflows for data prep, analysis, and visualization creation. Yet LLMs are notoriously error-prone and not built for data visualization tasks. Few studies have explored LLM adoption among Vis practitioners. To fill this gap, we conducted semi-structured interviews with members of the Data Visualization Society, a global community of data visualization designers. Our findings show that Vis designers actively use LLMs for both creative and technical aspects of the visualization process. A new visualization workflow is emerging, a process we call vibe analysis, analogous to vibe coding. Some key challenges raised by participants parallel those of vibe coding, while others are Vis-specific, like gaps in Vis knowledge and chart verification. This work opens up opportunities for research combining LLM-mediated work with Vis tools that incorporate data visualization guidance, constraints, and best practices.",
+    "authors": [
+      "Spivak Shani C",
+      "Krishna Aditi",
+      "Nourani Mahsan",
+      "Tory Melanie"
+    ],
+    "published": "2026 Sep 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42804400/",
+    "pmid": "42804400",
+    "source": "PubMed"
+  },
+  {
+    "title": "Serum exosomal miRNA signature in hypertension: an exploratory study integrating with comparative analysis of the GEO database.",
+    "summary": "Essential hypertension (EH) remains a leading cause of mortality worldwide. Exosome-carried microRNAs (miRNAs) play a pivotal role in the pathogenesis of EH. In this exploratory study, we aimed to characterize the serum exosomal miRNA expression profile in patients with EH and to investigate the potential functional relevance of differentially expressed (DE) miRNAs, aiming to provide preliminary evidence for future mechanistic investigations. Serum exosomes were isolated from patients with EH and healthy controls, followed by small RNA sequencing. Differentially expressed (DE) miRNAs were identified and further subjected to bioinformatic target gene prediction. To elucidate the potential biological functions of these target genes, Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses were performed. Additionally, a comparative analysis of the DE miRNAs was conducted using an independent dataset from the Gene Expression Omnibus (GEO) database. Six significantly downregulated miRNAs (hsa-miR-16-5p, hsa-miR-652-3p, hsa-miR-93-5p, hsa-miR-17-5p, hsa-miR-20a-5p, hsa-miR-193a-5p) were identified in 20 hypertensive patients compared with 10 healthy controls. GO and KEGG analyses revealed that the predicted target genes of these miRNAs were significantly enriched in biological processes related to neuronal function, protein homeostasis, and cell cycle regulation, and were primarily involved in MAPK, Hippo, p53, and TGF-β signaling pathways. Notably, comparative analysis of the GEO dataset demonstrated a distinct expression profile between exosomal and total plasma miRNAs, underscoring the unique value of exosome-specific analysis. This exploratory study identified six serum exosomal miRNAs as candidate biomarkers for hypertension, with predicted targets enriched in MAPK and TGF‑β pathways. The exosomal signature was distinct from total plasma miRNA profiles, suggesting that exosomal miRNAs may carry disease‑specific signals. However, given the limited sample size and exploratory nature of this study, these findings are preliminary and require validation in larger cohorts.",
+    "authors": [
+      "Zhong Dongling",
+      "Zhang Yue",
+      "Liu Tianyu",
+      "Li Yuxi",
+      "Liu Xiaobo",
+      "Chen Yuan",
+      "Liang Qian",
+      "Chen Jiayi",
+      "Lei Congjie",
+      "Jin Rongjiang",
+      "Li Juan"
+    ],
+    "published": "2026 Sep 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42803867/",
+    "pmid": "42803867",
+    "source": "PubMed"
+  },
+  {
+    "title": "Autoimmune disease influence on polycystic ovary syndrome: Insights from Mendelian randomization and multi-omics analysis.",
+    "summary": "Polycystic ovary syndrome (PCOS) is a common endocrine disorder associated with a substantial health burden.",
+    "authors": [
+      "Yu Jing",
+      "Chen Si",
+      "Chen Yue",
+      "Chu Tong",
+      "Zhou Keda",
+      "Wang Peijuan"
+    ],
+    "published": "2026 Sep 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42803088/",
+    "pmid": "42803088",
+    "source": "PubMed"
+  },
+  {
+    "title": "Transferable FB-GNN-MBE framework for potential energy surfaces: Data-adaptive transfer learning in deep learned many-body expansion theory.",
+    "summary": "Mechanistic understanding and rational design of complex chemical systems depend on fast and accurate predictions of electronic structures beyond individual building blocks. However, if the system exceeds hundreds of atoms, first-principles quantum mechanical (QM) modeling becomes impractical. In this study, we developed FB-GNN-MBE by integrating a fragment-based graph neural network (FB-GNN) into the many-body expansion (MBE) theory and demonstrated its capacity to reproduce first-principles potential energy surfaces for hierarchically structured systems with manageable accuracy, complexity, and interpretability. Specifically, we divided the entire system into basic building blocks (fragments), evaluated their one-fragment energies using a QM model, and addressed many-fragment interactions using the structure-property relationships trained by FB-GNNs. Our investigation shows that FB-GNN-MBE achieves chemical accuracy in predicting two-fragment (2B) and three-fragment (3B) energies across water, phenol, and mixture benchmarks, as well as the one-dimensional dissociation curves of water and phenol dimers. To transfer the success of FB-GNN-MBE across various systems with minimal computational costs and data demands, we developed and validated a teacher-student learning protocol. A heavy-weight FB-GNN trained on a mixed-density water cluster ensemble (teacher) distills its learned knowledge and passes it to a light-weight GNN (student), which is later fine-tuned on a normal-density (H2O)21 cluster ensemble. This transfer learning strategy resulted in efficient and accurate prediction of 2B and 3B energies for variously sized water clusters without retraining. Our transferable FB-GNN-MBE framework outperformed conventional non-FB-GNN-based models and provided a scalable and accurate route toward interaction energies of large molecular assemblies.",
+    "authors": [
+      "Chen Siqi",
+      "Wang Zhiqiang",
+      "Shen Yili",
+      "Deng Xianqi",
+      "Cheng Xi",
+      "Ju Cheng-Wei",
+      "Yi Jun",
+      "Ling Guo",
+      "Alhmoud Dieaa",
+      "Guan Hui",
+      "Lin Zhou"
+    ],
+    "published": "2026 Sep 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42775754/",
+    "pmid": "42775754",
+    "source": "PubMed"
+  },
+  {
+    "title": "Dynamic coarsened spatio-temporal graph convolutional networks for fMRI classification of addiction-induced sleep disorders.",
+    "summary": "Substance use disorder is frequently characterized by persistent sleep disorders that hinder cognitive recovery. Accurately identifying these disruptions requires methods capable of tracking both spatial interactions and the temporal evolution of brain activity. While functional magnetic resonance imaging (fMRI) offers valuable insights into broad neural patterns, conventional fMRI classification methods typically rely on static connectivity and predefined knowledge. These conventional approaches may fail to account for the complex, time-varying nature of brain networks, thereby posing significant challenges for accurate fMRI classification. To overcome these limitations, this paper proposed the Dynamic Coarsened Spatio-Temporal Graph Convolutional Network, a data-driven framework designed to model the brain as a time-evolving directed graph and extract highly distinct data features. The framework achieves this by integrating two key components: a dynamic causal learning module that maps evolving connections over time, and a noise-reducing Gaussian mixture model. Experimental results indicate that the proposed approach outperforms existing methods in classifying fMRI data related to addiction-induced sleep disorders, offering a robust solution for high-dimensional fMRI analysis in clinical neurology.",
+    "authors": [
+      "Shen Jiaqi",
+      "Meng Jiaying",
+      "Zeng Jiusun",
+      "Ye Bo"
+    ],
+    "published": "2026 Sep 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42743951/",
+    "pmid": "42743951",
+    "source": "PubMed"
+  }
+]

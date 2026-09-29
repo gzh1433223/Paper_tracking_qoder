@@ -1,0 +1,55 @@
+Ontology 文献追踪报告 - 2026-09-28
+==================================================
+
+共发现 8 篇新论文
+
+--- PubMed (8 篇) ------------------------------
+
+1. Spatial cell-cell communication inference based on cell-spot-ligand-receptor heterogeneous graphs.
+   作者: Li Xiong, Wu Dongding, Zhang Yuejin, Chen Min, Liu Chong
+   链接: https://pubmed.ncbi.nlm.nih.gov/42804522/
+   PMID: 42804522
+   摘要: Cell-cell communication is essential for tissue homeostasis and disease-associated microenvironment remodeling. Spatial transcriptomics enables the study of communication events in situ, but single-cell-resolution inference from spot-based data remains challenging because of uncertain cell-to-spot mapping, limited use of local spatial information, and false positives from ligand-receptor co-expression. Existing methods increasingly emphasize spatial proximity in cell-cell communication inference...
+
+2. Prepartum E2-driven tissue-specific transcriptomic changes in the ewe reproductive tract.
+   作者: Davila Ruiz Bethania J, Kanjanaruch Chutikun, Diniz Wellison J S, Banerjee Priyanka, Dahlen Carl R 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42804472/
+   PMID: 42804472
+   摘要: Estrogens regulate key processes in parturition, yet the specific effects of estradiol (E2) on maternal reproductive tissues in sheep remain unclear. This study investigated the impact of exogenous E2, mimicking physiological prepartum levels, on gene expression in the myometrium, endometrium, cervix, and placental membranes, as well as sex steroid receptor protein expression in uterine compartments of late pregnant ewes. Pregnant ewes (139-142 d gestation) received Silastic implants containing ...
+
+3. The lung speaks out-and machines are listening.
+   作者: Pasterkamp Hans
+   链接: https://pubmed.ncbi.nlm.nih.gov/42804411/
+   PMID: 42804411
+   摘要: Listening to audible sound for medical diagnosis and monitoring spans health care professionals, physiologists, psychologists, and computer engineers. Artificial intelligence has advanced acoustic analysis in both voice/speech science and respiratory medicine, but asymmetrically. This asymmetry has deep roots: McKusick's adoption of sound spectrography and Forgacs' oscilloscope-based waveform inspection applied methods established in voice/speech acoustics. The same one-way pattern persists: sou...
+
+4. Vibe Analysis: Exploring LLM Adoption by Data Visualization Practitioners.
+   作者: Spivak Shani C, Krishna Aditi, Nourani Mahsan, Tory Melanie
+   链接: https://pubmed.ncbi.nlm.nih.gov/42804400/
+   PMID: 42804400
+   摘要: Large language models (LLMs) are enticing in their promise to support data visualization (Vis) through faster and simpler workflows for data prep, analysis, and visualization creation. Yet LLMs are notoriously error-prone and not built for data visualization tasks. Few studies have explored LLM adoption among Vis practitioners. To fill this gap, we conducted semi-structured interviews with members of the Data Visualization Society, a global community of data visualization designers. Our findings...
+
+5. Serum exosomal miRNA signature in hypertension: an exploratory study integrating with comparative analysis of the GEO database.
+   作者: Zhong Dongling, Zhang Yue, Liu Tianyu, Li Yuxi, Liu Xiaobo 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42803867/
+   PMID: 42803867
+   摘要: Essential hypertension (EH) remains a leading cause of mortality worldwide. Exosome-carried microRNAs (miRNAs) play a pivotal role in the pathogenesis of EH. In this exploratory study, we aimed to characterize the serum exosomal miRNA expression profile in patients with EH and to investigate the potential functional relevance of differentially expressed (DE) miRNAs, aiming to provide preliminary evidence for future mechanistic investigations. Serum exosomes were isolated from patients with EH an...
+
+6. Autoimmune disease influence on polycystic ovary syndrome: Insights from Mendelian randomization and multi-omics analysis.
+   作者: Yu Jing, Chen Si, Chen Yue, Chu Tong, Zhou Keda 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42803088/
+   PMID: 42803088
+   摘要: Polycystic ovary syndrome (PCOS) is a common endocrine disorder associated with a substantial health burden....
+
+7. Transferable FB-GNN-MBE framework for potential energy surfaces: Data-adaptive transfer learning in deep learned many-body expansion theory.
+   作者: Chen Siqi, Wang Zhiqiang, Shen Yili, Deng Xianqi, Cheng Xi 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42775754/
+   PMID: 42775754
+   摘要: Mechanistic understanding and rational design of complex chemical systems depend on fast and accurate predictions of electronic structures beyond individual building blocks. However, if the system exceeds hundreds of atoms, first-principles quantum mechanical (QM) modeling becomes impractical. In this study, we developed FB-GNN-MBE by integrating a fragment-based graph neural network (FB-GNN) into the many-body expansion (MBE) theory and demonstrated its capacity to reproduce first-principles po...
+
+8. Dynamic coarsened spatio-temporal graph convolutional networks for fMRI classification of addiction-induced sleep disorders.
+   作者: Shen Jiaqi, Meng Jiaying, Zeng Jiusun, Ye Bo
+   链接: https://pubmed.ncbi.nlm.nih.gov/42743951/
+   PMID: 42743951
+   摘要: Substance use disorder is frequently characterized by persistent sleep disorders that hinder cognitive recovery. Accurately identifying these disruptions requires methods capable of tracking both spatial interactions and the temporal evolution of brain activity. While functional magnetic resonance imaging (fMRI) offers valuable insights into broad neural patterns, conventional fMRI classification methods typically rely on static connectivity and predefined knowledge. These conventional approache...
+
