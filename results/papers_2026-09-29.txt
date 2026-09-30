@@ -1,0 +1,19 @@
+Ontology 文献追踪报告 - 2026-09-29
+==================================================
+
+共发现 2 篇新论文
+
+--- PubMed (2 篇) ------------------------------
+
+1. Disentangling Visual and Factual Correctness in LVLMs' Visualization Literacy.
+   作者: Lee Soohyun, Kim Jaeyoung, Park Seokhyeon, Lee Sihyeon, Song Jiwon 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42809471/
+   PMID: 42809471
+   摘要: Large Vision-Language Models (LVLMs) have shown remarkable capabilities in visualization interpretation, yet it remains unclear whether their responses reflect genuine reasoning over visual evidence or the influence of factual priors learned during training. Current evaluation methods mix these two sources, obscuring when correct visual interpretation is overridden by memorized factual knowledge. We present a disentanglement framework that systematically isolates visual correctness from factual ...
+
+2. Differential Sperm DNA Methylation Profiles in Healthy Men With High Versus Low Adherence to the Mediterranean Diet in the Led-Fertyl Study.
+   作者: Agarwal Rashmi, Babio Nancy, Davila-Cordova Estefanía, Puente María Fernández de la, Valle-Hita Cristina 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42806859/
+   PMID: 42806859
+   摘要: Diet is known to play an essential role not only in sperm quality but also in offspring health, likely mediated through the sperm epigenome. Moreover, one of the main components of the Mediterranean diet (MedDiet) (i.e., nuts) have shown to impact sperm DNA methylation patterns....
+

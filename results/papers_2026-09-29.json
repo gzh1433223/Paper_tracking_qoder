@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Disentangling Visual and Factual Correctness in LVLMs' Visualization Literacy.",
+    "summary": "Large Vision-Language Models (LVLMs) have shown remarkable capabilities in visualization interpretation, yet it remains unclear whether their responses reflect genuine reasoning over visual evidence or the influence of factual priors learned during training. Current evaluation methods mix these two sources, obscuring when correct visual interpretation is overridden by memorized factual knowledge. We present a disentanglement framework that systematically isolates visual correctness from factual correctness, revealing fundamental validity limitations in existing visualization literacy assessments. Through three complementary experiments with 15 state-of-theart LVLMs, we demonstrate that: (1) Although several models achieve human-level performance on standard tests (VLAT), such performance may reflect factual recall rather than visual understanding, whereas randomized-data tests (reVLAT) underestimate visualization literacy when visual interpretation is correct but superseded by conflicting factual priors. (2) Using our Counterfactual Visualization Literacy Assessment Test (CVLAT) alongside capability-normalized arbitration metrics, we classify models by the sign of their visual-factual reliance index (VFRI). This classification reveals a visualization-oriented majority and a factual knowledge-oriented minority, although several near-zero cases warrant cautious interpretation. The factual knowledgeoriented minority tends to override the chart with prior knowledge. A human baseline (N = 30) on the same counterfactual items confirms that people overwhelmingly follow the chart under conflict, providing a human reference point for visual-factual arbitration. (3) Prompt-based intervention can shift this prioritization, but its effectiveness is highly model-dependent and often direction-asymmetric, with some models responding strongly to only one prompt direction. Furthermore, high chart-reading capability does not predict prompt-controllability, indicating that visual-factual arbitration is not uniformly steerable. Overall, our findings demonstrate that LVLMs' high visualization accuracy is not sufficient evidence of faithful visual reasoning. We argue that reliable LVLM integration into visual analytics requires evaluating not only visualization literacy, but also how models arbitrate between visual evidence and factual priors, particularly when the two sources diverge. The CVLAT benchmark and code are available at https://github.com/JaeyoungKim-HCIL/CVLAT.",
+    "authors": [
+      "Lee Soohyun",
+      "Kim Jaeyoung",
+      "Park Seokhyeon",
+      "Lee Sihyeon",
+      "Song Jiwon",
+      "Kim Bohyoung",
+      "Song Hyunjoo",
+      "Seo Jinwook"
+    ],
+    "published": "2026 Sep 29",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42809471/",
+    "pmid": "42809471",
+    "source": "PubMed"
+  },
+  {
+    "title": "Differential Sperm DNA Methylation Profiles in Healthy Men With High Versus Low Adherence to the Mediterranean Diet in the Led-Fertyl Study.",
+    "summary": "Diet is known to play an essential role not only in sperm quality but also in offspring health, likely mediated through the sperm epigenome. Moreover, one of the main components of the Mediterranean diet (MedDiet) (i.e., nuts) have shown to impact sperm DNA methylation patterns.",
+    "authors": [
+      "Agarwal Rashmi",
+      "Babio Nancy",
+      "Davila-Cordova Estefanía",
+      "Puente María Fernández de la",
+      "Valle-Hita Cristina",
+      "Arribas Carles",
+      "Esteller Manel",
+      "Noguera-Castells Aleix",
+      "Pluvinet Raquel",
+      "Salas-Salvadó Jordi",
+      "Salas-Huetos Albert"
+    ],
+    "published": "2026 Sep 29",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806859/",
+    "pmid": "42806859",
+    "source": "PubMed"
+  }
+]
