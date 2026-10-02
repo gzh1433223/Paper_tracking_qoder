@@ -1,0 +1,306 @@
+Ontology 文献追踪报告 - 2026-10-01
+==================================================
+
+共发现 50 篇新论文
+
+--- PubMed (50 篇) ------------------------------
+
+1. HUCMSCs-Derived Exosomes Attenuate Keloid Fibroblast Pathological Phenotypes with Associated Metabolic-Redox-Matrix Network Remodeling: A Proteomic and
+   作者: Chen Zimiao, Lu Lina, Liu Qin, Chen Xiaosong
+   链接: https://pubmed.ncbi.nlm.nih.gov/42818600/
+   PMID: 42818600
+   摘要: Keloids are fibroproliferative disorders characterized by excessive extracellular matrix deposition, and current treatments remain unsatisfactory because of high recurrence rates. Human umbilical cord mesenchymal stem cell-derived exosomes (HUCMSCs-Exo) have emerged as investigational cell-free candidates for the treatment of fibrotic diseases....
+
+2. Phenotyping and hierarchical clustering in genetically unresolved DSD identifies distinct multisystem clinical subgroups-a DSDgene study.
+   作者: Kouri Chrysanthi, Allimussina Malika, Ahmed S Faisal, Flück Christa E
+   链接: https://pubmed.ncbi.nlm.nih.gov/42812600/
+   PMID: 42812600
+   摘要: A substantial proportion of individuals with differences of sex development (DSD) remain without an identifiable molecular diagnosis. Systematic phenotyping may reveal clinically relevant patterns and inform genomic investigation....
+
+3. Single-Cell Analysis of Cartilage-Derived Cells Identifies Diverse Populations and a Cholesterol/ER-Stress Chondrocyte Subset in Knee OA.
+   作者: Kobori Yu, Nishitani Kohei, Yoshitomi Hiroyuki, Murakami Akinori, Ichiyanagi Kazuki 等 20 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42811796/
+   PMID: 42811796
+   摘要: This study aimed to elucidate the cellular and molecular mechanisms underlying knee osteoarthritis pathogenesis by analyzing chondrocyte populations and their spatial distribution using single-cell RNA sequencing (scRNA-seq). Knee cartilage cells underwent scRNA-seq. Cellular clusters were identified via gene expression profiles and annotated using gene ontology analyses. Correlations between cluster proportions and patient background characteristics were evaluated. Differentiation trajectories ...
+
+4. Weighted Single-Step GWAS Reveals Genetic Mechanisms Underlying Pregnancy Loss in Early Nellore Heifers.
+   作者: Bis Flávia C, Stafuzza Nedenia Bonvino, de Mattos Elisângela Chicaroni, Pereira Angélica Simone Cravo, Ferraz José Bento Sterman 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42811752/
+   PMID: 42811752
+   摘要: Pregnancy loss (PL) affects reproductive efficiency in beef cattle, yet its genetic architecture remains poorly understood in Bos indicus populations. Here, PL was defined as failure from pregnancy diagnosis to calving, capturing a window approximately 60 days after the breeding season. This study aimed to identify genomic regions and biological pathways associated with PL in early Nellore heifers using weighted single-step genome-wide association study (WssGWAS). Phenotypic records from 23 507 ...
+
+5. Rates of Evolution Differ Between Cell Types Identified by Single-Cell RNAseq in Threespine Stickleback.
+   作者: Rodgers Maria L, Subramanian Swapna, Fuess Lauren E, He Wan, Scarpino Samuel V 等 12 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42806242/
+   PMID: 42806242
+   摘要: Rates of evolutionary change vary by gene. While some broad gene categories are highly conserved with little divergence over time, others undergo continuous selection pressure and are highly divergent among populations or species. But such comparative evolutionary studies rely on gene ontology categories that are rarely validated in the study's focal species. An alternative is to determine species-specific gene functions using single-cell RNA sequencing (scRNAseq) that identifies cell types and ...
+
+6. Beyond Technification: Ontological and Hermeneutic Foundations of Nursing Care.
+   作者: Vázquez-Sellán Antonio, Sellán-Soto María Carmen, Mateo-Martínez Ginés
+   链接: https://pubmed.ncbi.nlm.nih.gov/42801733/
+   PMID: 42801733
+   摘要: In this article, we examine the ontological, hermeneutic, and temporal dimensions of nursing care to explore how contemporary nursing practice and professional identity may be understood beyond exclusively technical accounts of care. Drawing primarily on Heidegger's ontology and Gadamer's philosophical hermeneutics, and engaging with concepts such as liminality, temporality, vulnerability, and self-care, the article develops a theoretical framework for understanding nursing as a relational, inte...
+
+7. EA-DualGAT: An error-aware dual-graph attention framework for Parkinson's disease diagnosis from wearable plantar pressure gait signals.
+   作者: Rashnu Alireza, Salimi-Badr Armin
+   链接: https://pubmed.ncbi.nlm.nih.gov/42743854/
+   PMID: 42743854
+   摘要: Timely diagnosis of Parkinson's disease (PD) is essential for timely intervention and effective disease management. Wearable sensing technologies provide objective gait measurements and have become a promising, low-cost solution for automated PD diagnosis. However, existing deep learning and graph-based methods primarily focus on individual gait representations or fixed graph structures, often overlooking relationships among gait samples, difficult samples, and adaptive graph refinement during t...
+
+8. PSEN1 Expression Identifies a Developmentally Distinct Favourable-Prognosis State in SHH α Medulloblastoma.
+   作者: Vanini Julia, Thomaz Amanda, Lupatini Marina Müller, Brunetto André T, de Farias Caroline Brunetto 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42735931/
+   PMID: 42735931
+   摘要: Although PSEN1 is best known for its role in Alzheimer's disease, it also regulates neural development and cerebellar morphogenesis. Medulloblastoma (MB) is the most common malignant paediatric brain tumour and arises from disrupted cerebellar developmental programmes. The clinical significance of PSEN1 in MB remains unknown. We investigated the prognostic value and transcriptional correlates of PSEN1 expression across molecular subgroups and subtypes of MB....
+
+9. Exploring Digital Vā: A Scoping Review of Conceptualisations of Vā in Digital Spaces.
+   作者: Allen Jean M Uasike, Chu Joanna Ting Wai, Latu Latesha, Veukiso-Ulugia Analosa, Umutoniwase Carine 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42724885/
+   PMID: 42724885
+   摘要: The well-being of young people globally is a key concern for many. In Aotearoa New Zealand, Pacific people are the youngest ethnic population, and Pacific youth experience complex well-being challenges related to socio-economic inequality and diverse identities. However, recent research indicates that Pacific youth are navigating new forms of social and cultural connection, including in digital spaces. This article presents the findings of a scoping review focused on digital vā, a pan-Pacific re...
+
+10. New insights into diagnostic values and mechanisms of ferroptosis associated with immune infiltration in diabetic kidney disease.
+   作者: Tan Ying, Liu Zihui, Song Siyuan, Zhu Lingling, She Yun 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42713097/
+   PMID: 42713097
+   摘要: The pathogenesis of diabetic kidney disease (DKD) is complex and closely related to ferroptosis and immune dysregulation, but the relevance is unclear. The present study investigates the potential mechanisms of ferroptosis-related genes (FRGs) in DKD and their relationship with the immune-inflammatory response. It searches for new diagnostic biomarkers to help diagnose and treat DKD. Four Gene Expression Omnibus (GEO) datasets, GSE30528, GSE30529 and GSE30122 as the test set, and GSE96804 for va...
+
+11. Enhancing the Observational Medical Outcomes Partnership Common Data Model to Support Health Equity Research: Expanding Race and Ethnicity Data Representation.
+   作者: Philofsky Melanie, Adam Atif
+   链接: https://pubmed.ncbi.nlm.nih.gov/42709617/
+   PMID: 42709617
+   摘要: Common Data Models (CDMs) standardize health data from disparate observational sources, enabling the use of real-world data in more efficient, collaborative observational research studies. Until recently, the Observational Medical Outcomes Partnership Common Data Model (OMOP CDM) had limited infrastructure and ontology options to store a person's race and ethnicity data. This made using these data challenging for patient-centered outcomes research (PCOR) and health equity studies....
+
+12. Comprehensive Analysis of miRNAs and Predicted Protein Interaction Networks in Skeletal Muscle Development of Myostatin-Deficient Rabbits.
+   作者: Song Zhi-Xian, Kyaw Paing Oo, Farhab Muhammad, Zhang Ting, Liang Jingyan 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42708545/
+   PMID: 42708545
+   摘要: Myostatin (MSTN), encoded by the MSTN gene, is a critical negative regulator of skeletal muscle mass. This study aims to identify and characterize the miRNAs involved in the development of the double-muscling phenotype in MSTN-deficient rabbits. We performed high-throughput sequencing to analyze the miRNA expression profiles in gluteus maximus tissue from wild type (MSTN...
+
+13. Identifying Co-Expressed lncRNAs Correlated With Traits of Interest in an Animal Model for Metabolic Diseases in Humans.
+   作者: Nascimento Lucas Echevarria, da Silva Bruna Pereira Martins, de Oliveira Camila Sabino, Durval Mariah Castro, Freitas Felipe André Oliveira 等 12 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42706873/
+   PMID: 42706873
+   摘要: Nutrigenomics investigates how nutrients modulate gene expression. Among them, fatty acids (FA) play important roles in regulating gene transcription, while long non-coding RNAs (lncRNAs) may be associated with gene regulation and metabolic diseases. This study aimed to analyze the hepatic transcriptome of pigs, a species frequently used as a model for nutrigenomic studies, to identify novel lncRNAs and their potential target genes in response to diets containing different sources of FA. Seventy...
+
+14. A closed-loop paradigm for precision oncology: Integrating dynamic monitoring, organoid models, and explainable AI.
+   作者: Liu Yanan, Wang Yaping, Huang Xiaoxia, Li Yang, Zhu Aibei 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42704980/
+   PMID: 42704980
+   摘要: Precision oncology faces three systemic bottlenecks: static molecular snapshots fail to capture tumor dynamics, patient‑derived organoids lack physiological reconstruction of the tumor microenvironment (TME), and artificial intelligence (AI) remains a "black box" in clinical decision‑making. This review aims to propose an integrated closed‑loop framework that addresses these challenges by combining dynamic multi‑omics monitoring, next‑generation bioengineered models, and explainable AI....
+
+15. Global downstream BMP15 pathway analysis in human ovarian granulosa cells reveals novel genetic variations associated with primary ovarian insufficiency.
+   作者: Rossetti Raffaella, Fornili Marco, Moleri Silvia, Ferrari Ilaria, Gentilini Davide 等 14 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42664615/
+   PMID: 42664615
+   摘要: Primary ovarian insufficiency (POI) is a fertility disorder with a well-established genetic component, but many cases still remain idiopathic. Approximately 1.5-12% of patients with POI can carry a variant in the BMP15 gene, depending on the population and the diagnostic criteria. We hypothesize that genetic variations within pathways downstream of BMP15 activity in ovarian granulosa cells (GCs) may contribute to unexplained cases of POI. The main goal of this study is to identify novel variants...
+
+16. From Philosophy to Practice: Introducing the PIVOT Model for Advancing AI Fluency in AI-Augmented Nursing Care.
+   作者: Wei Holly, Williams Tammy, Webb Tammy R, Greenwood Susan, Gorsuch Penelope F 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42659606/
+   PMID: 42659606
+   摘要: Artificial intelligence (AI) is increasingly embedded in health care practice and decision making, heightening the need to strengthen nursing preparation for AI fluency. This paper presents a philosophy-informed framework grounded in the philosophy of AI to guide the human-centered, reflective, and accountable use of AI in nursing practice and leadership. The framework is grounded in 5 philosophical domains: teleology (purpose, goal, and intentionality), ontology (identity, being, and moral agen...
+
+17. Genome-wide characterization of NOD-like receptor genes links NLR repertoire evolution to spleen immune responses after Aeromonas hydrophila challenge in the Chinese spiny frog (Quasipaa spinosa).
+   作者: Wang Zhi-Gang, Xiao Bo, Mo Xi-Cheng, Zhang Ning
+   链接: https://pubmed.ncbi.nlm.nih.gov/42648390/
+   PMID: 42648390
+   摘要: NOD-like receptors (NLRs) are cytosolic pattern-recognition receptors that detect pathogen-associated and damage-associated molecular patterns and mediate innate immune signaling in vertebrates. However, the genomic repertoire, evolutionary diversification, and infection-associated expression of NLR genes remain poorly defined in non-model amphibians. In this study, 66 NLR genes were identified from the Chinese spiny frog (Quasipaa spinosa) genome and designated as QsNLR1-QsNLR66. These genes we...
+
+18. Effects of a 4-wk high-fat diet on transcriptome and DNA methylation after muscle contractions in rat skeletal muscle.
+   作者: Nehashi Ryo, Kawata Kentaro, Sotani Yuta, Kusano Tatsuya, Kano Ryotaro 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42636148/
+   PMID: 42636148
+   摘要: Increase in mRNA expression following muscle contraction regulates exercise-induced cellular responses associated with exercise adaptation. However, effects of a high-fat diet (HFD) on muscle contraction-induced alterations in transcription and DNA methylation remain unclear. Therefore, this study aimed to identify the effects of a 4-wk HFD on transcriptomic responses to muscle contractions and to examine the association between these transcriptomic changes and DNA methylation in promoter region...
+
+19. Relational Ontology in a Digital World: Integrating African Personhood and Platformized Nursing.
+   作者: Bayuo Jonathan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42623511/
+   PMID: 42623511
+   摘要: The discipline of nursing has entered a historical moment in which two profound forces converge: the global rise of digital platform labour and the resurgence of relational, communitarian ontologies rooted in African philosophy. Yet these forces are rarely theorised together, despite shaping the same discipline. This paper integrates African philosophical thoughts which conceptualise personhood as a dynamic, communal, and relational achievement, with ideas around platformized nursing, which expl...
+
+20. Presence in Absence: A Daoist Critique of Interventionist Care and the Reconstruction of Nursing Presence.
+   作者: Dong Xiaoyan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42623502/
+   PMID: 42623502
+   摘要: Presence is widely affirmed as a core moral value of nursing, yet dominant conceptualizations in both nursing philosophy and clinical practice consistently collapse it into observable intervention and active engagement, underpinned by an implicit subject-object dualist ontology. Derivative concepts such as silent presence and holding space have sought to recover non-interventional modes of care, yet most remain trapped within an action-oriented logic and stop short of fundamental ontological reo...
+
+21. Toward a Smart Learning Health System: An Ontology-Based Framework.
+   作者: Ma Meg, Yu Ping, Hickman Louise D
+   链接: https://pubmed.ncbi.nlm.nih.gov/42621518/
+   PMID: 42621518
+   摘要: Learning health system (LHS) frameworks have been presented in multiple forms, but there is no standardized representation that captures both their core concepts and the relationships among them. This limits their practical use by health services seeking to design, implement, and evaluate LHS capabilities in changing sociotechnical environments. This study developed the Smart Learning Health System ontology (SMARTLHS), a formal semantic framework that synthesizes concepts and relationships from ...
+
+22. Targeting therapies: Analysing the social and normative dimensions of 'targeted' approaches to biomedicine and public health.
+   作者: Erikainen Sone, Galasso Ilaria, Geiger Susi, Pickersgill Martyn
+   链接: https://pubmed.ncbi.nlm.nih.gov/42612448/
+   PMID: 42612448
+   摘要: Today, much in biomedicine and public health seems to involve the 'targeting' of therapies. By this, we mean that multiple forms of biomedical and public health praxis are aimed at discovering and delivering increasingly specific therapeutic modalities to individuals and populations. This includes varieties of medicine that have variously been termed 'personalised', 'precise', or 'stratified'. It also entails public health approaches that purposely or otherwise eschew such characterisations, but...
+
+23. PlasmidRiskNet: An explainable machine-learning framework for antimicrobial resistance plasmid risk stratification.
+   作者: Agboola Oluwaseun E, Agboola Samuel S, Olasehinde Oluwaseun Ruth, Aribigbola Temitope C, Shaleye Anuoluwapo Bukola 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42597927/
+   PMID: 42597927
+   摘要: Plasmids are the principal vehicles of horizontal antimicrobial resistance (AMR) gene transfer, yet risk analyses rarely combine gene content, mobility, and network topology. We asked whether explainable machine learning over these dimensions can stratify plasmid dissemination risk, and tested rigorously where it succeeds and fails....
+
+24. DHX15 as a novel immune-related prognostic biomarker in breast cancer: An integrated bioinformatics analysis with
+   作者: Li Fan, Yue Qin, Li Jing
+   链接: https://pubmed.ncbi.nlm.nih.gov/42597903/
+   PMID: 42597903
+   摘要: Breast cancer (BC) is a disease that occurs relatively frequently, and its prognosis and treatment outcomes are not optimal at present. Identifying novel BC biomarkers and therapeutic targets is key. DEAH-box helicase 15 (DHX15) is an RNA helicase that exhibits enhanced activity and is closely associated with tumorigenic potential. Alternative splicing is widely dysregulated in BC. However, the biological function of DHX15 in BC, in addition to its underlying molecular mechanisms, remain unclear...
+
+25. Understanding Autism Through Indigenous Relational Ecologies: A Phenomenographic Exploratory Study With Potawatomi Participants.
+   作者: Kitchens Jessica C, Wake Donna
+   链接: https://pubmed.ncbi.nlm.nih.gov/42586959/
+   PMID: 42586959
+   摘要: Autism is commonly conceptualized in research, policy, and clinical contexts as an individual condition defined by diagnostic criteria and functional impairment. While these frameworks shape access to services, they often obscure relational, cultural, and contextual meanings of autism, particularly within Indigenous communities. This article reports findings from an exploratory phenomenographic study examining how autism is understood among five Citizen Potawatomi Nation participants. Guided by ...
+
+26. Common data element (CDE) and AI-Enabled approaches for clinical data Management: Workshop proceedings from the NIH INCLUDE Project.
+   作者: Espinosa Joaquin M, Burdekin Kate, Auman Jeanette O, Tyndall Benjamin, Cnota James F 等 21 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42586352/
+   PMID: 42586352
+   摘要: To evaluate challenges in managing multisite, longitudinal, and multisystem clinical data for Down syndrome (DS) research and identify approaches to improve standardization and reuse....
+
+27. The Theory of Communal-Relational Person-Becoming: A Nursing Theory From the African Philosophical Perspective.
+   作者: Bayuo Jonathan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42579776/
+   PMID: 42579776
+   摘要: Nursing theory has long treated "person" and "human being" as interchangeable, reflecting philosophical traditions that prioritize autonomy and individualism. Thinkers such as John Locke distinguish the biological human organism from the person, defining personhood through inward-looking psychological capacities. This cognitive, individualistic model has shaped conventional nursing theories that frame the person as a self-contained unit. In contrast, African relational ontologies conceptualize p...
+
+28. LECT2-RPS27A interaction involving Lys48 attenuates neuroinflammation in diabetic retinopathy.
+   作者: Liu Zheting, Yin Houfa, Zhu Keyang, Shao Li, Wang Yiqiong 等 15 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42576031/
+   PMID: 42576031
+   摘要: Leukocyte cell-derived chemotaxin 2 (LECT2), a newly discovered hepatokine involved in immunomodulation and inflammatory processes, has recently been implicated in diabetic retinopathy pathogenesis. However, the specific role and mechanism of LECT2 in diabetic retinopathy remain largely unclear....
+
+29. GRIMM-II: A two-stage real-time algorithm for nine-locus HLA imputation and matching with up to three mismatches.
+   作者: Kirshenboim Ofek, Kabya Amit, Yehezkel-Imra Regev, Tshuva Yuli, Maiers Martin 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42571736/
+   PMID: 42571736
+   摘要: The success of hematopoietic stem cell transplantation (HSCT) depends critically on human leukocyte antigen (HLA) matching between donor and recipient. While traditional matching focuses on five classical HLA loci (A, B, C, DRB1, DQB1), clinical practice increasingly considers extended typing at nine loci, including DPA1, DQA1, DPB1, and DRB3/4/5. Furthermore, emerging evidence supports transplantation with up to three HLA mismatches under post-transplant cyclophosphamide (PTCy) regimens. Howeve...
+
+30. Effects of normal butanol fraction of flavonoids from Polygonum hydropiper L. on PRV-induced oxidative stress and prediction of lncRNA regulatory targets in 3D4/2 cells.
+   作者: Zhao Wen, Wang Yaqi, Wei Yuheng, Yu Mei-Ling, Hu Tingjun
+   链接: https://pubmed.ncbi.nlm.nih.gov/42567234/
+   PMID: 42567234
+   摘要: Infection with Pseudorabies virus (PRV) triggers a state of oxidative distress in host cells, which consequently results in cellular damage. Although the normal butanol fraction of flavonoids derived from Polygonum hydropiper L. (FNB) is recognized for its strong antioxidant properties, it remains unclear whether FNB can mitigate PRV-induced oxidative damage and whether this protective effect involves long non-coding RNA (lncRNA)-mediated regulation during PRV infection. This study aimed to inve...
+
+31. Burn Injury Rewires Immune and Neuronal Extracellular Vesicle Communication.
+   作者: Grimsrud Kristin N, Green Tajia, Tang Yirui, Clayton Shannon M, Ward Briana M 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42524719/
+   PMID: 42524719
+   摘要: We examined extracellular vesicle (EV) protein alterations after burn injury to elucidate molecular pathways linking immune-neural communication and the pathophysiology of burns....
+
+32. FabricSpec-RAG: A knowledge graph-augmented Seq2Seq framework for quantitative analysis of complex textile blends from NIR spectra.
+   作者: Qiu Xun, Sun Fengqiang, Lyu Youlong, Sun Hengda, Wang Gang 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42508888/
+   PMID: 42508888
+   摘要: The quantitative analysis of complex textile blends from Near-Infrared (NIR) spectra is critical for industrial recycling but is hampered by strong spectral overlap and compositional variability. Conventional deep-learning models often struggle on rare compositions and lack sufficient transparency. To address these limitations, we propose FabricSpec-RAG, a Sequence-to-Sequence framework that couples a multi-scale convolutional encoder with a Retrieval-Augmented Generation (RAG) mechanism, ground...
+
+33. AI agents in drug discovery: A review of evolution, applications, and future directions.
+   作者: Das Sarobi, Ferdaus Md Meftahul, Dam Tanmoy
+   链接: https://pubmed.ncbi.nlm.nih.gov/42475855/
+   PMID: 42475855
+   摘要: Artificial intelligence (AI) agents represent a paradigm shift in pharmaceutical research, moving the field from narrow drug-protein affinity modeling toward systems-biology-level evaluation in which autonomous, multi-domain agents combine pattern recognition with symbolic reasoning, knowledge graphs, and regulatory intelligence. This review traces the evolution of AI agents in drug discovery across four eras - database systems (1990-2012), machine learning (2012-2022), foundation learning tools...
+
+34. UV-VIS-NIR chemometric screening of broccoli by-products: Decoupling the spatiotemporal heterogeneity of glucosinolates and functional traits.
+   作者: Gudiño Iris, Alonso Jesús, Casquete Rocío, Benito María José, Ruiz-Moyano Santiago 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42462319/
+   PMID: 42462319
+   摘要: Pronounced compositional heterogeneity hinders the valorization of broccoli by-products. To address this, a transparent UV-VIS-NIR chemometric workflow was developed to screen 'Parthenon' ultrasound-assisted extracts across distinct plant parts and maturity stages. Factorial analysis revealed that phytochemical accumulation was strictly governed by tissue ontology and maturity, with the strongest interactions concentrated in indolic glucosinolates, including glucobrassicin and methoxyglucobrassi...
+
+35. SparseLGS: Sparse View Language Embedded Gaussian Splatting.
+   作者: Hu Jun, Chen Zhang, Li Zhong, Xu Yi, Zhang Juyong
+   链接: https://pubmed.ncbi.nlm.nih.gov/42461741/
+   PMID: 42461741
+   摘要: Recently, several studies have combined Gaussian Splatting to obtain scene representations with language embeddings for open-vocabulary 3D scene understanding. While these methods perform well, they essentially require very dense multi-view inputs, limiting their applicability in real-world scenarios. In this work, we propose SparseLGS to address the challenge of 3D scene understanding with pose-free and sparse view input images. Our method leverages a learning-based dense stereo model to handle...
+
+36. DSPose: Decoupled Real-Time Pose Estimation From Semantic-RGB Radiance Rays.
+   作者: Chen Tong, Liang Shengjia, Xiong Yuan, Geng Qichuan, Zhou Zhong
+   链接: https://pubmed.ncbi.nlm.nih.gov/42461740/
+   PMID: 42461740
+   摘要: Six-degree-of-freedom (6-DoF) pose estimation receives substantial attention, particularly in embodied agents and augmented reality. Recent methods explore a ray-selection paradigm, which reframes pose estimation from slow "analysis-by-synthesis" to direct ray selection. However, this paradigm still struggles with the selection ambiguity stemming from the strong dependence on RGB feature, and also with the unavoidable coupling problem of translation and rotation during optimization, which inhere...
+
+37. A systematic approach to standardizing the visual appearance of endometriotic lesions for artificial intelligence recognition.
+   作者: Netter Antoine, Duchateau Fanny, Abrao Henrique, Canis Michel, Martin Dan C 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42433129/
+   PMID: 42433129
+   摘要: Numerous studies have shown that the diagnostic performance and reproducibility of visual recognition of endometriosis during laparoscopy are poor. The use of artificial intelligence (AI) seems relevant for exhaustive lesion recognition. Standardization of the visual classification of lesions, in the form of an ontology, is an essential prerequisite to enable medical experts to annotate surgical data consistently and subsequently allow engineers to train and build an artificial intelligence tool...
+
+38. Simulated shift work schedules disrupts circadian rhythms and behavior in mice.
+   作者: Duan Jun-Yi, Huang Xiao-Tong, Duan Ai-Yu, Ma Li, Chen Wei 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42429295/
+   PMID: 42429295
+   摘要: Shift work has become a major cause of circadian rhythm disruption in modern society. This study investigated the systemic consequences of shift schedules by subjecting mice to different light-dark (LD) cycles: non-24-h cycles (rapidly rotating...
+
+39. New insights into 6PPD-quinone-induced neurotoxicity in zebrafish: the role of the MAPK/oxidative stress axis in neurodevelopmental disruption.
+   作者: Xu Lichao, Wang Zian, Liu Yuanyuan, Jiang Zihao, Wang Lina 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42425181/
+   PMID: 42425181
+   摘要: 6PPD-Quinone (6PPD-Q) has attracted widespread attention because of its high toxicity to aquatic organisms. Recent evidence suggests that the acute mortality induced by 6PPD-Q is closely associated with neurotoxicity; however, the key events and underlying molecular mechanisms remain unclear. In the present study, we investigated the effects of 6PPD-Q on neurodevelopment in zebrafish and explored the potential mechanisms involved. Environmentally relevant concentrations of 6PPD-Q did not cause a...
+
+40. Proteome-scale study of copper-associated proteins of Aegilops tauschii.
+   作者: Bisht Nivedita, Verma Shailender Kumar
+   链接: https://pubmed.ncbi.nlm.nih.gov/42424908/
+   PMID: 42424908
+   摘要: Copper (Cu), although required in trace amounts, is necessary for fundamental processes in plants, including photosynthesis, signalling, cell wall formation, and oxidative stress management. The current study presents a comprehensive, high-throughput bioinformatic characterisation of Copper-Associated Proteins (CAPs) in Aegilops tauschii (DD), the diploid D genome donor of bread wheat. The proteome of Ae. tauschii was investigated, and 62 copper-binding proteins (CBPs) and 32 copper transport pr...
+
+41. Incremental learning with prototype calibration and dynamic proxy for wind turbine fault diagnosis under time-varying operating conditions.
+   作者: Fu Yang, Li Zhanglan, Pang Haoru, He Deqiang, Jin Zhenzhen 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42414188/
+   PMID: 42414188
+   摘要: For supervisory control and data acquisition (SCADA) based intelligent fault diagnosis (IFD) of wind turbines, the domain-incremental learning (D-IL) paradigm enables the model to continuously adapt to new operational data while mitigating catastrophic forgetting (CF). However, for wind turbines under complex operating conditions, existing studies still have limitations: on the one hand, operating condition drift disrupts feature consistency, degrading the effectiveness of historical knowledge r...
+
+42. MultiGraph-vet: A multimodal knowledge-augmented decision-support framework for safe dairy cow disease assessment on a curated benchmark.
+   作者: Zhang Cunjin, Wang Maoxu, You Xu, Gu Zhixin
+   链接: https://pubmed.ncbi.nlm.nih.gov/42407432/
+   PMID: 42407432
+   摘要: Rapid and reliable disease assessment is essential for dairy cow health management, but field-level clinical inputs are often colloquial, noisy, visually ambiguous, and context-dependent. These characteristics make large language model (LLM)-based veterinary decision-support systems vulnerable to factual errors, unsafe recommendations, and cross-modal hallucinations. To address this problem, we propose MultiGraph-Vet, a multimodal knowledge-augmented decision-support framework for safer dairy co...
+
+43. Identification of cell pyroptosis-related gene signature for prognosis in skin cutaneous melanoma.
+   作者: Zuo Shuang, Zuo Can, Song Jinmiao, Li Yu, Zhai Hui
+   链接: https://pubmed.ncbi.nlm.nih.gov/42407419/
+   PMID: 42407419
+   摘要: This study aims to identify a prognostic gene signature associated with cell pyroptosis and skin cutaneous melanoma (SKCM). A large amount of SKCM data was collected from the TCGA and GTEx, and differentially expressed genes were identified. By further mining public databases, genes associated with cell pyroptosis were screened to identify pyroptosis-related differentially expressed genes (PRDEGs). The biological roles of these PRDEGs were systematically characterized using Gene Ontology (GO) an...
+
+44. The molecular mechanism underlying melatonin-mediated repair of ovarian damage in mice exposed to abnormal light cycles.
+   作者: Zhang Fangdi, Ma Ruixue, Jin Yadan, Wang Kaixuan, He Haiwei 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42392488/
+   PMID: 42392488
+   摘要: This study aimed to investigate the molecular mechanisms by which melatonin (MLT) mitigates ovarian damage in mice exposed to abnormal light cycles. Female C57BL/6 mice from the same batch were randomly assigned to five experimental groups: normal light cycle (LD), reversed light cycle (DL), reversed light cycle with MLT supplementation (MDL), constant light (LL), and constant light with MLT supplementation (MLL). Models of reversed and constant light exposure were established, and exogenous MLT...
+
+45. People make graded judgments about the inconceivable.
+   作者: Hu Jennifer, Sosa Felix, Ullman Tomer
+   链接: https://pubmed.ncbi.nlm.nih.gov/42391978/
+   PMID: 42391978
+   摘要: Some impossible things are more impossible than others. Magically levitating a feather is easier than levitating a rock, even though both are impossible in the real world. But within the things that are inconceivable-e.g., "the concept of red writing a play" or "a girl being a prime number"-are some things more inconceivable than others? We first established that people have graded, systematic judgments about the likelihood of inconceivable events, using two stimulus sets that manipulate inconce...
+
+46. Identification of long non-coding RNAs involved in leukemogenesis and venetoclax response in acute myeloid leukemia through functional CRISPR-dCas9 interference screens.
+   作者: Cozzi Elisabetta, Neddermeyer Anne, Miliara Sophia, Zhong Xiangfu, Weirick Tyler 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42388349/
+   PMID: 42388349
+   摘要: Acute myeloid leukemia (AML) is a malignant hematologic disease with poor prognosis, and improved understanding of its biology is critical for patient outcomes. While protein-coding genes in AML are well characterized, the role of long non-coding RNAs (lncRNAs) remains largely unexplored. Here, we investigated how lncRNAs contribute to AML biology and treatment resistance. Three high-throughput lncRNA-CRISPR-interference (CRISPRi) screens were performed in the AML cell line MOLM-13, targeting 79...
+
+47. Polygenic Score Identifies Athletes at Increased Risk for Slower Recovery After Sport-Related Concussion: A Concussion Assessment, Research, and Education (CARE) Consortium Study.
+   作者: Zhang Zhiqi, Reiter Jill L, Nudelman Kelly N H, Lai Dongbing, McAllister Thomas W 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42377762/
+   PMID: 42377762
+   摘要: Emerging evidence suggests that genetic variations contribute to individual differences in concussion recovery. A polygenic score (PGS) can capture the cumulative effect of multiple genetic variants, providing a partial explanation for individual differences in recovery times....
+
+48. Proteome-Scale Mining of Metal-Associated Proteins of Monkeypox Virus.
+   作者: Kant Nimita, Bharti Anand Kumar, Verma Shailender Kumar
+   链接: https://pubmed.ncbi.nlm.nih.gov/42359551/
+   PMID: 42359551
+   摘要: Metal ions are crucial for viral processes like replication, structural integrity and immune modulation, despite that the metalloproteome of Monkeypox virus (MPXV) remains largely unexplored. Monkeypox virus is a re-emerging zoonotic Orthopoxvirus with a 197 kb genome encoding over 183 proteins. Here, in this report we aimed to identify and explore the metal-associated proteome of the MPXV. Derived from employing a structure driven pipeline, followed by the functional annotation, the subcellular...
+
+49. The United Kingdom's Tobacco and Vapes Act 2026-A landmark in tobacco control, but a missed opportunity for product clarity.
+   作者: Cox Sharon, Notley Caitlin, West Robert
+   链接: https://pubmed.ncbi.nlm.nih.gov/42351334/
+   PMID: 42351334
+
+50. Identifying multitarget directed phytoconstituent against Parkinson's disease: A network pharmacology approach.
+   作者: Khan Sabiya, Godugu Chandraiah
+   链接: https://pubmed.ncbi.nlm.nih.gov/42341704/
+   PMID: 42341704
+   摘要: Parkinson's disease (PD) is the second most common neurodegenerative condition after Alzheimer's disease, with no cure for either. The major hurdle in identifying a therapeutic agent for such progressive disorders is their complex pathology. The current understanding is still in the cradle stage due to multifactorial protein and pathway participation, with neuroinflammation playing a major role. In the quest to link neuroinflammatory processes with cell death, pyroptosis was found to play a key ...
+
