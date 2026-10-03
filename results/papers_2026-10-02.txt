@@ -1,0 +1,25 @@
+Ontology 文献追踪报告 - 2026-10-02
+==================================================
+
+共发现 3 篇新论文
+
+--- PubMed (3 篇) ------------------------------
+
+1. Mechanistic insights into gallic acid-induced autophagy in triple negative breast cancer through network pharmacology, molecular docking, and in vitro validation.
+   作者: Chatterjee Essha, Dey Biswajit, Bansode Ankush, Basak Santanu, Sharma Anamika 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42825943/
+   PMID: 42825943
+   摘要: Gallic acid (GA), a natural polyphenol, has been enormously recognized for its anticancer properties across multiple cancer types, including triple-negative breast cancer (TNBC), yet its precise molecular mechanisms underlying its effects on TNBC, particularly those related to autophagy, remain unclear. This investigation sought to elucidate the autophagy-related targets and pathways modulated by GA in TNBC by integrating network pharmacology, bioinformatics, molecular docking, and in vitro vali...
+
+2. Medium independence and cognitive ontology.
+   作者: Mace Caitlin, Drayson Zoe, Robins Sarah
+   链接: https://pubmed.ncbi.nlm.nih.gov/42825750/
+   PMID: 42825750
+   摘要: This commentary emphasizes the importance of how we individuate cognitive capacities, operations, and vehicles. It challenges the target article's reliance on mechanistic notions of computation and medium-independence and uses examples from the memory literature to suggest that the role played by metabolic considerations in cognitive models will depend on questions of taxonomy and cognitive ontology....
+
+3. Photothermal-Seek: Literature-Grounded Knowledge Graphs for Discovering High-Performance Solar Evaporators.
+   作者: Peng Rongfu, Pan Zihan, Wang Chaohai, Li Rui, Zhu Xinfeng 等 12 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42825695/
+   PMID: 42825695
+   摘要: Solar interfacial evaporation (SIE) offers a low-energy route for desalination and water purification, but high-performance evaporator design still relies heavily on experience. Here, we report Photothermal-Seek, a literature-grounded and evidence-anchored knowledge framework that connects synthesis, structure, and performance information in SIE materials. Built from 2771 publications, Photothermal-Seek integrates large language model (LLM)-assisted extraction, graph-based reasoning, and full-te...
+

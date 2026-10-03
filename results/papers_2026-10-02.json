@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Mechanistic insights into gallic acid-induced autophagy in triple negative breast cancer through network pharmacology, molecular docking, and in vitro validation.",
+    "summary": "Gallic acid (GA), a natural polyphenol, has been enormously recognized for its anticancer properties across multiple cancer types, including triple-negative breast cancer (TNBC), yet its precise molecular mechanisms underlying its effects on TNBC, particularly those related to autophagy, remain unclear. This investigation sought to elucidate the autophagy-related targets and pathways modulated by GA in TNBC by integrating network pharmacology, bioinformatics, molecular docking, and in vitro validation. Network pharmacology identified 23 overlapping targets between GA, TNBC, and autophagy-related gene sets, including key genes such as CASP3, TP53, AKT1, PIK3CA, and HIF-1 A. Protein-Protein Interaction network analysis revealed ten hub genes as central nodes in GA's action mechanism. Gene Ontology enrichment highlighted biological processes such as DNA damage response, protein phosphorylation, and regulation of apoptosis and autophagy. KEGG pathway analysis further indicated enrichment in pathways related to EGFR inhibitor resistance, insulin signaling, autophagy, and apoptosis, among others. Molecular docking demonstrated strong binding affinities between GA and the identified autophagy modulatory genes. In vitro experiments showed that GA inhibited the proliferation and migration of BT-549 and HCC1395 TNBC cells while inducing autophagy. Induction of autophagy by GA in the BT-549 and HCC1395 cell lines was proved by acridine orange, MAP1LC3B fluorescence, and western blotting of key autophagy regulators. Taken together, this integrated approach, combining network pharmacology and experimental validation, identified key targets and signaling pathways through which GA regulates autophagy in TNBC. These findings enhance our understanding of GA's anticancer mechanisms and support its plausible development as a therapeutic entity for TNBC.",
+    "authors": [
+      "Chatterjee Essha",
+      "Dey Biswajit",
+      "Bansode Ankush",
+      "Basak Santanu",
+      "Sharma Anamika",
+      "Guru Santosh Kumar"
+    ],
+    "published": "2026 Oct 02",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825943/",
+    "pmid": "42825943",
+    "source": "PubMed"
+  },
+  {
+    "title": "Medium independence and cognitive ontology.",
+    "summary": "This commentary emphasizes the importance of how we individuate cognitive capacities, operations, and vehicles. It challenges the target article's reliance on mechanistic notions of computation and medium-independence and uses examples from the memory literature to suggest that the role played by metabolic considerations in cognitive models will depend on questions of taxonomy and cognitive ontology.",
+    "authors": [
+      "Mace Caitlin",
+      "Drayson Zoe",
+      "Robins Sarah"
+    ],
+    "published": "2026 Oct 02",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825750/",
+    "pmid": "42825750",
+    "source": "PubMed"
+  },
+  {
+    "title": "Photothermal-Seek: Literature-Grounded Knowledge Graphs for Discovering High-Performance Solar Evaporators.",
+    "summary": "Solar interfacial evaporation (SIE) offers a low-energy route for desalination and water purification, but high-performance evaporator design still relies heavily on experience. Here, we report Photothermal-Seek, a literature-grounded and evidence-anchored knowledge framework that connects synthesis, structure, and performance information in SIE materials. Built from 2771 publications, Photothermal-Seek integrates large language model (LLM)-assisted extraction, graph-based reasoning, and full-text retrieval of source evidence, generating a knowledge base with 57 707 nodes, 126 649 relationships, and 1535 curated material nodes. Repeated object-level audits showed that most sampled extracted objects were supported by source evidence, while benchmark evaluation demonstrated improved domain-specific reasoning relative to general-purpose language models. Literature-scale semantic analysis shows that conjugated materials had the largest representation in the corpus-defined upper evaporation-rate tertile, while multicomponent systems near the conjugated-carbonaceous/fibrous semantic boundary emerged as candidates for further investigation. Guided by this rule, we built and tested a polypyrrole-coated delignified wood evaporator with a cellulose nanofiber/poly(vinyl alcohol) capillary-regulation layer (PPy@DW/CP), which achieved 2.275 kg·m",
+    "authors": [
+      "Peng Rongfu",
+      "Pan Zihan",
+      "Wang Chaohai",
+      "Li Rui",
+      "Zhu Xinfeng",
+      "Mao Yanli",
+      "He Chang",
+      "Wang Junning",
+      "Zhai Shangru",
+      "Kheawhom Soorathep",
+      "Nam Ho Ngoc",
+      "Yamauchi Yusuke"
+    ],
+    "published": "2026 Oct 02",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825695/",
+    "pmid": "42825695",
+    "source": "PubMed"
+  }
+]
