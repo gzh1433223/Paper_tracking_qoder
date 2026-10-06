@@ -1,0 +1,19 @@
+Ontology 文献追踪报告 - 2026-10-05
+==================================================
+
+共发现 2 篇新论文
+
+--- PubMed (2 篇) ------------------------------
+
+1. Causality-integrated graph learning for multi-endpoint toxicity prediction.
+   作者: Tan Haoyue, Bao Tong, Fang Yin, Zhang Rong, Jin Jinsha 等 21 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42832660/
+   PMID: 42832660
+   摘要: Toxicity prediction remains a longstanding challenge in the safety assessment of numerous artificial chemicals. While conventional single-endpoint models are effective for predicting many molecular properties, they fail to capture the complex mechanisms underlying toxicity, which involve multiple molecular targets, interconnected pathways, and diverse outcomes. We present a causality-integrated graph learning framework that embeds toxicological mechanisms extracted from large-scale literature mi...
+
+2. Exploring the key genes of colorectal "adenoma-cancer" based on graph transformer.
+   作者: Yuan Yue, Liu Yu, Fan Jingchun, Ren Zhen
+   链接: https://pubmed.ncbi.nlm.nih.gov/42832574/
+   PMID: 42832574
+   摘要: Colorectal cancer (CRC) is one of the most lethal malignancies worldwide, and the precise identification of biomarkers from colonic adenoma to cancer is of great significance for preventing the development of adenocarcinoma. Given that existing methods inadequately capture the topological network relationships among genes, this study proposes a graph neural network model based on multifeature learning, named ChebTs, to investigate the correlation between key genes involved in the colorectal "ade...
+

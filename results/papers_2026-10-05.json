@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Causality-integrated graph learning for multi-endpoint toxicity prediction.",
+    "summary": "Toxicity prediction remains a longstanding challenge in the safety assessment of numerous artificial chemicals. While conventional single-endpoint models are effective for predicting many molecular properties, they fail to capture the complex mechanisms underlying toxicity, which involve multiple molecular targets, interconnected pathways, and diverse outcomes. We present a causality-integrated graph learning framework that embeds toxicological mechanisms extracted from large-scale literature mining as directed graphs within deep learning (DL) models. By using chemical structure as input, the framework generates compound-specific perturbation profiles within a fixed causal space, enabling system-level classification, quantitative prioritization, and mechanistic interpretation across multiple outcomes. Focusing on endocrine-disrupting chemicals, we constructed a large-scale, causally organized knowledge graph (EDKG) and implemented the framework as EDKG-DL, a predictive model that incorporates mechanism-aware graph reasoning. Through extensive external validations, EDKG-DL outperforms structure-driven state-of-the-art approaches in both stability and cross-scenario generalization. This work establishes a mechanism-constrained, causality-informed learning paradigm that is highly relevant for multi-endpoint toxicity assessment and regulatory decision-making.",
+    "authors": [
+      "Tan Haoyue",
+      "Bao Tong",
+      "Fang Yin",
+      "Zhang Rong",
+      "Jin Jinsha",
+      "Xu Dan",
+      "Xie Lan",
+      "Zhong Huan",
+      "Xiao Xuezhi",
+      "Hong Huixiao",
+      "Benfenati Emilio",
+      "Mizuno Tadahaya",
+      "Zhou Qing",
+      "Qiu Jingfan",
+      "Qu Changsheng",
+      "Mao Yan",
+      "Yu Xiangyi",
+      "Guo Jing",
+      "Yu Hongxia",
+      "Zhang Xiaowei",
+      "Shi Wei"
+    ],
+    "published": "2026 Oct 13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832660/",
+    "pmid": "42832660",
+    "source": "PubMed"
+  },
+  {
+    "title": "Exploring the key genes of colorectal \"adenoma-cancer\" based on graph transformer.",
+    "summary": "Colorectal cancer (CRC) is one of the most lethal malignancies worldwide, and the precise identification of biomarkers from colonic adenoma to cancer is of great significance for preventing the development of adenocarcinoma. Given that existing methods inadequately capture the topological network relationships among genes, this study proposes a graph neural network model based on multifeature learning, named ChebTs, to investigate the correlation between key genes involved in the colorectal \"adenoma-cancer\" transition. The GSE41657 and GSE31905 datasets from the GEO database were stratified into normal, adenoma, and colorectal cancer groups. Feature encoding was introduced to enhance node features, followed by Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses of differentially expressed genes (DEGs). A protein-protein interaction (PPI) network was constructed using Cytoscape software, and the aggregated information was embedded into the model for training to generate a list of key genes with corresponding importance scores. An attention pooling mechanism aggregated node-level representations into graph level representations for sample classification, and a two layer fully connected network, following activation and regularization, produced predicted probabilities. Furthermore, we provided interpretable analyses at the gene level using GNNExplainer. The results were validated through virtual knockout techniques. The eight screened genes, Fibronectin 1 (FN1), Claudin 2 (CLDN2), Interleukin-33 (IL-33), Matrix Metallopeptidase 1 (MMP1), Stanniocalcin 2 (STC2), Insulin-Like Growth Factor-Binding Protein 7 (IGFBP7), NADPH Oxidase 4 (NOX4), and Secreted Frizzled Related Protein 1 (SFRP1), were all found to be associated with overall survival (OS) in CRC. In this study, eight molecules closely related to the development of colorectal adenocarcinoma were screened out, and they may be diagnostic biomarkers of colorectal cancer. These genes affect the prognosis of patients by participating in biological processes such as remodeling of extracellular mechanisms, and are of great significance for preventing the carcinogenesis of adenoma.",
+    "authors": [
+      "Yuan Yue",
+      "Liu Yu",
+      "Fan Jingchun",
+      "Ren Zhen"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832574/",
+    "pmid": "42832574",
+    "source": "PubMed"
+  }
+]
