@@ -1,0 +1,31 @@
+Ontology 文献追踪报告 - 2026-10-06
+==================================================
+
+共发现 4 篇新论文
+
+--- PubMed (4 篇) ------------------------------
+
+1. CfDNA methylation profiling in blood following moderate-to-severe traumatic brain injury using brain cell type-enriched signatures: A pilot study.
+   作者: Kao Shih-Han, Singh Larry N, Starr Jonathan, Kobeissy Firas H, Robertson Claudia 等 16 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42837351/
+   PMID: 42837351
+   摘要: The human brain consists of diverse cell types that collaboratively perform complex functions and form intricate neuronal networks. When traumatic brain injury (TBI) occurs, multiple molecular pathways involving diverse cell types are activated in response to injury. Understanding how brain cell composition is altered during TBI may help improve patient outcomes. Upon brain trauma, neurovascular disruption leads to the release of brain-derived cell-free DNA (cfDNA) into peripheral blood. The tis...
+
+2. Lost in transformation: diagnostic aggregation and semantic drift in ICD-derived kidney phenotypes.
+   作者: Nestor Jordan G, Krishna Murthy Sarath Babu, Ta Casey, Zachariah Teena, Navarro-Torres Mariela 等 14 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42837222/
+   PMID: 42837222
+   摘要: To evaluate how cross-terminology mapping of International Classification of Diseases (ICD)-coded diagnoses is associated with preservation of diagnostic distinctions and traceability in electronic health record (EHR)-derived phenotypes for genomic research....
+
+3. Chlorogenic Acid Derivative B11 Inhibits Glioma Proliferation by Targeting MST4 to Regulate Oxidative Stress.
+   作者: Liu Yongqi, Zou Lulu, Zhan Chengpeng, Zhang Jinli, Li Meiying 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42836847/
+   PMID: 42836847
+   摘要: This study focuses on the mechanism of action of chlorogenic acid derivative B11 on glioma. Although chlorogenic acid exhibits certain anti-tumor activity, it has limitations such as low bioavailability, broad action targets, and insufficient specificity, which restrict its practical application in tumor treatment. Therefore, chlorogenic acid derivative B11 was obtained through structural modification for investigation. Using cell experiments, animal experiments, and molecular techniques, it was...
+
+4. NET-Associated Inflammatory Markers in Head and Neck Squamous Cell Carcinoma: Bioinformatic Prioritization and Exploratory Serum Assessment in Patients Undergoing Radiotherapy.
+   作者: Santos Eloa Mangabeira, Freitas Daniela Fernanda de, Colón David Fernando, Silva Rangel Leal, Paula Alfredo Maurício Batista de 等 12 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42836837/
+   PMID: 42836837
+   摘要: Neutrophil extracellular traps (NETs) and inflammatory mediators have been implicated in head and neck squamous cell carcinoma, but their relationship with systemic inflammatory status during radiotherapy remains incompletely understood. This exploratory integrative study combined a literature-guided network-based bioinformatic prioritization strategy, public transcriptomic interrogation, and a small serum-based clinical cohort evaluated during radiotherapy. Network and ontology analyses identif...
+

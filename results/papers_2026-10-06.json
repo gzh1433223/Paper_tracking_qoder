@@ -1,0 +1,93 @@
+[
+  {
+    "title": "CfDNA methylation profiling in blood following moderate-to-severe traumatic brain injury using brain cell type-enriched signatures: A pilot study.",
+    "summary": "The human brain consists of diverse cell types that collaboratively perform complex functions and form intricate neuronal networks. When traumatic brain injury (TBI) occurs, multiple molecular pathways involving diverse cell types are activated in response to injury. Understanding how brain cell composition is altered during TBI may help improve patient outcomes. Upon brain trauma, neurovascular disruption leads to the release of brain-derived cell-free DNA (cfDNA) into peripheral blood. The tissue-specific DNA methylation patterns in this cfDNA have the potential to serve as candidate markers for studying brain injury. To characterize brain cell type-enriched methylation features, we analyzed the methylomes of five major brain cell types-neurons, astrocytes, oligodendrocytes, microglia, and vascular endothelial cells (VECs)-using whole-genome bisulfite sequencing (WGBS). Cellular enrichment analysis showed that differentially methylated genes (DMGs) exhibited reference-defined cell type-enriched patterns. Gene Ontology pathway analysis further supported the biological plausibility of these methylation features. To demonstrate the feasibility of applying cfDNA methylation profiling in TBI, we analyzed a limited pilot dataset comprising healthy controls and samples collected at acute (1 day), subacute (1 month), and chronic (6 months) post-injury time points from patients with moderate-to-severe TBI (msTBI). These analyses identified candidate brain cell type-enriched cfDNA methylation features that differed across post-injury sampling groups. Together, our findings highlight that brain cell type-enriched methylation signatures may provide a powerful tool for characterizing distinct cell populations and nominating candidate brain cell-associated cfDNA methylation biomarkers in TBI.",
+    "authors": [
+      "Kao Shih-Han",
+      "Singh Larry N",
+      "Starr Jonathan",
+      "Kobeissy Firas H",
+      "Robertson Claudia",
+      "Tsetsou Spyridoula",
+      "Williamson John B",
+      "Lamb Damon G",
+      "Wagner Amy K",
+      "Kou Zhifeng",
+      "Welch Robert D",
+      "Yamal Jose-Miguel",
+      "Leon-Novelo Luis",
+      "Rubenstein Richard",
+      "Wang Kevin K W",
+      "Kilbaugh Todd J"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837351/",
+    "pmid": "42837351",
+    "source": "PubMed"
+  },
+  {
+    "title": "Lost in transformation: diagnostic aggregation and semantic drift in ICD-derived kidney phenotypes.",
+    "summary": "To evaluate how cross-terminology mapping of International Classification of Diseases (ICD)-coded diagnoses is associated with preservation of diagnostic distinctions and traceability in electronic health record (EHR)-derived phenotypes for genomic research.",
+    "authors": [
+      "Nestor Jordan G",
+      "Krishna Murthy Sarath Babu",
+      "Ta Casey",
+      "Zachariah Teena",
+      "Navarro-Torres Mariela",
+      "Freeman Natasha S",
+      "Han Heedeok",
+      "Prakash Sindhuri",
+      "Ahn Wooin",
+      "Fang Yilu",
+      "Khan Atlas",
+      "Radhakrishnan Jai",
+      "Kiryluk Krzysztof",
+      "Weng Chunhua"
+    ],
+    "published": "2026 Oct 06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837222/",
+    "pmid": "42837222",
+    "source": "PubMed"
+  },
+  {
+    "title": "Chlorogenic Acid Derivative B11 Inhibits Glioma Proliferation by Targeting MST4 to Regulate Oxidative Stress.",
+    "summary": "This study focuses on the mechanism of action of chlorogenic acid derivative B11 on glioma. Although chlorogenic acid exhibits certain anti-tumor activity, it has limitations such as low bioavailability, broad action targets, and insufficient specificity, which restrict its practical application in tumor treatment. Therefore, chlorogenic acid derivative B11 was obtained through structural modification for investigation. Using cell experiments, animal experiments, and molecular techniques, it was found that in cell experiments, the CCK-8 (Cell Counting Kit-8) assay confirmed that B11 has a strong inhibitory effect on the proliferation of U118MG and LN229 glioma cells, with its IC",
+    "authors": [
+      "Liu Yongqi",
+      "Zou Lulu",
+      "Zhan Chengpeng",
+      "Zhang Jinli",
+      "Li Meiying",
+      "Yan Xinjiang",
+      "Chen Xiaoqing",
+      "Zhang Jing",
+      "Yu Guofeng"
+    ],
+    "published": "2026 Oct 06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836847/",
+    "pmid": "42836847",
+    "source": "PubMed"
+  },
+  {
+    "title": "NET-Associated Inflammatory Markers in Head and Neck Squamous Cell Carcinoma: Bioinformatic Prioritization and Exploratory Serum Assessment in Patients Undergoing Radiotherapy.",
+    "summary": "Neutrophil extracellular traps (NETs) and inflammatory mediators have been implicated in head and neck squamous cell carcinoma, but their relationship with systemic inflammatory status during radiotherapy remains incompletely understood. This exploratory integrative study combined a literature-guided network-based bioinformatic prioritization strategy, public transcriptomic interrogation, and a small serum-based clinical cohort evaluated during radiotherapy. Network and ontology analyses identified IL6 and CXCL8 as central inflammatory mediators within a NET-associated condition-specific interaction network. Public transcriptomic analyses showed altered expression patterns of selected NETosis-related genes in tumor tissue. To provide complementary clinical context, circulating NET-associated complexes, interleukin-6 (IL-6), and interleukin-8 (IL-8) were measured in patients with head and neck squamous cell carcinoma undergoing radiotherapy and in healthy controls. Patients showed higher serum levels of NET-associated complexes, IL-6, and IL-8 than controls, whereas no significant differences were observed between the two intra-treatment sampling time points. These findings support the relevance of NET-associated inflammatory markers in HNSCC and indicate that systemic inflammatory alterations can be detected in patients sampled during radiotherapy. Given the exploratory design and limited sample size, these findings should be interpreted cautiously and require validation in larger longitudinal studies.",
+    "authors": [
+      "Santos Eloa Mangabeira",
+      "Freitas Daniela Fernanda de",
+      "Colón David Fernando",
+      "Silva Rangel Leal",
+      "Paula Alfredo Maurício Batista de",
+      "Farias Lucyana Conceição",
+      "Gonçalves Bruno Rodrigues",
+      "Costa Andréia Luiza Oliveira",
+      "Santos Sérgio Henrique Sousa",
+      "Cunha Fernando Queiroz",
+      "Fernandes Donald",
+      "Guimarães André Luiz Sena"
+    ],
+    "published": "2026 Oct 06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836837/",
+    "pmid": "42836837",
+    "source": "PubMed"
+  }
+]
