@@ -1,0 +1,87 @@
+Ontology 文献追踪报告 - 2026-10-07
+==================================================
+
+共发现 13 篇新论文
+
+--- arXiv (6 篇) ------------------------------
+
+1. KGATE : a Knowledge Graph Embedding Training Environment
+   作者: Benjamin Loire, Galadriel Brière, Célia Brahimi, Antoine Toffano, Anaïs Baudot
+   链接: http://arxiv.org/abs/2610.09927v1
+   PDF: https://arxiv.org/pdf/2610.09927v1
+   摘要: Knowledge graph embedding (KGE) models encode the entities and relations of a knowledge graph into a low-dimensional latent space, enabling tasks such as classification or link prediction. Most KGE models follow an autoencoder architecture, in which an encoder projects the knowledge graph into the latent space and a decoder reconstruct it. Combining both encoder and decoder components is increasingly needed, yet existing libraries rarely support complete autoencoders, are often unmaintained, rel...
+
+2. ERP Event Logs: A Canonical Form for KPI Time-Series Extraction and Characterization
+   作者: Sherri Hadian, Adrian Rebmann, Atacan Korkmaz, Gregor Berg, Ulf Brackmann
+   链接: http://arxiv.org/abs/2610.09903v1
+   PDF: https://arxiv.org/pdf/2610.09903v1
+   摘要: Enterprise resource planning (ERP) systems record operations as transactions spread across hundreds of normalized relational tables. Extracting an operational key performance indicator (KPI) from this schema requires a separate, bespoke join for almost every metric. We show that an event log, a canonical (case, activity, timestamp) representation derived from the same tables, collapses this heterogeneity into one flat structure, from which KPI families reduce to reusable operations after a one-t...
+
+3. Automatically Building and Updating a Knowledge Graph of MLIP Models
+   作者: Alexis Beer, Liudmyla Klochko, Mathieu d'Aquin
+   链接: http://arxiv.org/abs/2610.09644v1
+   PDF: https://arxiv.org/pdf/2610.09644v1
+   摘要: Complementing the many efforts in providing semantic representations of concepts, notions, and entities in materials science, we report and illustrate a process by which we can automatically build a knowledge graph of the fast evolving field of machine learning applied to the prediction of material properties, focusing on MLIP (Machine Learning Interatomic Potential). This LLM-based process relies on multiple steps, from information extraction in documents and articles to a validation loop using...
+
+4. CircuitATLAS: Agentic reasoning over a systems neuroscience knowledge graph for target discovery in circuitopathies
+   作者: Gabriel Ocana-Santero, Marko Tvrdic
+   链接: http://arxiv.org/abs/2610.09643v1
+   PDF: https://arxiv.org/pdf/2610.09643v1
+   摘要: Drug discovery for neurological disease has traditionally centered on the molecules altered by disease. But the molecules that cause pathology are not necessarily the best points from which to reverse it. Here, we ask which otherwise unaltered molecular control points can be engaged to restore pathological neural circuits toward functional states. We present CircuitATLAS, a provenance-grounded systems-neuroscience knowledge graph and agentic framework for target discovery in circuitopathies. It ...
+
+5. Reliability of LLM Judges for Evaluating Entity Alignment
+   作者: Vaibhava Lakshmi Ravideshik, Mayank Kejriwal
+   链接: http://arxiv.org/abs/2610.09554v1
+   PDF: https://arxiv.org/pdf/2610.09554v1
+   摘要: Entity Alignment (EA) identifies equivalent entities across knowledge graphs and is critical for knowledge base integration and ontology merging. Evaluating EA systems at scale requires expensive expert annotation, making systematic assessment across diverse domains practically infeasible. LLM-as-judge evaluation offers a potentially scalable alternative, yet its reliability for structured prediction tasks like EA remains unstudied. We present the first systematic benchmarking study across three...
+
+6. FaceKit: a Toolkit for Interpretable Facial Phenotyping, Synthetic Image Generation and Privacy Analysis in Rare Diseases
+   作者: Hongzhuo Chen, Zhanliang Wang, Florent Pollet, Mian Umair Ahsan, Joshua Bie 等 12 人
+   链接: http://arxiv.org/abs/2610.09288v1
+   PDF: https://arxiv.org/pdf/2610.09288v1
+   摘要: Many rare genetic diseases are associated with recognizable craniofacial features. However, traditional approaches for describing facial morphology rely largely on qualitative clinical observation and free-text descriptions, which are often subjective, non-standardized, and difficult to reproduce across observers and institutions. Although the Human Phenotype Ontology (HPO) provides controlled terms for describing facial features, these terms are typically categorical rather than quantitative an...
+
+--- PubMed (7 篇) ------------------------------
+
+1. Integrative methylome and transcriptome analyses identify LHX3 as an epigenetically downregulated marker with tumor suppressive properties in breast cancer.
+   作者: Farooq Kokab, Gull Sheereen, Farooq Zubia, Amin Muhammad Talal, Anjum Rana Salman 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42842545/
+   PMID: 42842545
+   摘要: Breast cancer (BC) remains a major global health concern, with rising incidence and mortality rates. Early diagnosis of BC plays an important role in its prevention. However, number of clinically validated biomarkers that enable accurate and minimally invasive diagnosis are still insufficient. Epigenetic modifications, particularly hypermethylation-mediated inactivation of numerous tumor suppressor genes occur early in tumorigenesis and are detectable even before the clinical onset, making them ...
+
+2. Active Reconstruction of Radiance Fields with Expanded Silhouette Refinement.
+   作者: Li Ruiqi, Cheung Yiu-Ming, Li Mengke, Hu Zhikai
+   链接: https://pubmed.ncbi.nlm.nih.gov/42842509/
+   PMID: 42842509
+   摘要: Radiance field representations have achieved notable success in novel view synthesis and 3D geometry reconstruction. Nevertheless, the reconstruction quality is highly sensitive to both the number of input images and the extent of scene coverage, and it often requires manual effort to capture well-conditioned image collections. To reduce acquisition cost while preserving reconstruction fidelity, active view selection methods aim to determine the next-best-view (NBV) that maximizes information ga...
+
+3. VAEBAC: A representation-learning framework for proteome-scale prediction of amyloidogenic proteins and functional stratification of nucleic-acid-binding proteins.
+   作者: Ashraf Muhammad Uzair, Ahmad Owais, Khan Rizwan Hasan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42842425/
+   PMID: 42842425
+   摘要: Nucleic-acid-binding proteins (NABPs) govern transcription, replication and genome organization, yet the distribution of aggregation susceptibility within regulatory proteomes remains unresolved. Here, we systematically examine amyloidogenic potential across the nucleic-acid-binding proteomes of four phylogenetically diverse organisms-Escherichia coli, Bacillus subtilis, Saccharomyces cerevisiae and Homo sapiens-spanning prokaryotes and eukaryotes, to determine whether aggregation-prone sequence...
+
+4. HINN prioritizes multi-omics biomarkers associated with cognitive decline.
+   作者: Vashishath Yashu, Beaver Sarah Anne, Saeed Fahad, Bozdag Serdar
+   链接: https://pubmed.ncbi.nlm.nih.gov/42842388/
+   PMID: 42842388
+   摘要: Integrating multi-omics data for disease prediction remains challenging due to the complexity of cross-layer biological interactions and the limited use of prior biological knowledge in many machine learning models. We present the Hierarchical Input Neural Network (HINN), a deep learning framework that incorporates biologically informed connections across genomic, epigenetic, and transcriptomic layers to model regulatory relationships in a structured and interpretable manner. HINN was applied to...
+
+5. METANet: a supervised ensemble learning framework for reconstructing direct and functional tissue-specific transcription factor networks.
+   作者: Jung Wooseok J, Acharya Sandeep, Ruskin Daniel P, Liao Shu, Moghaddam Vaha Akbary 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42841723/
+   PMID: 42841723
+   摘要: Reconstructing tissue-specific transcription factor (TF) networks remains challenging. TF -motif-based methods often lack functional validation, while expression-based methods struggle to distinguish direct binding from indirect regulation. Integration of diverse data types is necessary to accurately prioritize likely functional targets directly bound by TFs across human tissues....
+
+6. A constructional theory of sets, parts and relations.
+   作者: Florio Salvatore, Linnebo Øystein
+   链接: https://pubmed.ncbi.nlm.nih.gov/42840932/
+   PMID: 42840932
+   摘要: We develop a constructional approach to ontology, focusing on sets, parts and relations. On this conception of ontology, one starts with some constructors and an initial collection of objects. Then, new objects emerge by construction, that is, from the application of constructors to objects. This approach, which is inspired by work of Kit Fine, provides a unified formalization of core components of prominent formal ontologies. The resulting formal theory is also shaped by its intended applicatio...
+
+7. Signatures of selection in pleiotropic genes involved in insect neuronal and immune systems.
+   作者: Senthilkumar Sowmya, Martin Reese A, Tate Ann T
+   链接: https://pubmed.ncbi.nlm.nih.gov/42594179/
+   PMID: 42594179
+   摘要: Pleiotropy, where a single gene contributes to multiple biological functions, plays a central role in shaping evolutionary constraints. The nervous and immune systems are tightly integrated both functionally and genetically, but it is not clear whether pleiotropy constrains adaptation in each system or contributes to disease. Building on evidence that genes that are pleiotropic between development and immunity in Drosophila melanogaster evolve slower than immune-specific genes, we tested whether...
+
