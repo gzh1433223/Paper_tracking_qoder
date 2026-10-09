@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Traveling with a Map: Reducing the Search Space of Link Traversal Queries Using RDF Shapes",
+    "summary": "The centralization of web information raises legal and ethical concerns, particularly in social, healthcare, and education applications. Decentralized architectures offer a promising alternative by keeping data closer to its source, yet efficient query processing remains a significant challenge. Link Traversal Query Processing (LTQP) enables querying across decentralized networks but often suffers from long execution times and high data transfer costs due to the large number of HTTP requests involved. Many queries are highly selective with respect to the data model objects distributed across the network. For example, in a social media application where users store heterogeneous data, a query may target only users' posts and comments, ignoring their other information. We refer to such queries as data-model selective. We propose a shape-based pruning approach that relies on shape indexes and a query-shape subsumption algorithm to reduce the search space and thus the number of HTTP requests. We formalize this approach as a link pruning mechanism for LTQP and evaluate it on social media queries from the SolidBench benchmark across multiple metrics. Our results show that shape-based pruning substantially improves query execution time, first-result arrival time, diefficiency, and network usage for data-model selective queries, while having a negligible impact on non-selective data-model queries. These gains cost only a minor increase in triples per shape-index instance. Our approach is also resilient, retaining its benefits even when some data providers do not supply shape indexes. This work demonstrates that shape-based metadata can significantly optimize LTQP in decentralized knowledge graphs for an important class of queries. By exposing such metadata, data providers not only enhance data quality and interoperability but also improve the efficiency of traversal-based query processing.",
+    "authors": [
+      "Bryan-Elliott Tam",
+      "Joanna Van Herwegen",
+      "Pieter Colpaert",
+      "Ruben Verborgh",
+      "Ruben Taelman"
+    ],
+    "published": "2026-10-08T11:08:59Z",
+    "url": "http://arxiv.org/abs/2610.11701v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2610.11701v1"
+  },
+  {
+    "title": "Intent Graph: Navigating the Analytical Reasoning Space for Exploratory Data Analysis",
+    "summary": "Exploratory data analysis (EDA) is rarely open-ended in practice: analysts work from high-level domain questions toward the concrete analyses that can answer them, prioritizing directions with domain knowledge and prior hypotheses. Large language models (LLMs) can supply such knowledge, but their responses are unstructured, leaving analysts no way to see what has been explored, what is missing, or why one direction was chosen over another. We present DAG-EDA, a system that lets analysts and an LLM co-navigate the space of possible analyses through two linked structures. An intent graph, governed by a grammar of analytical intent, decomposes an ambiguous natural-language question into progressively concrete analysis tasks, keeping alternative framings open and letting analysts branch, backtrack, and compare paths. A multi-layered knowledge graph externalizes the LLM's domain knowledge, linking domain concepts to the dataset variables that can measure them, so analysts can inspect and contest how their question is grounded in the data. Both graphs are constructed from only the dataset and the analyst's question, and the analyses the analyst reaches are rendered as interactive dashboards. We illustrate the system through a usage scenario and describe a user study design for examining whether the system scaffold analysts' reasoning and navigation.",
+    "authors": [
+      "Junran Yang",
+      "Shruti Badrish",
+      "Teanna Barrett",
+      "Leilani Battle"
+    ],
+    "published": "2026-10-08T00:19:01Z",
+    "url": "http://arxiv.org/abs/2610.11025v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2610.11025v1"
+  },
+  {
+    "title": "KGR-MAS: Knowledge Graph-Enhanced Multi-Agent LLM Framework for Evidence-Based Medical Diagnosis and Clinical Decision Support.",
+    "summary": "Large Language Models (LLMs) demonstrate significant potential in healthcare applications, yet they exhibit reasoning bias, information bottlenecks, and limited adaptability in complex clinical settings. To address these limitations, we propose KGR-MAS, which introduces an integrated control loop that couples (1) KG-derived diagnostic paths for executable subtask decomposition and dynamic agent allocation, while using these KG reasoning paths to initialize shared short-term memory; (2) a language-level LSTM-inspired gating mechanism with Transformer-XL short-term memory to regulate cross-agent information flow and maintain global coherence; and (3) a KG-guided RAG-STM process that triggers evidence retrieval at diagnostic checkpoints and writes the retrieved evidence back into STM for subsequent reasoning. We constructed a large-scale medical knowledge graph achieving the best embedding performance (Hits@1:32.8%, MRR:0.498). Experimental results on MedQA and MedMCQA show that KGR-MAS achieves 87.2% accuracy on MedQA($\\uparrow$14.4%), and 77.4% average accuracy across four open-domain datasets ($\\uparrow$29.0%), outperforming larger models like GPT-o1(72.0%). KGR-MAS provides interpretable, accurate, and clinically grounded diagnostic reasoning, highlighting its potential as a next-generation AI assistant for medical decision-making.",
+    "authors": [
+      "Yin Li",
+      "Du XueFeng",
+      "Cheng Yanqi",
+      "Tong Ning",
+      "Li Fengqi"
+    ],
+    "published": "2026 Oct 08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42848569/",
+    "pmid": "42848569",
+    "source": "PubMed"
+  },
+  {
+    "title": "LightCrafter: A Structured Framework for Function-Aware Indoor Lighting Design.",
+    "summary": "Indoor lighting design involves complex spatial, functional, and aesthetic considerations, making it challenging to achieve satisfactory results without expertise. Poor lighting distribution-such as excessive glare or uneven illumination-misalignment with scene-specific functional requirements like over- or under-illumination, and inefficient control systems significantly undermine both energy efficiency and lighting quality. In this work, we come up with a structured framework for function-aware indoor lighting design that formulates lighting design as a structured decision-making problem. Considering the scene as a hierarchical scene graph that captures the spatial and semantic relationships between scene elements, we use a pre-trained LLM to reconstruct the scene into a lighting structure graph under the guidance of a lighting knowledge base, containing nodes with lighting requirements and possible lighting nodes. Subsequently, in the lighting simulation engine, reinforcement learning is used to optimize the parameter values of the lighting nodes in the lighting structure graph to meet the lighting design requirements. Extensive quantitative and qualitative experiments show that our method outperforms existing methods for automatic indoor lighting design. It not only generates high-quality lighting designs, but also perceives the functions of the scene, allowing users to easily achieve functionally controllable indoor lighting designs through structured scene editing.",
+    "authors": [
+      "Liu Jingjing",
+      "Jing Chenchen",
+      "Tang Rui",
+      "Zheng Youyi",
+      "Zhou Kun"
+    ],
+    "published": "2026 Oct 08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42848536/",
+    "pmid": "42848536",
+    "source": "PubMed"
+  },
+  {
+    "title": "FAANGMine Genomic Data Warehouse for Farm Animal Species.",
+    "summary": "The predictive potential of functional annotation requires that regulatory data be interpreted in the contexts of genes, expression, variants and traits. FAANGMine (https://faangmine.elsiklab.missouri.edu/) is a data warehouse that brings them into a single framework, facilitating the exploration of regulatory elements, variants, QTL, genes and gene annotations in farm animal species. It was designed to highlight reference functional annotation datasets generated by members of the Functional Annotation of Animal Genomes (FAANG) Consortium. FAANGMine was developed using the InterMine biological data warehousing system, enhanced to support the integration of tissue-specific functional annotation data, including chromatin states, chromatin accessibility, chromatin architecture, histone modifications and CTCF binding sites. A rich set of associated metadata supports flexible and focused queries. The functional annotation data are integrated with gene annotation data from a variety of sources as well as pre-computed RNA-seq-based gene expression levels. External data sources include RefSeq, Ensembl, KEGG, Reactome, OrthoDB, Online Mendelian Inheritance in Man, UniProt, Gene Ontology, AnimalQTLdb, InterPro and PubMed. Data retrieval with FAANGMine is achieved with web-based search tools or an application programming interface. In addition to the FAANGMine data-mining application, the FAANGMine website includes JBrowse genome browsers for visualization of regulatory elements in the context of genes, expression, QTL and single nucleotide variants.",
+    "authors": [
+      "Walsh Amy T",
+      "Kambal Sumaya",
+      "Finno Carrie J",
+      "Kalbfleisch Theodore S",
+      "Petersen Jessica L",
+      "Sivasankaran Sathesh K",
+      "Shamimuzzaman Md",
+      "McKendrick Makenna M",
+      "Hagen Darren E",
+      "Elsik Christine G"
+    ],
+    "published": "2026 Oct 08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42847503/",
+    "pmid": "42847503",
+    "source": "PubMed"
+  },
+  {
+    "title": "When the doctor believes you, but you're still not happy: Legitimized contested illness and patients' negative post-consultation experiences and agency.",
+    "summary": "This article investigates patients' negative and ambivalent lived post-consultation experiences and the related agencies when a doctor",
+    "authors": [
+      "Kaikkonen Suvi",
+      "Savijärvi Marjo",
+      "Finell Eerika"
+    ],
+    "published": "2026 Oct 08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42847250/",
+    "pmid": "42847250",
+    "source": "PubMed"
+  },
+  {
+    "title": "11-O-galloylbergenin alleviates LPS-stimulated inflammation in RAW 264.7 macrophages by targeting Grb2, RhoA, and Cdc42 in the RAS signaling pathway.",
+    "summary": "This study aimed to explore the anti-inflammatory mechanism of 11-O-galloylbergenin in macrophages.",
+    "authors": [
+      "You Kun",
+      "Qin Lang",
+      "Yang Siman",
+      "Cheng Ya",
+      "Tang Youli",
+      "Su Rong"
+    ],
+    "published": "2026 Oct 08",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42664822/",
+    "pmid": "42664822",
+    "source": "PubMed"
+  }
+]
