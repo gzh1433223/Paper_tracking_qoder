@@ -1,0 +1,181 @@
+[
+  {
+    "title": "Revealing the toxicological effects and mechanisms of tris(1-chloro-2-propyl) phosphate exposure on osteoarthritis based on network toxicology, machine learning, and molecular docking.",
+    "summary": "Osteoarthritis (OA) is a degenerative disease affecting all joints in the body, impacting over 500 million people globally and imposing a significant healthcare burden. Tris(1-chloro-2-propyl) phosphate (TCPP), one of the widely used organophosphate flame retardants (OPFRs), exhibits notable environmental and biological toxicity. However, the role and molecular mechanisms of TCPP exposure in OA remain unclear. This study combined network toxicology, machine learning, and molecular docking techniques to identify key targets and pathways associated with TCPP exposure and OA. A nomogram model was constructed based on the identified hub genes, and immune cell infiltration was evaluated using the cell-type identification by estimating relative subsets of RNA transcripts (CIBERSORT) algorithm. By searching multiple public databases, we obtained 106 TCPP-OA intersection genes. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses revealed that these targets primarily participate in immune regulation and inflammatory responses, involving pathways such as the mitogen-activated protein kinase and phosphoinositide 3-kinase/protein kinase B (PI3K-Akt) signaling pathways. Machine learning algorithms identified 4 hub genes: GRB2, GSK3B, IL18, and THBS1. Based on these hub genes, we constructed a nomogram model. Calibration curves and decision curves demonstrated the model's sound diagnostic value and clinical efficacy. The CIBERSORT algorithm identified 6 immune cell types with significantly altered infiltration levels during OA progression, and the hub genes were closely associated with multiple immune cell populations. Molecular docking analysis suggested interactions between TCPP and the key proteins. These findings provide the first evidence highlighting the mechanisms through which TCPP may influence OA pathogenesis and identify relevant toxicological targets, laying a foundation for developing strategies to mitigate its effects on OA and improve the understanding of TCPP-related health risks. However, additional in vivo and in vitro studies are required to validate these mechanisms.",
+    "authors": [
+      "Yang Bin",
+      "Wang Xiangjin",
+      "Zhuo Li",
+      "Chen Yutong",
+      "He Qiansong"
+    ],
+    "published": "2026 Oct 09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854077/",
+    "pmid": "42854077",
+    "source": "PubMed"
+  },
+  {
+    "title": "Integrative bioinformatics analysis of Lianmei granules in diabetic nephropathy: Epidemiological and molecular insights.",
+    "summary": "Diabetic nephropathy (DN) is a severe complication of diabetes mellitus, leading to end-stage renal disease and significant morbidity. Current therapies are limited by efficacy and side effects, highlighting the need for novel treatments. Lianmei granules (LMG) show potential for treating DN, although their mechanisms remain unclear. This study explored DN epidemiology and investigated the active components, targets, and mechanisms of LMG using a comprehensive bioinformatics approach. We conducted a cross-sectional analysis involving 44,090 participants from the National Health and Nutrition Examination Survey (NHANES) from 2001 to 2023. Given the cross-sectional nature of NHANES, our analytical definition of DN was the presence of diagnosed diabetes and UACR≥30 mg/g in both matched adjacent NHANES cycles. This approach reduced potential false positives from single measurements and approximated clinical diagnostic standards without representing longitudinal follow-up. Multivariate logistic regression identified DN risk factors. LMG active compounds were screened using databases such as TCMSP. Overlapping targets with DN-related genes were identified to construct interaction networks, followed by protein-protein interaction networks, gene ontology/Kyoto Encyclopedia of Genes and Genomes enrichment, gene expression, and immune infiltration analyses. Molecular docking and dynamics simulations were performed. Gender (OR: 1.072, 95% CI: 1.015-1.132, P <.01), race (Non-hispanic black: OR=1.536, 95% CI: 1.412-1.671, P < .001; Mexican Americans: OR = 1.284, 95% CI: 1.165-1.415, P < .001) and hypertension (OR = 1.321, 95% CI: 1.235-1.413, P < .001) were identified as independent risk factors for DN. A total of 215 active LMG compounds and 64 potential DN-related targets were identified, with core targets including prostaglandin-endoperoxide synthase 2, EGFR, ESR1, CYP3A4, and matrix metallopeptidase 9. Enrichment analysis indicated that these targets are mainly involved in cellular responses and hormone signaling. Differential expression analysis (GSE96804) revealed 615 differentially expressed genes, and immune infiltration analysis showed significant immune cell distribution differences between DN and control groups. Molecular docking and dynamics simulations predicted strong binding affinities between key compounds (resveratrol, kaempferol) and core targets (matrix metallopeptidase 9, EGFR). However, further in vitro or molecular studies are needed to validate these mechanisms. This integrative approach underscores the complexity of DN pathogenesis and highlights LMG's potential as a multi-target therapeutic strategy, warranting further investigation into its clinical applications.",
+    "authors": [
+      "Dong Pengyan",
+      "Zhang Hongying",
+      "Wei Zeyou",
+      "He Weiran",
+      "Liu Jiwei",
+      "Li Shaoxia",
+      "Yang Yu",
+      "Wang Nan",
+      "Su Ning",
+      "Yuan Yuan",
+      "Wang Min",
+      "Wan Jiming",
+      "Liang Jizhen",
+      "Su Duohua",
+      "Hu Jinxing",
+      "Li Hua",
+      "Wang Qi"
+    ],
+    "published": "2026 Oct 09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854049/",
+    "pmid": "42854049",
+    "source": "PubMed"
+  },
+  {
+    "title": "Standardizing Cell Ontology terms for cross-study integration in the female reproductive tract.",
+    "summary": "The female reproductive tract is essential for fertility, pregnancy, and overall health, yet many of its cellular components remain poorly defined. Recent advances in single-cell and spatial transcriptomics have begun to reveal this complexity, but inconsistent naming of cell types and states has limited the ability to compare findings across studies. To address this challenge, an international group of reproductive biologists and ontology experts collaborated to harmonize annotations within Cell Ontology, focusing on the ovary, fallopian tube, and uterus. Standardized terms are proposed for major epithelial, stromal, and germ cell populations, supported by marker gene sets and anatomical linkages. This framework provides a shared reference that can be used to harmonize existing datasets and guide annotation of future studies, enabling consistent classification of oocytes, granulosa, theca, luteal, epithelial, stromal, and immune cells across tissues. By establishing a unified taxonomy, this work lays the foundation for integrating datasets, supporting cross-tissue comparisons, and advancing the understanding of reproductive biology, health, and disease.",
+    "authors": [
+      "Ong Huan Ting",
+      "Saunders Diane C",
+      "Eastwood Caroline",
+      "Puig-Barbe Aleix",
+      "Kochersberger Alison",
+      "Galligos Anna",
+      "Marshall Bailey",
+      "Johnson Benjamin K",
+      "Kratka Caroline E",
+      "Jin Chen",
+      "Betancur Daniela",
+      "Guimarães Gabriela Rapozo",
+      "Machlin Jordan H",
+      "Isola Jose V V",
+      "Adam Katelyn M",
+      "Morales-Casanova Osmaray",
+      "Djirackor Svetlana",
+      "Schissel Taylor",
+      "Lorenzi Valentina",
+      "Wang Xifan",
+      "Shen Xingyu",
+      "Soygur Bikem",
+      "Aevermann Brian",
+      "Gaylord Eliza A",
+      "Foecke Mariko H",
+      "Tavares Norbert K",
+      "Samuel Ryan M",
+      "Szady Sophia",
+      "Mahalingam Srinivasan",
+      "Biswas Subhasri",
+      "Liao Will",
+      "Benayoun Bérénice A",
+      "Chung Hattie",
+      "Winuthayanon Wipawee",
+      "Li Jun Z",
+      "Molè Matteo A",
+      "Angelo Michael",
+      "Jeudin Patricia",
+      "Drapkin Ronny",
+      "Shikanov Ariella",
+      "Laird Diana J",
+      "Duncan Francesca",
+      "Shen Hui",
+      "Garrison Jennifer L",
+      "Boroni Mariana",
+      "Stout Michael B",
+      "Vento-Tormo Roser",
+      "George Sophia H L",
+      "Suh Yousin",
+      "Young Jennifer L",
+      "Laronda Monica M"
+    ],
+    "published": "2026 Oct 09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853913/",
+    "pmid": "42853913",
+    "source": "PubMed"
+  },
+  {
+    "title": "Semantic Clinical Knowledge Augmentation Improves Medical Question Answering Across Commercial and Open Large Language Models.",
+    "summary": "To evaluate whether semantic clinical knowledge augmentation through Semantic Clinical Artificial Intelligence (SCAI) improves medical question answering across commercial and open large language models, and to examine how a reasoning distilled model performs on the same benchmark.",
+    "authors": [
+      "Elkin Peter L",
+      "Elkin Aaron N",
+      "Mehta Guresh",
+      "LeHouillier Frank",
+      "Nebeker Jonathan R",
+      "Saquib Nazmus",
+      "Brown Steven H"
+    ],
+    "published": "2026 Oct 09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853745/",
+    "pmid": "42853745",
+    "source": "PubMed"
+  },
+  {
+    "title": "Prototype Matters: Domain-Wise Prototype Induction for Zero-Shot Recognition.",
+    "summary": "Zero-Shot Learning (ZSL) has achieved remarkable progress, yet most existing methods still rely heavily on predefined semantic embeddings as supervisory signals. Such semantics are often incomplete, inaccurate, and insufficiently discriminative, resulting in ambiguous decision boundaries and limited generalization to unseen domains. In practice, predefined semantics frequently conflict with diverse instance-level visual patterns, making it extremely challenging for models to both separate classes and decode rich attribute variations under limited parameterization. Furthermore, substantial discrepancies between semantic and visual structures hinder the learning of discriminative class-level representations, especially under domain shift. Although recent efforts aim to align visual and semantic spaces, they largely overlook the importance of explicitly inducing well-separated, domain-adaptive class-level representations, which we argue is crucial for effective zero-shot recognition. Motivated by these observations, we propose a novel Domain-wise Prototype Induction Network (DPIN) that focuses on learning discriminative and adaptively separable class-level prototypes instead of directly embedding or matching predefined semantics. DPIN learns to induce prototypes guided by limited semantic priors while dynamically adjusting inter-class distances according to domain variations. Specifically, we introduce a Semantic Node Refinement with Hierarchical Guidance module to progressively rectify predefined semantics, and an Attention-based Visual Node Construction with Semantic Prior module to derive visually discriminative nodes under class- and group-level supervision. Furthermore, a Meta-Graph Learning with Interactive Knowledge Infusion mechanism collaboratively refines semantic and visual nodes at both distribution and class levels, effectively narrowing the visual-semantic gap. Based on the learned meta-graph, an Adaptive Class-level Prototype Induction strategy generates domain-wise well-separated prototypes, enabling accurate instance-level inference even under severe domain shift. Extensive experiments on three standard ZSL benchmarks demonstrate the effectiveness of DPIN, achieving 4.3% and 2.5% average accuracy improvements over state-of-the-art ZSL methods under the same settings, respectively, and validating the effectiveness of prototype-centric modeling in ZSL.",
+    "authors": [
+      "Ren Bocheng",
+      "Yi Yuanyuan",
+      "Zhang Qingchen",
+      "Feng Jun",
+      "Liu Debin"
+    ],
+    "published": "2026 Oct 09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853741/",
+    "pmid": "42853741",
+    "source": "PubMed"
+  },
+  {
+    "title": "Explaining Negative Affect across Los Angeles in the Aftermath of Nipsey Hussle's Death: The Role of Neighborhood Context.",
+    "summary": "This study explores trends in the distribution of negative emotional expression on Twitter during the parasocial grieving process following the death of a popular musician, Nipsey Hussle (Ermias Joseph Asghedom), on March 31, 2019. We analyzed a dataset of 43,566 tweets that were geolocated within the city of Los Angeles between March 1 and April 29, 2019. Ontology-based software Emotive and Stresscapes were used to score tweet content for emotional content. A general increase in sadness and stress occurred in the immediate aftermath of Mr. Asghedom's death, with higher concentrations of stress in tweets from neighborhoods of Downtown Los Angeles, Hyde Park, Baldwin Hills-Crenshaw, and Watts. These neighborhoods also had a higher proportion of Black residents than other LA neighborhoods. This study demonstrates how social media can serve as a tool for identifying and understanding neighborhood-level emotional responses to traumatic events and highlights the importance of the demographic context in shaping grief expression.",
+    "authors": [
+      "Nkemka Chibueze",
+      "Elayan Suzanne",
+      "Sykora Martin",
+      "Shankardass Ketan"
+    ],
+    "published": "2026 Oct 09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853679/",
+    "pmid": "42853679",
+    "source": "PubMed"
+  },
+  {
+    "title": "Alterations in the liver phosphoproteome of finishing cattle with divergent dry matter intake.",
+    "summary": "Variation in voluntary dry matter intake (DMI) is an important component of feed efficiency in finishing cattle; however, the molecular processes associated with individual variation in DMI remain poorly understood. The liver contributes to DMI regulation through both cell signaling and vagal signaling. The objective of this study was to investigate alterations in the phosphoproteome of finishing beef steers with divergent DMI to identify hepatic molecular processes associated with variation in voluntary feed intake. Fifty-four Angus steers (initial body weight = 518 ± 27 kg) underwent a 63-day intake trial using the Insentec Roughage Intake Control System (Hokofarm Group, Emmeloord, The Netherlands). Liver biopsy samples were collected 2 days prior to trial initiation. Samples from steers with the highest and lowest DMI (n = 8 each) were used for phosphoproteomic analysis. Proteins were labeled with isobaric tandem mass tagging reagents, enriched for phosphopeptides, and analyzed by high-performance liquid chromatography tandem mass spectrometry, with spectral data searched and analyzed using MaxQuant (version 2.2.0.0; Max Planck Inst., Munich, Germany) and Perseus (version 2.0.10.0; Max Planck Inst.). Data are available via ProteomeXchange with identifier PXD083668. A total of 16,365 phosphopeptides and 13,808 phosphosites were identified. There were 310 differentially abundant phosphopeptides and 1,158 differentially abundant phosphosites (False Discovery Rate < 0.05). For functional enrichment analysis, 2,777 phosphopeptides meeting an unadjusted P < 0.05 were used as input, and Gene Ontology processes and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways were evaluated. Phosphosite data were used for kinase-substrate enrichment analysis (KSEApp package in R). Three enriched Gene Ontology terms were identified: nucleosome, structural constituent of chromatin, and RNA binding. Enriched KEGG pathways included adipocytokine signaling, insulin signaling, and insulin resistance. There were 43 enriched kinases following multiple-testing correction within KSEApp. Collectively, these results demonstrate differences in the hepatic phosphoproteome of cattle with divergent DMI and identify hepatic signaling pathways associated with variation in voluntary feed intake. These pathway-level findings provide potential targets for further investigation but do not establish causal mechanisms regulating DMI.",
+    "authors": [
+      "King Mindy E",
+      "Newcomb Carlee",
+      "Rathert-Williams Abigail R",
+      "Beck Matthew R",
+      "Hartson Steven D",
+      "Hagen Darren E",
+      "Foote Andrew P"
+    ],
+    "published": "2026 Oct 09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853105/",
+    "pmid": "42853105",
+    "source": "PubMed"
+  },
+  {
+    "title": "Geometric",
+    "summary": "Transition-state classification remains challenging because distinguishing reactant-like from product-like geometries requires resolving subtle mechanistic changes. Although GNNs can learn molecular representations, it remains unclear whether their predictions arise from genuine mechanistic information in geometry or from global descriptors that inadvertently encode reaction-coordinate information. A controlled leakage study was performed on the highly interconnected 2-norbornyl carbocation isomerization network, which contains overlapping pathways and complex rearrangement features. A hierarchical series of GNNs was constructed to progressively introduce increasingly informative global descriptors. These descriptors ranged from displacement and force-based metrics to structural-distance relationships and normalized reaction-coordinate fractions. The geometry-only GNN performed near randomly, indicating that local graph representations alone are insufficient for robust early-late TS classification. Adding displacement-based descriptors substantially improved performance, while force-based and redundant descriptors provided only modest additional gains. A sharp increase to near-perfect accuracy occurred after introducing reactant-TS and product-TS structural-distance descriptors, even before explicitly including the normalized reaction fraction. Multiple analyses showed that these chemically meaningful global descriptors can unintentionally encode target-defining reaction-progress information, highlighting the need for systematic leakage detection in graph-based chemical machine learning. The inclusion of electronic properties, such as Mayer bond orders and Mulliken charges increased model accuracy without data leakage. More broadly, this work establishes a systematic framework for identifying and quantifying information leakage in graph-based chemical machine learning.",
+    "authors": [
+      "Mokgopa Kabelo Phuti",
+      "Tshiwawa Tendamudzimu",
+      "Lobb Kevin A"
+    ],
+    "published": "2026 Oct 09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853067/",
+    "pmid": "42853067",
+    "source": "PubMed"
+  }
+]

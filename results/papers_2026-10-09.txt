@@ -1,0 +1,55 @@
+Ontology 文献追踪报告 - 2026-10-09
+==================================================
+
+共发现 8 篇新论文
+
+--- PubMed (8 篇) ------------------------------
+
+1. Revealing the toxicological effects and mechanisms of tris(1-chloro-2-propyl) phosphate exposure on osteoarthritis based on network toxicology, machine learning, and molecular docking.
+   作者: Yang Bin, Wang Xiangjin, Zhuo Li, Chen Yutong, He Qiansong
+   链接: https://pubmed.ncbi.nlm.nih.gov/42854077/
+   PMID: 42854077
+   摘要: Osteoarthritis (OA) is a degenerative disease affecting all joints in the body, impacting over 500 million people globally and imposing a significant healthcare burden. Tris(1-chloro-2-propyl) phosphate (TCPP), one of the widely used organophosphate flame retardants (OPFRs), exhibits notable environmental and biological toxicity. However, the role and molecular mechanisms of TCPP exposure in OA remain unclear. This study combined network toxicology, machine learning, and molecular docking techni...
+
+2. Integrative bioinformatics analysis of Lianmei granules in diabetic nephropathy: Epidemiological and molecular insights.
+   作者: Dong Pengyan, Zhang Hongying, Wei Zeyou, He Weiran, Liu Jiwei 等 17 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42854049/
+   PMID: 42854049
+   摘要: Diabetic nephropathy (DN) is a severe complication of diabetes mellitus, leading to end-stage renal disease and significant morbidity. Current therapies are limited by efficacy and side effects, highlighting the need for novel treatments. Lianmei granules (LMG) show potential for treating DN, although their mechanisms remain unclear. This study explored DN epidemiology and investigated the active components, targets, and mechanisms of LMG using a comprehensive bioinformatics approach. We conduct...
+
+3. Standardizing Cell Ontology terms for cross-study integration in the female reproductive tract.
+   作者: Ong Huan Ting, Saunders Diane C, Eastwood Caroline, Puig-Barbe Aleix, Kochersberger Alison 等 51 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42853913/
+   PMID: 42853913
+   摘要: The female reproductive tract is essential for fertility, pregnancy, and overall health, yet many of its cellular components remain poorly defined. Recent advances in single-cell and spatial transcriptomics have begun to reveal this complexity, but inconsistent naming of cell types and states has limited the ability to compare findings across studies. To address this challenge, an international group of reproductive biologists and ontology experts collaborated to harmonize annotations within Cel...
+
+4. Semantic Clinical Knowledge Augmentation Improves Medical Question Answering Across Commercial and Open Large Language Models.
+   作者: Elkin Peter L, Elkin Aaron N, Mehta Guresh, LeHouillier Frank, Nebeker Jonathan R 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42853745/
+   PMID: 42853745
+   摘要: To evaluate whether semantic clinical knowledge augmentation through Semantic Clinical Artificial Intelligence (SCAI) improves medical question answering across commercial and open large language models, and to examine how a reasoning distilled model performs on the same benchmark....
+
+5. Prototype Matters: Domain-Wise Prototype Induction for Zero-Shot Recognition.
+   作者: Ren Bocheng, Yi Yuanyuan, Zhang Qingchen, Feng Jun, Liu Debin
+   链接: https://pubmed.ncbi.nlm.nih.gov/42853741/
+   PMID: 42853741
+   摘要: Zero-Shot Learning (ZSL) has achieved remarkable progress, yet most existing methods still rely heavily on predefined semantic embeddings as supervisory signals. Such semantics are often incomplete, inaccurate, and insufficiently discriminative, resulting in ambiguous decision boundaries and limited generalization to unseen domains. In practice, predefined semantics frequently conflict with diverse instance-level visual patterns, making it extremely challenging for models to both separate classe...
+
+6. Explaining Negative Affect across Los Angeles in the Aftermath of Nipsey Hussle's Death: The Role of Neighborhood Context.
+   作者: Nkemka Chibueze, Elayan Suzanne, Sykora Martin, Shankardass Ketan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42853679/
+   PMID: 42853679
+   摘要: This study explores trends in the distribution of negative emotional expression on Twitter during the parasocial grieving process following the death of a popular musician, Nipsey Hussle (Ermias Joseph Asghedom), on March 31, 2019. We analyzed a dataset of 43,566 tweets that were geolocated within the city of Los Angeles between March 1 and April 29, 2019. Ontology-based software Emotive and Stresscapes were used to score tweet content for emotional content. A general increase in sadness and str...
+
+7. Alterations in the liver phosphoproteome of finishing cattle with divergent dry matter intake.
+   作者: King Mindy E, Newcomb Carlee, Rathert-Williams Abigail R, Beck Matthew R, Hartson Steven D 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42853105/
+   PMID: 42853105
+   摘要: Variation in voluntary dry matter intake (DMI) is an important component of feed efficiency in finishing cattle; however, the molecular processes associated with individual variation in DMI remain poorly understood. The liver contributes to DMI regulation through both cell signaling and vagal signaling. The objective of this study was to investigate alterations in the phosphoproteome of finishing beef steers with divergent DMI to identify hepatic molecular processes associated with variation in ...
+
+8. Geometric
+   作者: Mokgopa Kabelo Phuti, Tshiwawa Tendamudzimu, Lobb Kevin A
+   链接: https://pubmed.ncbi.nlm.nih.gov/42853067/
+   PMID: 42853067
+   摘要: Transition-state classification remains challenging because distinguishing reactant-like from product-like geometries requires resolving subtle mechanistic changes. Although GNNs can learn molecular representations, it remains unclear whether their predictions arise from genuine mechanistic information in geometry or from global descriptors that inadvertently encode reaction-coordinate information. A controlled leakage study was performed on the highly interconnected 2-norbornyl carbocation isom...
+
