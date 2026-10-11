@@ -1,0 +1,19 @@
+Ontology 文献追踪报告 - 2026-10-10
+==================================================
+
+共发现 2 篇新论文
+
+--- PubMed (2 篇) ------------------------------
+
+1. UCTE-OGC: Unsupervised contrastive text embedding with ontology-guided graph convolutions for biomedical clustering.
+   作者: Li Meijing, Guo Jiashun, Huang Runqing
+   链接: https://pubmed.ncbi.nlm.nih.gov/42856026/
+   PMID: 42856026
+   摘要: BackgroundEfficient organization and retrieval of rapidly growing biomedical literature require representations that capture contextual semantics and explicit biomedical relationships. However, existing methods typically model text and ontology structure separately, producing incomplete representations with limited cluster separability.ObjectiveThis study addresses the incomplete feature representation and low cluster separability that emerge as textual and ontological information are modeled in...
+
+2. Synovial Metal Binding Proteins in Haemophilic Arthropathy: Potential Biomarkers and Therapeutic Targets.
+   作者: Liu Liyin, Yu Defu, Luo Dasheng, Chen Tao
+   链接: https://pubmed.ncbi.nlm.nih.gov/42855989/
+   PMID: 42855989
+   摘要: Haemophilic arthropathy (HA) is a chronic joint disease in haemophiliac patients, driven by recurrent bleeding and distinct from osteoarthritis (OA) and rheumatoid arthritis (RA) in its pathogenesis, including metal ion accumulation and inflammatory responses....
+

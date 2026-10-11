@@ -1,0 +1,29 @@
+[
+  {
+    "title": "UCTE-OGC: Unsupervised contrastive text embedding with ontology-guided graph convolutions for biomedical clustering.",
+    "summary": "BackgroundEfficient organization and retrieval of rapidly growing biomedical literature require representations that capture contextual semantics and explicit biomedical relationships. However, existing methods typically model text and ontology structure separately, producing incomplete representations with limited cluster separability.ObjectiveThis study addresses the incomplete feature representation and low cluster separability that emerge as textual and ontological information are modeled independently, with the goal of enhancing clustering performance on biomedical literature.MethodsUCTE-OGC applies PubMedBERT with unsupervised contrastive learning to encode article titles and abstracts. In parallel, it learns relation-aware GO representations through DIFF-CR edge weighting, Node2Vec, and graph convolutional networks. An attention-based fusion module projects both representations into a shared latent space and optimizes their integration using a symmetric NT-Xent objective. The resulting embeddings are evaluated with K-Means, Gaussian mixture models, and spectral clustering.ResultsExperiments on a PubMed-derived dataset showed that UCTE-OGC produced higher observed clustering performance than the comparison methods under the reported settings and achieved its best results with spectral clustering. Ablation experiments indicated that contrastive learning and GO structural information made complementary contributions.ConclusionIntegrating contrastive text representations with relation-aware GO graph modeling provides effective embeddings for organizing and retrieving large biomedical literature collections.",
+    "authors": [
+      "Li Meijing",
+      "Guo Jiashun",
+      "Huang Runqing"
+    ],
+    "published": "2026 Oct 10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856026/",
+    "pmid": "42856026",
+    "source": "PubMed"
+  },
+  {
+    "title": "Synovial Metal Binding Proteins in Haemophilic Arthropathy: Potential Biomarkers and Therapeutic Targets.",
+    "summary": "Haemophilic arthropathy (HA) is a chronic joint disease in haemophiliac patients, driven by recurrent bleeding and distinct from osteoarthritis (OA) and rheumatoid arthritis (RA) in its pathogenesis, including metal ion accumulation and inflammatory responses.",
+    "authors": [
+      "Liu Liyin",
+      "Yu Defu",
+      "Luo Dasheng",
+      "Chen Tao"
+    ],
+    "published": "2026 Oct 10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42855989/",
+    "pmid": "42855989",
+    "source": "PubMed"
+  }
+]
