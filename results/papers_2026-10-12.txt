@@ -1,0 +1,31 @@
+Ontology 文献追踪报告 - 2026-10-12
+==================================================
+
+共发现 4 篇新论文
+
+--- PubMed (4 篇) ------------------------------
+
+1. Global Research Trends in Pediatric Craniofacial Trauma and Traumatic Brain Injury: A Bibliometric Analysis of 1271 Publications (2016-2026).
+   作者: Gandhi Jiya, Dande Vedha, Ganti Latha
+   链接: https://pubmed.ncbi.nlm.nih.gov/42862632/
+   PMID: 42862632
+   摘要: Pediatric craniofacial trauma, characterized by forceful blows or injuries to the facial bones or fragile skull of a child, can present symptoms of traumatic brain injury (TBI). TBI is a key player in the increased mortality rate of pediatric populations. Through a bibliometric analysis, this study aims to assess and understand the research landscape of pediatric craniofacial trauma and TBI....
+
+2. Differential alternative splicing in skeletal muscle after 14 days immobilization-induced atrophy in young men.
+   作者: Aziz Aliah Y, Thompson Jamie-Lee M, Doering Thomas M, Dunn Paul J, Coffey Vernon G
+   链接: https://pubmed.ncbi.nlm.nih.gov/42862391/
+   PMID: 42862391
+   摘要: Skeletal muscle disuse during injury decreases muscle mass and function. Previous studies have determined differential gene expression associated with atrophy, but changes in alternative splicing (AS) in response to unloading is poorly defined. This study aimed to identify global changes in differential alternative splicing (DAS) in skeletal muscle following unloading. Twenty-one healthy males (26.0 ± 5.7 years; 81.2 ± 11.6 kg) underwent 14 days unilateral knee-brace immobilization. Participants...
+
+3. Increased METTL1 expression in B cell subsets correlates with disease activity and immunological features in SLE.
+   作者: Yu Fang, Ma Hao, Guo Muyao, Luo Hui, Zhang Huali 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42862270/
+   PMID: 42862270
+   摘要: Systemic lupus erythematosus (SLE) is a complex autoimmune disease characterized by aberrant B cell activation, excessive plasma cell differentiation, and pathogenic autoantibody production. Epitranscriptomic modifications have emerged as important regulators of immune cell function. Among these, N7-methylguanosine (m7G) modification, catalyzed by methyltransferase-like 1 (METTL1), has been implicated in immune regulation and autoimmune diseases. However, the expression pattern of METTL1 across ...
+
+4. Elucidating the multi-target therapeutic mechanism of Kangtai decoction in lung cancer through integrated network pharmacology and molecular docking.
+   作者: Niu Jing, Yang Yang, Hui Yang, Feng Chaoli
+   链接: https://pubmed.ncbi.nlm.nih.gov/42860784/
+   PMID: 42860784
+   摘要: Lung cancer is the leading cause of cancer-related death worldwide, with a high incidence and limited effective treatments, the main focus being on symptom management and tumor control. Kangtai decoction (KTD), a traditional Chinese medicine, has shown promising results in alleviating lung cancer symptoms and improving quality of life in China, though its precise mechanism of action remains unclear....
+

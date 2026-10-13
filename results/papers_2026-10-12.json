@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Global Research Trends in Pediatric Craniofacial Trauma and Traumatic Brain Injury: A Bibliometric Analysis of 1271 Publications (2016-2026).",
+    "summary": "Pediatric craniofacial trauma, characterized by forceful blows or injuries to the facial bones or fragile skull of a child, can present symptoms of traumatic brain injury (TBI). TBI is a key player in the increased mortality rate of pediatric populations. Through a bibliometric analysis, this study aims to assess and understand the research landscape of pediatric craniofacial trauma and TBI.",
+    "authors": [
+      "Gandhi Jiya",
+      "Dande Vedha",
+      "Ganti Latha"
+    ],
+    "published": "2026 Oct 12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862632/",
+    "pmid": "42862632",
+    "source": "PubMed"
+  },
+  {
+    "title": "Differential alternative splicing in skeletal muscle after 14 days immobilization-induced atrophy in young men.",
+    "summary": "Skeletal muscle disuse during injury decreases muscle mass and function. Previous studies have determined differential gene expression associated with atrophy, but changes in alternative splicing (AS) in response to unloading is poorly defined. This study aimed to identify global changes in differential alternative splicing (DAS) in skeletal muscle following unloading. Twenty-one healthy males (26.0 ± 5.7 years; 81.2 ± 11.6 kg) underwent 14 days unilateral knee-brace immobilization. Participants underwent strength and muscle mass assessment before and after the immobilization and vastus lateralis muscle biopsies were taken pre-immobilization, and on days 3 and 14. RNA-sequencing was performed, and DAS events were identified using the rMATS package. Leg strength decreased - 21.5 kg (P < 0.0001) while mid-thigh circumference was reduced ~ 2% (P = 0.016). A total of 157,464 and 159,395 splicing events affecting 15,219 and 15,374 genes identified on day 3 and 14, respectively. Most DAS events occurred in coding sequence regions and were primarily due to exon skipping. A higher number of DAS events were observed by day 14 than day 3, indicating time-dependent regulation. Gene Ontology analysis of DAS at day 14 revealed 37 enriched GO biological processes related to MAPK signalling, mitochondrial function, and organelle organization. Unloading-induced atrophy was associated with widespread changes in AS, particularly in genes linked to muscle maintenance and protein synthesis. AS appears to promote down-regulation of target genes and subsequent differentially enriched biological pathways associated with the functional outcomes of decreased muscle mass and strength. These findings indicate changes in alternative splicing is a regulatory mechanism in muscle wasting during immobilization.",
+    "authors": [
+      "Aziz Aliah Y",
+      "Thompson Jamie-Lee M",
+      "Doering Thomas M",
+      "Dunn Paul J",
+      "Coffey Vernon G"
+    ],
+    "published": "2026 Oct 12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862391/",
+    "pmid": "42862391",
+    "source": "PubMed"
+  },
+  {
+    "title": "Increased METTL1 expression in B cell subsets correlates with disease activity and immunological features in SLE.",
+    "summary": "Systemic lupus erythematosus (SLE) is a complex autoimmune disease characterized by aberrant B cell activation, excessive plasma cell differentiation, and pathogenic autoantibody production. Epitranscriptomic modifications have emerged as important regulators of immune cell function. Among these, N7-methylguanosine (m7G) modification, catalyzed by methyltransferase-like 1 (METTL1), has been implicated in immune regulation and autoimmune diseases. However, the expression pattern of METTL1 across peripheral B cell subsets and its clinical relevance in SLE remain incompletely characterized.",
+    "authors": [
+      "Yu Fang",
+      "Ma Hao",
+      "Guo Muyao",
+      "Luo Hui",
+      "Zhang Huali",
+      "Yang Yiying"
+    ],
+    "published": "2026 Oct 12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862270/",
+    "pmid": "42862270",
+    "source": "PubMed"
+  },
+  {
+    "title": "Elucidating the multi-target therapeutic mechanism of Kangtai decoction in lung cancer through integrated network pharmacology and molecular docking.",
+    "summary": "Lung cancer is the leading cause of cancer-related death worldwide, with a high incidence and limited effective treatments, the main focus being on symptom management and tumor control. Kangtai decoction (KTD), a traditional Chinese medicine, has shown promising results in alleviating lung cancer symptoms and improving quality of life in China, though its precise mechanism of action remains unclear.",
+    "authors": [
+      "Niu Jing",
+      "Yang Yang",
+      "Hui Yang",
+      "Feng Chaoli"
+    ],
+    "published": "2026 Oct 12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42860784/",
+    "pmid": "42860784",
+    "source": "PubMed"
+  }
+]
