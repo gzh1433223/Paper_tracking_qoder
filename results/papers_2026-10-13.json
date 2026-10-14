@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Letters and Biological Process: Linguistic Structure Encodes Hierarchical Depth in the Gene Ontology.",
+    "summary": "We asked whether the natural language used to name Gene Ontology (GO) Biological Process terms encodes hierarchical position in the GO directed acyclic graph.",
+    "authors": [
+      "Ahmad Sadiya"
+    ],
+    "published": "2026 Oct 13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42867150/",
+    "pmid": "42867150",
+    "source": "PubMed"
+  },
+  {
+    "title": "PWAS Atlas: a comprehensive knowledgebase of proteome-wide association studies.",
+    "summary": "Proteome-wide association studies (PWASs) have emerged as a powerful approach for investigating associations between genetically regulated proteins and complex traits, offering valuable insights into the mechanisms linking genetic variation, protein abundance, and phenotypes. Despite the rapid expansion of PWAS research, no resource currently exists to systematically collect, integrate, and organize publicly accessible PWAS findings and related knowledge, limiting efficient use and exploration of these valuable assets. To address this urgent need, we introduce PWAS Atlas (https://ngdc.cncb.ac.cn/pwas/), a comprehensive knowledgebase that consolidates literature-curated information and large-scale, standardized PWAS analyses. The PWAS Atlas encompasses 40 609 associations among 4585 genes/proteins and 763 traits, derived from 118 publications and 841 GWAS datasets. It implements interactive knowledge graphs that reveal associations among genes, proteins, tissues, and traits, as well as online comparative analysis tools that enable systematic comparisons across multiple genes or traits. PWAS Atlas also provides a user-friendly web platform for browsing, searching, exploring, and downloading data. By enabling standardized retrieval, visualization, comparison, and reuse of PWAS information, PWAS Atlas serves as an extensive resource for investigating protein-trait associations and deriving insights into disease biology.",
+    "authors": [
+      "Lv Fangming",
+      "Qian Qiheng",
+      "Fan Zhuojing",
+      "Zhan Yaoyue",
+      "Zeng Jingyao",
+      "Xiao Jingfa"
+    ],
+    "published": "2026 Oct 13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42865327/",
+    "pmid": "42865327",
+    "source": "PubMed"
+  },
+  {
+    "title": "Causality-integrated graph learning for multi-endpoint toxicity prediction.",
+    "summary": "Toxicity prediction remains a longstanding challenge in the safety assessment of numerous artificial chemicals. While conventional single-endpoint models are effective for predicting many molecular properties, they fail to capture the complex mechanisms underlying toxicity, which involve multiple molecular targets, interconnected pathways, and diverse outcomes. We present a causality-integrated graph learning framework that embeds toxicological mechanisms extracted from large-scale literature mining as directed graphs within deep learning (DL) models. By using chemical structure as input, the framework generates compound-specific perturbation profiles within a fixed causal space, enabling system-level classification, quantitative prioritization, and mechanistic interpretation across multiple outcomes. Focusing on endocrine-disrupting chemicals, we constructed a large-scale, causally organized knowledge graph (EDKG) and implemented the framework as EDKG-DL, a predictive model that incorporates mechanism-aware graph reasoning. Through extensive external validations, EDKG-DL outperforms structure-driven state-of-the-art approaches in both stability and cross-scenario generalization. This work establishes a mechanism-constrained, causality-informed learning paradigm that is highly relevant for multi-endpoint toxicity assessment and regulatory decision-making.",
+    "authors": [
+      "Tan Haoyue",
+      "Bao Tong",
+      "Fang Yin",
+      "Zhang Rong",
+      "Jin Jinsha",
+      "Xu Dan",
+      "Xie Lan",
+      "Zhong Huan",
+      "Xiao Xuezhi",
+      "Hong Huixiao",
+      "Benfenati Emilio",
+      "Mizuno Tadahaya",
+      "Zhou Qing",
+      "Qiu Jingfan",
+      "Qu Changsheng",
+      "Mao Yan",
+      "Yu Xiangyi",
+      "Guo Jing",
+      "Yu Hongxia",
+      "Zhang Xiaowei",
+      "Shi Wei"
+    ],
+    "published": "2026 Oct 13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832660/",
+    "pmid": "42832660",
+    "source": "PubMed"
+  }
+]

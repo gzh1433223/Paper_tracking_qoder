@@ -1,0 +1,25 @@
+Ontology 文献追踪报告 - 2026-10-13
+==================================================
+
+共发现 3 篇新论文
+
+--- PubMed (3 篇) ------------------------------
+
+1. Letters and Biological Process: Linguistic Structure Encodes Hierarchical Depth in the Gene Ontology.
+   作者: Ahmad Sadiya
+   链接: https://pubmed.ncbi.nlm.nih.gov/42867150/
+   PMID: 42867150
+   摘要: We asked whether the natural language used to name Gene Ontology (GO) Biological Process terms encodes hierarchical position in the GO directed acyclic graph....
+
+2. PWAS Atlas: a comprehensive knowledgebase of proteome-wide association studies.
+   作者: Lv Fangming, Qian Qiheng, Fan Zhuojing, Zhan Yaoyue, Zeng Jingyao 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42865327/
+   PMID: 42865327
+   摘要: Proteome-wide association studies (PWASs) have emerged as a powerful approach for investigating associations between genetically regulated proteins and complex traits, offering valuable insights into the mechanisms linking genetic variation, protein abundance, and phenotypes. Despite the rapid expansion of PWAS research, no resource currently exists to systematically collect, integrate, and organize publicly accessible PWAS findings and related knowledge, limiting efficient use and exploration o...
+
+3. Causality-integrated graph learning for multi-endpoint toxicity prediction.
+   作者: Tan Haoyue, Bao Tong, Fang Yin, Zhang Rong, Jin Jinsha 等 21 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42832660/
+   PMID: 42832660
+   摘要: Toxicity prediction remains a longstanding challenge in the safety assessment of numerous artificial chemicals. While conventional single-endpoint models are effective for predicting many molecular properties, they fail to capture the complex mechanisms underlying toxicity, which involve multiple molecular targets, interconnected pathways, and diverse outcomes. We present a causality-integrated graph learning framework that embeds toxicological mechanisms extracted from large-scale literature mi...
+
