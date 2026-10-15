@@ -1,0 +1,13 @@
+Ontology 文献追踪报告 - 2026-10-14
+==================================================
+
+共发现 1 篇新论文
+
+--- PubMed (1 篇) ------------------------------
+
+1. MEGH-DDI: MolT5-driven edge-aware graph learning with Hop2Token representation for drug-drug interaction prediction.
+   作者: Zhou Li, Zuo Yun, He Wenying, Deng Zhaohong
+   链接: https://pubmed.ncbi.nlm.nih.gov/42873823/
+   PMID: 42873823
+   摘要: Drug-drug interactions (DDIs) are critical in pharmacology, as synergistic or antagonistic effects between co-administered drugs can enhance therapeutic outcomes or cause toxicity, posing major challenges for drug safety assessment and new drug development. Current molecular representation methods often fail to capture dynamic substructure relationships or semantic interactions among functional groups. To overcome these limitations, this study proposes MEGH-DDI, a multimodal framework that integ...
+

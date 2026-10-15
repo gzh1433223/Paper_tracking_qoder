@@ -1,0 +1,16 @@
+[
+  {
+    "title": "MEGH-DDI: MolT5-driven edge-aware graph learning with Hop2Token representation for drug-drug interaction prediction.",
+    "summary": "Drug-drug interactions (DDIs) are critical in pharmacology, as synergistic or antagonistic effects between co-administered drugs can enhance therapeutic outcomes or cause toxicity, posing major challenges for drug safety assessment and new drug development. Current molecular representation methods often fail to capture dynamic substructure relationships or semantic interactions among functional groups. To overcome these limitations, this study proposes MEGH-DDI, a multimodal framework that integrates complementary molecular representation learning with graph-structure dynamic perception. The framework employs a dual-channel semantic module that combines Mol2vec-based substructure representations with MolT5 chemical language embeddings, while SHAP-based dynamic feature selection reduces redundancy. For fine-grained structural modeling, we introduce an edge-aware GCNII equipped with bond-level attention to distinguish different types of chemical bonds. Furthermore, the Hop2Token module converts multi-hop neighborhoods into token sequences, enabling Transformer-based modeling of high-order substructure dependencies. Experimental results demonstrate that MEGH-DDI achieves competitive performance across both transductive and inductive settings. On the DrugBank dataset, MEGH-DDI attains an accuracy of 98.36% in the transductive task, outperforming earlier baselines and surpassing recent state-of-the-art methods, with both AUC and AP exceeding 99.7%. On the ChChMiner dataset, MEGH-DDI achieves an F1 score of 99.05%, improving over the best existing method by 2.74 percentage points. In the inductive settings, MEGH-DDI achieves competitive performance across most evaluation metrics on both datasets, showing advantages over competing methods on several key metrics. These results demonstrate the effectiveness of MEGH-DDI in predicting DDI involving previously unseen drugs and its potential to generalize to complex DDI prediction scenarios. To enhance interpretability, MEGH-DDI incorporates a three-level mechanism spanning atoms, chemical bonds, and topological paths, highlighting key atoms and bond contributions. Overall, MEGH-DDI provides an efficient, accurate, and interpretable solution for drug safety assessment and new drug discovery. Code and datasets are available at https://github.com/Lilyjoys/MEGH-DDI, and a free web platform is provided at http://www.edgh-ddi.com.",
+    "authors": [
+      "Zhou Li",
+      "Zuo Yun",
+      "He Wenying",
+      "Deng Zhaohong"
+    ],
+    "published": "2026 Oct 14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873823/",
+    "pmid": "42873823",
+    "source": "PubMed"
+  }
+]
