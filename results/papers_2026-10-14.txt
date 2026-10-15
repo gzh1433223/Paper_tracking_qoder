@@ -1,11 +1,73 @@
 Ontology 文献追踪报告 - 2026-10-14
 ==================================================
 
-共发现 1 篇新论文
+共发现 11 篇新论文
 
---- PubMed (1 篇) ------------------------------
+--- arXiv (5 篇) ------------------------------
 
-1. MEGH-DDI: MolT5-driven edge-aware graph learning with Hop2Token representation for drug-drug interaction prediction.
+1. Beyond Reachability: A Relation-Semantic Reasoning Framework for Biomedical Multi-hop QA
+   作者: Ziyang Ling, Ziyi Chen, Ronald X. Xu, Mingzhai Sun
+   链接: http://arxiv.org/abs/2610.19754v1
+   PDF: https://arxiv.org/pdf/2610.19754v1
+   摘要: Biomedical multi-hop reasoning over knowledge graphs requires identifying a semantically valid relation sequence that supports the answer. Existing methods can retrieve correct answers, yet often rank them poorly within a large pool of seemingly relevant candidates. Even when a correct answer is retrieved, its associated evidence and reasoning path may fail to support the relation composition required by the question. We term this disconnect between answer reachability and evidential validity th...
+
+2. Learning Across Temporal Graph Representation Silos
+   作者: Minwoo Yu, Young-guk Ha
+   链接: http://arxiv.org/abs/2610.19576v1
+   PDF: https://arxiv.org/pdf/2610.19576v1
+   摘要: Temporal graph data are recorded in different representations, but whether these differences also determine the scope of learned knowledge reuse remains unclear. This study investigates whether predictive structure learned from relational histories can be reused between continuous-time dynamic graphs (CTDGs) and temporal knowledge graphs (TKGs). Bidirectional reuse emerges while retaining distinct input and prediction interfaces and independent vocabularies, and sources with the same representat...
+
+3. GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation
+   作者: Yining Tang, Junyu Zhang, Haomiao Qiu, Yongchao Liu, Jiajun Zheng 等 8 人
+   链接: http://arxiv.org/abs/2610.19549v1
+   PDF: https://arxiv.org/pdf/2610.19549v1
+   摘要: Graph retrieval-augmented generation (GraphRAG) uses document-derived knowledge graphs to assemble evidence for large language model (LLM) answers. Its security depends on both the seed chunks retrieved for a query and the graph evidence assembled from them, yet attacks on this evidence path remain underexplored. We introduce GraphRAG-LTM, a Layered Threat Modeling framework that tests three nested levels of attacker access. BB Query uses ranking feedback to make query edits under a semantic-sim...
+
+4. General Classification for Digital Knowledge: Algorithm, Identifiers and a First Benchmark
+   作者: David Awad
+   链接: http://arxiv.org/abs/2610.19547v1
+   PDF: https://arxiv.org/pdf/2610.19547v1
+   摘要: Digital libraries and knowledge graphs need a way to organize very large collections so that related works are close and any work is quick to reach. The classifications libraries inherited for this, such as LCC and DDC, are maintained by editorial staff, are partly closed, and were not built against a stated, measurable objective. We propose the opposite: a general classification that is fitted, under the constraints that make a classification usable on a shelf or in a browse list, to the same q...
+
+5. MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning
+   作者: Zongyu Wu, Yilong Wang, Xiaochen Wang, Minhua Lin, Yuan Zhong 等 8 人
+   链接: http://arxiv.org/abs/2610.19341v1
+   PDF: https://arxiv.org/pdf/2610.19341v1
+   摘要: Multimodal knowledge graphs (MMKGs) organize information across different modalities to support multimodal Graph Retrieval-Augmented Generation (RAG), which aims to improve the performance of multimodal large language models (MLLMs). The effectiveness of these multimodal Graph RAG methods largely depends on the quality of the constructed MMKGs. However, most existing methods construct MMKGs without explicit guidance on graph quality, while reinforcement learning (RL)-based methods that rely on f...
+
+--- PubMed (6 篇) ------------------------------
+
+1. Therapeutic intervention strategies in frontotemporal dementia: drug development pipeline.
+   作者: Perrone Federica, Locuratolo Nicoletta, Carbone Elena, Cappella Marisa, Rivabene Roberto 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42877606/
+   PMID: 42877606
+   摘要: Frontotemporal dementia (FTD) is the second most common cause of early-onset dementia after Alzheimer's disease, characterized by substantial genetic, clinical, and pathological heterogeneity. Despite progress in understanding its pathophysiology, no disease-targeted therapies (DTTs) have been approved to date. This study provides an updated overview of ongoing and completed clinical trials in FTD, analyzing therapeutic strategies, trial phases, and molecular targets. All registered trials were ...
+
+2. Bridging Chemical Literature and Molecular Graphs: LLM-Augmented Enantioselectivity Prediction for Iridium-Catalyzed Asymmetric C-H Borylation.
+   作者: Wang Zhe, Zhang Baohua, Yang Yi Isaac, Yao Yuan, Li Yinwu
+   链接: https://pubmed.ncbi.nlm.nih.gov/42876088/
+   PMID: 42876088
+   摘要: Asymmetric C-H borylation provides direct access to enantioenriched organoboron compounds. Predictive catalyst design for this reaction class remains challenging, as stereocontrol arises from coupled interactions among catalyst, substrate, and product structures. Moreover, mechanistic knowledge is dispersed across the literature. Here we report a machine-learning framework for predicting enantioselectivity in iridium-catalyzed asymmetric C-H borylation that bridges molecular graphs and chemical ...
+
+3. Locus-aware characterization of wheat LOG-related genes and their transcriptional responses to abiotic stress.
+   作者: Alotaibi Modhi O, Alwutayd Khairiah Mubarak, Alotaibi Nahaa M, Thabet Samar G
+   链接: https://pubmed.ncbi.nlm.nih.gov/42874804/
+   PMID: 42874804
+   摘要: LONELY GUY (LOG) phosphoribohydrolases catalyze the final direct step in cytokinin activation, but their composition and stress-responsive regulation remain difficult to resolve in allohexaploid wheat because homoeology, alternative transcript models and annotation errors inflate apparent gene-family size. We conducted a locus-aware genome-wide analysis integrating comparative phylogenetics, chromosomal distribution, exon-intron and conserved-motif architecture, predicted subcellular localizatio...
+
+4. PiRNA-Hsap_1847317 may serve as a novel biomarker of PD-1 inhibitor resistance in patients with advanced non-small cell lung cancer.
+   作者: Meng Mi, Yu Bo, Luo Jie, Sun Heng, Mo Zeming 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42874535/
+   PMID: 42874535
+   摘要: Acquired resistance to programmed cell death protein 1 (PD-1) inhibitors presents a major clinical challenge in the treatment of non-small cell lung cancer (NSCLC). This study aims to elucidate the epigenetic mechanisms underlying PD-1 inhibitor resistance, with a specific focus on the expression profiles of PIWI-interacting RNAs (piRNAs) and their associated signaling networks....
+
+5. Toward explainable traffic crash liability analysis via neural-symbolic multimodal reasoning: Integrating visual perception with legal knowledge graphs.
+   作者: Xu Jingyun, Chen Yuzhi, Hu Xiaoxi, Xie Yuanchang, Zhang Xinyu 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42874481/
+   PMID: 42874481
+   摘要: Determining traffic crash liability relies on rigorous on-site evidence and legal provisions and involves substantial manual intervention and potential human error. However, intelligent traffic monitoring systems focus on detection and tracking and cannot provide structured, rule-grounded decision support for formal crash-liability analysis. Moreover, emerging multimodal large language models (MLLMs) suffer from object hallucination that distorts or omits physical evidence, and their opaque reas...
+
+6. MEGH-DDI: MolT5-driven edge-aware graph learning with Hop2Token representation for drug-drug interaction prediction.
    作者: Zhou Li, Zuo Yun, He Wenying, Deng Zhaohong
    链接: https://pubmed.ncbi.nlm.nih.gov/42873823/
    PMID: 42873823

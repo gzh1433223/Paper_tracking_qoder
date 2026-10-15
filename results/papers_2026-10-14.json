@@ -1,5 +1,161 @@
 [
   {
+    "title": "Beyond Reachability: A Relation-Semantic Reasoning Framework for Biomedical Multi-hop QA",
+    "summary": "Biomedical multi-hop reasoning over knowledge graphs requires identifying a semantically valid relation sequence that supports the answer. Existing methods can retrieve correct answers, yet often rank them poorly within a large pool of seemingly relevant candidates. Even when a correct answer is retrieved, its associated evidence and reasoning path may fail to support the relation composition required by the question. We term this disconnect between answer reachability and evidential validity the reachable-but-invalid problem. We present ReSemReason, which shares a question-induced distribution over typed, directed relation schemas between candidate discovery and evidence selection. Schema compatibility guides graph search; ReSemAttn then uses relation-conditioned key/value projections and an uncertainty-weighted path prior to attend to candidate-specific evidence. A separate absolute-support score complements normalized attention when all retrieved paths are weak. The reported experiments on BioHopR, PrimeKGQA, and MedReason show improvements in answer ranking and answer-set quality. Path-discrimination analyses examine the distinction between endpoint correctness and evidential support. We also specify matched controls for search, attention, and schema uncertainty.",
+    "authors": [
+      "Ziyang Ling",
+      "Ziyi Chen",
+      "Ronald X. Xu",
+      "Mingzhai Sun"
+    ],
+    "published": "2026-10-14T08:09:02Z",
+    "url": "http://arxiv.org/abs/2610.19754v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2610.19754v1"
+  },
+  {
+    "title": "Learning Across Temporal Graph Representation Silos",
+    "summary": "Temporal graph data are recorded in different representations, but whether these differences also determine the scope of learned knowledge reuse remains unclear. This study investigates whether predictive structure learned from relational histories can be reused between continuous-time dynamic graphs (CTDGs) and temporal knowledge graphs (TKGs). Bidirectional reuse emerges while retaining distinct input and prediction interfaces and independent vocabularies, and sources with the same representation are not always more useful. Controlled reorganizations of source histories show that the organization contributing to reuse varies across source-target conditions. We show that learned aspects of Relational Dynamics, the predictive structure present in relational histories, can be reused across conventional representation boundaries. Independently pretrained TKG and CTDG learners can also be fused at the score level to improve prediction on a third dataset without entity or relation-semantic alignment. Two proofs of concept in recommendation and security detection illustrate that external temporal sources without direct alignment can also become useful pretraining resources.",
+    "authors": [
+      "Minwoo Yu",
+      "Young-guk Ha"
+    ],
+    "published": "2026-10-14T04:42:30Z",
+    "url": "http://arxiv.org/abs/2610.19576v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2610.19576v1"
+  },
+  {
+    "title": "GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation",
+    "summary": "Graph retrieval-augmented generation (GraphRAG) uses document-derived knowledge graphs to assemble evidence for large language model (LLM) answers. Its security depends on both the seed chunks retrieved for a query and the graph evidence assembled from them, yet attacks on this evidence path remain underexplored. We introduce GraphRAG-LTM, a Layered Threat Modeling framework that tests three nested levels of attacker access. BB Query uses ranking feedback to make query edits under a semantic-similarity constraint and demote relevant seed chunks. WB Query uses retriever gradients for the same objective. Graph-aware WB keeps the white-box adversarial query and deletes bridge triplets from the query-specific evidence graph, disrupting multi-hop evidence propagation through localized graph edits. Across datasets, retrievers, and LLM backbones, rank feedback alone reduces answer quality, gradient access strengthens query attacks, and bridge-triplet deletion further impairs supporting-fact retrieval. Further analyses show how seed retrieval and graph evidence jointly contribute to these failures.",
+    "authors": [
+      "Yining Tang",
+      "Junyu Zhang",
+      "Haomiao Qiu",
+      "Yongchao Liu",
+      "Jiajun Zheng",
+      "Zhao Wang",
+      "Ziyue Qiao",
+      "Chao Wu"
+    ],
+    "published": "2026-10-14T04:04:34Z",
+    "url": "http://arxiv.org/abs/2610.19549v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2610.19549v1"
+  },
+  {
+    "title": "General Classification for Digital Knowledge: Algorithm, Identifiers and a First Benchmark",
+    "summary": "Digital libraries and knowledge graphs need a way to organize very large collections so that related works are close and any work is quick to reach. The classifications libraries inherited for this, such as LCC and DDC, are maintained by editorial staff, are partly closed, and were not built against a stated, measurable objective. We propose the opposite: a general classification that is fitted, under the constraints that make a classification usable on a shelf or in a browse list, to the same quantity that a companion survey and benchmark (Awad, 2026) ranks existing schemes by. The objective is J = D + 0.005 N, where D is the normalized Dasgupta cost of the class tree on a fixed similarity graph (Dasgupta, 2016) and N is an expected navigation cost in bits with a per-level charge. Two constraints are hard: every class is a contiguous run of one fixed shelf order (the optimal-alphabetic-tree constraint of Hu and Tucker, 1971), and new works are filed by splitting leaf classes only, so that every existing class keeps its code, label and parent. On a corpus of 10,000 arXiv papers the fitted prototype has 110 hand-labelled classes and reaches cost 0.1722 in sample (average linkage 0.1518; arXiv's own categories 0.3333; the best existing scheme reached through the same lexical classifier 0.6414, from the survey). Filing 500 library books as new works created 16 classes and changed no existing identifier. Fit, filing and scoring share one embedding: the held-out skill of 0.922 falls to 0.896 when the same fit is scored on the graphs of the two other models, and on books the average falls from 0.806 to 0.731. The scheme has also seen only arXiv, and labels for inserted classes are weak. We state those limits plainly, release the scheme as CC0 open data, and ask whether a learned, open, order-preserving classification can become a general one.",
+    "authors": [
+      "David Awad"
+    ],
+    "published": "2026-10-14T04:04:18Z",
+    "url": "http://arxiv.org/abs/2610.19547v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2610.19547v1"
+  },
+  {
+    "title": "MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning",
+    "summary": "Multimodal knowledge graphs (MMKGs) organize information across different modalities to support multimodal Graph Retrieval-Augmented Generation (RAG), which aims to improve the performance of multimodal large language models (MLLMs). The effectiveness of these multimodal Graph RAG methods largely depends on the quality of the constructed MMKGs. However, most existing methods construct MMKGs without explicit guidance on graph quality, while reinforcement learning (RL)-based methods that rely on final-answer correctness may provide only indirect feedback on MMKG quality. To address these limitations, we propose MMKG-R1, a novel MMKG-quality-driven RL framework for training an MLLM as a multimodal knowledge constructor. To be specific, MMKG-R1 introduces multiple quality-aware rewards to directly evaluate both the quality of information extracted from individual knowledge sources and the quality of the assembled MMKG. These rewards are then used to guide the RL training. Experiments across multiple datasets show that MMKG-R1 constructs MMKGs that improve downstream question-answering accuracy.",
+    "authors": [
+      "Zongyu Wu",
+      "Yilong Wang",
+      "Xiaochen Wang",
+      "Minhua Lin",
+      "Yuan Zhong",
+      "Fenglong Ma",
+      "Xiang Zhang",
+      "Suhang Wang"
+    ],
+    "published": "2026-10-14T00:35:59Z",
+    "url": "http://arxiv.org/abs/2610.19341v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2610.19341v1"
+  },
+  {
+    "title": "Therapeutic intervention strategies in frontotemporal dementia: drug development pipeline.",
+    "summary": "Frontotemporal dementia (FTD) is the second most common cause of early-onset dementia after Alzheimer's disease, characterized by substantial genetic, clinical, and pathological heterogeneity. Despite progress in understanding its pathophysiology, no disease-targeted therapies (DTTs) have been approved to date. This study provides an updated overview of ongoing and completed clinical trials in FTD, analyzing therapeutic strategies, trial phases, and molecular targets. All registered trials were systematically searched on the online registers ClinicalTrials.gov, the EU Clinical Trials Register, and the International Clinical Trials Registry Platform, using the search terms \"Frontotemporal Dementia,\" \"FTD,\" and \"svPPA\" (semantic variant primary progressive aphasia). Included studies investigated pharmacological or cell-based interventions in Phases 1 through 4 or in trials with no reported phase. Non-pharmacological and biomarker-only trials were excluded. The Common Alzheimer's Disease Research Ontology (CADRO) was used to classify mechanisms of action. Data were collected as of February 3, 2026. A total of 49 trials were identified, investigating 35 pharmacological and three cell interventions. Among them, 16 trials (32.7%) were still active and had an expected sample size of 1036 participants. More than half of the pharmacological interventions investigated were classified as DTTs (67.3%), targeting specifically",
+    "authors": [
+      "Perrone Federica",
+      "Locuratolo Nicoletta",
+      "Carbone Elena",
+      "Cappella Marisa",
+      "Rivabene Roberto",
+      "Fabrizi Elisa",
+      "Talarico Giuseppina",
+      "Vanacore Nicola",
+      "Lacorte Eleonora",
+      "Piscopo Paola"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42877606/",
+    "pmid": "42877606",
+    "source": "PubMed"
+  },
+  {
+    "title": "Bridging Chemical Literature and Molecular Graphs: LLM-Augmented Enantioselectivity Prediction for Iridium-Catalyzed Asymmetric C-H Borylation.",
+    "summary": "Asymmetric C-H borylation provides direct access to enantioenriched organoboron compounds. Predictive catalyst design for this reaction class remains challenging, as stereocontrol arises from coupled interactions among catalyst, substrate, and product structures. Moreover, mechanistic knowledge is dispersed across the literature. Here we report a machine-learning framework for predicting enantioselectivity in iridium-catalyzed asymmetric C-H borylation that bridges molecular graphs and chemical literature. A unified dataset comprising 800 literature-reported reactions was constructed for this reaction class. The model combines a multi-entity three-dimensional graph encoder for catalyst, substrate, and product with temperature-aware kinetic treatment, and a large-language-model prior module that extracts atom-resolved mechanistic annotations from primary publications. On a scaffold-based held-out test set, the STEREO-Lit (Spatial Three-Entity Reaction Encoder Literature) model achieves strong predictive performance, outperforming conventional machine-learning baselines and a geometry-grounded control. Perturbation studies further show that literature-derived semantic annotations contribute chemically meaningful, site-specific information rather than merely increasing model capacity. The trained model was subsequently applied to explore a reaction space of about 100 000 catalyst-substrate combinations and identify promising high-improvement candidates, several of which were supported by DFT calculations. The framework couples multi-entity 3D encoding with literature-derived priors, and remains predictive when training data are limited to a few hundred reactions.",
+    "authors": [
+      "Wang Zhe",
+      "Zhang Baohua",
+      "Yang Yi Isaac",
+      "Yao Yuan",
+      "Li Yinwu"
+    ],
+    "published": "2026 Oct 14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876088/",
+    "pmid": "42876088",
+    "source": "PubMed"
+  },
+  {
+    "title": "Locus-aware characterization of wheat LOG-related genes and their transcriptional responses to abiotic stress.",
+    "summary": "LONELY GUY (LOG) phosphoribohydrolases catalyze the final direct step in cytokinin activation, but their composition and stress-responsive regulation remain difficult to resolve in allohexaploid wheat because homoeology, alternative transcript models and annotation errors inflate apparent gene-family size. We conducted a locus-aware genome-wide analysis integrating comparative phylogenetics, chromosomal distribution, exon-intron and conserved-motif architecture, predicted subcellular localization, promoter cis-elements, Gene Ontology enrichment, protein-association and miRNA-target networks, public stress transcriptomes with reconstructed study metadata, and RT-qPCR validation in the contrasting IPK accessions TRI4563 and TRI3664 under 20% PEG-6000 and 40 °C heat stress. The comparative dataset contained 100 sequence models from wheat, barley, rice and Arabidopsis. Sixty-one wheat transcript/protein models represented 30 nonredundant source-annotation loci distributed across 13 chromosomes from homoeologous groups 1-5. Annotation review distinguished 50 cytokinin-phosphoribohydrolase-annotated models, six YJL055W-like models and five atypical/ambiguous models. Direct audit of the supplied wheat protein sequences showed that 59 of 61 models retained the canonical plant short motif PGGYGTxxE; TaLOG37 and TaLOG38 carried the variant PGGHGTLEE. Predicted localization was dominated by the cytosol, mitochondria and chloroplasts, while promoter, GO, STRING and miRNA analyses were interpreted as computational support rather than functional proof. Public expression profiles were traced to defined wheat genotypes, tissues, treatments and study accessions and revealed gene-specific responses. Reanalysis of the supplied biological-replicate relative-expression data confirmed the strongest tolerant-genotype contrasts for TaLOG7 and TaLOG11 at selected heat and PEG time points, while TaLOG22 and TaLOG26 showed distinct transient or repressive patterns. Parallel antioxidant-gene expression supports only an expression-level coordination hypothesis because cytokinin concentrations, LOG activity, ROS abundance and antioxidant enzyme activities were not measured. These findings provide a model-, locus- and sequence-aware framework for wheat LOG biology and prioritize TaLOG11 and the YJL055W-like TaLOG7 for homoeologue-specific assays, hormone profiling and functional genetic validation.",
+    "authors": [
+      "Alotaibi Modhi O",
+      "Alwutayd Khairiah Mubarak",
+      "Alotaibi Nahaa M",
+      "Thabet Samar G"
+    ],
+    "published": "2026 Oct 14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42874804/",
+    "pmid": "42874804",
+    "source": "PubMed"
+  },
+  {
+    "title": "PiRNA-Hsap_1847317 may serve as a novel biomarker of PD-1 inhibitor resistance in patients with advanced non-small cell lung cancer.",
+    "summary": "Acquired resistance to programmed cell death protein 1 (PD-1) inhibitors presents a major clinical challenge in the treatment of non-small cell lung cancer (NSCLC). This study aims to elucidate the epigenetic mechanisms underlying PD-1 inhibitor resistance, with a specific focus on the expression profiles of PIWI-interacting RNAs (piRNAs) and their associated signaling networks.",
+    "authors": [
+      "Meng Mi",
+      "Yu Bo",
+      "Luo Jie",
+      "Sun Heng",
+      "Mo Zeming",
+      "He Sisi",
+      "Ma Hu"
+    ],
+    "published": "2026 Oct 14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42874535/",
+    "pmid": "42874535",
+    "source": "PubMed"
+  },
+  {
+    "title": "Toward explainable traffic crash liability analysis via neural-symbolic multimodal reasoning: Integrating visual perception with legal knowledge graphs.",
+    "summary": "Determining traffic crash liability relies on rigorous on-site evidence and legal provisions and involves substantial manual intervention and potential human error. However, intelligent traffic monitoring systems focus on detection and tracking and cannot provide structured, rule-grounded decision support for formal crash-liability analysis. Moreover, emerging multimodal large language models (MLLMs) suffer from object hallucination that distorts or omits physical evidence, and their opaque reasoning cannot produce explicit evidence-to-rule chains required for traceable and reviewable liability analysis. This paper proposes CrashLex, an explainable neural-symbolic decision-support framework that integrates visual perception with legal knowledge graph reasoning to align multimodal inference with predefined statutory rules and traceability requirements. Within CrashLex, a dual-query vision-language architecture employs parallel semantic and symbolic streams to mitigate object hallucination, utilizing Scene Queries for global context modeling and Perception Queries for fine-grained atomic feature extraction, respectively. The domain-specific legal knowledge graph maps these atomic facts from observable physical conditions to corresponding statutory elements, providing a structured basis for rule-grounded assessment. A logic-driven aggregation protocol then imposes explicit constraints derived from extracted facts and statutory provisions onto the inference process, thereby enabling traceable and interpretable preliminary liability assessment. On the held-out DeepAccident benchmark, CrashLex achieves a Legal Accuracy of 94.0% under the fixed legal-output evaluation protocol and an Object Hallucination Rate of 2.8%, corresponding to an 82.1% relative reduction from the 15.6% rate of the best-performing MLLM baseline on this metric. CrashLex grounds its assessment results in the deterministic execution of predefined legal rules rather than relying solely on unconstrained probabilistic generation, providing verifiable reasoning chains for rule-grounded human review.",
+    "authors": [
+      "Xu Jingyun",
+      "Chen Yuzhi",
+      "Hu Xiaoxi",
+      "Xie Yuanchang",
+      "Zhang Xinyu",
+      "Yin Jialun",
+      "Wang Chen"
+    ],
+    "published": "2026 Oct 14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42874481/",
+    "pmid": "42874481",
+    "source": "PubMed"
+  },
+  {
     "title": "MEGH-DDI: MolT5-driven edge-aware graph learning with Hop2Token representation for drug-drug interaction prediction.",
     "summary": "Drug-drug interactions (DDIs) are critical in pharmacology, as synergistic or antagonistic effects between co-administered drugs can enhance therapeutic outcomes or cause toxicity, posing major challenges for drug safety assessment and new drug development. Current molecular representation methods often fail to capture dynamic substructure relationships or semantic interactions among functional groups. To overcome these limitations, this study proposes MEGH-DDI, a multimodal framework that integrates complementary molecular representation learning with graph-structure dynamic perception. The framework employs a dual-channel semantic module that combines Mol2vec-based substructure representations with MolT5 chemical language embeddings, while SHAP-based dynamic feature selection reduces redundancy. For fine-grained structural modeling, we introduce an edge-aware GCNII equipped with bond-level attention to distinguish different types of chemical bonds. Furthermore, the Hop2Token module converts multi-hop neighborhoods into token sequences, enabling Transformer-based modeling of high-order substructure dependencies. Experimental results demonstrate that MEGH-DDI achieves competitive performance across both transductive and inductive settings. On the DrugBank dataset, MEGH-DDI attains an accuracy of 98.36% in the transductive task, outperforming earlier baselines and surpassing recent state-of-the-art methods, with both AUC and AP exceeding 99.7%. On the ChChMiner dataset, MEGH-DDI achieves an F1 score of 99.05%, improving over the best existing method by 2.74 percentage points. In the inductive settings, MEGH-DDI achieves competitive performance across most evaluation metrics on both datasets, showing advantages over competing methods on several key metrics. These results demonstrate the effectiveness of MEGH-DDI in predicting DDI involving previously unseen drugs and its potential to generalize to complex DDI prediction scenarios. To enhance interpretability, MEGH-DDI incorporates a three-level mechanism spanning atoms, chemical bonds, and topological paths, highlighting key atoms and bond contributions. Overall, MEGH-DDI provides an efficient, accurate, and interpretable solution for drug safety assessment and new drug discovery. Code and datasets are available at https://github.com/Lilyjoys/MEGH-DDI, and a free web platform is provided at http://www.edgh-ddi.com.",
     "authors": [
