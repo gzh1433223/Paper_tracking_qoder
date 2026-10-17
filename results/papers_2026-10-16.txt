@@ -1,0 +1,25 @@
+Ontology 文献追踪报告 - 2026-10-16
+==================================================
+
+共发现 3 篇新论文
+
+--- PubMed (3 篇) ------------------------------
+
+1. Altered sperm DNA methylation provides an epigenetic route from overweight and older men to intergenerational disease transmission.
+   作者: Schulz Mathieu, Shao Xiaojian, Lambrot Romain, Lafleur Christine, Chan Donovan 等 14 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42886706/
+   PMID: 42886706
+   摘要: The occurrence of childhood neurodevelopmental disorders has been steadily increasing for decades, yet we have little understanding of modes of inheritance implicated in these diseases. Epidemiology studies have revealed an association between an elevated paternal Body Mass Index (BMI) and age as factors implicated in increased risk for neurodevelopmental disorders in children. Epigenetic regulation of gene expression by DNA methylation at cytosines is susceptible to environmental, diet, and lif...
+
+2. Relation-aware dynamic knowledge subgraph enhanced large language models for medical multiple-choice question answering.
+   作者: Ma Yu, Di Tianning, Xu Jiangpeng, Wu Yue
+   链接: https://pubmed.ncbi.nlm.nih.gov/42886688/
+   PMID: 42886688
+   摘要: Medical multiple-choice question answering requires models to simultaneously understand question semantics, candidate-answer differences, and structured relations among medical entities in complex clinical contexts. To address the limitations that existing knowledge-enhanced methods often adopt question-level unified modeling and thus struggle to characterize local relational differences among different candidate options, while conventional low-rank adaptation lacks relation-pattern adaptivity, ...
+
+3. Multiscale cross modal fusion and cascaded signal propagation for drug target interaction prediction.
+   作者: Wang Bowen, Xie Xiaolan, Zou Haitao, Peng Shaoliang
+   链接: https://pubmed.ncbi.nlm.nih.gov/42828305/
+   PMID: 42828305
+   摘要: Accurate prediction of drug-target interaction (DTI) facilitates the translation of lead compounds into clinical therapeutics. Despite progress in deep learning, two challenges remain: the representation gap between heterogeneous drug and protein modalities and insufficient use of complementary knowledge from pretrained encoders. To address these issues, we propose SF-DTI, a unified framework that integrates multi-encoder protein fusion, structure-semantic drug alignment, and progressive cross-m...
+

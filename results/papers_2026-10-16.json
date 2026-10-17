@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Altered sperm DNA methylation provides an epigenetic route from overweight and older men to intergenerational disease transmission.",
+    "summary": "The occurrence of childhood neurodevelopmental disorders has been steadily increasing for decades, yet we have little understanding of modes of inheritance implicated in these diseases. Epidemiology studies have revealed an association between an elevated paternal Body Mass Index (BMI) and age as factors implicated in increased risk for neurodevelopmental disorders in children. Epigenetic regulation of gene expression by DNA methylation at cytosines is susceptible to environmental, diet, and lifestyle changes. Yet, whether a man's BMI and age influence the sperm methylome and potentially impact offspring development remains unresolved. Using MethylC capture sequencing, we identified over 38,000 differentially methylated CpGs in the sperm of men with an elevated BMI, with overlap occurring in regions associated with advanced paternal age. These were enriched for neural gene and disease ontologies. Differentially methylated regions localized to transposable elements that can act as active enhancers during human zygotic genome activation, and at gene promoters for early lineage specification. These results suggest that sperm methylome alterations that are linked to an elevated BMI may influence key embryonic transcriptional processes, notably those associated with trophectoderm and placental development.",
+    "authors": [
+      "Schulz Mathieu",
+      "Shao Xiaojian",
+      "Lambrot Romain",
+      "Lafleur Christine",
+      "Chan Donovan",
+      "Dumargne Marie-Charlotte",
+      "MacFarlane Amanda J",
+      "Moskovtsev Sergey",
+      "Bourque Guillaume",
+      "Pastinen Tomi",
+      "Librach Clifford",
+      "Weiler Hope",
+      "Trasler Jacquetta",
+      "Kimmins Sarah"
+    ],
+    "published": "2026 Oct 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886706/",
+    "pmid": "42886706",
+    "source": "PubMed"
+  },
+  {
+    "title": "Relation-aware dynamic knowledge subgraph enhanced large language models for medical multiple-choice question answering.",
+    "summary": "Medical multiple-choice question answering requires models to simultaneously understand question semantics, candidate-answer differences, and structured relations among medical entities in complex clinical contexts. To address the limitations that existing knowledge-enhanced methods often adopt question-level unified modeling and thus struggle to characterize local relational differences among different candidate options, while conventional low-rank adaptation lacks relation-pattern adaptivity, this paper proposes a knowledge-enhanced large language model framework that combines option-level knowledge subgraph representation fusion with relation-aware dynamic LoRA adaptation. The proposed method first constructs a local medical knowledge subgraph for the question stem and each candidate answer separately, and then injects structured knowledge into candidate representations through a graph encoder and gated fusion mechanism. Subsequently, multiple learned LoRA expert branches are dynamically combined through candidate-conditioned routing based on the relational information encoded in the enhanced candidate representations, enabling the model to obtain more suitable parameter update paths. The experimental results are reported as the mean and standard deviation over three random-seed runs. On the MedQA dataset, the proposed method achieves Accuracy scores of 62.90%±0.82% and 62.84%±1.04%, together with F1-Score values of 62.97%±1.07% and 62.79%±0.78%, using Llama3 8B and Qwen 7B, respectively. On the MedMCQA dataset, the corresponding Accuracy scores are 61.04%±0.30% and 58.59%±0.65%, while the F1-Score values reach 61.21%±0.54% and 57.77%±0.57%, respectively. Experimental results show that the proposed method can effectively improve knowledge understanding, candidate discrimination, and reasoning stability in medical multiple-choice question answering.",
+    "authors": [
+      "Ma Yu",
+      "Di Tianning",
+      "Xu Jiangpeng",
+      "Wu Yue"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886688/",
+    "pmid": "42886688",
+    "source": "PubMed"
+  },
+  {
+    "title": "Multiscale cross modal fusion and cascaded signal propagation for drug target interaction prediction.",
+    "summary": "Accurate prediction of drug-target interaction (DTI) facilitates the translation of lead compounds into clinical therapeutics. Despite progress in deep learning, two challenges remain: the representation gap between heterogeneous drug and protein modalities and insufficient use of complementary knowledge from pretrained encoders. To address these issues, we propose SF-DTI, a unified framework that integrates multi-encoder protein fusion, structure-semantic drug alignment, and progressive cross-modal refinement for DTI prediction. Specifically, SF-DTI captures global protein semantics from multiple pretrained protein language models, aligns graph-based structural features with pretrained semantic embeddings for drugs under subspace constraints, and progressively refines drug-protein interaction representations through cascaded cross-modal signal propagation. Experiments on six benchmark datasets under standard, cold-start, and cross-domain settings demonstrate that SF-DTI achieves competitive performance relative to seven state-of-the-art baselines across evaluation scenarios. These results suggest that SF-DTI is a promising framework for DTI prediction and may support virtual screening, drug repositioning, and drug discovery.",
+    "authors": [
+      "Wang Bowen",
+      "Xie Xiaolan",
+      "Zou Haitao",
+      "Peng Shaoliang"
+    ],
+    "published": "2026 Oct 16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828305/",
+    "pmid": "42828305",
+    "source": "PubMed"
+  }
+]
