@@ -1,5 +1,21 @@
 [
   {
+    "title": "Research hotspots and evolution trends of human amniotic fluid stem cells: A cite space bibliometric analysis based on WoSCC and PubMed.",
+    "summary": "To systematically review the research hotspots, knowledge structure, and evolution trends in the field of human amniotic fluid stem cells (hAFSCs).",
+    "authors": [
+      "Lou Huanying",
+      "Wang Zheng",
+      "Zhang Shuai",
+      "Wang Feng",
+      "Feng Qiang",
+      "Li Yi"
+    ],
+    "published": "2026 Oct 16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888595/",
+    "pmid": "42888595",
+    "source": "PubMed"
+  },
+  {
     "title": "Altered sperm DNA methylation provides an epigenetic route from overweight and older men to intergenerational disease transmission.",
     "summary": "The occurrence of childhood neurodevelopmental disorders has been steadily increasing for decades, yet we have little understanding of modes of inheritance implicated in these diseases. Epidemiology studies have revealed an association between an elevated paternal Body Mass Index (BMI) and age as factors implicated in increased risk for neurodevelopmental disorders in children. Epigenetic regulation of gene expression by DNA methylation at cytosines is susceptible to environmental, diet, and lifestyle changes. Yet, whether a man's BMI and age influence the sperm methylome and potentially impact offspring development remains unresolved. Using MethylC capture sequencing, we identified over 38,000 differentially methylated CpGs in the sperm of men with an elevated BMI, with overlap occurring in regions associated with advanced paternal age. These were enriched for neural gene and disease ontologies. Differentially methylated regions localized to transposable elements that can act as active enhancers during human zygotic genome activation, and at gene promoters for early lineage specification. These results suggest that sperm methylome alterations that are linked to an elevated BMI may influence key embryonic transcriptional processes, notably those associated with trophectoderm and placental development.",
     "authors": [
