@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Optimized Deep Knowledge Distillation Framework for Large-Scale Virus-Host Protein Interaction Prediction.",
+    "summary": "In a rapidly evolving viral landscape, understanding virus-host protein interactions (VHPIs) is essential to elucidate viral infection mechanisms and support the development of effective therapeutic strategies. Accurate computational Prediction of VHPIs remains challenging because of the complexity and high dimensionality of protein sequence and functional representations.",
+    "authors": [
+      "Zandi Farzad",
+      "Mansouri Parvaneh"
+    ],
+    "published": "2026 Oct 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42892333/",
+    "pmid": "42892333",
+    "source": "PubMed"
+  }
+]

@@ -1,0 +1,13 @@
+Ontology 文献追踪报告 - 2026-10-17
+==================================================
+
+共发现 1 篇新论文
+
+--- PubMed (1 篇) ------------------------------
+
+1. Optimized Deep Knowledge Distillation Framework for Large-Scale Virus-Host Protein Interaction Prediction.
+   作者: Zandi Farzad, Mansouri Parvaneh
+   链接: https://pubmed.ncbi.nlm.nih.gov/42892333/
+   PMID: 42892333
+   摘要: In a rapidly evolving viral landscape, understanding virus-host protein interactions (VHPIs) is essential to elucidate viral infection mechanisms and support the development of effective therapeutic strategies. Accurate computational Prediction of VHPIs remains challenging because of the complexity and high dimensionality of protein sequence and functional representations....
+
