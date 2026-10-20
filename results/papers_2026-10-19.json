@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Learned Image Coding With Generative Reference of Conditional Latents.",
+    "summary": "This paper presents a learned image compression framework that exploits semantically correlated external images as conditional coding references in the latent domain. Three reference generation methods are investigated: local dictionary retrieval, web-based image search, and diffusion-based image-text-image generation. Based on rate-distortion optimization in the latent domain, we learn a network to synthesize a conditional latent map from these correlated images, providing an effective semantic reference for conditional coding of the input image. These generation processes are synchronized between the encoder and decoder with a very low communication overhead. Our theoretical analysis shows that our approach is robust to perturbations in reference samples, with a subspace recovery error bound that is inversely proportional to the correlation between the reference and original images. This indicates a high tolerance to matching errors of the reference images. Comprehensive experiments on benchmark datasets show that our proposed generative references of conditional latents (GRCL) method achieves significant improvements in coding performance, up to 1.5 dB PSNR gain over state-of-the-art methods with a very small bit-rate overhead, approximately 0.005 bits per pixel. Our work presents a new generic framework to utilize external references for learned image compression.",
+    "authors": [
+      "Wu Siqi",
+      "Chen Yinda",
+      "Chen Weiming",
+      "Liu Dong",
+      "Ho K C",
+      "He Zhihai"
+    ],
+    "published": "2026 Oct 19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895883/",
+    "pmid": "42895883",
+    "source": "PubMed"
+  },
+  {
+    "title": "RNAffinityDB: a curated database of experimental RNA-protein binding affinities.",
+    "summary": "RNA-protein interactions modulate RNA function and direct RNA fate in cells. Over the past several decades, experimental studies have yielded a substantial but fragmented record of binding affinity measurements for defined RNA-protein pairs, obscuring a unified view of how sequence determinants shape binding strength. Here, we present RNAffinityDB, a curated database of experimental RNA-protein binding affinities. Its curation framework anchors each measurement to one defined protein construct and one single-stranded RNA with a defined sequence of canonical ribonucleotides. The current release comprises 10 ,016 construct-resolved records from 1,055 source publications, covering 3,057 protein constructs and 4,638 RNA sequences. The database preserves affinity values and measurement boundaries as reported, together with non-binding observations. The web interface enables direct retrieval by protein identity or RNA sequence and semantic queries on biological function, with records linked to UniProt annotations and interactive visualizations of AlphaFold 3-predicted complex structures. RNAffinityDB supports systematic analysis of sequence-affinity relationships and the downstream development of RNA-protein affinity models. RNAffinityDB is freely available at https://www.ultrarnalab.com/RNAffinityDB.php.",
+    "authors": [
+      "Lin Wenjun",
+      "Chen Zhaoming",
+      "Li Yao",
+      "Wang Hui",
+      "Huang He",
+      "Xiao Hongwang",
+      "Jäschke Andres",
+      "Ye Qiwei",
+      "Zhang Yaqing"
+    ],
+    "published": "2026 Oct 19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894967/",
+    "pmid": "42894967",
+    "source": "PubMed"
+  }
+]

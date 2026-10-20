@@ -1,0 +1,19 @@
+Ontology 文献追踪报告 - 2026-10-19
+==================================================
+
+共发现 2 篇新论文
+
+--- PubMed (2 篇) ------------------------------
+
+1. Learned Image Coding With Generative Reference of Conditional Latents.
+   作者: Wu Siqi, Chen Yinda, Chen Weiming, Liu Dong, Ho K C 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42895883/
+   PMID: 42895883
+   摘要: This paper presents a learned image compression framework that exploits semantically correlated external images as conditional coding references in the latent domain. Three reference generation methods are investigated: local dictionary retrieval, web-based image search, and diffusion-based image-text-image generation. Based on rate-distortion optimization in the latent domain, we learn a network to synthesize a conditional latent map from these correlated images, providing an effective semantic...
+
+2. RNAffinityDB: a curated database of experimental RNA-protein binding affinities.
+   作者: Lin Wenjun, Chen Zhaoming, Li Yao, Wang Hui, Huang He 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42894967/
+   PMID: 42894967
+   摘要: RNA-protein interactions modulate RNA function and direct RNA fate in cells. Over the past several decades, experimental studies have yielded a substantial but fragmented record of binding affinity measurements for defined RNA-protein pairs, obscuring a unified view of how sequence determinants shape binding strength. Here, we present RNAffinityDB, a curated database of experimental RNA-protein binding affinities. Its curation framework anchors each measurement to one defined protein construct a...
+
