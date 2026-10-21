@@ -1,0 +1,136 @@
+[
+  {
+    "title": "ct-validation: an open framework for benchmarking target-indication evidence against clinical trial outcomes.",
+    "summary": "Human genetic evidence provides a strong foundation for selecting drug targets. However, consistent benchmarking of target-indication evidence against clinical trial outcomes has been hindered by proprietary data and customised pipelines. To address this, we present the Python package ct-validation, which evaluates whether target-indication pairs supported by specific evidence sources are enriched for clinical progression.This package computes relative success (RS) and odds ratios (OR) with confidence intervals across clinical phase transitions. It also supports ontology-based semantic disease matching and offers interfaces in Python, on the command line, and via the Model Context Protocol (MCP). By remapping the benchmark from Minikel et al. (2024) to the Experimental Factor Ontology (EFO), we reproduced their per-transition enrichment, with a maximum difference of only 1.4% across any transition.In a systematic 3x3 benchmark that independently varies the genetic evidence and clinical trial sources, we found that a single curated open clinical trial source reproduces the signal of the proprietary comparator (RS = 2.92 vs 2.65; 2.34 vs 2.55 without oncology). However, aggregating open clinical trial registries compresses this signal (RS = 1.52); this loss is primarily driven by the breadth of the indication data rather than the genetic evidence.",
+    "authors": [
+      "Kostiuk Klim",
+      "Igumnov Daniel",
+      "Fedichev Peter",
+      "Feizi Amir"
+    ],
+    "published": "2026 Oct 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42900515/",
+    "pmid": "42900515",
+    "source": "PubMed"
+  },
+  {
+    "title": "Longitudinal Association Between Prefrailty/Frailty and HIV-associated Neurocognitive Disorder (HAND): a Mexican Prospective Study.",
+    "summary": "Geriatric syndromes such as frailty may be more prevalent and occur earlier in people aging with HIV, negatively impacting outcomes like cognition. Cross-sectional data show strong associations between pre-frailty/frailty and HIV-associated neurocognitive disorders (HAND). However, prospective studies suggest baseline HAND increases frailty risk, while pre-frailty/frailty do not predict HAND onset. We aimed to investigate longitudinal association between baseline frailty and HAND category progression. Longitudinal analysis of 194 participants aged ≥50 years from Mexico City referral center. Two standardized geriatric assessments performed at least one year apart. HAND defined using Antinori criteria, frailty by Fried phenotype. Inverse probability weighted Cox models adjusted for confounders from directed acyclic graph (age, educational level, detectable viral load, diabetes, stroke, ischemic heart disease) determined association between frailty and HAND progression. Median age 55 (53-61) years; 167 (86%) men; median follow-up 2.3 (1.6-3.1) years. Baseline: 129 (66.4%) robust, 62 (31.9%) pre-frail, 3 (1.5%) frail. No longitudinal association between pre-frailty/frailty and HAND progression was observed in this cohort (32 progression events; adjusted HR = 0.63, 95% CI 0.27-1.48; p = 0.29). No evidence of a prospective association between prefrailty/frailty and HAND category progression was observed in this cohort; most participants remained cognitively stable. To our knowledge, this is the first study describing HAND trajectories and their relationship with prefrailty/frailty in older adults with HIV in Mexico and Latin America.",
+    "authors": [
+      "Esteva López Jorge Arturo",
+      "Antonio-Villa Neftali Eduardo",
+      "Esponda Farfan Marielena",
+      "Avila-Funes José Alberto",
+      "Hernandez-Ruiz Virgilio"
+    ],
+    "published": "2026 Oct 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42900505/",
+    "pmid": "42900505",
+    "source": "PubMed"
+  },
+  {
+    "title": "PARADOX: pharmacological analysis of relation anomalies and drug contradictions extraction.",
+    "summary": "The rapid expansion of biomedical literature has led to a growing number of contradictory pharmacological reports, where the same drug interactions are described with opposing outcomes across studies. Critically, many such reports are only apparent contradictions arising from mismatched experimental conditions such as dosage, strain, endpoint, or population, rather than logically incompatible claims under comparable settings. These inconsistencies complicate drug safety evaluation and hinder the reliability of automated biomedical knowledge systems. In this paper, we introduce PARADOX, a framework for the detection and analysis of pharmacological contradictions in scientific text. The system integrates BioBERT-based embeddings, a Siamese similarity model, and an iterative refinement using a snowball process to progressively extract and refine conflicting relational statements. Each candidate contradiction is semantically verified using GPT-4o-mini, producing a structured contradiction graph derived from validated outputs. Beyond detection, we introduce a three-stage decision-tree protocol to distinguish real contradictions from apparent ones and outline a conditional biological modulation map that summarizes how identical pharmacological inputs may yield divergent outcomes under different conditions. On more than 18,000 evaluated pairs, the model recovered 39 validated contradiction candidates with only three misses. Qualitative analysis shows both genuine logical conflicts and opposing statements better explained by contextual differences or missing metadata. The results highlight the potential of contradiction-aware mining to strengthen pharmacovigilance, enhance literature consistency checking, and support more robust biomedical reasoning.",
+    "authors": [
+      "Fata Ali",
+      "Rahmani Hossein"
+    ],
+    "published": "2026 Oct 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42900282/",
+    "pmid": "42900282",
+    "source": "PubMed"
+  },
+  {
+    "title": "Semantic distance metrics in anatomy education: Toward AI-assisted mapping of anatomy-to-clinical reasoning.",
+    "summary": "Anatomy education traditionally emphasizes structural knowledge acquisition, with the implicit assumption that clinical reasoning capabilities will naturally follow. However, the cognitive pathway from anatomical understanding to clinical application is rarely linear or uniform. This article proposes a conceptual framework in which semantic distance-the conceptual separation between anatomical knowledge and clinical endpoints-operates at three analytically distinct levels: (1) the learner's internal cognitive network, shaped by prior experience and schema formation; (2) the structural distance within curriculum maps, ontologies, or knowledge graphs; and (3) the distributional proximity within large language model (LLM) embedding spaces, which may serve as a scalable computational proxy indicator for the first two levels. These three levels must be explicitly distinguished if semantic distance is to function as a useful construct in anatomy education. To illustrate the framework's utility, three worked examples are developed-the femoral nerve, coronary circulation, and spinal cord anatomy-accompanied by a preliminary computational illustration of embedding distances rather than an empirically validated diagnostic instrument. A practical educator workflow is proposed through which computational signals may be translated into targeted curriculum decisions. The article positions semantic distance metrics as complementary to curriculum network analytics and highlights how cross-domain transitions (from anatomy through physiology and pathology to clinical presentation) represent qualitatively different educational problems requiring different interventions. Prospective validation studies, multimodal computational approaches, and longitudinal curriculum outcome analyses are needed before this framework can be applied systematically.",
+    "authors": [
+      "Kasirga Ugur Baran"
+    ],
+    "published": "2026 Oct 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42900165/",
+    "pmid": "42900165",
+    "source": "PubMed"
+  },
+  {
+    "title": "Dynamic proteomic landscape of local ischemic conditioning reveals a sequential dominance of signal transduction, protein synthesis, and mitochondrial metabolism.",
+    "summary": "Ischemic conditioning confers systemic protection through complex humoral, neural, and immune mechanisms; however, the proteomic signatures in the local venous effluent during conditioning cycles remain poorly defined. This study aimed to establish a comprehensive proteomic atlas of the local response to direct ischemic conditioning in a healthy, young animal model. Three adult male beagles underwent five cycles of 5-minute left hindlimb ischemia-reperfusion induced by a tourniquet, with the contralateral right limb serving as a control. Blood samples were collected from the bilateral femoral veins at the end of the 1st, 3rd, and 5th occlusion cycles. Plasma proteomic profiling was performed using magnetic nanoparticle-based enrichment followed by liquid chromatography-tandem mass spectrometry. Differentially expressed proteins were subjected to Gene Ontology, Kyoto Encyclopedia of Genes and Genomes pathway, and protein-protein interaction network analyses. A total of 155, 66, and 26 differentially expressed proteins were identified after the 1st, 3rd, and 5th cycles, respectively, with the number of differentially expressed proteins decreasing as the cycles progressed. Seven proteins, including RTK, SRP9, MAP1S, eEF, UPF2, HNRNPR, and GAPDH, showed overlapping differential expression across two cycles. Protein-protein interaction network analysis highlighted Grb2, RPS27A, and RPS3, as well as NDUFS3 and COX4I1, as key hubs. Functional enrichment analysis revealed a temporal shift from signal transduction during the early cycles to protein synthesis during the middle cycles and, finally, to mitochondrial energy metabolism during the later cycles. This is the first study to profile local proteomic responses during sequential cycles of ischemic conditioning. The identified biomarkers suggest a coordinated, sequential pattern of dominant biological processes involving signal transduction, protein synthesis, and mitochondrial metabolism. These findings provide a foundation for understanding the mechanistic basis of ischemic conditioning and warrant further validation in disease and aging contexts.",
+    "authors": [
+      "Cui Yu",
+      "Li Ying",
+      "Long Yuxia",
+      "Chen Huisheng"
+    ],
+    "published": "2026 Oct 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42899829/",
+    "pmid": "42899829",
+    "source": "PubMed"
+  },
+  {
+    "title": "Leveraging the Synergy between Mechanistic Insight and Machine Learning for Predictive Structure-Performance Relationships in Organic Synthesis.",
+    "summary": "Understanding how molecular structure determines reaction performance is a central objective of physical organic chemistry and an increasingly important challenge in data-driven organic synthesis. As the frontiers of synthetic chemistry continue to advance, predictive structure-performance relationship modeling is expected not only to reproduce known reaction outcomes but also to guide new chemical design. In this Account, we summarize our efforts to integrate mechanistic insight with machine learning across data construction, model development, and discovery applications. At the data level, mechanistic understanding can help define reaction spaces and learning targets, allowing automated density functional theory calculations and literature-derived databases to become chemically consistent learning resources. This idea is illustrated by computed selectivity data sets for radical C-H functionalization and Cu(II)-mediated radical bond formation as well as literature databases for asymmetric hydrogenation of olefins and N,N'-dioxide/metal-catalyzed Michael additions. At the modeling level, mechanistic knowledge can be embedded into reaction representations and model architectures. Transition-state-based reaction encoding introduces pathway-specific stereochemical information into enantioselectivity prediction, while steric- and electronics-embedded molecular graphs incorporate physical organic effects directly into molecular deep learning. At the discovery level, mechanistic relatedness provides a basis for selecting historical data and transferring structure-performance relationships into low-data chemical space. This mechanism-guided transfer learning formalizes how chemists reuse related precedents, enabling few-shot catalyst ligand discovery for Ni-catalyzed atroposelective Suzuki-Miyaura coupling. A central lesson from these studies is that mechanistic insight is not a replacement for machine learning but the chemical foundation that makes it more reliable, interpretable, and extrapolative. By translating mechanistic understanding into data boundaries, reaction representations, and transfer strategies, machine learning can move beyond retrospective fitting and become a chemically grounded framework for predicting and discovering new organic reactions.",
+    "authors": [
+      "Sun Yi-Zhou",
+      "Zhang Shuo-Qing",
+      "Hong Xin"
+    ],
+    "published": "2026 Oct 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42899581/",
+    "pmid": "42899581",
+    "source": "PubMed"
+  },
+  {
+    "title": "Developing Sustainable Chemistry with AI.",
+    "summary": "Today we are experiencing an unprecedentedly rapid transformation of science, driven by advances in computing and artificial intelligence (AI). At the same time, there are growing cumulative pressures of climate change impacts that not only affect economies but are creating significant societal challenges. The confluence of technology push and environmental-socioeconomic pressures is promoting the development of sustainable chemistry. The link between the transition to sustainability in chemistry and the digital transformation of R&D and manufacturing has been the long-standing focus in our research (Fantke, P.; et al. Chem 2021, 7, 2866 doi: 10.1016/j.chempr.2021.09.012). Sustainability is not a feature of a single chemical product or a process. It is incorrect to talk about \"sustainable polyethylene\", as such narrow framing will miss many issues in the more holistic system that not only includes the cradle-to-grave life cycle emission impacts of polyethylene but also considers all aspects of equity, impact on biodiversity, resilience of supply chains, etc. Sustainable chemistry makes sense only as a complex system. An analysis of complex systems requires large amounts of data and the use of appropriate analytical tools, such as advanced machine learning techniques. The chemical industry has been an early adopter of digital technologies, motivated by the inherent complexity of chemical systems and the need for efficiency to stay economically competitive. As early as the 1970s, cheminformatics tools were introduced to support structure-property analysis. In the 1980s, we saw the broad adoption of process modeling and simulation tools for design, scale-up, and optimization of chemical processes, paralleled with developments in the field of process system engineering and control. Today's digital transition is much deeper; everything from scientific discovery (molecules, materials, and phenomena) to chemical process development, analytical methods and process analytical technologies, and plant operation is being reshaped. This deep transformation includes the development of a radically different approach to data in chemistry. Advances in self-driving laboratories, agentic AI workflows, and digital factories require access to structured, semantically rich data. In this Account, we focus on three key areas of digitalization and AI technologies advancing chemistry and chemical process development toward net-zero targets. First, we discuss how data mining tools are used to analyze the existing value chains and identify opportunities to integrate net-zero feedstocks. When new molecules are introduced, data-driven route planning can be employed to design alternative synthetic pathways, which then need to be rigorously evaluated. Second, we focus on how to use AI to accelerate discoveries in chemistry, including the innovative design of catalysts, rational selection of solvents, and identification of optimal reaction conditions. By leveraging statistical modeling and data-driven optimization, these traditionally time-consuming tasks can now be performed much faster. Lastly, we discuss how to bring these innovations from the laboratory to manufacturing, which also requires advances in process technologies. We show that by leveraging AI agents, process modeling, and knowledge graphs, there is a potential to achieve automated process design and life cycle assessment, removing traditional choke points in scaling technologies and providing timely support for decision-making in early-stage development. In the end, we discuss the current challenges and future perspectives.",
+    "authors": [
+      "Zhang Jiyizhe",
+      "Yaseneva Polina",
+      "Lapkin Alexei"
+    ],
+    "published": "2026 Oct 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42899577/",
+    "pmid": "42899577",
+    "source": "PubMed"
+  },
+  {
+    "title": "Altered sperm DNA methylation provides an epigenetic route from overweight and older men to intergenerational disease transmission.",
+    "summary": "The occurrence of childhood neurodevelopmental disorders has been steadily increasing for decades, yet we have little understanding of modes of inheritance implicated in these diseases. Epidemiology studies have revealed an association between an elevated paternal Body Mass Index (BMI) and age as factors implicated in increased risk for neurodevelopmental disorders in children. Epigenetic regulation of gene expression by DNA methylation at cytosines is susceptible to environmental, diet, and lifestyle changes. Yet, whether a man's BMI and age influence the sperm methylome and potentially impact offspring development remains unresolved. Using MethylC capture sequencing, we identified over 38,000 differentially methylated CpGs in the sperm of men with an elevated BMI, with overlap occurring in regions associated with advanced paternal age. These were enriched for neural gene and disease ontologies. Differentially methylated regions localized to transposable elements that can act as active enhancers during human zygotic genome activation, and at gene promoters for early lineage specification. These results suggest that sperm methylome alterations that are linked to an elevated BMI may influence key embryonic transcriptional processes, notably those associated with trophectoderm and placental development.",
+    "authors": [
+      "Schulz Mathieu",
+      "Shao Xiaojian",
+      "Lambrot Romain",
+      "Lafleur Christine",
+      "Chan Donovan",
+      "Dumargne Marie-Charlotte",
+      "MacFarlane Amanda J",
+      "Moskovtsev Sergey",
+      "Bourque Guillaume",
+      "Pastinen Tomi",
+      "Librach Clifford",
+      "Weiler Hope",
+      "Trasler Jacquetta",
+      "Kimmins Sarah"
+    ],
+    "published": "2026 Oct 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886706/",
+    "pmid": "42886706",
+    "source": "PubMed"
+  },
+  {
+    "title": "Systematic screening of stable expression loci in Chinese Hamster Ovary cells via orthogonal functional annotation analysis.",
+    "summary": "The development of engineered Chinese Hamster Ovary (CHO) cell lines capable of long-term, stable, and efficient recombinant protein expression is essential for industrial biologics manufacturing. Traditional random integration is hindered by epigenetic silencing and position effects, while current site-specific strategies are restricted by a limited stable library. To address this, we established a screening strategy based on two core criteria for ideal loci: 1) the capacity for sustained exogenous protein expression and 2) minimal impact on host cell physiology. By analyzing chromosomal location and expression data from 52 known stable loci, we identified 3,152 highly expressed genes. Subsequent Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses excluded genes essential for core growth and metabolism, yielding 252 candidate sites. These were further refined to 25 ideal candidate loci by evaluating their betweenness centrality in a protein-protein interaction (PPI) network, prioritizing hubs with potential genomic stability. After 40 generations of continuous culture, the Enhanced Green Fluorescent Protein (EGFP)-positive rates of DNA ligase 4-like protein (LIG4), L-threonine 3-dehydrogenase, mitochondrial (LOC100759874), and alpha-aminoadipic semialdehyde synthase, mitochondrial (AASS), remained above 95%. This study established an orthogonal functional enrichment screening strategy, which significantly improved the discovery efficiency of stable expression sites in CHO cells and laid a foundation for constructing highly stable recombinant cell lines suitable for industrial production.",
+    "authors": [
+      "Liu Yazhou",
+      "Ding Xuefeng",
+      "Mou Lu",
+      "Li Xuerou",
+      "Cai Yanfei",
+      "Zhang Linpei",
+      "Jin Jian",
+      "Chen Yun"
+    ],
+    "published": "2026 Oct 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42203125/",
+    "pmid": "42203125",
+    "source": "PubMed"
+  }
+]

@@ -1,0 +1,61 @@
+Ontology 文献追踪报告 - 2026-10-20
+==================================================
+
+共发现 9 篇新论文
+
+--- PubMed (9 篇) ------------------------------
+
+1. ct-validation: an open framework for benchmarking target-indication evidence against clinical trial outcomes.
+   作者: Kostiuk Klim, Igumnov Daniel, Fedichev Peter, Feizi Amir
+   链接: https://pubmed.ncbi.nlm.nih.gov/42900515/
+   PMID: 42900515
+   摘要: Human genetic evidence provides a strong foundation for selecting drug targets. However, consistent benchmarking of target-indication evidence against clinical trial outcomes has been hindered by proprietary data and customised pipelines. To address this, we present the Python package ct-validation, which evaluates whether target-indication pairs supported by specific evidence sources are enriched for clinical progression.This package computes relative success (RS) and odds ratios (OR) with conf...
+
+2. Longitudinal Association Between Prefrailty/Frailty and HIV-associated Neurocognitive Disorder (HAND): a Mexican Prospective Study.
+   作者: Esteva López Jorge Arturo, Antonio-Villa Neftali Eduardo, Esponda Farfan Marielena, Avila-Funes José Alberto, Hernandez-Ruiz Virgilio
+   链接: https://pubmed.ncbi.nlm.nih.gov/42900505/
+   PMID: 42900505
+   摘要: Geriatric syndromes such as frailty may be more prevalent and occur earlier in people aging with HIV, negatively impacting outcomes like cognition. Cross-sectional data show strong associations between pre-frailty/frailty and HIV-associated neurocognitive disorders (HAND). However, prospective studies suggest baseline HAND increases frailty risk, while pre-frailty/frailty do not predict HAND onset. We aimed to investigate longitudinal association between baseline frailty and HAND category progre...
+
+3. PARADOX: pharmacological analysis of relation anomalies and drug contradictions extraction.
+   作者: Fata Ali, Rahmani Hossein
+   链接: https://pubmed.ncbi.nlm.nih.gov/42900282/
+   PMID: 42900282
+   摘要: The rapid expansion of biomedical literature has led to a growing number of contradictory pharmacological reports, where the same drug interactions are described with opposing outcomes across studies. Critically, many such reports are only apparent contradictions arising from mismatched experimental conditions such as dosage, strain, endpoint, or population, rather than logically incompatible claims under comparable settings. These inconsistencies complicate drug safety evaluation and hinder the...
+
+4. Semantic distance metrics in anatomy education: Toward AI-assisted mapping of anatomy-to-clinical reasoning.
+   作者: Kasirga Ugur Baran
+   链接: https://pubmed.ncbi.nlm.nih.gov/42900165/
+   PMID: 42900165
+   摘要: Anatomy education traditionally emphasizes structural knowledge acquisition, with the implicit assumption that clinical reasoning capabilities will naturally follow. However, the cognitive pathway from anatomical understanding to clinical application is rarely linear or uniform. This article proposes a conceptual framework in which semantic distance-the conceptual separation between anatomical knowledge and clinical endpoints-operates at three analytically distinct levels: (1) the learner's inte...
+
+5. Dynamic proteomic landscape of local ischemic conditioning reveals a sequential dominance of signal transduction, protein synthesis, and mitochondrial metabolism.
+   作者: Cui Yu, Li Ying, Long Yuxia, Chen Huisheng
+   链接: https://pubmed.ncbi.nlm.nih.gov/42899829/
+   PMID: 42899829
+   摘要: Ischemic conditioning confers systemic protection through complex humoral, neural, and immune mechanisms; however, the proteomic signatures in the local venous effluent during conditioning cycles remain poorly defined. This study aimed to establish a comprehensive proteomic atlas of the local response to direct ischemic conditioning in a healthy, young animal model. Three adult male beagles underwent five cycles of 5-minute left hindlimb ischemia-reperfusion induced by a tourniquet, with the con...
+
+6. Leveraging the Synergy between Mechanistic Insight and Machine Learning for Predictive Structure-Performance Relationships in Organic Synthesis.
+   作者: Sun Yi-Zhou, Zhang Shuo-Qing, Hong Xin
+   链接: https://pubmed.ncbi.nlm.nih.gov/42899581/
+   PMID: 42899581
+   摘要: Understanding how molecular structure determines reaction performance is a central objective of physical organic chemistry and an increasingly important challenge in data-driven organic synthesis. As the frontiers of synthetic chemistry continue to advance, predictive structure-performance relationship modeling is expected not only to reproduce known reaction outcomes but also to guide new chemical design. In this Account, we summarize our efforts to integrate mechanistic insight with machine le...
+
+7. Developing Sustainable Chemistry with AI.
+   作者: Zhang Jiyizhe, Yaseneva Polina, Lapkin Alexei
+   链接: https://pubmed.ncbi.nlm.nih.gov/42899577/
+   PMID: 42899577
+   摘要: Today we are experiencing an unprecedentedly rapid transformation of science, driven by advances in computing and artificial intelligence (AI). At the same time, there are growing cumulative pressures of climate change impacts that not only affect economies but are creating significant societal challenges. The confluence of technology push and environmental-socioeconomic pressures is promoting the development of sustainable chemistry. The link between the transition to sustainability in chemistr...
+
+8. Altered sperm DNA methylation provides an epigenetic route from overweight and older men to intergenerational disease transmission.
+   作者: Schulz Mathieu, Shao Xiaojian, Lambrot Romain, Lafleur Christine, Chan Donovan 等 14 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42886706/
+   PMID: 42886706
+   摘要: The occurrence of childhood neurodevelopmental disorders has been steadily increasing for decades, yet we have little understanding of modes of inheritance implicated in these diseases. Epidemiology studies have revealed an association between an elevated paternal Body Mass Index (BMI) and age as factors implicated in increased risk for neurodevelopmental disorders in children. Epigenetic regulation of gene expression by DNA methylation at cytosines is susceptible to environmental, diet, and lif...
+
+9. Systematic screening of stable expression loci in Chinese Hamster Ovary cells via orthogonal functional annotation analysis.
+   作者: Liu Yazhou, Ding Xuefeng, Mou Lu, Li Xuerou, Cai Yanfei 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42203125/
+   PMID: 42203125
+   摘要: The development of engineered Chinese Hamster Ovary (CHO) cell lines capable of long-term, stable, and efficient recombinant protein expression is essential for industrial biologics manufacturing. Traditional random integration is hindered by epigenetic silencing and position effects, while current site-specific strategies are restricted by a limited stable library. To address this, we established a screening strategy based on two core criteria for ideal loci: 1) the capacity for sustained exoge...
+
