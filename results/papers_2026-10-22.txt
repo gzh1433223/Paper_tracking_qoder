@@ -1,0 +1,13 @@
+Ontology 文献追踪报告 - 2026-10-22
+==================================================
+
+共发现 1 篇新论文
+
+--- PubMed (1 篇) ------------------------------
+
+1. Effects and mechanisms of Stauntonia brachyanthera Hand.-Mazz against Alzheimer's disease through network pharmacology and experimental validation.
+   作者: Wang Jiaxin, Pu Hong, Peng Lingsheng, Cai Shichang, Ding Qi 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42727480/
+   PMID: 42727480
+   摘要: Stauntonia brachyanthera Hand.-Mazz. (SB), a traditional medicinal plant of the Dong ethnic group with nutraceutical applications, exhibits broad-spectrum pharmacological activity. However, the therapeutic effects and mechanisms of SB on Alzheimer's disease (AD) remain unclear. This study aims to investigate the neuroprotective potential and underlying mechanisms of SB against AD. We utilized network pharmacology and molecular docking to predict the active components, targets, and pathways of SB...
+
