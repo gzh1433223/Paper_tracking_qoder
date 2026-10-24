@@ -1,5 +1,76 @@
 [
   {
+    "title": "The uncinate fasciculus in frontotemporal dementia subtypes: A systematic review and meta-analysis of diffusion-tensor imaging studies.",
+    "summary": "BackgroundFrontotemporal dementia (FTD) is a leading cause of early-onset neurodegeneration with selective frontal and temporal lobe degeneration. Despite well-characterized gray and white matter atrophy patterns across FTD subtypes, the extent of degeneration of the uncinate fasciculus (UF) tract has not been systematically quantified across FTD subtypes.ObjectiveTo compare uncinate fasciculus fractional anisotropy, mean diffusivity, radial diffusivity, and axial diffusivity between frontotemporal dementia subtypes and healthy controls.MethodsWe systematically searched PubMed, Scopus, and Web of Science and performed a random-effects meta-analysis of diffusion tensor imaging studies published between 2011 and October 2025 according to PRISMA 2020 guidelines.ResultsWe systematically reviewed 11 studies and performed a meta-analysis of 540 participants across 10 studies. We found that all FTD subtypes demonstrated significant degeneration of the UF compared to controls. The greatest effect sizes were observed when comparing the left UF between the semantic variant primary progressive aphasia (svPPA) and controls (FA: SMD = -2.5396, 95% CI: -3.7914, -1.2878, p < 0.0001; RD: SMD = 2.2414, 95% CI:1.7972, 2.6855, p < 0.0001; AD: SMD = 1.9831, 95% CI: 1.1434, 2.8227, p < 0.0001; MD: SMD = 2.5268, 95% CI: 1.9993, 3.0542, p < 0.0001), while the behavioral variant (bvFTD) showed the largest reduction in right UF fractional anisotropy. Within-group analyses revealed significant left-right asymmetry in svPPA and non-fluent aphasia (nfvPPA), with greater left UF involvement, while bvFTD and controls showed no hemispheric differences.ConclusionsWe highlight the UF as a promising tract for understanding disease mechanisms and developing imaging biomarkers in FTD.",
+    "authors": [
+      "Mowafi Salma",
+      "Nassar Layla",
+      "Ezzeldin Shahd",
+      "Salama Mohamed",
+      "Chun Sungsoo"
+    ],
+    "published": "2026 Oct 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920282/",
+    "pmid": "42920282",
+    "source": "PubMed"
+  },
+  {
+    "title": "An ontology-based safe drug prescription method for controlling diabetes.",
+    "summary": "BackgroundDiabetes is a chronic disease also known as a non-communicable disease that cannot be completely cured but can be controlled through medication, or by maintaining a balanced diet and regular physical activity. Many drugs are available to control diabetes, but these drugs need to be carefully prescribed by the experienced physicians because the drugs may have side effects as well as adverse reactions.ObjectiveWe propose an ontology-based safe drug prescription method for diabetes that assists physicians in prescribing appropriate drugs by considering their side effects and interactions with other drugs, diseases and foods.MethodsThe proposed framework was implemented by creating an ontology by integrating drug-related information which includes side effects, drug interactions with other drugs, diseases and foods from different sources. We developed a Java-based user interface through which information on drug side effects, drug interactions and uses of the drugs can be retrieved using SPARQL queries.ResultsThe inferred results using SWRL rules and SPARQL queries were converted to a questionnaire that was validated by four physicians, and achieved the highest agreement score of 92.8%. The ontology-based model was also evaluated for consistency on HermiT and Pellet reasoners.ConclusionPatients with diabetes frequently have comorbidities requiring multiple medications, which increases the risk of adverse drug reactions. The constructed ontology provides a knowledge base to support physicians in identifying drug side effects and interactions. The Ontology incorporates knowledge related to causes of diabetes including impaired insulin secretion, insulin resistance and other causes based on obesity-related factors.",
+    "authors": [
+      "Gulzar M D",
+      "Ahmed Muqeem"
+    ],
+    "published": "2026 Oct 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42919824/",
+    "pmid": "42919824",
+    "source": "PubMed"
+  },
+  {
+    "title": "Harmonizing Radiotherapy Data Standards: A Comparative Analysis of OMOP, CDISC, FHIR, NAACCR, and OBO Foundry with an O3-Anchored Mapping Framework.",
+    "summary": "This Special Report analyzes current radiotherapy data standards, determines which radiotherapy data elements should propagate between them, and identifies the barriers to that propagation to improve interoperability and data utilization in clinical care and research.",
+    "authors": [
+      "Xiao Ying",
+      "Kennedy Georgina",
+      "Baker Rebecca L",
+      "Savannah Kari J Brewer",
+      "Brock Kristy K",
+      "Covington Elizabeth L",
+      "Gabriel Peter E",
+      "Golozar Asieh",
+      "Gurley Michael",
+      "Hu Chen",
+      "Manfredi Denise",
+      "Matuszak Martha M",
+      "Mayo Katherine",
+      "Moughan Jennifer",
+      "O'Meara Elizabeth A",
+      "Reich Christian",
+      "Holloway Lois",
+      "Mayo Charles S"
+    ],
+    "published": "2026 Oct 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42918584/",
+    "pmid": "42918584",
+    "source": "PubMed"
+  },
+  {
+    "title": "Automated standardization of legacy biomedical metadata using an ontology-constrained LLM agent.",
+    "summary": "Descriptive scientific metadata in public repositories are often incomplete and inconsistent with community standards and ontologies, limiting data FAIRness. Large language models (LLMs) offer a promising approach to automatically standardizing such metadata when the LLM is provided with knowledge of the relevant standards in machine-actionable form (e.g., as metadata templates from systems such as the CEDAR Workbench). Entry of metadata standards through prompt engineering offers only fixed snapshots of the relevant standards, however, and it relies on an LLM's pretrained knowledge to interpret and satisfy constraints related to the standard. We evaluate whether giving an LLM access to metadata specifications and authoritative terminology at runtime improves automated metadata standardization.",
+    "authors": [
+      "Hardi Josef",
+      "O'Connor Martin J",
+      "Martínez-Romero Marcos",
+      "Rosario Jean G",
+      "Fisher Stephen A",
+      "Musen Mark A"
+    ],
+    "published": "2026 Oct 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42918280/",
+    "pmid": "42918280",
+    "source": "PubMed"
+  },
+  {
     "title": "Hypergraph Masked Autoencoder for Drug Repositioning.",
     "summary": "Computational drug repositioning (DR) discovers novel therapeutic applications for existing pharmaceuticals, offering an efficient alternative to costly de novo development. Recently, to capture higher-order biological interactions, hypergraph-based DR approaches are devised. Nevertheless, this line of research encounters two fundamental bottlenecks that compromise their real-world practicality. (i) Insufficient biological mediator integration. The hypergraph construction schemes neglect diverse biological intermediates that mediate drug-disease therapeutic mechanisms, instead relying solely on drug and disease similarity networks or drug-disease association (DDA) bipartite graph. (ii) Unresolved data sparsity challenge. The limited confirmed DDAs compel hypergraph-based approaches to perform supervised learning on sparse positive instances. In this study, we propose a novel hypergraph masked autoencoder model for DR, namely Hyades. To handle the first bottleneck, we retrieve biological entities that maintain direct interaction relationships with drugs and diseases from three large-scale biomedical knowledge graphs. Hence, genes, as the exclusive biological mediators, are conceptualized as hyperedges connecting corresponding drug and disease nodes. For the second bottleneck, we resort to integrating the graph masked autoencoder with hypergraph neural network for generating complementary self-supervised signals through masked node feature reconstruction. Extensive experiments across three DR datasets under 10-fold cross-validation confirm the model effectiveness.",
     "authors": [

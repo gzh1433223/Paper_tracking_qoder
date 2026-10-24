@@ -1,11 +1,35 @@
 Ontology 文献追踪报告 - 2026-10-23
 ==================================================
 
-共发现 1 篇新论文
+共发现 5 篇新论文
 
---- PubMed (1 篇) ------------------------------
+--- PubMed (5 篇) ------------------------------
 
-1. Hypergraph Masked Autoencoder for Drug Repositioning.
+1. The uncinate fasciculus in frontotemporal dementia subtypes: A systematic review and meta-analysis of diffusion-tensor imaging studies.
+   作者: Mowafi Salma, Nassar Layla, Ezzeldin Shahd, Salama Mohamed, Chun Sungsoo
+   链接: https://pubmed.ncbi.nlm.nih.gov/42920282/
+   PMID: 42920282
+   摘要: BackgroundFrontotemporal dementia (FTD) is a leading cause of early-onset neurodegeneration with selective frontal and temporal lobe degeneration. Despite well-characterized gray and white matter atrophy patterns across FTD subtypes, the extent of degeneration of the uncinate fasciculus (UF) tract has not been systematically quantified across FTD subtypes.ObjectiveTo compare uncinate fasciculus fractional anisotropy, mean diffusivity, radial diffusivity, and axial diffusivity between frontotempo...
+
+2. An ontology-based safe drug prescription method for controlling diabetes.
+   作者: Gulzar M D, Ahmed Muqeem
+   链接: https://pubmed.ncbi.nlm.nih.gov/42919824/
+   PMID: 42919824
+   摘要: BackgroundDiabetes is a chronic disease also known as a non-communicable disease that cannot be completely cured but can be controlled through medication, or by maintaining a balanced diet and regular physical activity. Many drugs are available to control diabetes, but these drugs need to be carefully prescribed by the experienced physicians because the drugs may have side effects as well as adverse reactions.ObjectiveWe propose an ontology-based safe drug prescription method for diabetes that a...
+
+3. Harmonizing Radiotherapy Data Standards: A Comparative Analysis of OMOP, CDISC, FHIR, NAACCR, and OBO Foundry with an O3-Anchored Mapping Framework.
+   作者: Xiao Ying, Kennedy Georgina, Baker Rebecca L, Savannah Kari J Brewer, Brock Kristy K 等 18 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42918584/
+   PMID: 42918584
+   摘要: This Special Report analyzes current radiotherapy data standards, determines which radiotherapy data elements should propagate between them, and identifies the barriers to that propagation to improve interoperability and data utilization in clinical care and research....
+
+4. Automated standardization of legacy biomedical metadata using an ontology-constrained LLM agent.
+   作者: Hardi Josef, O'Connor Martin J, Martínez-Romero Marcos, Rosario Jean G, Fisher Stephen A 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42918280/
+   PMID: 42918280
+   摘要: Descriptive scientific metadata in public repositories are often incomplete and inconsistent with community standards and ontologies, limiting data FAIRness. Large language models (LLMs) offer a promising approach to automatically standardizing such metadata when the LLM is provided with knowledge of the relevant standards in machine-actionable form (e.g., as metadata templates from systems such as the CEDAR Workbench). Entry of metadata standards through prompt engineering offers only fixed sna...
+
+5. Hypergraph Masked Autoencoder for Drug Repositioning.
    作者: Duan Meiyu, Bi Haijia, Xie Wenhui, Fu Ren, Cui Hai 等 6 人
    链接: https://pubmed.ncbi.nlm.nih.gov/42912516/
    PMID: 42912516
