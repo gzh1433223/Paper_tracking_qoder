@@ -1,0 +1,13 @@
+Ontology 文献追踪报告 - 2026-10-23
+==================================================
+
+共发现 1 篇新论文
+
+--- PubMed (1 篇) ------------------------------
+
+1. Hypergraph Masked Autoencoder for Drug Repositioning.
+   作者: Duan Meiyu, Bi Haijia, Xie Wenhui, Fu Ren, Cui Hai 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42912516/
+   PMID: 42912516
+   摘要: Computational drug repositioning (DR) discovers novel therapeutic applications for existing pharmaceuticals, offering an efficient alternative to costly de novo development. Recently, to capture higher-order biological interactions, hypergraph-based DR approaches are devised. Nevertheless, this line of research encounters two fundamental bottlenecks that compromise their real-world practicality. (i) Insufficient biological mediator integration. The hypergraph construction schemes neglect diverse...
+

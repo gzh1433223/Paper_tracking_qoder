@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Hypergraph Masked Autoencoder for Drug Repositioning.",
+    "summary": "Computational drug repositioning (DR) discovers novel therapeutic applications for existing pharmaceuticals, offering an efficient alternative to costly de novo development. Recently, to capture higher-order biological interactions, hypergraph-based DR approaches are devised. Nevertheless, this line of research encounters two fundamental bottlenecks that compromise their real-world practicality. (i) Insufficient biological mediator integration. The hypergraph construction schemes neglect diverse biological intermediates that mediate drug-disease therapeutic mechanisms, instead relying solely on drug and disease similarity networks or drug-disease association (DDA) bipartite graph. (ii) Unresolved data sparsity challenge. The limited confirmed DDAs compel hypergraph-based approaches to perform supervised learning on sparse positive instances. In this study, we propose a novel hypergraph masked autoencoder model for DR, namely Hyades. To handle the first bottleneck, we retrieve biological entities that maintain direct interaction relationships with drugs and diseases from three large-scale biomedical knowledge graphs. Hence, genes, as the exclusive biological mediators, are conceptualized as hyperedges connecting corresponding drug and disease nodes. For the second bottleneck, we resort to integrating the graph masked autoencoder with hypergraph neural network for generating complementary self-supervised signals through masked node feature reconstruction. Extensive experiments across three DR datasets under 10-fold cross-validation confirm the model effectiveness.",
+    "authors": [
+      "Duan Meiyu",
+      "Bi Haijia",
+      "Xie Wenhui",
+      "Fu Ren",
+      "Cui Hai",
+      "Zhang Yijia"
+    ],
+    "published": "2026 Oct 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912516/",
+    "pmid": "42912516",
+    "source": "PubMed"
+  }
+]
