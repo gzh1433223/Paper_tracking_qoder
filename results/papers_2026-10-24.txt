@@ -1,0 +1,31 @@
+Ontology 文献追踪报告 - 2026-10-24
+==================================================
+
+共发现 4 篇新论文
+
+--- PubMed (4 篇) ------------------------------
+
+1. Recording of orofacial manifestations associated to rare diseases: development of a relational database.
+   作者: Lima Sulamita Lemos, Caldas Ricardo Armini, Amorim Marcus Paulo, Cordeiro João Victor Cunha, Oelerich Ole 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42926204/
+   PMID: 42926204
+   摘要: A rare disease is any condition that affects no more than one in every 2.000 individuals in a given population. These diseases have varied causes, which, in many cases, hinders early diagnosis and results in a poor quality of life. Due to their low incidence, the information available on these conditions is limited, highlighting the need to expand knowledge regarding rare diseases. The purpose of this study was to create a relational database containing information orofacial manifestations assoc...
+
+2. State-dependent roles of inflammation across pain conditions: insights from human transcriptomics.
+   作者: Parisien Marc, Karaky Mohamad, Montagna Francesca, Zidan Maha, Cool Kelly 等 19 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42926172/
+   PMID: 42926172
+   摘要: Inflammation is widely viewed as a driver of pain, yet clinical and transcriptomic studies report conflicting associations. A clearer understanding of how inflammatory processes relate to pain across clinical contexts is essential for improving diagnosis, treatment, and prevention of chronic pain....
+
+3. Concentration- and duration-associated transcriptional changes in HepG2 cells following long-term nominal nanomolar PFOA exposure.
+   作者: Borkovic Katarina, Kokai Dunja, Kostic Marija, Stanic Bojana, Andric Nebojsa
+   链接: https://pubmed.ncbi.nlm.nih.gov/42925887/
+   PMID: 42925887
+   摘要: Perfluorooctanoic acid (PFOA) is a persistent environmental contaminant whose transcriptional effects under prolonged low-dose exposure remain insufficiently characterized. We investigated transcriptomic responses in HepG2 cells exposed to nominal PFOA concentrations of 1, 10, or 100nM for 6- or 12-weeks using RNA-seq, differential expression analysis, Gene Ontology enrichment, gene set enrichment analysis (GSEA), and weighted gene co-expression network analysis (WGCNA). No differentially expres...
+
+4. Preconception paternal PFAS exposure in mice reprograms the placental epigenome.
+   作者: Maxwell DruAnne L, Maxwell Anthony, Nowak Karolina, Gurdziel Katherine, Ding Jiahui 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42921749/
+   PMID: 42921749
+   摘要: The placenta plays a vital role in supporting fetal growth and development by facilitating nutrient exchange, hormone signalling and immune regulation. Environmental toxicants such as perfluoroalkyl and polyfluoroalkyl substances (PFAS) can disrupt placental homeostasis, leading to increased risk of disease later in life. Paternal environmental exposures may influence offspring health by inducing epigenetic changes in sperm, which may affect sex-dependent placental programming. Here, male mice w...
+

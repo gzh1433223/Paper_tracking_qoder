@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Recording of orofacial manifestations associated to rare diseases: development of a relational database.",
+    "summary": "A rare disease is any condition that affects no more than one in every 2.000 individuals in a given population. These diseases have varied causes, which, in many cases, hinders early diagnosis and results in a poor quality of life. Due to their low incidence, the information available on these conditions is limited, highlighting the need to expand knowledge regarding rare diseases. The purpose of this study was to create a relational database containing information orofacial manifestations associated to rare diseases.",
+    "authors": [
+      "Lima Sulamita Lemos",
+      "Caldas Ricardo Armini",
+      "Amorim Marcus Paulo",
+      "Cordeiro João Victor Cunha",
+      "Oelerich Ole",
+      "Daume Linda",
+      "Kleinheinz Johannes",
+      "Hanisch Marcel",
+      "Bohner Lauren"
+    ],
+    "published": "2026 Oct 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926204/",
+    "pmid": "42926204",
+    "source": "PubMed"
+  },
+  {
+    "title": "State-dependent roles of inflammation across pain conditions: insights from human transcriptomics.",
+    "summary": "Inflammation is widely viewed as a driver of pain, yet clinical and transcriptomic studies report conflicting associations. A clearer understanding of how inflammatory processes relate to pain across clinical contexts is essential for improving diagnosis, treatment, and prevention of chronic pain.",
+    "authors": [
+      "Parisien Marc",
+      "Karaky Mohamad",
+      "Montagna Francesca",
+      "Zidan Maha",
+      "Cool Kelly",
+      "Meloto Carolina B",
+      "Martel Marc O",
+      "Beaulieu Pierre",
+      "Girard Martin",
+      "Pagé M Gabrielle",
+      "Choinière Manon",
+      "Richebé Philippe",
+      "Brulotte Véronique",
+      "Oulehri Walid",
+      "Dagostino Concetta",
+      "Marchesini Maurizio",
+      "Allegri Massimo",
+      "Esfahani Sahel Jahangiri",
+      "Diatchenko Luda"
+    ],
+    "published": "2026 Oct 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926172/",
+    "pmid": "42926172",
+    "source": "PubMed"
+  },
+  {
+    "title": "Concentration- and duration-associated transcriptional changes in HepG2 cells following long-term nominal nanomolar PFOA exposure.",
+    "summary": "Perfluorooctanoic acid (PFOA) is a persistent environmental contaminant whose transcriptional effects under prolonged low-dose exposure remain insufficiently characterized. We investigated transcriptomic responses in HepG2 cells exposed to nominal PFOA concentrations of 1, 10, or 100nM for 6- or 12-weeks using RNA-seq, differential expression analysis, Gene Ontology enrichment, gene set enrichment analysis (GSEA), and weighted gene co-expression network analysis (WGCNA). No differentially expressed genes (DEGs) were detected at 1nM PFOA at either time point. At 10nM and 100nM PFOA, respectively, 149 and 183 DEGs were identified after 6 weeks, predominantly downregulated, compared with 10 and 56 DEGs after 12 weeks. The 6-week response included induction of immediate-early genes (FOS, EGR1) and repression of transcriptional and developmental regulators. At 12 weeks, six downregulated genes, including FOS, FOSB, and PLA2G2A, were shared between concentrations, with no shared upregulated genes. GSEA showed negative enrichment of transcriptional and developmental gene sets at both time points, whereas protein folding and stress response gene sets were enriched only at 6 weeks. WGCNA identified one dominant concentration-associated module at 6 weeks and several smaller modules at 12 weeks, most showing preservation across exposure durations. Together, these findings demonstrate concentration- and duration-associated transcriptional differences following prolonged nanomolar PFOA exposure, while the underlying biological mechanisms and potential contributions of culture-associated changes require further investigation.",
+    "authors": [
+      "Borkovic Katarina",
+      "Kokai Dunja",
+      "Kostic Marija",
+      "Stanic Bojana",
+      "Andric Nebojsa"
+    ],
+    "published": "2026 Oct 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925887/",
+    "pmid": "42925887",
+    "source": "PubMed"
+  },
+  {
+    "title": "Preconception paternal PFAS exposure in mice reprograms the placental epigenome.",
+    "summary": "The placenta plays a vital role in supporting fetal growth and development by facilitating nutrient exchange, hormone signalling and immune regulation. Environmental toxicants such as perfluoroalkyl and polyfluoroalkyl substances (PFAS) can disrupt placental homeostasis, leading to increased risk of disease later in life. Paternal environmental exposures may influence offspring health by inducing epigenetic changes in sperm, which may affect sex-dependent placental programming. Here, male mice were exposed to a PFAS mixture (PFOS, PFOA, PFNA, PFHxS, GenX; 20 μg/L each) for 10 weeks and mated with unexposed females. We identified 6,656 and 3,242 differentially methylated regions (DMRs) in E12.5 placentas of female and male offspring, respectively. Female placentas showed predominantly hypermethylation (78.5%), whereas male placentas were mostly hypomethylated (62%). Gene ontology analyses linked female placental DMRs to cell and embryonic morphogenesis, and male DMRs to anatomical size regulation and hemostasis. Bulk RNA sequencing revealed 168 and 148 differentially expressed genes (DEGs) in female and male placentas, respectively. Female DEGs were related to immune regulation, while male DEGs were involved in muscle and mesenchyme development. Sex-by-PFAS interaction models identified distinct methylation and transcription biological pathways. Overlap analysis between F0 sperm and F1 placentas identified 265 shared genes, including 289 female-specific and 124 male-specific genes. Paternal exposure to the PFAS mixture increased glycogen concentrations in male, but not female, placentas. No effects were observed at imprinted loci. These findings demonstrate that paternal preconception exposure to a PFAS mixture alter placental epigenomic and transcriptomic landscapes, which may contribute to sex-dependent trajectories of fetal health and development and offspring phenotypes.",
+    "authors": [
+      "Maxwell DruAnne L",
+      "Maxwell Anthony",
+      "Nowak Karolina",
+      "Gurdziel Katherine",
+      "Ding Jiahui",
+      "Mor Gil",
+      "Petriello Michael C",
+      "Pilsner J Richard"
+    ],
+    "published": "2026 Oct 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42921749/",
+    "pmid": "42921749",
+    "source": "PubMed"
+  }
+]
