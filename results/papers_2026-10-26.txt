@@ -1,0 +1,55 @@
+Ontology 文献追踪报告 - 2026-10-26
+==================================================
+
+共发现 8 篇新论文
+
+--- PubMed (8 篇) ------------------------------
+
+1. Early Prediction and Prognosis in Acute Kidney Injury Using a Biomarker-Aware Transformer: Retrospective Multicenter Study.
+   作者: Xu Zijian, Li Deyi, Xu Qi, Yu Alan Sl, Chrischilles Elizabeth A 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42932871/
+   PMID: 42932871
+   摘要: Acute kidney injury (AKI) is a common, life-threatening complication among hospitalized patients. Timely prediction is crucial for prevention, while accurate prognosis following onset is essential for guiding care. Although electronic health records (EHRs) provide rich longitudinal data, their high dimensionality, heterogeneity, and temporal complexity pose challenges for traditional machine learning....
+
+2. Toward Deconfounded Temporal Knowledge Graph Extrapolation via Dual Counterfactual Causal Reasoning.
+   作者: Yang Yujia, Zheng Conghui, Pan Li
+   链接: https://pubmed.ncbi.nlm.nih.gov/42932210/
+   PMID: 42932210
+   摘要: Temporal knowledge graphs (TKGs) demonstrate outstanding capabilities in capturing the evolving dynamics of events, enabling precise predictions of missing events at future timestamps. Most existing methods for TKG extrapolation mainly focus on learning from historical event co-occurrence patterns and evolutionary patterns. Unfortunately, in real-world scenarios, confounders-such as incidental events-can cause models to learn spurious correlations, thereby significantly reducing their accuracy a...
+
+3. Integrative Multi-Cohort Analysis of hsa-miR-1277, hsa-miR-301b, and hsa-miR-519a-1 Reveals Diagnostic Potential and Regulatory Associations in Oral Squamous Cell Carcinoma.
+   作者: Antra, Tandon Vibha
+   链接: https://pubmed.ncbi.nlm.nih.gov/42931868/
+   PMID: 42931868
+   摘要: Head and neck squamous cell carcinoma (HNSCC) is a highly heterogeneous malignancy characterized by extensive molecular dysregulation, including aberrant microRNA (miRNA) expression. Identification of clinically relevant miRNAs and their associated regulatory networks may improve understanding of oral squamous cell carcinoma (OSCC) biology and facilitate biomarker discovery....
+
+4. UCEC: A Knowledge Graph-Assisted Machine Learning for Molecular-Mechanism-Interpretable Natural Product-Disease Association Prioritization.
+   作者: Lu Wenyu, Cai Yihui, Peng Xiaoqian, Mei Shulan, Yin Xunkai 等 14 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42929588/
+   PMID: 42929588
+   摘要: Natural products (NPs) have been considered a critical source of therapeutic drugs, but prioritizing NP-disease associations remain challenging because supporting evidence is distributed across multiple ingredients, targets, protein interactions, and pathways. Herein, we propose a knowledge graph-assisted machine learning model: Uncertainty-Calibrated Evidence-Chains (UCEC) for prioritizing NP-disease associations. UCEC separates predicted association strength from the evidence-conditioned stabi...
+
+5. Unified Multitask Model for Aquatic Toxicity Prediction across Organism Groups and Effect End Points: A Comparison of Molecular Representations.
+   作者: Wu Xiushan, Hu Baochuan, Chen Dongliang, Yang Jinrong, He Xiao
+   链接: https://pubmed.ncbi.nlm.nih.gov/42929568/
+   PMID: 42929568
+   摘要: Computational prediction of aquatic toxicity provides a rapid and cost-efficient alternative to resource-intensive in vivo ecotoxicological testing. However, most existing models adopt a fragmented modeling strategy, developing separate models for each organism group and toxicity end point. Such task-specific models restrict knowledge transfer across related biological contexts and fail to account for the biological ordering between multiple effect concentrations (EC50/EC10). Here, we propose a ...
+
+6. Temporally Validated Models for Target "Tclin-likeness".
+   作者: Quazi Mohammed, Sirimulla Suman, Bologa Cristian G, Pushechnikov Alexei, Farley Bill 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42929566/
+   PMID: 42929566
+   摘要: Identifying which human proteins are likely to become validated drug targets remains a challenge in drug discovery. We build on the "Tclin" concept, which encompasses proteins for which at least one approved drug exerts its mode of action (MoA); these comprise only ∼3% of the human proteome. We developed disease-agnostic, knowledge-graph machine learning (KGML) models that estimate "Tclin-likeness": how closely a non-Tclin protein resembles established MoA drug targets in knowledge-graph feature...
+
+7. Preliminary Exploration of the Hepatoprotective Effect of Nanocrystalline Curcumin Against Traumatic Hemorrhagic Shock-Induced Liver Injury in a Desert Dry-Heat Environment: A Network Pharmacology-Based Study.
+   作者: Chen Changxu, Shen Caifu, Shi Chuankai, Zhou Enning, Liu Jiangwei
+   链接: https://pubmed.ncbi.nlm.nih.gov/42929369/
+   PMID: 42929369
+   摘要: Traumatic hemorrhagic shock (THS) under desert dry-heat conditions can exacerbate secondary liver injury, highlighting the need for effective therapeutic interventions. This study investigated the protective effects of nanocrystalline curcumin (NC-Cur) against THS-induced liver injury in a desert dry-heat environment and explored its potential molecular mechanisms. Network pharmacology, Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses, and protein-protein interaction...
+
+8. Cognitive-communication features relevant to speech and language therapy in Lewy Body Dementia.
+   作者: Konstantopoulou Georgia, Kyriazi Efterpi Elpida, Felemegkas Panagiotis, Alexopoulos Panagiotis
+   链接: https://pubmed.ncbi.nlm.nih.gov/42928312/
+   PMID: 42928312
+   摘要: Lewy Body Dementia (LBD) is characterized by fluctuating cognition, executive dysfunction, visuospatial impairment, and parkinsonian features that may jointly affect communication. Despite the clinical importance of these difficulties, direct evidence for speech and language therapy (SLT) in LBD remains limited. This structured narrative review critically synthesizes neuropsychological, linguistic, discourse, motor-speech, and clinically relevant intervention evidence for SLT assessment and mana...
+

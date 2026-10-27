@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Early Prediction and Prognosis in Acute Kidney Injury Using a Biomarker-Aware Transformer: Retrospective Multicenter Study.",
+    "summary": "Acute kidney injury (AKI) is a common, life-threatening complication among hospitalized patients. Timely prediction is crucial for prevention, while accurate prognosis following onset is essential for guiding care. Although electronic health records (EHRs) provide rich longitudinal data, their high dimensionality, heterogeneity, and temporal complexity pose challenges for traditional machine learning.",
+    "authors": [
+      "Xu Zijian",
+      "Li Deyi",
+      "Xu Qi",
+      "Yu Alan Sl",
+      "Chrischilles Elizabeth A",
+      "Cowell Lindsay G",
+      "McTigue Kathleen M",
+      "Murugan Raghavan",
+      "Fuhrman Dana Y",
+      "Liu Mei"
+    ],
+    "published": "2026 Oct 26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932871/",
+    "pmid": "42932871",
+    "source": "PubMed"
+  },
+  {
+    "title": "Toward Deconfounded Temporal Knowledge Graph Extrapolation via Dual Counterfactual Causal Reasoning.",
+    "summary": "Temporal knowledge graphs (TKGs) demonstrate outstanding capabilities in capturing the evolving dynamics of events, enabling precise predictions of missing events at future timestamps. Most existing methods for TKG extrapolation mainly focus on learning from historical event co-occurrence patterns and evolutionary patterns. Unfortunately, in real-world scenarios, confounders-such as incidental events-can cause models to learn spurious correlations, thereby significantly reducing their accuracy and robustness. In this article, we propose a TKG-based event prediction framework named DuCoCa, which integrates causal front-door adjustment (FA) and dual counterfactual contrastive learning (CCL) to mitigate spurious correlations and model causal dependencies effectively. In particular, DuCoCa devises long-term and short-term causal entity representation learning modules (CAERMs) based on a query-semantic-driven attention strategy to adaptively emphasize relevant causal interactions, serving as the mediator for implementing FA. In addition, a dual CCL mechanism is devised to refine causal representation learning by generating and contrasting counterfactual samples. By maximizing the distinction between positive and negative counterfactual samples, DuCoCa enhances its ability to identify causal interactions and infer reasonable associations. Extensive experiments conducted on four real-world benchmark datasets demonstrate the superiority of DuCoCa in forecasting future events, achieving significant improvements over state-of-the-art methods. The source code for DuCoCa is publicly available at https://anonymous.4open.science/r/DuCoCa-C3C3.",
+    "authors": [
+      "Yang Yujia",
+      "Zheng Conghui",
+      "Pan Li"
+    ],
+    "published": "2026 Oct 26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932210/",
+    "pmid": "42932210",
+    "source": "PubMed"
+  },
+  {
+    "title": "Integrative Multi-Cohort Analysis of hsa-miR-1277, hsa-miR-301b, and hsa-miR-519a-1 Reveals Diagnostic Potential and Regulatory Associations in Oral Squamous Cell Carcinoma.",
+    "summary": "Head and neck squamous cell carcinoma (HNSCC) is a highly heterogeneous malignancy characterized by extensive molecular dysregulation, including aberrant microRNA (miRNA) expression. Identification of clinically relevant miRNAs and their associated regulatory networks may improve understanding of oral squamous cell carcinoma (OSCC) biology and facilitate biomarker discovery.",
+    "authors": [
+      "Antra",
+      "Tandon Vibha"
+    ],
+    "published": "2026 Oct 26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931868/",
+    "pmid": "42931868",
+    "source": "PubMed"
+  },
+  {
+    "title": "UCEC: A Knowledge Graph-Assisted Machine Learning for Molecular-Mechanism-Interpretable Natural Product-Disease Association Prioritization.",
+    "summary": "Natural products (NPs) have been considered a critical source of therapeutic drugs, but prioritizing NP-disease associations remain challenging because supporting evidence is distributed across multiple ingredients, targets, protein interactions, and pathways. Herein, we propose a knowledge graph-assisted machine learning model: Uncertainty-Calibrated Evidence-Chains (UCEC) for prioritizing NP-disease associations. UCEC separates predicted association strength from the evidence-conditioned stability of local mechanistic support. On a proxy benchmark designed to recover graph-supported indirect associations, evidence-chain integration increased Hits@50 from 0.392 to 0.509, with 68.8% of NPs indicating improved per-NP AUPRC. Source-separated validation using HERB 2.0 clinical trial records further supported candidate prioritization. Thus, UCEC provides a reliability-aware approach for prioritizing graph-supported NP-disease candidates and generating traceable mechanistic hypotheses for subsequent validation.",
+    "authors": [
+      "Lu Wenyu",
+      "Cai Yihui",
+      "Peng Xiaoqian",
+      "Mei Shulan",
+      "Yin Xunkai",
+      "Zheng Zhe",
+      "Zhu Zhenzhen",
+      "Xu Songyun",
+      "Zhang Hanyuan",
+      "Wang Yue",
+      "Lin Weijiang",
+      "Zhang Xia",
+      "Hu Lihong",
+      "Liu Jian"
+    ],
+    "published": "2026 Oct 26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42929588/",
+    "pmid": "42929588",
+    "source": "PubMed"
+  },
+  {
+    "title": "Unified Multitask Model for Aquatic Toxicity Prediction across Organism Groups and Effect End Points: A Comparison of Molecular Representations.",
+    "summary": "Computational prediction of aquatic toxicity provides a rapid and cost-efficient alternative to resource-intensive in vivo ecotoxicological testing. However, most existing models adopt a fragmented modeling strategy, developing separate models for each organism group and toxicity end point. Such task-specific models restrict knowledge transfer across related biological contexts and fail to account for the biological ordering between multiple effect concentrations (EC50/EC10). Here, we propose a unified multitask framework to simultaneously predict effect concentrations for three aquatic organism groups (fish, crustaceans, algae) and two end points (EC50/EC10) within a single model. This framework integrates a molecular encoder with a Multigate Mixture-of-Experts (MMoE) network, a soft end point-ordering term that encourages the biological relation EC50 ≥ EC10, and a heteroscedastic regression output that provides per-prediction uncertainty estimates. We evaluated a multirepresentation fusion encoder combining physicochemical descriptors, molecular fingerprints, and a 2D molecular graph neural network (GNN), together with 3D-pretrained Uni-Mol and TRIDENT baselines. Under a common global scaffold/acyclic-cluster 5-fold pooled out-of-fold (OOF) protocol, the multirepresentation fusion model demonstrated robust predictive performance across all six organism-end point tasks, with lower prediction errors than TRIDENT across all six tasks and Uni-Mol in four tasks. Attention-based interpretation further highlighted chemically meaningful atoms and substructures that were consistent with plausible toxicity-relevant structural motifs. Together, these findings demonstrate that integrating multitask learning, biologically informed end point constraints, and complementary molecular representations provides a promising foundation for broadly applicable and uncertainty-aware models of aquatic toxicity.",
+    "authors": [
+      "Wu Xiushan",
+      "Hu Baochuan",
+      "Chen Dongliang",
+      "Yang Jinrong",
+      "He Xiao"
+    ],
+    "published": "2026 Oct 26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42929568/",
+    "pmid": "42929568",
+    "source": "PubMed"
+  },
+  {
+    "title": "Temporally Validated Models for Target \"Tclin-likeness\".",
+    "summary": "Identifying which human proteins are likely to become validated drug targets remains a challenge in drug discovery. We build on the \"Tclin\" concept, which encompasses proteins for which at least one approved drug exerts its mode of action (MoA); these comprise only ∼3% of the human proteome. We developed disease-agnostic, knowledge-graph machine learning (KGML) models that estimate \"Tclin-likeness\": how closely a non-Tclin protein resembles established MoA drug targets in knowledge-graph feature space. Single-class support vector machines (1SVM) and XGBoost classifiers were trained on Pharos data current as of December 2017, using static (Gene Ontology, Reactome, the Kyoto encyclopedia for genes and genomes, STRING, HPA) and dynamic (genotype-tissue expression, LINCS, DISEASES, cancer cell line encyclopedia) features. To prevent data leakage, 115 proteins that acquired Tclin status after January 2018 were withheld entirely from training. Sensitivity on this external set was 88%-95% across individual models. Because non-Tclin proteins are unlabeled rather than confirmed negatives, specificity and precision are reported as bounds: balanced accuracy is 54%-75% for individual models and 73.7% for the eight-model consensus, which flags 5019 non-Tclin proteins (27.4%). The 1SVM models also identified a set of 1290 consensus negatives for XGBoost training. Benchmarked against two KGML druggability models, DrugnomeAI and PINNED, a consensus of 1133 proteins emerged. The Tclin-like consensus recovered 145 of 181 non-Tclin proteins in Phase 1-3 clinical trials (80.1%) and 23 of 28 proteins that reached Tclin status in 2023-2025 (82.1%), each approximately 3-fold enriched over background; it is statistically indistinguishable from PINNED (McNemar p = 0.42) while flagging 40% fewer proteins and outperforms DrugnomeAI (p = 0.0015). The three-model consensus places the druggable genome between 1860 and 5745 genes. Tclin-likeness is a prior, not a proof of tractability: these features encode nothing about binding pockets, ligandability or therapeutic modality. The \"Tclin-like\" consensus score is best used as an independent filter alongside disease-specific evidence and modality-specific tractability assessment.",
+    "authors": [
+      "Quazi Mohammed",
+      "Sirimulla Suman",
+      "Bologa Cristian G",
+      "Pushechnikov Alexei",
+      "Farley Bill",
+      "Savchuk Nikolay",
+      "Oprea Tudor I"
+    ],
+    "published": "2026 Oct 26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42929566/",
+    "pmid": "42929566",
+    "source": "PubMed"
+  },
+  {
+    "title": "Preliminary Exploration of the Hepatoprotective Effect of Nanocrystalline Curcumin Against Traumatic Hemorrhagic Shock-Induced Liver Injury in a Desert Dry-Heat Environment: A Network Pharmacology-Based Study.",
+    "summary": "Traumatic hemorrhagic shock (THS) under desert dry-heat conditions can exacerbate secondary liver injury, highlighting the need for effective therapeutic interventions. This study investigated the protective effects of nanocrystalline curcumin (NC-Cur) against THS-induced liver injury in a desert dry-heat environment and explored its potential molecular mechanisms. Network pharmacology, Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses, and protein-protein interaction network analysis were used to identify candidate targets. Molecular docking and molecular dynamics simulations examined curcumin-protein interactions. Forty male Sprague-Dawley rats were randomly assigned to control, model, solvent, or NC-Cur treatment groups (n = 10 each). The model, solvent, and treatment groups underwent traumatic hemorrhagic shock under desert dry-heat conditions. Hepatic injury was assessed by histopathology, serum aminotransferases, inflammatory cytokines, oxidative stress markers, and Western blotting. Network analysis identified 116 overlapping targets, with heat shock protein 90 alpha A1 (HSP90AA1), AKT serine/threonine kinase 1 (AKT1), and B-cell lymphoma 2 (BCL-2) prioritized as the core targets. Docking predicted favorable interactions with all three proteins, while molecular dynamics simulations supported stable binding between curcumin and HSP90AA1. Compared with untreated model rats, NC-Cur-treated rats showed attenuated hepatic histopathological injury, reduced alanine and aspartate aminotransferases, tumor necrosis factor-α, interleukin-1β, and malondialdehyde, and increased superoxide dismutase. Western blotting indicated reduced HSP90AA1 and increased phosphorylated AKT1 expression after NC-Cur treatment, with changes also observed in BCL-2 expression. These findings suggest that NC-Cur may alleviate liver injury associated with THS under desert dry-heat conditions in male rats, potentially involving HSP90AA1-AKT1-BCL-2-related signaling.",
+    "authors": [
+      "Chen Changxu",
+      "Shen Caifu",
+      "Shi Chuankai",
+      "Zhou Enning",
+      "Liu Jiangwei"
+    ],
+    "published": "2026 Oct 26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42929369/",
+    "pmid": "42929369",
+    "source": "PubMed"
+  },
+  {
+    "title": "Cognitive-communication features relevant to speech and language therapy in Lewy Body Dementia.",
+    "summary": "Lewy Body Dementia (LBD) is characterized by fluctuating cognition, executive dysfunction, visuospatial impairment, and parkinsonian features that may jointly affect communication. Despite the clinical importance of these difficulties, direct evidence for speech and language therapy (SLT) in LBD remains limited. This structured narrative review critically synthesizes neuropsychological, linguistic, discourse, motor-speech, and clinically relevant intervention evidence for SLT assessment and management in LBD. Literature published from January 2010 to February 2026 was identified through structured searches of PubMed, Scopus, Web of Science, and PsycINFO, supplemented by reference-list screening. Evidence was organized by directness to LBD, study design, sample characteristics, communication outcomes, and major methodological limitations. The strongest direct evidence indicates that communication difficulties in LBD are heterogeneous and reflect interactions among executive-attentional dysfunction, cognitive fluctuations, visuospatial-perceptual disturbance, pragmatic/discourse impairment, and parkinsonian speech features. Comparative empirical studies suggest relatively greater executive/fluency and prosodic-acoustic involvement in DLB than in Alzheimer's disease, whereas naming and semantic-language impairment may be more pronounced in Alzheimer's disease. Evidence for LBD-specific SLT intervention remains insufficient; therefore, proposed clinical strategies should be regarded as theoretically informed adaptations rather than established LBD treatments. The review proposes a multidimensional cognitive-communication framework while emphasizing the need for repeated, ecologically valid assessment and LBD-specific intervention studies.",
+    "authors": [
+      "Konstantopoulou Georgia",
+      "Kyriazi Efterpi Elpida",
+      "Felemegkas Panagiotis",
+      "Alexopoulos Panagiotis"
+    ],
+    "published": "2026 Oct 26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928312/",
+    "pmid": "42928312",
+    "source": "PubMed"
+  }
+]
