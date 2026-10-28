@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Effects of Spatial Perspective and Frame of Reference Integration on Gaze Behavior and Spatial Learning.",
+    "summary": "As spatial computing offers expanded design spaces and brings digital information seamlessly into a physical environment, it redefines how we perceive space and navigate our surroundings. This study investigates enhancing human navigation and spatial knowledge acquisition in large space environments, focusing on the integration of spatial visual cue display in 3D design space. Three cues were designed (world-fixed cue, body-fixed world-in-miniature map, and a combination of both) and their impact on spatial learning, eye movements, cognitive load, and user experience was assessed. The findings reveal that displaying cues across frames of reference (combining the world- and body-fixed cues) significantly enhances spatial information processing and learning without the cost of cognitive load. The study also sheds light on how individuals' eye movement patterns differ with interface design and while learning, which advances our understanding of the relationship between gaze behavior and spatial learning outcomes and informs cognition-aware adaptive 3D interface design. The anonymized data generated in this study are openly available on the Open Science Framework at https://osf.io/mzcqs/.",
+    "authors": [
+      "Zhao Yu",
+      "Stefanucci Jeanine",
+      "Creem-Regehr Sarah",
+      "Bodenheimer Bobby"
+    ],
+    "published": "2026 Oct 27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945099/",
+    "pmid": "42945099",
+    "source": "PubMed"
+  },
+  {
+    "title": "Seeing through the Surface: Evaluating Visualization Techniques for Depth Perception in Augmented Microscopy.",
+    "summary": "The ability to see through the surface of the human body is central to medical augmented reality (AR) applications ranging from surgical planning to intraoperative guidance. However, accurately perceiving the depth of virtual structures relative to real anatomy remains a persistent challenge. This is particularly pronounced under the operating microscope, where high magnification, limited viewpoints, and tight error tolerances make depth and occlusion both essential and difficult to infer. Prior work has proposed methods for visualizing subsurface content using Video See-Through (VST) and Optical See-Through (OST) head-mounted displays (HMDs). However, the implementation of these approaches in surgical microscopes remains an open question due to the unique microscope perceptual conditions as well as the additive characteristics of microscope optics and display systems. To the best of our knowledge, this work is the first to investigate the perceptual accuracy of AR microscope visualization techniques for depicting virtual content inside the human body. We introduce a custom depth perception measurement apparatus based on a half-silvered mirror that enables alignment between a real measurement probe and subsurface virtual targets while viewing through a stereoscopic surgical microscope. We then implement a custom alpha blending method and a virtual aperture that conforms to the three-dimensional surface geometry. Using our apparatus, we conducted a 3 x 2 within-subjects user study evaluating depth estimation accuracy and confidence across visualization techniques. Results showed that both the virtual aperture and alpha blending significantly reduced absolute depth error compared to standard opaque rendering. Alpha blending without an aperture achieved localization accuracy comparable to opaque rendering with a virtual aperture while eliminating the systematic depth underestimation bias observed in traditional renderings. Furthermore, the presence of a virtual aperture increased users' confidence and was preferred over other methods. These findings provide insights for the design of AR visualization systems for microsurgical applications.",
+    "authors": [
+      "Chemaly Trishia El",
+      "Niu Wally",
+      "Fan Yunxin",
+      "Wu Yuxuan",
+      "Fu Fanrui",
+      "Leuze Christoph",
+      "Hargreaves Brian",
+      "Daniel Bruce",
+      "Blevins Nikolas"
+    ],
+    "published": "2026 Oct 27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945087/",
+    "pmid": "42945087",
+    "source": "PubMed"
+  },
+  {
+    "title": "ImmPres: Exploring the Potential of Mixed Reality Presentations in Real-world Office Settings.",
+    "summary": "Mixed Reality (MR) can potentially transform workplace presentations and enhance knowledge sharing in office environments. Traditional slide-based presentation tools often constrain presentations to linear, screen-bound structures, which limit spatial exploration, audience engagement, and personalization. In contrast, MR supports three-dimensional content, augmenting real environments, and personalized views. We envision a future where MR presentations become a central medium for our workplaces. To systematically explore this potential, we conducted an expert workshop with MR and presentation specialists, including lecturers. Through thematic analysis, we identified key design aspects for creating MR presentations, including spatial content distribution, audience interaction, and maintaining narrative cohesion. Additionally, we demonstrate their use through an exemplified scenario of designing an MR presentation, illustrated by an implemented prototype. With the discussion of challenges and opportunities, we hope to lay the foundations for integrating MR into office presentations, reimagining how stories and ideas can be shared in professional settings.",
+    "authors": [
+      "Ellenberg Mats Ole",
+      "Luo Weizhou",
+      "Satkowski Marc",
+      "Dachselt Raimund"
+    ],
+    "published": "2026 Oct 27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945084/",
+    "pmid": "42945084",
+    "source": "PubMed"
+  },
+  {
+    "title": "Enhancing Electromagnetism Learning in Virtual Reality with an LLM-Prompted Pedagogical Agent Explaining Interactive Simulations.",
+    "summary": "Electromagnetism concepts are difficult for students to learn because many underlying phenomena are not directly observable. While interactive simulations can support learning, learners often struggle to interpret observed behaviors and connect them to underlying physical principles. This article introduces a pedagogical agent that delivers a lecture in immersive virtual reality (VR) and explains the behavior of an interactive charged particle simulation during the lesson. Explanations are generated using a prompt-engineered large language model (LLM) that interprets the learner's recent interactions with charged particles and the current simulation state. The system uses a static system-level prompt combined with a dynamic runtime prompt constructed from lecture context, learner actions, and simulation state. We implemented this approach in a VR classroom, where students attend a lecture on charged particles and Coulomb's law and interact with a simulation that visualizes electric field interactions at predefined points during the lecture. To examine the contribution of the simulation and the pedagogical agent's explanations, we conducted a between-groups study ($N$ = 60) comparing three conditions: VR lecture-only (Lec), VR lecture with simulation (LecSim), and VR lecture with simulation plus LLM-prompted explanations from the pedagogical agent (LecSimExpl). Results show that LecSimExpl produced significantly higher conceptual learning gains than Lec and higher knowledge transfer gains than both Lec and LecSim. LecSimExpl also increased germane cognitive load, intrinsic motivation, co-presence, perceived knowledge, and perceived anthropomorphism. Participants in the simulation conditions also spent more time interacting with the lesson and exhibited greater head-oriented attention toward the agent. These findings suggest that pedagogical agents that dynamically explain simulation behavior based on learners' ongoing simulation activity can improve learning performance, user experience, and perceptions of the pedagogical agent in VR learning environments.",
+    "authors": [
+      "Li Xinyang",
+      "Acevedo Pedro",
+      "Mousas Christos"
+    ],
+    "published": "2026 Oct 27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945067/",
+    "pmid": "42945067",
+    "source": "PubMed"
+  },
+  {
+    "title": "Exploratory whole-genome sequencing of cagA-positive Helicobacter pylori-associated gastric biopsies: descriptive observations in COL3A1, ICAM1, and COLEC12.",
+    "summary": "Helicobacter pylori-associated gastric disease involves sustained inflammation, stromal responses, and extracellular-matrix remodeling, yet genomic observations shared across different clinical categories remain poorly defined. This study aimed to describe variant-associated gene annotations in four cagA-positive gastric-biopsy specimens with different documented clinical and histological findings, without inferring within-patient progression.",
+    "authors": [
+      "Dhyaee Noor Al Huda",
+      "Mahmood Suhad Saad"
+    ],
+    "published": "2026 Oct 27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944785/",
+    "pmid": "42944785",
+    "source": "PubMed"
+  },
+  {
+    "title": "Radiation induces cell wall remodeling in",
+    "summary": "Ionizing radiation is one of the main stressors inducing oxidative stress and genotoxic damage, leading to decreased cellular viability in addition to the activation of various stress response pathways. However, the impact of radiation on fungal cell wall integrity and its associated regulatory network remains poorly understood. The aim of this study was to investigate the effects of X-ray radiation on",
+    "authors": [
+      "Ozbek Nurdan",
+      "Thomas Pinar Buket",
+      "Tuna Bilge Guvenc",
+      "Tuncel Handan"
+    ],
+    "published": "2026 Oct 27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42937523/",
+    "pmid": "42937523",
+    "source": "PubMed"
+  },
+  {
+    "title": "Mucopolysaccharidoses in Morocco: a 19-year retrospective study reveals a founder mutation in mucopolysaccharidosis type I and delineates the clinical spectrum.",
+    "summary": "Mucopolysaccharidoses (MPS) are lysosomal storage disorders characterized by distinctive dysmorphic features and skeletal abnormalities, with marked genetic heterogeneity across populations. Limited data exist on the MPS clinical spectrum and molecular characteristics in North Africa.",
+    "authors": [
+      "Laaraje Azzeddine",
+      "Radi Abdelilah",
+      "Ourrai Abdelhakim",
+      "Hassani Amale",
+      "Abilkassem Rachid"
+    ],
+    "published": "2026 Oct 27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42937081/",
+    "pmid": "42937081",
+    "source": "PubMed"
+  },
+  {
+    "title": "Domain-associated phenotypic patterns with MACF1 variants.",
+    "summary": "While heterozygous de novo missense variants in the microtubule-binding GAR domain of Microtubule-actin cross-linking factor 1 (MACF1) cause Lissencephaly 9 with Complex Brainstem Malformations (LIS9) [MIM 618325], the phenotypic impact of variants outside this domain remains unclear.",
+    "authors": [
+      "Gogate Nikhita",
+      "Jolly Angad",
+      "Rosenfeld Jill A",
+      "Bahena-Carbajal Paulina",
+      "Carrasco Diana",
+      "Bernstein Jonathan A",
+      "Bonner Devon E",
+      "Busa Tiffany",
+      "Cristian Ingrid",
+      "D'Souza Precilla",
+      "Friedman Jennifer",
+      "Gorokhova Svetlana",
+      "Haaf Thomas",
+      "Herman Isabella",
+      "Isin Ugur Ufuk",
+      "Jhangiani Shalini N",
+      "Johnson Ivy",
+      "Lenberg Jerica",
+      "Macnamara Ellen F",
+      "Maroofian Reza",
+      "Racobaldo Melissa",
+      "Redlich Olivia L",
+      "Tifft Cynthia J",
+      "Tos Tulay",
+      "Vona Barbara",
+      "Zambrano Regina M",
+      "Wentzensen Ingrid M",
+      "Wigby Kristen",
+      "Pehlivan Davut",
+      "Gibbs Richard A",
+      "Lupski James R",
+      "Posey Jennifer E"
+    ],
+    "published": "2026 Oct 27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42937053/",
+    "pmid": "42937053",
+    "source": "PubMed"
+  },
+  {
+    "title": "The fetal phenotype is a trajectory, not a snapshot.",
+    "summary": "The fetal phenotype is a trajectory rather than a fixed observation: features emerge, progress, or resolve across gestation, and the anomaly present at 20 weeks is often not the anomaly present at 32. Sequence variants, however, are interpreted against the phenotype supplied when the test is requested, and phenotypic specificity carries evidence weight in variant classification. A scoping review of 59 studies combining serial prenatal phenotyping with sequence-based testing found that a newly emergent phenotype led to a molecular diagnosis in 16 studies and a variant reclassification in 8; yet a gestational age for every phenotypic observation was reported in 2, a serial imaging protocol in 7, and a reclassification with both direction and evidence code in 1. The clinical signal is real, and the literature cannot quantify it. Five reporting practices are proposed, none of which requires new equipment or funding.",
+    "authors": [
+      "Recker Florian",
+      "Walter Adeline",
+      "Gembruch Ulrich"
+    ],
+    "published": "2026 Oct 27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42936945/",
+    "pmid": "42936945",
+    "source": "PubMed"
+  },
+  {
+    "title": "OmniVira: a knowledgebase of source-linked evidence on viral spillover and cross-species transmission.",
+    "summary": "Zoonotic viral emergence poses persistent challenges to global health, yet evidence relevant to spillover and cross-species transmission is dispersed across surveillance, epidemiological, experimental, mechanistic, and genomic studies. Here, we present OmniVira (https://omnivira.org/), a curated knowledgebase that transforms literature-derived findings into structured, traceable, and reusable OmniVira Evidence (OVE) records. OmniVira implements an auditable article-evidence framework linking individual findings and supporting text to normalized virus, host, and geographic entities, and relevant biological context. A domain-specific ontology organizes 14 evidence types into five categories: Zoonotic Surveillance, Transmission Evidence, Experimental Infection, Functional Mechanism, and Genomic Evolution. The platform integrates ontology-guided curation, large language model-assisted literature screening and candidate extraction, automated consistency checks, and curator review of flagged or ambiguous records, enabling daily updates. As of 4 August 2026, OmniVira contained 8072 publicly retrievable OVE records derived from 2623 source articles, spanning 60 ICTV virus families, 55 host orders, and 121 countries. Its responsive interface supports evidence-centred retrieval, source-text verification, and exploration of linked virus-host-literature relationships across desktop and mobile browsers. OmniVira provides a transparent, context-preserving resource for systematic comparison and synthesis of evidence related to zoonotic viral emergence and cross-species transmission.",
+    "authors": [
+      "Zhao Peng",
+      "Han Yelin",
+      "Jin Qi",
+      "Yang Fan",
+      "Wu Zhiqiang"
+    ],
+    "published": "2026 Oct 27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42934170/",
+    "pmid": "42934170",
+    "source": "PubMed"
+  }
+]

@@ -1,0 +1,67 @@
+Ontology 文献追踪报告 - 2026-10-27
+==================================================
+
+共发现 10 篇新论文
+
+--- PubMed (10 篇) ------------------------------
+
+1. Effects of Spatial Perspective and Frame of Reference Integration on Gaze Behavior and Spatial Learning.
+   作者: Zhao Yu, Stefanucci Jeanine, Creem-Regehr Sarah, Bodenheimer Bobby
+   链接: https://pubmed.ncbi.nlm.nih.gov/42945099/
+   PMID: 42945099
+   摘要: As spatial computing offers expanded design spaces and brings digital information seamlessly into a physical environment, it redefines how we perceive space and navigate our surroundings. This study investigates enhancing human navigation and spatial knowledge acquisition in large space environments, focusing on the integration of spatial visual cue display in 3D design space. Three cues were designed (world-fixed cue, body-fixed world-in-miniature map, and a combination of both) and their impac...
+
+2. Seeing through the Surface: Evaluating Visualization Techniques for Depth Perception in Augmented Microscopy.
+   作者: Chemaly Trishia El, Niu Wally, Fan Yunxin, Wu Yuxuan, Fu Fanrui 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42945087/
+   PMID: 42945087
+   摘要: The ability to see through the surface of the human body is central to medical augmented reality (AR) applications ranging from surgical planning to intraoperative guidance. However, accurately perceiving the depth of virtual structures relative to real anatomy remains a persistent challenge. This is particularly pronounced under the operating microscope, where high magnification, limited viewpoints, and tight error tolerances make depth and occlusion both essential and difficult to infer. Prior...
+
+3. ImmPres: Exploring the Potential of Mixed Reality Presentations in Real-world Office Settings.
+   作者: Ellenberg Mats Ole, Luo Weizhou, Satkowski Marc, Dachselt Raimund
+   链接: https://pubmed.ncbi.nlm.nih.gov/42945084/
+   PMID: 42945084
+   摘要: Mixed Reality (MR) can potentially transform workplace presentations and enhance knowledge sharing in office environments. Traditional slide-based presentation tools often constrain presentations to linear, screen-bound structures, which limit spatial exploration, audience engagement, and personalization. In contrast, MR supports three-dimensional content, augmenting real environments, and personalized views. We envision a future where MR presentations become a central medium for our workplaces....
+
+4. Enhancing Electromagnetism Learning in Virtual Reality with an LLM-Prompted Pedagogical Agent Explaining Interactive Simulations.
+   作者: Li Xinyang, Acevedo Pedro, Mousas Christos
+   链接: https://pubmed.ncbi.nlm.nih.gov/42945067/
+   PMID: 42945067
+   摘要: Electromagnetism concepts are difficult for students to learn because many underlying phenomena are not directly observable. While interactive simulations can support learning, learners often struggle to interpret observed behaviors and connect them to underlying physical principles. This article introduces a pedagogical agent that delivers a lecture in immersive virtual reality (VR) and explains the behavior of an interactive charged particle simulation during the lesson. Explanations are gener...
+
+5. Exploratory whole-genome sequencing of cagA-positive Helicobacter pylori-associated gastric biopsies: descriptive observations in COL3A1, ICAM1, and COLEC12.
+   作者: Dhyaee Noor Al Huda, Mahmood Suhad Saad
+   链接: https://pubmed.ncbi.nlm.nih.gov/42944785/
+   PMID: 42944785
+   摘要: Helicobacter pylori-associated gastric disease involves sustained inflammation, stromal responses, and extracellular-matrix remodeling, yet genomic observations shared across different clinical categories remain poorly defined. This study aimed to describe variant-associated gene annotations in four cagA-positive gastric-biopsy specimens with different documented clinical and histological findings, without inferring within-patient progression....
+
+6. Radiation induces cell wall remodeling in
+   作者: Ozbek Nurdan, Thomas Pinar Buket, Tuna Bilge Guvenc, Tuncel Handan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42937523/
+   PMID: 42937523
+   摘要: Ionizing radiation is one of the main stressors inducing oxidative stress and genotoxic damage, leading to decreased cellular viability in addition to the activation of various stress response pathways. However, the impact of radiation on fungal cell wall integrity and its associated regulatory network remains poorly understood. The aim of this study was to investigate the effects of X-ray radiation on...
+
+7. Mucopolysaccharidoses in Morocco: a 19-year retrospective study reveals a founder mutation in mucopolysaccharidosis type I and delineates the clinical spectrum.
+   作者: Laaraje Azzeddine, Radi Abdelilah, Ourrai Abdelhakim, Hassani Amale, Abilkassem Rachid
+   链接: https://pubmed.ncbi.nlm.nih.gov/42937081/
+   PMID: 42937081
+   摘要: Mucopolysaccharidoses (MPS) are lysosomal storage disorders characterized by distinctive dysmorphic features and skeletal abnormalities, with marked genetic heterogeneity across populations. Limited data exist on the MPS clinical spectrum and molecular characteristics in North Africa....
+
+8. Domain-associated phenotypic patterns with MACF1 variants.
+   作者: Gogate Nikhita, Jolly Angad, Rosenfeld Jill A, Bahena-Carbajal Paulina, Carrasco Diana 等 32 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42937053/
+   PMID: 42937053
+   摘要: While heterozygous de novo missense variants in the microtubule-binding GAR domain of Microtubule-actin cross-linking factor 1 (MACF1) cause Lissencephaly 9 with Complex Brainstem Malformations (LIS9) [MIM 618325], the phenotypic impact of variants outside this domain remains unclear....
+
+9. The fetal phenotype is a trajectory, not a snapshot.
+   作者: Recker Florian, Walter Adeline, Gembruch Ulrich
+   链接: https://pubmed.ncbi.nlm.nih.gov/42936945/
+   PMID: 42936945
+   摘要: The fetal phenotype is a trajectory rather than a fixed observation: features emerge, progress, or resolve across gestation, and the anomaly present at 20 weeks is often not the anomaly present at 32. Sequence variants, however, are interpreted against the phenotype supplied when the test is requested, and phenotypic specificity carries evidence weight in variant classification. A scoping review of 59 studies combining serial prenatal phenotyping with sequence-based testing found that a newly em...
+
+10. OmniVira: a knowledgebase of source-linked evidence on viral spillover and cross-species transmission.
+   作者: Zhao Peng, Han Yelin, Jin Qi, Yang Fan, Wu Zhiqiang
+   链接: https://pubmed.ncbi.nlm.nih.gov/42934170/
+   PMID: 42934170
+   摘要: Zoonotic viral emergence poses persistent challenges to global health, yet evidence relevant to spillover and cross-species transmission is dispersed across surveillance, epidemiological, experimental, mechanistic, and genomic studies. Here, we present OmniVira (https://omnivira.org/), a curated knowledgebase that transforms literature-derived findings into structured, traceable, and reusable OmniVira Evidence (OVE) records. OmniVira implements an auditable article-evidence framework linking ind...
+
