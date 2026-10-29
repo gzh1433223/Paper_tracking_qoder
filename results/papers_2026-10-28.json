@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Automation of Living Clinical Practice Guideline Development: Scoping Review.",
+    "summary": "Clinical practice guidelines (CPGs) translate research evidence into actionable recommendations, but their development faces mounting challenges. With dozens of trials and systematic reviews published daily, the traditional 18- to 24-month development cycle struggles to incorporate emerging evidence, and manual screening, synthesis, and quality assessment consume thousands of person-hours per guideline. The resulting knowledge translation pipeline is slow, inconsistent, and quickly outdated.",
+    "authors": [
+      "Altammami Abdullah",
+      "Ares-Rufo Olga",
+      "Alzahrani Anas",
+      "Alkhotani Abdullah",
+      "Mital Dinesh",
+      "Florez-Arango Jose F"
+    ],
+    "published": "2026 Oct 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42950241/",
+    "pmid": "42950241",
+    "source": "PubMed"
+  },
+  {
+    "title": "From LC-MS Metabolomic Profiling to AIEnabled Navigation of NPs Chemical Space: Recent Advances and Emerging Directions.",
+    "summary": "Natural products (NPs) occupy a unique region of chemical space and continue to provide privileged scaffolds for drug discovery, chemical ecology, and biotechnology. However, the exploration of NP diversity remains constrained by the complexity of biological extracts, the low annotation rate of LC-MS features, and the rediscovery of known metabolites. Recent advances in LC-HRMS/MS-based metabolomics, coupled with expanding spectral and structural databases, molecular networking, and in silico annotation methods, have considerably improved the characterization of complex metabolomes and facilitated large-scale exploration of natural chemical space. Simultaneously, artificial intelligence (AI) and machine-learning approaches are enhancing metabolite annotation, chemical classification, and prioritization, while knowledge graph technologies enable the integration of chemical, taxonomic, biological, and ecological information into interoperable, AI-ready frameworks. This mini-review highlights recent developments that support a transition from conventional metabolite annotation towards effective navigation of NP chemical space. We discuss the role of open data resources, computational metabolomics, knowledge-driven data integration, and emerging AI-assisted tools in accelerating NP discovery. We also examine how biotransformation and chemoenzymatic diversification can extend the boundaries of natural chemical space by generating nature-inspired molecules and previously inaccessible scaffolds. Together, these approaches are paving the way towards a more predictive, integrative, and data-driven paradigm for NP research and bioactive compound discovery.",
+    "authors": [
+      "Wolfender Jean-Luc",
+      "Le Grégam Loïc",
+      "Ferreira Queiroz Emerson"
+    ],
+    "published": "2026 Oct 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949513/",
+    "pmid": "42949513",
+    "source": "PubMed"
+  },
+  {
+    "title": "CSK-DDI: Compensating Structural Incompleteness with Knowledge Graph World Knowledge for Drug-Drug Interaction Modeling.",
+    "summary": "Drug-drug interaction (DDI) prediction is critical for drug safety, yet existing methods suffer from structural incompleteness in drug representation. Motif and molecular graph encodings capture local substructures and global topology but remain confined to the closed structural space of individual molecules, lacking cross-entity and contextual information and leading to limited generalization, especially in cold-start scenarios. To address this issue, we propose CSK-DDI, a multimodal framework that jointly encodes motif-level chemical patterns, molecular graph topology, and biomedical knowledge graph context as complementary drug representations. The KG encodes drugs' contextual positions and relational semantics through multi-entity and multi-relation connections, providing global cross-entity and cross-semantic information that complements structural representations. The resulting fusion captures local chemical patterns, global topology, and biomedical context in a unified embedding.",
+    "authors": [
+      "Wang Jiayi",
+      "He Yuqin",
+      "Ma Tengfei",
+      "Song Bosheng"
+    ],
+    "published": "2026 Oct 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949104/",
+    "pmid": "42949104",
+    "source": "PubMed"
+  },
+  {
+    "title": "The Road to a Linked Data Paradise-Identifying the Barriers From the Experimentalist's Perspective.",
+    "summary": "The development of the battery interface ontology (BattINFO) for linked battery data promises a paradise of powerful artificial intelligence agents, based on accurate models which avoid hallucinations, enabled by the reuse of a vast amount of interoperable scholarly data. However, there is still a significant gap between the experimental researchers generating that data in the lab and the computational researchers who need ontologically annotated and curated data. In this perspective article, we investigate the current data handling habits of experimentalists and try to build an understanding of the ontological framework from an experimentalist's perspective. We discovered that current practices rely heavily on scattered data and metadata, often saved in various nonstandard Excel spreadsheets. We believe that the key barriers to the broader adoption of linked data practices are the lack of tools which provide an immediate, apparent, and substantial benefit over the use of Excel. We plan to implement a tool consisting of a relational database and an automatic ontology converter and hope that this will serve as a blueprint for encouraging experimentalists to adopt modified workflows which ontologize all battery data created in the future.",
+    "authors": [
+      "Nylund Inger-Emma",
+      "Lai Samson Yuxiu"
+    ],
+    "published": "2026 Oct 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42899470/",
+    "pmid": "42899470",
+    "source": "PubMed"
+  },
+  {
+    "title": "Geometric",
+    "summary": "Transition-state classification remains challenging because distinguishing reactant-like from product-like geometries requires resolving subtle mechanistic changes. Although GNNs can learn molecular representations, it remains unclear whether their predictions arise from genuine mechanistic information in geometry or from global descriptors that inadvertently encode reaction-coordinate information. A controlled leakage study was performed on the highly interconnected 2-norbornyl carbocation isomerization network, which contains overlapping pathways and complex rearrangement features. A hierarchical series of GNNs was constructed to progressively introduce increasingly informative global descriptors. These descriptors ranged from displacement and force-based metrics to structural-distance relationships and normalized reaction-coordinate fractions. The geometry-only GNN performed near randomly, indicating that local graph representations alone are insufficient for robust early-late TS classification. Adding displacement-based descriptors substantially improved performance, while force-based and redundant descriptors provided only modest additional gains. A sharp increase to near-perfect accuracy occurred after introducing reactant-TS and product-TS structural-distance descriptors, even before explicitly including the normalized reaction fraction. Multiple analyses showed that these chemically meaningful global descriptors can unintentionally encode target-defining reaction-progress information, highlighting the need for systematic leakage detection in graph-based chemical machine learning. The inclusion of electronic properties, such as Mayer bond orders and Mulliken charges increased model accuracy without data leakage. More broadly, this work establishes a systematic framework for identifying and quantifying information leakage in graph-based chemical machine learning.",
+    "authors": [
+      "Mokgopa Kabelo Phuti",
+      "Tshiwawa Tendamudzimu",
+      "Lobb Kevin A"
+    ],
+    "published": "2026 Oct 28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853067/",
+    "pmid": "42853067",
+    "source": "PubMed"
+  }
+]

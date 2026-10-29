@@ -1,0 +1,37 @@
+Ontology 文献追踪报告 - 2026-10-28
+==================================================
+
+共发现 5 篇新论文
+
+--- PubMed (5 篇) ------------------------------
+
+1. Automation of Living Clinical Practice Guideline Development: Scoping Review.
+   作者: Altammami Abdullah, Ares-Rufo Olga, Alzahrani Anas, Alkhotani Abdullah, Mital Dinesh 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42950241/
+   PMID: 42950241
+   摘要: Clinical practice guidelines (CPGs) translate research evidence into actionable recommendations, but their development faces mounting challenges. With dozens of trials and systematic reviews published daily, the traditional 18- to 24-month development cycle struggles to incorporate emerging evidence, and manual screening, synthesis, and quality assessment consume thousands of person-hours per guideline. The resulting knowledge translation pipeline is slow, inconsistent, and quickly outdated....
+
+2. From LC-MS Metabolomic Profiling to AIEnabled Navigation of NPs Chemical Space: Recent Advances and Emerging Directions.
+   作者: Wolfender Jean-Luc, Le Grégam Loïc, Ferreira Queiroz Emerson
+   链接: https://pubmed.ncbi.nlm.nih.gov/42949513/
+   PMID: 42949513
+   摘要: Natural products (NPs) occupy a unique region of chemical space and continue to provide privileged scaffolds for drug discovery, chemical ecology, and biotechnology. However, the exploration of NP diversity remains constrained by the complexity of biological extracts, the low annotation rate of LC-MS features, and the rediscovery of known metabolites. Recent advances in LC-HRMS/MS-based metabolomics, coupled with expanding spectral and structural databases, molecular networking, and in silico an...
+
+3. CSK-DDI: Compensating Structural Incompleteness with Knowledge Graph World Knowledge for Drug-Drug Interaction Modeling.
+   作者: Wang Jiayi, He Yuqin, Ma Tengfei, Song Bosheng
+   链接: https://pubmed.ncbi.nlm.nih.gov/42949104/
+   PMID: 42949104
+   摘要: Drug-drug interaction (DDI) prediction is critical for drug safety, yet existing methods suffer from structural incompleteness in drug representation. Motif and molecular graph encodings capture local substructures and global topology but remain confined to the closed structural space of individual molecules, lacking cross-entity and contextual information and leading to limited generalization, especially in cold-start scenarios. To address this issue, we propose CSK-DDI, a multimodal framework ...
+
+4. The Road to a Linked Data Paradise-Identifying the Barriers From the Experimentalist's Perspective.
+   作者: Nylund Inger-Emma, Lai Samson Yuxiu
+   链接: https://pubmed.ncbi.nlm.nih.gov/42899470/
+   PMID: 42899470
+   摘要: The development of the battery interface ontology (BattINFO) for linked battery data promises a paradise of powerful artificial intelligence agents, based on accurate models which avoid hallucinations, enabled by the reuse of a vast amount of interoperable scholarly data. However, there is still a significant gap between the experimental researchers generating that data in the lab and the computational researchers who need ontologically annotated and curated data. In this perspective article, we...
+
+5. Geometric
+   作者: Mokgopa Kabelo Phuti, Tshiwawa Tendamudzimu, Lobb Kevin A
+   链接: https://pubmed.ncbi.nlm.nih.gov/42853067/
+   PMID: 42853067
+   摘要: Transition-state classification remains challenging because distinguishing reactant-like from product-like geometries requires resolving subtle mechanistic changes. Although GNNs can learn molecular representations, it remains unclear whether their predictions arise from genuine mechanistic information in geometry or from global descriptors that inadvertently encode reaction-coordinate information. A controlled leakage study was performed on the highly interconnected 2-norbornyl carbocation isom...
+
