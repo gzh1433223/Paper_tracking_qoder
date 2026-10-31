@@ -1,0 +1,25 @@
+Ontology 文献追踪报告 - 2026-10-30
+==================================================
+
+共发现 3 篇新论文
+
+--- PubMed (3 篇) ------------------------------
+
+1. Estimating the effect of familiarity in surgical teams on procedure time under a causal graphical model.
+   作者: Tuzcuoglu Gulin, Keceli Cagla, Kratochvil Amber, Turaga Kiran, Adelman Daniel
+   链接: https://pubmed.ncbi.nlm.nih.gov/42961676/
+   PMID: 42961676
+   摘要: This study estimates the causal impact of surgical team familiarity on surgery duration across various procedures in a hospital, under an assumed Directed Acyclic Graph (DAG) structure. While existing literature indicates that greater familiarity among surgical team members, measured by their shared work experience, is linked to reduced surgery times, these studies typically focus on a specific type of surgical procedure and only suggest a correlational relationship. Our study is the first to ex...
+
+2. Constructing event graph and mining critical paths of Ebola virus disease: a public health emergency analysis based on WHO disease outbreak news.
+   作者: Ni Ziran, Sun Yuehong, Feng Guanzhong, Wei Jianxiang
+   链接: https://pubmed.ncbi.nlm.nih.gov/42961084/
+   PMID: 42961084
+   摘要: Most Ebola virus disease research focuses on clinical diagnosis or static knowledge networks, limiting dynamic spatiotemporal analysis of epidemic evolution. We examined whether an event graph derived from World Health Organization (WHO) Disease Outbreak News (DONs) could reconstruct outbreak evolution across reports and identify response-timing patterns, including delayed interventions, unactioned risk assessments, and cross-border escalation....
+
+3. LEADO: unlocking functional insights from lipidomics data through mining lipid-gene-disease relationships.
+   作者: Mo Lesong, Li Bowen, Li Xiaowei, Zhou Yingjuan, Lam Sin Man 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42800773/
+   PMID: 42800773
+   摘要: With the rapidly expanding repertoire of literature in the life sciences, efficiently extracting and integrating critical biomedical information from texts has emerged as an urgent challenge. Fuelled by the development of lipidomics, lipids have garnered increasing attention for their roles as essential molecules that regulate cellular signalling and metabolism, which underlie the pathogenesis of various diseases. Existing databases, however, primarily focus on genes, proteins, or small metaboli...
+

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Estimating the effect of familiarity in surgical teams on procedure time under a causal graphical model.",
+    "summary": "This study estimates the causal impact of surgical team familiarity on surgery duration across various procedures in a hospital, under an assumed Directed Acyclic Graph (DAG) structure. While existing literature indicates that greater familiarity among surgical team members, measured by their shared work experience, is linked to reduced surgery times, these studies typically focus on a specific type of surgical procedure and only suggest a correlational relationship. Our study is the first to examine the hospital-wide relationship between surgical team familiarity and procedure duration using a formal causal inference framework. To explore this relationship, team familiarity is measured based on interaction frequency, and data across procedures are standardized to facilitate analysis via structural causal modeling and regression analysis. An analysis of 33,374 procedures performed in a high-volume academic medical center in the US from January 2017 to November 2023 reveals a negative causal relationship between surgeon-scrub familiarity and surgery duration under our DAG assumptions. Specifically, increasing familiarity by one standard deviation leads to a reduction of 1.9 to 3.7 minutes in surgery duration. Similar, albeit smaller, effects are observed for surgeon-circulator familiarity, whereas no significant impact is found for scrub-circulator familiarity. To our knowledge, this is the first study to estimate the causal effect of surgical team familiarity across an entire hospital's surgical portfolio under the assumptions of a DAG, moving beyond prior correlational analyses limited to specific specialties or methods. Ultimately, the study reveals that improving team familiarity, particularly between surgeons and scrub nurses, could hold significant implications for improving surgical team efficiency. This is especially relevant in high-volume hospitals, where even minor time savings can accumulate significantly, underscoring the value of leveraging team familiarity to optimize performance in hospital operating rooms.",
+    "authors": [
+      "Tuzcuoglu Gulin",
+      "Keceli Cagla",
+      "Kratochvil Amber",
+      "Turaga Kiran",
+      "Adelman Daniel"
+    ],
+    "published": "2026 Oct 30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42961676/",
+    "pmid": "42961676",
+    "source": "PubMed"
+  },
+  {
+    "title": "Constructing event graph and mining critical paths of Ebola virus disease: a public health emergency analysis based on WHO disease outbreak news.",
+    "summary": "Most Ebola virus disease research focuses on clinical diagnosis or static knowledge networks, limiting dynamic spatiotemporal analysis of epidemic evolution. We examined whether an event graph derived from World Health Organization (WHO) Disease Outbreak News (DONs) could reconstruct outbreak evolution across reports and identify response-timing patterns, including delayed interventions, unactioned risk assessments, and cross-border escalation.",
+    "authors": [
+      "Ni Ziran",
+      "Sun Yuehong",
+      "Feng Guanzhong",
+      "Wei Jianxiang"
+    ],
+    "published": "2026 Oct 30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42961084/",
+    "pmid": "42961084",
+    "source": "PubMed"
+  },
+  {
+    "title": "LEADO: unlocking functional insights from lipidomics data through mining lipid-gene-disease relationships.",
+    "summary": "With the rapidly expanding repertoire of literature in the life sciences, efficiently extracting and integrating critical biomedical information from texts has emerged as an urgent challenge. Fuelled by the development of lipidomics, lipids have garnered increasing attention for their roles as essential molecules that regulate cellular signalling and metabolism, which underlie the pathogenesis of various diseases. Existing databases, however, primarily focus on genes, proteins, or small metabolite functions, with limited coverage of lipid-disease relationships, confining lipidomics application to a correlative framework. To address this gap, we developed Lipid Enrichment Analysis of Disease Ontology (LEADO), a BERT-based literature-mined knowledge database (https://lipidall-leado.com/leado/). We fine-tuned the BioBERT model to extract lipid entities and infer lipid-gene-disease associations, then constructed an interactive web platform using Shiny for data visualization and querying. LEADO serves as a comprehensive and user-friendly resource for exploring lipid-gene-disease relationships, with the potential to transform lipidomics toward a functional, causality-driven discipline that accelerates translational discovery in lipid metabolism.",
+    "authors": [
+      "Mo Lesong",
+      "Li Bowen",
+      "Li Xiaowei",
+      "Zhou Yingjuan",
+      "Lam Sin Man",
+      "Shui Guanghou"
+    ],
+    "published": "2026 Oct 30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42800773/",
+    "pmid": "42800773",
+    "source": "PubMed"
+  }
+]
