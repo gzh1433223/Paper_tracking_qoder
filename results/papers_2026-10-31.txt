@@ -1,0 +1,13 @@
+Ontology 文献追踪报告 - 2026-10-31
+==================================================
+
+共发现 1 篇新论文
+
+--- PubMed (1 篇) ------------------------------
+
+1. Transcriptomic and proteomic analyses of Weissella koreensis isolated from kimchi with different growth-limiting temperatures.
+   作者: In Ko Hye, Kim So-Rim, Lee Moeun, Jeong Chae-Rim, Na Nuri 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42629026/
+   PMID: 42629026
+   摘要: Weissella koreensis, a dominant species in kimchi, is typically isolated and cultured at 30 °C. However, some strains do not grow well at this temperature. This study aimed to investigate the molecular basis underlying differences in growth-limiting temperatures between two psychrotrophic and one mesophilic W. koreensis strains isolated from kimchi using pan-genome, transcriptome, and proteome analyses. The three W. koreensis genomes showed slight differences in genome size, GC content, and gene...
+

@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Transcriptomic and proteomic analyses of Weissella koreensis isolated from kimchi with different growth-limiting temperatures.",
+    "summary": "Weissella koreensis, a dominant species in kimchi, is typically isolated and cultured at 30 °C. However, some strains do not grow well at this temperature. This study aimed to investigate the molecular basis underlying differences in growth-limiting temperatures between two psychrotrophic and one mesophilic W. koreensis strains isolated from kimchi using pan-genome, transcriptome, and proteome analyses. The three W. koreensis genomes showed slight differences in genome size, GC content, and gene number. Pan-genome analysis of the six W. koreensis strains identified 1224 core pan-genome orthologous groups (POGs), 201 accessory POGs, and 213 unique POGs. A phylogenetic analysis revealed low genetic distances among the strains, with no significant differences between the psychrotrophic and mesophilic strains. Using the criteria of |FC| ≥ 2 and raw p-value <0.05, transcriptomic analysis identified 138-335 up-regulated genes and 157-337 down-regulated genes across all tested temperature conditions compared with 20 °C. A transcriptomic analysis under various growth-limiting temperatures and functional annotation using Gene Ontology (GO) and the Kyoto Encyclopedia of Genes and Genomes (KEGG) revealed distinct gene expression patterns and functional profiles between mesophilic and psychrotrophic strains of W. koreensis depending on the temperature conditions. At the growth-limiting temperature, various genes showing consistent trends in the transcriptome and proteome datasets differed between psychrotrophic and mesophilic strains; these genes may be involved in the ability of W. koreensis to grow at its thermal limit. In particular, arcC, rnj, glmM, xseB, nadE, and araA were upregulated at the growth-limiting temperature in the mesophilic strain W. koreensis KCKM 0130 and may contribute to growth at moderate temperatures. These findings provide exploratory insights into the strain-specific and temperature-dependent molecular responses of W. koreensis. Furthermore, the results provide foundational data for the development of starter cultures suitable for fermentation processes conducted at varying temperatures.",
+    "authors": [
+      "In Ko Hye",
+      "Kim So-Rim",
+      "Lee Moeun",
+      "Jeong Chae-Rim",
+      "Na Nuri",
+      "Eun Jong-Bang",
+      "Kim Tae-Woon"
+    ],
+    "published": "2026 Oct 31",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42629026/",
+    "pmid": "42629026",
+    "source": "PubMed"
+  }
+]
