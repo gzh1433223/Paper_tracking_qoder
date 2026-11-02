@@ -1,0 +1,307 @@
+Ontology 文献追踪报告 - 2026-11-01
+==================================================
+
+共发现 50 篇新论文
+
+--- PubMed (50 篇) ------------------------------
+
+1. Systems Pharmacology Investigation of Phytochemicals From Scilla peruviana L.: Integrated Gas Chromatography-Mass Spectrometry Profiling, Network Pharmacology, and Molecular Docking Reveal Potential Anti-Inflammatory Mechanisms.
+   作者: Zatout Roukia, Benslama Ouided, Garzoli Stefania
+   链接: https://pubmed.ncbi.nlm.nih.gov/42908060/
+   PMID: 42908060
+   摘要: This study aimed to characterize the volatile and fatty acid constituents of S. peruviana and investigate their potential anti-inflammatory mechanisms. Volatile compounds were identified by headspace solid-phase microextraction coupled with gas chromatography-mass spectrometry (HS-SPME-GC-MS), whereas fatty acids were analyzed by GC-MS following derivatization. The identified phytochemicals were subjected to target prediction, followed by protein-protein interaction (PPI), Gene Ontology (GO), Ky...
+
+2. Lexico-Semantic and Morphosyntactic Skills in Individuals With Parkinson's Disease: A Scoping Review.
+   作者: Escalada-Cebadero Leire, Moya-Galé Gemma
+   链接: https://pubmed.ncbi.nlm.nih.gov/42893513/
+   PMID: 42893513
+   摘要: This scoping review examines lexico-semantic and morphosyntactic skills in English-speaking individuals with Parkinson's disease (PD) using behavioral and neuroimaging data to inform clinical assessment and intervention....
+
+3. The politics of methodological reality practices of everyday life.
+   作者: Braun Robert, Randell Richard
+   链接: https://pubmed.ncbi.nlm.nih.gov/42859835/
+   PMID: 42859835
+   摘要: This article develops an analytic of ontopolitical apparatuses through an ethnomethodologically informed study of the methodological reality practices that constitute everyday existence. Building on John Law's call for methodological interference in "reality-making practices," we foreground how being is stabilized not by foundational ontologies but by professional and mundane ontography-the performative inscriptions through which worlds are enacted and made accountable. Drawing on Dorothy Smith'...
+
+4. Implications of genes involved in inflammatory regulation, cytoskeletal organization and extracellular matrix integrity for susceptibility to high-altitude pulmonary edema: A pilot whole-exome sequencing study.
+   作者: Kobayashi Nobumitsu, Droma Yunden, Ota Masao, Wada Yosuke, Zhang Jiale 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42854935/
+   PMID: 42854935
+   摘要: High-altitude pulmonary edema (HAPE) is a potentially fatal form of non-cardiogenic pulmonary edema that develops in susceptible individuals following rapid ascent to high altitude. Although exaggerated hypoxic pulmonary vasoconstriction is central to its pathophysiology, additional physiological mechanisms may also underlie individual susceptibility to HAPE. Whole-exome sequencing (WES) enables the identification of coding variants that may contribute to disease susceptibility. This pilot study...
+
+5. Analysis of exosomal mRNA profile in cancer tissue from patients with colorectal cancer.
+   作者: Li Xiaowei, Kang Yiming, Xue Mei, Wang Jing, Sun Fanyue 等 13 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42835784/
+   PMID: 42835784
+   摘要: Colorectal cancer (CRC) is one of the most common malignant tumors. Exosomes are key modulators of intercellular communication and important participants in CRC tumorigenesis. However, the influence and underlying mechanism of cancer-secreted exosomes in CRC are not fully understood. In the present study, exosome-enriched extracellular vesicles (EVs) were isolated from paired CRC and adjacent normal control tissue (NC) from patients with CRC using ultracentrifugation, size exclusion chromatograp...
+
+6. Correlation of high PRDX4 expression with poor prognosis in patients with ESCA: Bioinformatics and
+   作者: Liu Xing, Pan Lanlan, Song Huichao, Pan Wenyan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42835690/
+   PMID: 42835690
+   摘要: Esophageal cancer (ESCA) is a highly lethal gastrointestinal malignancy with limited therapeutic options. The peroxiredoxin 4 (PRDX4) protein has antioxidant functions and is implicated in various types of cancer, but its role in ESCA remains poorly understood. The purpose of the present study was to investigate PRDX4 expression in ESCA, evaluate its clinical prognostic value, and explore associations with the tumor immune microenvironment and metabolic pathways, with validation by immunohistoch...
+
+7. Meal-Induced Proton Density Fat Fraction and
+   作者: Raspe Johannes, Du Tianxing, Wu Mingming, Stelter Jonathan, Klingenspor Martin 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42834478/
+   PMID: 42834478
+   摘要: Brown adipose tissue (BAT) is a metabolically active tissue in humans, located primarily within the supraclavicular adipose tissue (scAT), that can be activated by cold or high-caloric meal consumption. While the changes of proton density fat fraction (PDFF) upon cold activation are well investigated, there is a knowledge gap regarding PDFF and...
+
+8. Stem cells redirect the neuroinflammatory trajectory of primed microglia in an ovine chorioamnionitis model.
+   作者: van Bruggen Valéry L E, Claassen Sanne J C M, Klein Luise, Bokobza Cindy, Hua Jennifer 等 13 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42830914/
+   PMID: 42830914
+   摘要: Antenatal infection (e.g. chorioamnionitis), an important risk factor for preterm birth, can induce a fetal systemic inflammatory response (FIRS), initiating neuroinflammation. Microglia, as principal resident immune cells of the brain, are key targets for therapeutic interventions such as Multipotent adult progenitor cells (MAPC). We analyzed the effects of intravenous MAPC therapy on microglia and peripheral immune cells at the blood-brain barrier (BBB) in an ovine chorioamnionitis model. Ovin...
+
+9. Drug and narcotic drug: scientific definition, legal stipulation, and terminological clarification.
+   作者: Chouvy Pierre-Arnaud
+   链接: https://pubmed.ncbi.nlm.nih.gov/42815106/
+   PMID: 42815106
+   摘要: This article challenges the recurrent claim that the concept of drug is scientifically indefinable or reducible to a legal, social, or normative construct. It argues that semantic and classificatory variability does not entail ontological indeterminacy: substances possess materially real and causally efficacious properties that constrain scientific classification, while the concepts constructed from those properties remain discipline-specific, situated, and epistemically mediated. Combining lega...
+
+10. SGPP1 as a tumor suppressor in esophageal squamous cell carcinoma: Potential molecular mechanisms involving UGT1A9/UGT2B28 and clinical prognostic significance.
+   作者: Su Linlin, Hou Liubing, Han Xuetao, Zhang Ge, Li Jiayuan 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42788356/
+   PMID: 42788356
+   摘要: The present study aimed to characterize the expression pattern and biological function of sphingosine‑1‑phosphate phosphatase 1 (SGPP1) in esophageal squamous cell carcinoma (ESCC), investigate its potential molecular regulatory mechanisms, and evaluate its clinical value as a prognostic biomarker and therapeutic target. SGPP1 expression in ESCC cell lines was assessed by reverse transcription‑quantitative PCR and western blotting. Models of SGPP1 overexpression in KYSE150 cells and SGPP1 knockd...
+
+11. Toward a generative information ecology.
+   作者: Wang Zhensong
+   链接: https://pubmed.ncbi.nlm.nih.gov/42778042/
+   PMID: 42778042
+   摘要: Information ecology does not yet possess a unified theoretical foundation; existing approaches provide diverse interpretations without a shared philosophical core. Taking Yixin Zhong's information ecology as a point of departure, this paper explores how information ecology can be transformed into a generative framework capable of serving as a general methodology for information studies. Zhong made a significant contribution by recognizing the philosophical potential of information ecology for tr...
+
+12. The role of Broad in regulating border cell migration during Drosophila oogenesis.
+   作者: Thompson Tyler, Jevitt Allison, Douglas Daylon, Ramos Belen, Liu Manyun 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42777802/
+   PMID: 42777802
+   摘要: Drosophila development is a highly regulated process governed by the precise timing and spatial cues of hormones and signaling pathways. The follicular epithelium of the Drosophila egg chamber has been a well-studied model system for identifying key molecular regulators of morphological changes and cell migration. Broad (Br), a zinc finger transcription factor, is a well-known early response gene of the steroid hormone ecdysone, which is essential for the initiation of metamorphosis. Our previou...
+
+13. Knowledge augmented causal discovery through large language models and Knowledge Graphs: Application in chronic low back pain.
+   作者: Lin Damon, Rizi Marzieh Mussavi, O'Neill Conor, Lotz Jeffrey C, Anderson Paul 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42767585/
+   PMID: 42767585
+   摘要: Causal discovery from observational data is limited by structural constraints of available datasets, the absence of causal logic, and the lack of external domain knowledge. We propose a Knowledge-Augmented Causal Discovery (KACD) framework that combines data-driven structural learning with LLM-based knowledge systems to overcome these limitations, with application to chronic low back pain (cLBP)....
+
+14. KLF2 as a prognostic and potential therapeutic target associated with ferroptosis in serous ovarian cancer: An integrative bioinformatics and clinical validation study.
+   作者: Wang Yuanyi, Yu Juan, Huang Wu, Yuan Yuan, Lan Xiangbo 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42750893/
+   PMID: 42750893
+   摘要: Serous ovarian cancer (SOC), a prevalent histological subtype of ovarian cancer, poses a notable global threat to women's health. Ferroptosis has emerged as a pivotal focus in cancer research, presenting a promising novel therapeutic target. The present study aimed to identify key ferroptosis-related genes in SOC and evaluate their clinical implications. Gene expression profiles for SOC were obtained from the Gene Expression Omnibus database. Differential expression analysis and weighted gene co...
+
+15. Comparative analysis of myeloperoxidase deficiency in humans and mice: Conserved and species-specific effects on neutrophil biology.
+   作者: Ahdab Maysam, Guthoff Henning, Nix Nathalie, Derman Sonja, Barbe Anna Greta 等 23 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42748657/
+   PMID: 42748657
+   摘要: Myeloperoxidase (MPO), a heme-containing enzyme released by activated polymorphonuclear neutrophils (PMNs) represents a key mediator of inflammation-driven cardiovascular disease, positioning MPO as a promising therapeutic target. However, substantial interspecies differences between murine and human neutrophil biology challenge the translation of preclinical findings from rodent studies into patients....
+
+16. Effects of TRAF6 knockout on transcriptomic and alternative splicing responses to VHSV genotype II infection.
+   作者: Abdellaoui Najib, Kim Seon Young, Kim Hyoung Jun, Kim Min Sun
+   链接: https://pubmed.ncbi.nlm.nih.gov/42744106/
+   PMID: 42744106
+   摘要: Viral hemorrhagic septicemia virus genotype II is generally considered less virulent than other genotypes. However, the molecular mechanisms underlying viral infection and its impact on host gene expression are poorly understood. The tumor necrosis factor receptor-associated factor 6 (TRAF6) is a pivotal molecule that is involved in different processes and plays an important role in the immune response during viral infection in fish. In this work, we investigated the effect of viral infection wi...
+
+17. Unifying temporal knowledge Graph and LLMs for Biomedical Hypothesis generation via temporal soft Prompting.
+   作者: Wang Lanlan, Zhou Huiwei, Gu Jinghang, Zeng Hongyun, Zhou Hao 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42744066/
+   PMID: 42744066
+   摘要: Biomedical Hypothesis Generation (HG) is a critical task for discovering latent yet scientifically meaningful associations from continuously evolving literature or knowledge bases, aiding in disease diagnosis and treatment decisions-making. Most existing studies model Temporal Knowledge Graphs (TKGs) for capturing dynamic relation evolution based on temporal explicit and structured knowledge. However, TKG based methods are hard to generate new facts and represent unseen knowledge since the inher...
+
+18. Transcriptomic and network analyses identify epigenetic regulators of drug-tolerant persister (DTP) subsets in EGFR-mutant HCC827 non-small cell lung cancer.
+   作者: Han JuneKyu, Jung Euitaek, Shin Soon Young
+   链接: https://pubmed.ncbi.nlm.nih.gov/42742903/
+   PMID: 42742903
+   摘要: The clinical efficacy of osimertinib, a third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI), in EGFR-mutant non-small cell lung cancer (NSCLC) is limited by the inevitable acquired resistance. Drug-tolerant persister (DTP) cells, which survive initial therapy, are considered a key reservoir for this resistance. Understanding the molecular characteristics of DTPs is essential for developing strategies to prevent relapse....
+
+19. Comparative transcriptome analysis of CaIRF1-associated immune responses in Chromileptes altivelis during Vibrio harveyi infection.
+   作者: Wang Guotao, Chen Guisen, Wu Ting, Fu Zhiqing, Cao Zhenjie 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42727897/
+   PMID: 42727897
+   摘要: Vibrio harveyi is a major bacterial pathogen in marine aquaculture, posing a serious threat to fish health. IRF1 is a conserved regulator of teleost immunity; however, the transcriptional regulatory networks associated with IRF1 during bacterial infection remain incompletely understood. To characterize CaIRF1-associated transcriptional responses during Vibrio harveyi infection, Chromileptes altivelis were injected with PBS (Control group, ControlVa), pCaIRF1 (CaIRF1 overexpression group, VpCaIRF...
+
+20. Elevated mitochondrial superoxide promotes longevity through a mitochondria-to-nucleus kinase signaling pathway.
+   作者: Anglas Ulrich, Tamez González Aura A, Promi Maisha M, Zhu Shusen, AlOkda Abdelrahman 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42721646/
+   PMID: 42721646
+   摘要: The reactive oxygen species superoxide is generated by mitochondria during the process of producing energy. While superoxide can cause oxidative damage to the cell, we and others have shown that a mild increase in mitochondrial superoxide extends longevity in multiple model organisms. To elucidate the molecular mechanisms involved, we identified transcriptional changes in mitochondrial superoxide dismutase deletion mutants (sod-2 worms) using RNA sequencing. sod-2 mutants exhibit a number of cha...
+
+21. SEDCLIP: Adapting vision-language model for multi-label surgical error detection.
+   作者: Xu Jialang, Yung Ka-Wai, Tesfai Freweini M, Boal Matthew, Sirajudeen Nazir 等 14 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42685437/
+   PMID: 42685437
+   摘要: Automated detection of surgical errors can drastically increase safety in robotic-assisted surgery (RAS). Prior work has shown surgical error detection only as a binary task, which is insufficient and restrictive when multiple, co-occurring errors inherently arise in real RAS procedures. We thus present the first work to study multi-label surgical error detection (MLSED) and propose SEDCLIP, a novel vision-language adaptation paradigm that transfers pretrained knowledge from a contrastive langua...
+
+22. Effects of umbilical cord mesenchymal stem cell-derived exosomes on periodontal ligament stem cells: An exploratory study.
+   作者: Yan Dapeng, Pan Le, Cheng Junxiang, Duan Qinyan, Hong Feng 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42647961/
+   PMID: 42647961
+   摘要: To investigate whether exosomes derived from human umbilical cord mesenchymal stem cells (UCMSCs) at two osteogenic induction stages (undifferentiated and late-stage) differentially affect periodontal ligament stem cells (PDLSCs), and to explore the potential molecular basis....
+
+23. Small RNA sequencing identifies T cell-derived tsRNAs as novel biomarkers for diagnosis and clinical assessment of rheumatoid arthritis.
+   作者: Tao Sha-Sha, Ge Man, Chen Xiao-Yu, Wang Meng-Han, Li Wen-Jie 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42636512/
+   PMID: 42636512
+   摘要: The functional role of tRNA-derived small RNAs (tsRNAs) in CD3+ T lymphocytes in rheumatoid arthritis (RA) remains unclear. This study aimed to characterize their expression profile and evaluate their biomarker potential in RA....
+
+24. CIGMA: Causal-inspired invariant graph matching with multi-view contrastive distillation for predicting herb-symptom associations.
+   作者: Long Qiuyu, Zhao Nan, Liu Haifeng, Zhang Qingpeng, Yang Jiannan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42628174/
+   PMID: 42628174
+   摘要: Deciphering herb-symptom associations (HSAs) and their underlying mechanisms is essential for the modernization of Traditional Chinese Medicine. However, current methods primarily focus on graph topology modeling, which often relies on coarse-grained structures that overlook the heterogeneous contributions of individual proteins and are susceptible to spurious correlations. To address these limitations, we proposed CIGMA, a novel framework explicitly designed for out-of-distribution generalizati...
+
+25. PregBase: A comprehensive knowledge base for clinically relevant knowledge representation and biomarker prediction in pregnancy.
+   作者: Bhandari Aashish, Mehta Deval, Verspoor Karin, Spina Damiano, Xia Feng 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42628173/
+   PMID: 42628173
+   摘要: Pregnancy complications are a leading cause of maternal and neonatal mortality worldwide. Understanding their underlying mechanisms is hindered by dispersed evidence across thousands of studies and complex biological interactions. We present PregBase, a comprehensive knowledge base for pregnancy research comprising automated extraction, validation, and exploration. PregBase was constructed by utilising large language models (LLMs) to extract relationships from literature; 13 LLMs were benchmarke...
+
+26. Transcript isoform switching during embryonic and post-hatch development of broiler breast muscle.
+   作者: Alnahhas Nabeel
+   链接: https://pubmed.ncbi.nlm.nih.gov/42617261/
+   PMID: 42617261
+   摘要: Gene-level analysis of RNA-Seq data provides only a partial view of muscle transcriptional regulation because gene isoforms may be differentially used without changes in total gene expression. This study evaluated the extent and potential role of differential transcript usage (DTU) during breast muscle development from the late embryonic stage to market age. Publicly available RNA-Seq data from breast muscle of Cornish, White Plymouth Rock, and their crossbred progeny sampled at embryonic day 17...
+
+27. DeltaGNN: Graph Neural Network With Information Flow Control.
+   作者: Mancini Kevin, Rekik Islem
+   链接: https://pubmed.ncbi.nlm.nih.gov/42611664/
+   PMID: 42611664
+   摘要: Graph Neural Networks (GNNs) are popular deep learning models designed to process graph-structured data through recursive neighborhood aggregations in the message passing process. When applied to semi-supervised node classification, the message-passing enables GNNs to understand short-range spatial interactions, but also causes them to suffer from over-smoothing and over-squashing. These challenges hinder model expressiveness and prevent the use of deeper models to capture long-range node intera...
+
+28. DUSP9 Regulates Hepatoblastoma Progression With Implications for Diagnosis and Targeted Therapy.
+   作者: Zhou Pingping, Wu Xiongwei, Yang Qvanxin, Wang Chaojin, Duan Yuhe 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42574564/
+   PMID: 42574564
+   摘要: This study investigated the mechanistic role of DUSP9 in hepatoblastoma (HB) development and progression to provide new insights into the diagnosis and treatment of pediatric HB. Pediatric HB mRNA expression data were obtained from the GEO database. Differentially expressed genes (DEGs) between patients with metastatic and non-metastatic HB were analyzed using the R software, followed by a functional annotation of the DEGs. Least Absolute Shrinkage and Selection Operator regression and Support V...
+
+29. Differential expression of salivary microRNA associated with keratoconus.
+   作者: Mabry Steve, Sharma Purnima, Nicholas Sarah E, Riaz Kamran M, Liu Yutao 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42567395/
+   PMID: 42567395
+   摘要: Research into biomarkers has transformed the identification and management of many diseases. Keratoconus (KC) is a multifactorial corneal ectasia, and due to limited understanding of disease pathophysiology, no biomarkers have been fully validated. microRNAs (miRNAs) are involved in regulating gene expression. Differentially expressed miRNAs have been reported in KC corneal tissue and as biomarkers for other ocular disorders. Salivary biomarkers mirror systemic processes and saliva contains subs...
+
+30. Single-Cell atlas of aqueous humor outflow in glaucomatous Non-Human Primates identified MGP as a regulator of ECM remodeling.
+   作者: Liu Hongyi, Hou Simeng, Yan Xuejing, Zhang Jingxue, Wu Shen 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42562148/
+   PMID: 42562148
+   摘要: This study investigated the heterogeneity and molecular alterations of trabecular meshwork (TM) in glaucomatous non-human primates, aiming to identify potential pathogenic genes and signaling pathways involved in glaucoma....
+
+31. DSMV-DDI: A dual-level pharmacological semantic and stereochemical visual representation learning framework for drug-drug interaction prediction.
+   作者: Chen Fangni, Jiang Tingting, Yang Shuai, Yuan Xiaohui, Wang Chao 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42556010/
+   PMID: 42556010
+   摘要: Drug-drug interactions (DDIs) are a major cause of adverse drug events in clinical practice, especially under polypharmacy settings where patients receive multiple medications simultaneously. Reliable computational prediction of DDIs is therefore essential for improving medication safety and supporting clinical decision-making. Despite recent advances in computational DDI prediction, existing methods often struggle to jointly model multi-granularity pharmacological semantics and stereochemical m...
+
+32. Identification of PTGS2 as a genetically supported protective biomarker and potential therapeutic target in myasthenia gravis.
+   作者: Li Yuwei, Zhang Minxue, Liu Zhan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42541991/
+   PMID: 42541991
+   摘要: Myasthenia Gravis (MG) is an autoimmune disease that damages the neuromuscular junction (NMJ), reduces the transmission of nerve impulses to muscles, and thus causes fluctuating muscle weakness and fatigue. The main types of MG are autoantibodies that target necessary components of the postsynaptic membrane, such as acetylcholine receptors (AChRs) and muscle-specific kinase (MuSK). The above immune-mediated alterations disrupt synaptic transmission and reduce muscle contraction. Study the molecu...
+
+33. GATA4 modulates autophagy, apoptosis and tight junction marker remodeling in Bactrian camel Sertoli cells.
+   作者: Wang Qi, Nan Jinghong, Ge Tingting, Si Caihui, Zhang Yong 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42531677/
+   PMID: 42531677
+   摘要: Bactrian camels exhibit distinct seasonal estrus, with periodic testicular functional fluctuations regulating their reproductive activity. As a key transcription factor in reproductive modulation, the specific role of GATA4 in the testicular microenvironment of Bactrian camels remains unclear. This study investigates the expression patterns of GATA4 in the testicular tissue during estrus and anestrus phases, alongside its potential regulatory effects on Sertoli cells (SCs) function. Utilizing mR...
+
+34. Taurine ameliorates damages induced by acute heat stress on porcine Sertoli cells.
+   作者: Liu Xiao-Ying, Hao Ruo-Bing, Wang Xin-Xin, Yin Zongjun, Du Zhi-Qiang 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42497608/
+   PMID: 42497608
+   摘要: Porcine Sertoli cells (SCs) treated by acute heat stress (HS) (43°C, 0.5 h) have significantly decreased taurine level. Taurine treatment of porcine SCs could promote proliferation, inhibit apoptosis, enhance mitochondrial function and modulate protein profile. However, whether taurine can alleviate damages of porcine SCs caused by acute HS is unknown. We here showed that treatment of porcine SCs using taurine (5.7 μM) for 12 h before acute HS (HS0.5-B12-Taurine) significantly rescued damages in...
+
+35. Integrating transcriptomics and molecular AOPs to identify T3-dependent regulation of neuronal development in the human neural progenitor test.
+   作者: Martens Marvin, Dierichs Nathalie T O M, Pennings Jeroen L A, Piersma Aldert H, de Leeuw Victoria C 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42472570/
+   PMID: 42472570
+   摘要: Thyroid hormone (TH) is an important regulator of human brain development, and maternal TH imbalance is linked to adverse outcomes such as reduced IQ and decreased motor function in children. As part of the VHP4Safety initiative, using the human neural progenitor test (hNPT), we investigated the molecular effects of elevated levels and absence of T3. Neural progenitor cells were differentiated for 10 days under no (0 nM), normal (4.1 nM; the reference), or high (410 nM) triiodothyronine (T3) con...
+
+36. Proteomic and amino acid profiling of SK-MEL-30 melanoma reveals metabolic and structural changes.
+   作者: Turker Nebiye Pelin
+   链接: https://pubmed.ncbi.nlm.nih.gov/42470940/
+   PMID: 42470940
+   摘要: Melanoma exhibits high metastatic potential and therapy resistance, driven by metabolic flexibility and structural remodeling. In this study, we performed an integrated analysis of the SK-MEL-30 melanoma cell line using function-focused quantitative proteomics and amino acid profiling. Proteins were quantified using a label-free normalized spectral abundance factor (NSAF) approach, while intracellular amino acids were measured by LC-MS/MS. Functional enrichment analyses based on KEGG and Gene On...
+
+37. Coherence and the memorability of supernatural concepts.
+   作者: Sommer Joseph, Musolino Julien, Hemmer Pernille
+   链接: https://pubmed.ncbi.nlm.nih.gov/42456400/
+   PMID: 42456400
+   摘要: A prominent theory in the cognitive science of religion proposes that supernatural concepts share a common structure that contributes to their cultural success. While concepts of all kinds - i.e., natural and supernatural - are theorized to rely on inferences drawn from intuitive ontological categories, supernatural concepts also violate these ontological categories. A few violations of intuitive ontologies promote memorability, however, too many violations cause concepts to degrade, reducing re...
+
+38. Discovering heart failure patient pathways through event enrichment and abstraction.
+   作者: Antonov Anton, Beyel Harry H, Verket Marlo, Schwanen Christopher T, Peeva Viki 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42435615/
+   PMID: 42435615
+   摘要: Integration of electronic health data from patients with heart failure into process mining could provide insights to the patient journey. However, the current approaches have challenges in addressing all aspects of patient care....
+
+39. Retrieval-augmented generation for medication safety: A case study using drug package inserts.
+   作者: Sun Yuanyuan, Wang Wei, Cheng Wanqiu, Li Ronghui, Liu Xiang 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42435614/
+   PMID: 42435614
+   摘要: Retrieval-augmented generation (RAG) has shown promise in mitigating hallucinations in large language models (LLMs), although its utility in medication safety education remains underexplored. To evaluate the performance of RAG-based LLMs in generating patient medication safety education materials, and to assess the agreement between LLM-as-a-judge evaluations and clinical expert judgments....
+
+40. What can we learn from 30 years development of clinical decision support system?
+   作者: Zhu Yifan, Yin Shuangyi, Song Yalin, Bai Ling, Guan Zheng 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42430884/
+   PMID: 42430884
+   摘要: Clinical decision support systems (CDSS) have emerged as a vital means to boost decision-making capabilities of clinicians, but still exhibit low clinical adoption rates. Systematically exploring the evolution, status, topic trends and variations of CDSS is expected to guide the development of next-generation CDSS....
+
+41. Urinary Proteome Enables Noninvasive Differentiation of Ureteropelvic Junction Obstruction From Vesicoureteral Reflux.
+   作者: Lee Ted, Vitko Dijana, Das Barnali, Cotsonas Abby, Prabhakran Manubhai K 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42430706/
+   PMID: 42430706
+   摘要: Currently, invasive diagnostic studies are needed to determine the underlying pathology of urinary tract dilation. In this study, we demonstrate that the urinary proteome can be used to differentiate between ureteropelvic junction obstruction and vesicoureteral reflux, which are the 2 most common diagnoses underlying congenital urinary tract dilation. These markers may have the potential to differentiate between obstructive and nonobstructive causes of urinary tract dilation....
+
+42. Integrated quantitative proteomics reveals stress-associated network remodeling induced by mitragynine in RSC96 Schwann cells.
+   作者: Hasriadi Hasriadi, Peththa Wadu Dasuni Wasana, Weerakul Thorsang, Pattamadilok Chutichot, Sritularak Boonchoo 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42423989/
+   PMID: 42423989
+   摘要: Mitragynine, the principal alkaloid of Mitragyna speciosa (kratom), exhibits opioid-like analgesic effects but is associated with tolerance following prolonged exposure. Schwann cells are particularly vulnerable to chemically induced toxicity, and disruption of their homeostatic functions has been implicated in neurotoxic injury. The cellular mechanisms underlying this adaptive response remain poorly understood. In this study, an integrated quantitative proteomics and systems biology approach wa...
+
+43. Systematic Investigation of Key Drivers of Lung Adenocarcinoma: A Focus on Genes, Pathways, and miRNAs.
+   作者: Navaei Maryam, Karami Fatemeh, Jahanimoghadam Aria, Zareei Sara, Khorsand Babak
+   链接: https://pubmed.ncbi.nlm.nih.gov/42421540/
+   PMID: 42421540
+   摘要: Lung cancer remains a leading cause of cancer-related mortality worldwide, largely due to its asymptomatic progression in early stages and the development of drug resistance. Non-small cell lung cancer (NSCLC) accounts for 80% of all lung cancer cases, and lung adenocarcinoma (LUAD) is the most prevalent subtype. Despite advancements in treatment, the 5-year survival rate for LUAD remains low. A comprehensive literature review across various databases was conducted to curate a robust set of LUAD...
+
+44. Fibroblast heterogeneity and abnormal phenotype transition in vaginal wall prolapse at single-nucleus transcriptional resolution.
+   作者: Wu Chenghao, Zhang Shasha, Zhou Zixuan, Tong Xiaowen, Chu Lei 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42413807/
+   PMID: 42413807
+   摘要: Pelvic organ prolapse significantly impacts women's physical and mental health. Although current research primarily focuses on the analysis of extracellular matrix components, the underlying pathologic imbalances of pelvic organ prolapse remain incompletely understood. The functional roles and phenotypic changes of fibroblasts within the complex microenvironment of prolapsed tissue warrant further investigation....
+
+45. Identification of Novel Interacting Proteins of FUZ and GPR161.
+   作者: Salazar Gabriella, Battenhouse Anna, Kim Andrew J, Kim Sung-Eun
+   链接: https://pubmed.ncbi.nlm.nih.gov/42400918/
+   PMID: 42400918
+   摘要: Protein-protein interactions are central to the dynamic regulation of signaling pathways and provide critical insight into the cellular mechanisms underlying human disease. Our previous study demonstrated biochemical and genetic interactions between FUZ and GPR161 in sonic hedgehog signaling during spinal neural tube development. In this study, we sought to identify novel interacting proteins of FUZ and GPR161 to further characterize their biochemical and functional relationships. Using affinity...
+
+46. Crystalline silica particles exposure modulated miRNA expression profiles in human macrophage-like THP-1 cells.
+   作者: Kummari Evangel, Lindeman Birgitte, Nygaard Unni C, Helle-Valle Tellef, Ghosh Manosij 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42379284/
+   PMID: 42379284
+   摘要: Occupational and environmental exposure to crystalline silica particles is a major global health concern linked to silicosis, pulmonary fibrosis, autoimmune disease, and lung cancer. MicroRNAs (miRNAs) regulate gene expression post-transcriptionally and are emerging as potential effect biomarkers of exposure in human biomonitoring studies. To identify intracellular and extracellular miRNAs responses to silica-particle exposure in human THP-1 derived macrophages, differentiated THP-1 derived macr...
+
+47. EGR1 mediates neuronal damage via suppressing HIF1A-induced mitophagy following traumatic brain injury.
+   作者: Hou Xiaoxiang, Zhang Danfeng, Sang Xianzheng, Peng Chaogui, Chen Wen 等 18 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42323821/
+   PMID: 42323821
+   摘要: Traumatic brain injury (TBI) remains a leading cause of neurological morbidity and mortality, characterized by complex pathophysiological cascades. Here, we investigate the role of the transcription factor EGR1 (early growth response 1) in modulating mitochondrial homeostasis via the HIF1A (hypoxia inducible factor 1, alpha subunit)-BNIP3 (BCL2/adenovirus E1B interacting protein 3) axis following TBI. Using integrated transcriptomic and epigenomic analyses, we identified EGR1 as a critical regul...
+
+48. Theoretical study on manipulating core structure and energy level of non-fused ring electron acceptors in organic solar cells.
+   作者: Mubarik Adeel, Shafiq Faiza, Ju Xue-Hai
+   链接: https://pubmed.ncbi.nlm.nih.gov/42320291/
+   PMID: 42320291
+   摘要: Non-fused ring electron acceptors (NFREAs) have recently received a lot of interest as a possible alternative to fused-ring acceptors in bulk heterojunction organic solar cells (OSCs) because of their synthetic simplicity and structural tunability. Nevertheless, there is still a lack of systematic knowledge regarding how interfacial charge dynamics and overall device performance are determined by molecular engineering of the core structure of NFREA. The Density functional theory (DFT) and time-d...
+
+49. Cutibacterium acnes induces T-cell extracellular traps with distinct proteome programs.
+   作者: To Thao Tam, Deng Min, Andrade Priscila R, Nguyen Nam Phuong N, Brewer Gregory M 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42302922/
+   PMID: 42302922
+   摘要: Cutibacterium acnes is a common skin commensal associated with acne pathogenesis. In this study, we investigated whether acne-associated (denoted as C...
+
+50. CD44 gene rs9666607 polymorphism is associated with papillary thyroid carcinoma and interacts with CREB3L1.
+   作者: Ma Lili, Qu Xia, Li Xinxi, Tian Ye, Wang Bowei 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42296777/
+   PMID: 42296777
+   摘要: The incidence of papillary thyroid carcinoma (PTC) has been rising. CD44 is involved in cell adhesion and migration, but the role of its genetic variation in PTC remains unclear....
+

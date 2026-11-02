@@ -1,0 +1,845 @@
+[
+  {
+    "title": "Systems Pharmacology Investigation of Phytochemicals From Scilla peruviana L.: Integrated Gas Chromatography-Mass Spectrometry Profiling, Network Pharmacology, and Molecular Docking Reveal Potential Anti-Inflammatory Mechanisms.",
+    "summary": "This study aimed to characterize the volatile and fatty acid constituents of S. peruviana and investigate their potential anti-inflammatory mechanisms. Volatile compounds were identified by headspace solid-phase microextraction coupled with gas chromatography-mass spectrometry (HS-SPME-GC-MS), whereas fatty acids were analyzed by GC-MS following derivatization. The identified phytochemicals were subjected to target prediction, followed by protein-protein interaction (PPI), Gene Ontology (GO), Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses, and molecular docking. HS-SPME-GC-MS analysis identified 11 volatile compounds, predominantly hexahydrofarnesyl acetone (48.4%) and dihydroactinidiolide (23.5%), followed by dehydro-β-ionone (5.6%), 2-methylbutanal (5.5%), and 3-methylbutanal (5.1%). Fatty acid profiling revealed palmitic acid as the predominant fatty acid (47.7%), followed by α-linolenic acid (29.9%), linoleic acid (11.6%), and stearic acid (10.8%). Network pharmacology identified 253 overlapping targets between phytochemical-associated proteins and inflammation-related genes, with TNF, IL1B, PTGS2, EGFR, STAT3, and PPARG emerging as the principal hub proteins. KEGG enrichment analysis revealed significant enrichment in inflammation-associated pathways, including NF-κB, IL-17, NOD-like receptor, and advanced glycation end-products (AGE)-receptor for advanced glycation end-products (RAGE) signaling pathways. Molecular docking predicted interactions between the major phytochemicals and the selected targets, with palmitic acid showing the lowest predicted binding energy for COX-2 (-7.0 kcal/mol), while hexahydrofarnesyl acetone and stearic acid showed the lowest predicted binding energies for PPARγ (-8.3 kcal/mol).",
+    "authors": [
+      "Zatout Roukia",
+      "Benslama Ouided",
+      "Garzoli Stefania"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908060/",
+    "pmid": "42908060",
+    "source": "PubMed"
+  },
+  {
+    "title": "Lexico-Semantic and Morphosyntactic Skills in Individuals With Parkinson's Disease: A Scoping Review.",
+    "summary": "This scoping review examines lexico-semantic and morphosyntactic skills in English-speaking individuals with Parkinson's disease (PD) using behavioral and neuroimaging data to inform clinical assessment and intervention.",
+    "authors": [
+      "Escalada-Cebadero Leire",
+      "Moya-Galé Gemma"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42893513/",
+    "pmid": "42893513",
+    "source": "PubMed"
+  },
+  {
+    "title": "The politics of methodological reality practices of everyday life.",
+    "summary": "This article develops an analytic of ontopolitical apparatuses through an ethnomethodologically informed study of the methodological reality practices that constitute everyday existence. Building on John Law's call for methodological interference in \"reality-making practices,\" we foreground how being is stabilized not by foundational ontologies but by professional and mundane ontography-the performative inscriptions through which worlds are enacted and made accountable. Drawing on Dorothy Smith's sociology of extralocal relations of ruling and Karen Barad's agential realism, we argue that texts, practices, and materialities are not representational but discursive-material doings that reproduce the One-World World. Automobility serves as an exemplary technoscientific ontopolitical apparatus: a hegemonic formation that organizes subjects and objects into an ontocratic order, administering being through infrastructures and mundane reasoning-the infratextures of automobility. Its violence, routinely eventified as \"accidents,\" exemplifies the reflexive repair work through which disjunctures are normalized. We conclude by considering how alternative practices might interfere with ontographic forgetting and enable counter-ontopolitics.",
+    "authors": [
+      "Braun Robert",
+      "Randell Richard"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859835/",
+    "pmid": "42859835",
+    "source": "PubMed"
+  },
+  {
+    "title": "Implications of genes involved in inflammatory regulation, cytoskeletal organization and extracellular matrix integrity for susceptibility to high-altitude pulmonary edema: A pilot whole-exome sequencing study.",
+    "summary": "High-altitude pulmonary edema (HAPE) is a potentially fatal form of non-cardiogenic pulmonary edema that develops in susceptible individuals following rapid ascent to high altitude. Although exaggerated hypoxic pulmonary vasoconstriction is central to its pathophysiology, additional physiological mechanisms may also underlie individual susceptibility to HAPE. Whole-exome sequencing (WES) enables the identification of coding variants that may contribute to disease susceptibility. This pilot study evaluated the utility of WES for identifying coding variants associated with HAPE susceptibility. WES was performed in eight Japanese individuals: four HAPE-susceptible (HAPE-s) subjects and four HAPE-resistant (HAPE-r) mountaineers with repeated high-altitude exposure. Initial variant filtering prioritized coding variants present in all HAPE-s subjects but absent in HAPE-r controls. Additional stringent filtering was subsequently applied to identify variants significantly enriched in HAPE-s subjects compared with allele frequencies in the Japanese reference population from the Human Genetic Variation Database. Gene Ontology enrichment analysis was performed to characterize the biological processes associated with the identified genes. Fifteen coding variants were identified significantly in HAPE-s individuals. Gene Ontology enrichment analysis demonstrated enrichment of biological processes associated with inflammatory regulation, cytoskeletal organization, and extracellular matrix (ECM) organization, suggesting that altered inflammatory responses and pulmonary structural properties may contribute to HAPE susceptibility. These findings suggest that genetic variants affecting inflammatory signaling, cytoskeletal organization, and ECM integrity may influence endothelial permeability and alveolar-capillary barrier function, thereby increasing susceptibility to HAPE. These preliminary results support the hypothesis that physiological mechanisms beyond exaggerated hypoxic pulmonary vasoconstriction also contribute to HAPE pathophysiology. Further studies in larger cohorts and functional analyses are warranted to confirm these observations and elucidate the underlying physiological mechanisms.",
+    "authors": [
+      "Kobayashi Nobumitsu",
+      "Droma Yunden",
+      "Ota Masao",
+      "Wada Yosuke",
+      "Zhang Jiale",
+      "Hanaoka Masayuki"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854935/",
+    "pmid": "42854935",
+    "source": "PubMed"
+  },
+  {
+    "title": "Analysis of exosomal mRNA profile in cancer tissue from patients with colorectal cancer.",
+    "summary": "Colorectal cancer (CRC) is one of the most common malignant tumors. Exosomes are key modulators of intercellular communication and important participants in CRC tumorigenesis. However, the influence and underlying mechanism of cancer-secreted exosomes in CRC are not fully understood. In the present study, exosome-enriched extracellular vesicles (EVs) were isolated from paired CRC and adjacent normal control tissue (NC) from patients with CRC using ultracentrifugation, size exclusion chromatography and ultrafiltration. Bowtie software was used to identify mRNA expression patterns. Further analyses included functional enrichment analysis using Gene Ontology and Kyoto Encyclopedia of Genes and Genomes for differentially expressed genes (DEGs) and Gene Set Enrichment Analysis for functional enrichment of the entire transcriptome. Gene Set Variation Analysis was used to identify differentially enriched functions and pathways for each sample. Weighted gene correlation network analysis was used to select candidate key genes. The diagnostic performance of the candidate key genes was validated using the models of multiple logistic regression and a support vector machine with the external CRC exosomal RNA database exoRBase. A total of 814 DEGs were identified in the exosome-enriched EVs from patients with CRC compared with those from NC group. The enriched functions were potentially associated with key steps and pathways involved in CRC tumorigenesis, including cell cycle, DNA replication, RNA activity, protein metabolism and the PI3K/Akt', Wnt, MAPK and KRAS pathways, as well as the regulation of mitochondria, the pentose phosphate pathway and intestinal immunity. A total 14 candidate key genes, namely, p53 effector related to PMP-22, MYC, dyskerin pseudouridine synthase 1), VDAC1 (voltage dependent anion channel 1), adenosylhomocysteinase), TMEM123 (transmembrane protein 123), RPL36A (ribosomal protein L36a), CCT5 (chaperonin containing TCP1 subunit 5), CHCHD2 (coiled-coil-helix-coiled-coil-helix domain containing 2), RPS21 (ribosomal protein S21), KRT18 (keratin 18), TGFBI (transforming growth factor beta induced), ETS2 (ETS proto-oncogene 2) and AXIN2 (axin 2), were identified. The present exploratory study revealed pronounced transcriptomic changes in exosome-enriched EV derived from CRC compared with those derived from paracancerous tissue, and may provide a novel platform for understanding tumor microenvironment interactions.",
+    "authors": [
+      "Li Xiaowei",
+      "Kang Yiming",
+      "Xue Mei",
+      "Wang Jing",
+      "Sun Fanyue",
+      "Zhang Jie",
+      "Ding Danyang",
+      "Wang Ye",
+      "Zhang Mengqiao",
+      "Shuai Junfang",
+      "Sun Haiying",
+      "Gao Qiang",
+      "Kang Chunbo"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42835784/",
+    "pmid": "42835784",
+    "source": "PubMed"
+  },
+  {
+    "title": "Correlation of high PRDX4 expression with poor prognosis in patients with ESCA: Bioinformatics and",
+    "summary": "Esophageal cancer (ESCA) is a highly lethal gastrointestinal malignancy with limited therapeutic options. The peroxiredoxin 4 (PRDX4) protein has antioxidant functions and is implicated in various types of cancer, but its role in ESCA remains poorly understood. The purpose of the present study was to investigate PRDX4 expression in ESCA, evaluate its clinical prognostic value, and explore associations with the tumor immune microenvironment and metabolic pathways, with validation by immunohistochemistry (IHC). PRDX4 expression in ESCA was analyzed using UALCAN, SANGERBOX, TIMER, STRING and Kaplan-Meier Plotter databases. IHC was performed on 60 ESCA and matched normal tissues. Associations with overall survival (OS), progression-free interval (PFI), disease-specific survival (DSS), disease-free interval (DFI), TNM stage and immune cell infiltration were examined. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses were conducted. PRDX4 was significantly upregulated in ESCA tissues (P<0.05). IHC showed strong positive staining in all 60 tumor tissues vs. 11/60 normal tissues (P<0.05). High PRDX4 expression correlated with poorer OS [Hazard ratio (HR)=1.82; 95% confidence interval (CI): 1.21-2.74; P=0.004], PFI (HR=1.65; 95% CI: 1.08-2.52; P=0.019) and DSS (HR=2.01; 95% CI: 1.32-3.06; P<0.001), but not with DFI (P=0.35). PRDX4 levels differed significantly across N stages (P=0.006), but not T or M stages. Furthermore, PRDX4 expression was significantly associated with tumor differentiation (P=0.028) and showed a trend towards larger tumor size (P=0.061). PRDX4 expression correlated with infiltration of dendritic cells, macrophages, CD8",
+    "authors": [
+      "Liu Xing",
+      "Pan Lanlan",
+      "Song Huichao",
+      "Pan Wenyan"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42835690/",
+    "pmid": "42835690",
+    "source": "PubMed"
+  },
+  {
+    "title": "Meal-Induced Proton Density Fat Fraction and",
+    "summary": "Brown adipose tissue (BAT) is a metabolically active tissue in humans, located primarily within the supraclavicular adipose tissue (scAT), that can be activated by cold or high-caloric meal consumption. While the changes of proton density fat fraction (PDFF) upon cold activation are well investigated, there is a knowledge gap regarding PDFF and",
+    "authors": [
+      "Raspe Johannes",
+      "Du Tianxing",
+      "Wu Mingming",
+      "Stelter Jonathan",
+      "Klingenspor Martin",
+      "Junker Daniela",
+      "Skurk Thomas",
+      "Karampinos Dimitrios C"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42834478/",
+    "pmid": "42834478",
+    "source": "PubMed"
+  },
+  {
+    "title": "Stem cells redirect the neuroinflammatory trajectory of primed microglia in an ovine chorioamnionitis model.",
+    "summary": "Antenatal infection (e.g. chorioamnionitis), an important risk factor for preterm birth, can induce a fetal systemic inflammatory response (FIRS), initiating neuroinflammation. Microglia, as principal resident immune cells of the brain, are key targets for therapeutic interventions such as Multipotent adult progenitor cells (MAPC). We analyzed the effects of intravenous MAPC therapy on microglia and peripheral immune cells at the blood-brain barrier (BBB) in an ovine chorioamnionitis model. Ovine fetuses were intra-amniotic (i.a.) exposed to lipopolysaccharide (LPS) to induce FIRS, or saline (SAL) at 125 days gestational age (dGA), followed by intravenous MAPC therapy or SAL at 127 dGA. After sacrifice (132 dGA), isolated microglia were analyzed by qRT-PCR and RNA sequencing. Microglial function was assessed through efferocytosis of Jurkat cells. Additionally, immunohistochemistry of immune cells (CD45, IBA-1, MPO) and their ANXA1 co-expression were quantified in brain parenchyma and BBB. Antenatal inflammation resulted in an increased efferocytotic capacity following",
+    "authors": [
+      "van Bruggen Valéry L E",
+      "Claassen Sanne J C M",
+      "Klein Luise",
+      "Bokobza Cindy",
+      "Hua Jennifer",
+      "Marvillet Tiphaine",
+      "Zandbergen Michelle M E",
+      "van Gorp Charlotte",
+      "Caimant Florian",
+      "van der Molen Renate G",
+      "Gressens Pierre",
+      "Ophelders Daan R M G",
+      "Wolfs Tim G A M"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42830914/",
+    "pmid": "42830914",
+    "source": "PubMed"
+  },
+  {
+    "title": "Drug and narcotic drug: scientific definition, legal stipulation, and terminological clarification.",
+    "summary": "This article challenges the recurrent claim that the concept of drug is scientifically indefinable or reducible to a legal, social, or normative construct. It argues that semantic and classificatory variability does not entail ontological indeterminacy: substances possess materially real and causally efficacious properties that constrain scientific classification, while the concepts constructed from those properties remain discipline-specific, situated, and epistemically mediated. Combining legal textual analysis, epistemology, logic, and terminology, the article distinguishes pharmacological, neuroscientific, legal, and lexicographic registers and examines how their conflation has contributed to the apparent indeterminacy of the concept. A structured process of individuation - moving from ontology to taxonomy, typology, and terminology - is used to reconstruct the concept and clarify the relation between causal properties and classificatory practices. The analysis shows that the term drug admits of more than one scientifically coherent intension, depending on disciplinary framework and explanatory purpose. In pharmacology, it denotes the broad class of exogenous chemical substances, other than nutrients or essential dietary ingredients, that produce biological effects. In neuroscience, it denotes the narrower subclass of psychotropic substances acting on the central nervous system and modifying mental processes. Neither definition is universally privileged outside its disciplinary domain. Narcotic drug, by contrast, is a stipulative legal category whose extension is determined through institutional designation and scheduling rather than through derivation from the scientific intension of drug. The article concludes that the claims of scientific indefinability examined here arise in substantial part from conflating semantic variability, scientific concepts, legal classifications, and moral or social representations.",
+    "authors": [
+      "Chouvy Pierre-Arnaud"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42815106/",
+    "pmid": "42815106",
+    "source": "PubMed"
+  },
+  {
+    "title": "SGPP1 as a tumor suppressor in esophageal squamous cell carcinoma: Potential molecular mechanisms involving UGT1A9/UGT2B28 and clinical prognostic significance.",
+    "summary": "The present study aimed to characterize the expression pattern and biological function of sphingosine‑1‑phosphate phosphatase 1 (SGPP1) in esophageal squamous cell carcinoma (ESCC), investigate its potential molecular regulatory mechanisms, and evaluate its clinical value as a prognostic biomarker and therapeutic target. SGPP1 expression in ESCC cell lines was assessed by reverse transcription‑quantitative PCR and western blotting. Models of SGPP1 overexpression in KYSE150 cells and SGPP1 knockdown in ECA109 cells were established. 5‑Ethynyl‑2'‑deoxyuridine, Cell Counting Kit‑8, colony formation, terminal deoxynucleotidyl transferase dUTP nick‑end labeling, wound healing and Transwell assays were performed to systematically analyze the effects of SGPP1 on ESCC cell proliferation, apoptosis, migration and invasion. The Cancer Genome Atlas‑ESCC data were integrated with Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses, gene set enrichment analysis and UpSet plotting to identify key downstream pathways and candidate target genes. SGPP1 protein expression was evaluated by immunohistochemistry in tumor tissues from 68 patients with ESCC, and Cox regression analysis was used to assess its association with patient prognosis. The results demonstrated that SGPP1 expression varied markedly among ESCC cell lines, with low expression in KYSE150 cells and high expression in ECA109 cells. SGPP1 overexpression significantly inhibited ESCC cell proliferation, migration and invasion, and increased apoptosis‑associated DNA fragmentation, whereas SGPP1 knockdown produced the opposite effects. Mechanistically, the data suggested that SGPP1 modulates extracellular matrix remodeling and xenobiotic metabolism, potentially through negative regulation of UGT1A9 and UGT2B28 expression. Clinically, low SGPP1 expression was an independent risk factor for poor prognosis in patients with ESCC (HR=6.016, 95% CI: 3.143‑11.513, P<0.001), and the overall survival was significantly longer in the high‑expression group than in the low‑expression group (P<0.001). In conclusion, SGPP1 functions as a tumor suppressor gene in ESCC and may inhibit tumor progression by regulating UGT1A9/UGT2B28‑mediated metabolic pathways. SGPP1 may therefore serve as a prognostic biomarker and a potential therapeutic target in ESCC.",
+    "authors": [
+      "Su Linlin",
+      "Hou Liubing",
+      "Han Xuetao",
+      "Zhang Ge",
+      "Li Jiayuan",
+      "Wang Yu",
+      "Han Yuxin",
+      "Xue Xiaoying",
+      "Zhou Huandi"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42788356/",
+    "pmid": "42788356",
+    "source": "PubMed"
+  },
+  {
+    "title": "Toward a generative information ecology.",
+    "summary": "Information ecology does not yet possess a unified theoretical foundation; existing approaches provide diverse interpretations without a shared philosophical core. Taking Yixin Zhong's information ecology as a point of departure, this paper explores how information ecology can be transformed into a generative framework capable of serving as a general methodology for information studies. Zhong made a significant contribution by recognizing the philosophical potential of information ecology for transforming the paradigm of information science. However, his framework faces two fundamental limitations. First, his conception of \"ecology\" remains largely within the framework of systemic coordination among internal elements, without fully incorporating the relational generation and open-ended evolution emphasized by contemporary philosophical ecology. Second, his conception of \"information\" remains grounded in a representational and transformational framework, which does not sufficiently capture the generative and processual nature of information itself. This paper therefore argues that the concepts of \"ecology\" and \"information\" must be reconstructed within a unified philosophical framework. From a generative perspective, it first clarifies the ecological conditions of information systems through contemporary philosophical ecology, and then examines the generative mechanisms of information through process philosophy. On this basis, the paper develops a generative information ecology framework centered on relational generation, autopoiesis, and vectorial information, providing a philosophical foundation for understanding information as an evolving process rather than a static representation.",
+    "authors": [
+      "Wang Zhensong"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42778042/",
+    "pmid": "42778042",
+    "source": "PubMed"
+  },
+  {
+    "title": "The role of Broad in regulating border cell migration during Drosophila oogenesis.",
+    "summary": "Drosophila development is a highly regulated process governed by the precise timing and spatial cues of hormones and signaling pathways. The follicular epithelium of the Drosophila egg chamber has been a well-studied model system for identifying key molecular regulators of morphological changes and cell migration. Broad (Br), a zinc finger transcription factor, is a well-known early response gene of the steroid hormone ecdysone, which is essential for the initiation of metamorphosis. Our previous findings have shown that Br is a target of Notch signaling, and its suppression is required for proper epithelial cell cuboidal-to-squamous transition during Drosophila oogenesis. Here, we report that proper border cell (BC) migration requires the suppression of Br expression during Drosophila oogenesis. Br expression can be induced by Notch signaling as early as stage 4, but its expression decreases in BCs during cell migration at stage 9. Further findings revealed that JAK/STAT and ecdysone signaling are highly active during the onset of BC migration and contribute to Br suppression. We demonstrated that JAK/STAT suppresses Br expression to facilitate proper BC migration. In addition, we analyzed single-cell RNA sequencing data to highlight the shift in gene expression while Br was suppressed and BCs became mobile. The analysis confirmed the high expression of known BC markers, including slbo and sn, and identified br as specifically repressed in BCs, supporting the quality of the dataset and our experimental findings. Gene Ontology enrichment analysis revealed significant overrepresentation of biological processes related to cell migration, morphogenesis, and cell junction assembly, all of which are important for BC morphological transition and migration.",
+    "authors": [
+      "Thompson Tyler",
+      "Jevitt Allison",
+      "Douglas Daylon",
+      "Ramos Belen",
+      "Liu Manyun",
+      "Yoshinaga-Sakurai Kunie",
+      "Punkay Andrew",
+      "Jia Dongyu"
+    ],
+    "published": "2026 Nov 01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42777802/",
+    "pmid": "42777802",
+    "source": "PubMed"
+  },
+  {
+    "title": "Knowledge augmented causal discovery through large language models and Knowledge Graphs: Application in chronic low back pain.",
+    "summary": "Causal discovery from observational data is limited by structural constraints of available datasets, the absence of causal logic, and the lack of external domain knowledge. We propose a Knowledge-Augmented Causal Discovery (KACD) framework that combines data-driven structural learning with LLM-based knowledge systems to overcome these limitations, with application to chronic low back pain (cLBP).",
+    "authors": [
+      "Lin Damon",
+      "Rizi Marzieh Mussavi",
+      "O'Neill Conor",
+      "Lotz Jeffrey C",
+      "Anderson Paul",
+      "Torres-Espin Abel"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42767585/",
+    "pmid": "42767585",
+    "source": "PubMed"
+  },
+  {
+    "title": "KLF2 as a prognostic and potential therapeutic target associated with ferroptosis in serous ovarian cancer: An integrative bioinformatics and clinical validation study.",
+    "summary": "Serous ovarian cancer (SOC), a prevalent histological subtype of ovarian cancer, poses a notable global threat to women's health. Ferroptosis has emerged as a pivotal focus in cancer research, presenting a promising novel therapeutic target. The present study aimed to identify key ferroptosis-related genes in SOC and evaluate their clinical implications. Gene expression profiles for SOC were obtained from the Gene Expression Omnibus database. Differential expression analysis and weighted gene co-expression network analysis, in conjunction with ferroptosis-related datasets, identified 22 differentially expressed genes associated with both SOC and ferroptosis. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses indicated their involvement in critical biological processes and pathways. Protein-protein interaction (PPI) network analysis identified four central hub genes: Kruppel-like factor 2 (KLF2), fatty acid binding protein 4 (FABP4), caveolin 1 (CAV1) and α-synuclein (SNCA). Validation using The Cancer Genome Atlas (TCGA) database confirmed significant downregulation of these genes in SOC (P<0.05), with an assessment of their potential diagnostic value. Peripheral blood samples were collected from 20 patients with SOC (experimental group) and 20 healthy volunteers (control group). Reverse transcription-quantitative PCR demonstrated that KLF2 was significantly downregulated in patients with SOC (P<0.05), while FABP4, CAV1 and SNCA did not show significant differences. Consequently, subsequent experiments concentrated on KLF2. The downregulation of KLF2 was further validated using the Human Protein Atlas database. Kaplan-Meier survival analysis revealed that low KLF2 expression was associated with a poor prognosis in patients with SOC. A nomogram suggested that KLF2 could serve as a prognostic biomarker for SOC. Immune infiltration analysis was performed based on TCGA data. Finally, interaction networks for microRNA-KLF2, transcription factor-KLF2 and chemical-KLF2 were constructed to predict potential molecular mechanisms and therapeutic drugs targeting KLF2 in SOC. These findings indicate that KLF2 may serve as a prognostic and potential therapeutic target related to ferroptosis in serous ovarian cancer, warranting further investigation.",
+    "authors": [
+      "Wang Yuanyi",
+      "Yu Juan",
+      "Huang Wu",
+      "Yuan Yuan",
+      "Lan Xiangbo",
+      "Jian Youli",
+      "Li Xiao",
+      "Wang Simei",
+      "Huang Xiao",
+      "Xu Ge",
+      "Wei Xing"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750893/",
+    "pmid": "42750893",
+    "source": "PubMed"
+  },
+  {
+    "title": "Comparative analysis of myeloperoxidase deficiency in humans and mice: Conserved and species-specific effects on neutrophil biology.",
+    "summary": "Myeloperoxidase (MPO), a heme-containing enzyme released by activated polymorphonuclear neutrophils (PMNs) represents a key mediator of inflammation-driven cardiovascular disease, positioning MPO as a promising therapeutic target. However, substantial interspecies differences between murine and human neutrophil biology challenge the translation of preclinical findings from rodent studies into patients.",
+    "authors": [
+      "Ahdab Maysam",
+      "Guthoff Henning",
+      "Nix Nathalie",
+      "Derman Sonja",
+      "Barbe Anna Greta",
+      "Nemade Harshal",
+      "Philip Elvina S",
+      "Singgih Kezia",
+      "Nellessen Kathrin",
+      "Hüttermann Alina",
+      "Paunel-Görgülü Adnana",
+      "Diekmann Chris",
+      "Hoyer Friedrich F",
+      "Schelemei Patrick",
+      "Lackmann Jan-Wilm",
+      "Müller Stefan",
+      "Johannis Wibke",
+      "Streichert Thomas",
+      "Baldus Stephan",
+      "Winkels Holger",
+      "von Stein Philipp",
+      "Mollenhauer Martin",
+      "Hof Alexander"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42748657/",
+    "pmid": "42748657",
+    "source": "PubMed"
+  },
+  {
+    "title": "Effects of TRAF6 knockout on transcriptomic and alternative splicing responses to VHSV genotype II infection.",
+    "summary": "Viral hemorrhagic septicemia virus genotype II is generally considered less virulent than other genotypes. However, the molecular mechanisms underlying viral infection and its impact on host gene expression are poorly understood. The tumor necrosis factor receptor-associated factor 6 (TRAF6) is a pivotal molecule that is involved in different processes and plays an important role in the immune response during viral infection in fish. In this work, we investigated the effect of viral infection with VHSV genotype II on EPC and ΔTRAF6 cells at the gene expression level and on alternative splicing events (ASEs). Following VHSV genotype II infection, ΔTRAF6 cells exhibited more severe cytopathic effects accompanied by significantly higher viral copy numbers than EPC cells, indicating that TRAF6 plays a protective role in the antiviral response against VHSV genotype II. The transcriptomic analysis revealed that 1236 genes were differentially expressed in EPC cells, and 1372 in ΔTRAF6. Following viral infection, the immune-related pathways, including NOD-like receptor signaling, RIG-I-like receptor signaling, toll-like receptor signaling, cytokine-cytokine receptor signaling, C-type lectin receptor signaling pathway, and herpes simplex virus 1 infection, were activated in both cells, with lower gene ratios in ΔTRAF6 cells compared with EPC cells. Furthermore, TRAF6 influences alternative splicing in infected cells. Significant ASEs were observed in both cells, but were notably more frequent in ΔTRAF6 cells. Gene Ontology (GO) enrichment analysis and KEGG pathway enrichment analysis of differential alternative splicing genes showed enrichment in the mRNA surveillance and IgSF CAM signaling pathways. These results suggest that TRAF6 plays an important role in regulating the antiviral response at multiple levels, and that the absence of TRAF6 alters immune responses and signaling pathways, facilitating viral replication of VHSV genotype II and inducing cytopathic effects in cells. In addition, knocking out TRAF6 results in changes in alternative splicing correlating with weakened immune signaling and increased viral replication.",
+    "authors": [
+      "Abdellaoui Najib",
+      "Kim Seon Young",
+      "Kim Hyoung Jun",
+      "Kim Min Sun"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42744106/",
+    "pmid": "42744106",
+    "source": "PubMed"
+  },
+  {
+    "title": "Unifying temporal knowledge Graph and LLMs for Biomedical Hypothesis generation via temporal soft Prompting.",
+    "summary": "Biomedical Hypothesis Generation (HG) is a critical task for discovering latent yet scientifically meaningful associations from continuously evolving literature or knowledge bases, aiding in disease diagnosis and treatment decisions-making. Most existing studies model Temporal Knowledge Graphs (TKGs) for capturing dynamic relation evolution based on temporal explicit and structured knowledge. However, TKG based methods are hard to generate new facts and represent unseen knowledge since the inherent incompleteness and limited scale of TKG. While, Large Language Models (LLMs) are pretrained by enriching large-amount of unlabeled corpus with semantic knowledge of the real world. Therefore, unifying LLMs and TKG together could leverage precise temporal facts and rich semantic knowledge simultaneously.",
+    "authors": [
+      "Wang Lanlan",
+      "Zhou Huiwei",
+      "Gu Jinghang",
+      "Zeng Hongyun",
+      "Zhou Hao",
+      "Li Xuefei",
+      "Lin Suwen",
+      "Liu Ze",
+      "Yao Weihong"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42744066/",
+    "pmid": "42744066",
+    "source": "PubMed"
+  },
+  {
+    "title": "Transcriptomic and network analyses identify epigenetic regulators of drug-tolerant persister (DTP) subsets in EGFR-mutant HCC827 non-small cell lung cancer.",
+    "summary": "The clinical efficacy of osimertinib, a third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI), in EGFR-mutant non-small cell lung cancer (NSCLC) is limited by the inevitable acquired resistance. Drug-tolerant persister (DTP) cells, which survive initial therapy, are considered a key reservoir for this resistance. Understanding the molecular characteristics of DTPs is essential for developing strategies to prevent relapse.",
+    "authors": [
+      "Han JuneKyu",
+      "Jung Euitaek",
+      "Shin Soon Young"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42742903/",
+    "pmid": "42742903",
+    "source": "PubMed"
+  },
+  {
+    "title": "Comparative transcriptome analysis of CaIRF1-associated immune responses in Chromileptes altivelis during Vibrio harveyi infection.",
+    "summary": "Vibrio harveyi is a major bacterial pathogen in marine aquaculture, posing a serious threat to fish health. IRF1 is a conserved regulator of teleost immunity; however, the transcriptional regulatory networks associated with IRF1 during bacterial infection remain incompletely understood. To characterize CaIRF1-associated transcriptional responses during Vibrio harveyi infection, Chromileptes altivelis were injected with PBS (Control group, ControlVa), pCaIRF1 (CaIRF1 overexpression group, VpCaIRF1), or siCaIRF1 (CaIRF1 knockdown group, VsiCaIRF1), and then infected with V. harveyi. Transcriptome analysis was performed in VpCaIRF1 vs. ControlVa and VsiCaIRF1 vs. ControlVa. In VpCaIRF1 vs. ControlVa and VsiCaIRF1 vs. ControlVa, 2495 and 3650 differentially expressed genes (DEGs) were identified; furthermore, 1498 DEGs were shared, enriched in immune-related pathways, such as Toll-like receptors (TLRs), interferons (IFNs), cytokines, and tumor necrosis factor (TNF) signaling. Gene Ontology (GO) enrichment analysis indicated that these DEGs were mainly involved in immune responses, antigen processing and presentation, and oxidative stress regulation. KEGG pathway analysis showed that CaIRF1 overexpression was associated with enrichment of cytokine-mediated signaling, apoptosis, and metabolic pathways, whereas CaIRF1 knockdown was associated with enrichment of pathogen-recognition pathways, including TLR, NOD-like receptor, RIG-I-like receptor, and cytosolic DNA-sensing pathways. Additionally, CaIRF1-associated candidate genes were identified, among which multiple immune-related genes, including TLR1, Cyclic GMP-AMP Synthase (CGAS), Class II Major Histocompatibility Complex Transactivator (CIITA), and Tumor Necrosis Factor Receptor Superfamily Member 11b (TNFRSF11b) etc., were involved in pathogen recognition, inflammatory signaling, antigen presentation, and immune cell regulation. Quantitative real-time PCR analysis confirmed the reliability of the transcriptome data, showing consistent expression patterns of key immune-related genes. Collectively, CaIRF1 modulation was associated with broad transcriptional changes in immune-related processes during V. harveyi infection, including pathogen recognition, cytokine signaling, apoptosis, and oxidative stress responses. This study provides a transcriptomic characterization of CaIRF1-associated immune responses and identifies candidate pathways for subsequent functional validation in teleost fish.",
+    "authors": [
+      "Wang Guotao",
+      "Chen Guisen",
+      "Wu Ting",
+      "Fu Zhiqing",
+      "Cao Zhenjie",
+      "Zhang Chen",
+      "Wang Shifeng",
+      "Ao Jingqun",
+      "Zhou Yongcan",
+      "Wu Ying",
+      "Sun Yun"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42727897/",
+    "pmid": "42727897",
+    "source": "PubMed"
+  },
+  {
+    "title": "Elevated mitochondrial superoxide promotes longevity through a mitochondria-to-nucleus kinase signaling pathway.",
+    "summary": "The reactive oxygen species superoxide is generated by mitochondria during the process of producing energy. While superoxide can cause oxidative damage to the cell, we and others have shown that a mild increase in mitochondrial superoxide extends longevity in multiple model organisms. To elucidate the molecular mechanisms involved, we identified transcriptional changes in mitochondrial superoxide dismutase deletion mutants (sod-2 worms) using RNA sequencing. sod-2 mutants exhibit a number of changes in nuclear gene expression resulting from elevated mitochondrial superoxide suggesting that mitochondria-to-nucleus signaling is contributing to their longevity. Gene ontology enrichment analysis demonstrated that genes involved in innate immunity and cuticle formation are significantly upregulated in sod-2 worms. To identify kinases involved in this lifespan-extending pathway, we completed a targeted RNA interference screen to examine the contribution of selected kinases to sod-2 longevity. From this screen, we found 25 kinases which are required for the long lifespan of sod-2 mutants including mak-2, which has a role in a kinase signaling pathway involved in axon regeneration. Disruption of mak-2 specifically reduces sod-2 lifespan but not wild-type longevity and also decreases resistance to multiple exogenous stressors. In examining other genes that act with mak-2 in established signaling pathways, we identified a SEK-3/PMK-3/MAK-2/CEBP-1 signaling pathway that is specifically required for sod-2 longevity but not wild-type lifespan. Combined these results suggest a novel role for kinases with established roles in axon regeneration in promoting longevity through a mitochondria-to-nucleus signaling pathway.",
+    "authors": [
+      "Anglas Ulrich",
+      "Tamez González Aura A",
+      "Promi Maisha M",
+      "Zhu Shusen",
+      "AlOkda Abdelrahman",
+      "Pacis Alain",
+      "Richard Vincent R",
+      "Borchers Christoph H",
+      "Van Raamsdonk Jeremy M"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42721646/",
+    "pmid": "42721646",
+    "source": "PubMed"
+  },
+  {
+    "title": "SEDCLIP: Adapting vision-language model for multi-label surgical error detection.",
+    "summary": "Automated detection of surgical errors can drastically increase safety in robotic-assisted surgery (RAS). Prior work has shown surgical error detection only as a binary task, which is insufficient and restrictive when multiple, co-occurring errors inherently arise in real RAS procedures. We thus present the first work to study multi-label surgical error detection (MLSED) and propose SEDCLIP, a novel vision-language adaptation paradigm that transfers pretrained knowledge from a contrastive language-image pretraining model to MLSED. The SEDCLIP architecture comprises: (1) global-local prompting, which aligns global image features and fine-grained patch features with learnable global and local text prompts, countering the single-label bias of contrastive pre-training; (2) a graph-attention temporal adaptor that models inter-frame dependencies, guided by a temporal-distance adjacency; and (3) random-basis low-rank adaptation, which aggregates fixed low-rank random bases modulated by learnable scaling, to bridge the natural-to-surgical domain gap with efficient fine-tuning. Additionally, to catalyse progress in MLSED, we release two first-of-their-kind, in-vivo datasets with frame-level error annotations: MLE-RAH for robotic-assisted hysterectomy (RAH) and MLE-RARP for robotic-assisted radical prostatectomy (RARP). Across both datasets, SEDCLIP yields overall improvements over competing methods on both multi-label and binary surgical error detection tasks. Code and datasets are available at https://github.com/wzjialang/SEDCLIP.",
+    "authors": [
+      "Xu Jialang",
+      "Yung Ka-Wai",
+      "Tesfai Freweini M",
+      "Boal Matthew",
+      "Sirajudeen Nazir",
+      "Wang Xu",
+      "Edwards Philip J",
+      "Kelly John D",
+      "Sridhar Ashwin",
+      "Chandrasekaran Dhivya",
+      "Jin Yueming",
+      "Stoyanov Danail",
+      "Francis Nader",
+      "Mazomenos Evangelos B"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42685437/",
+    "pmid": "42685437",
+    "source": "PubMed"
+  },
+  {
+    "title": "Effects of umbilical cord mesenchymal stem cell-derived exosomes on periodontal ligament stem cells: An exploratory study.",
+    "summary": "To investigate whether exosomes derived from human umbilical cord mesenchymal stem cells (UCMSCs) at two osteogenic induction stages (undifferentiated and late-stage) differentially affect periodontal ligament stem cells (PDLSCs), and to explore the potential molecular basis.",
+    "authors": [
+      "Yan Dapeng",
+      "Pan Le",
+      "Cheng Junxiang",
+      "Duan Qinyan",
+      "Hong Feng",
+      "He Wei",
+      "Hu Yajun",
+      "Li Yanwen"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42647961/",
+    "pmid": "42647961",
+    "source": "PubMed"
+  },
+  {
+    "title": "Small RNA sequencing identifies T cell-derived tsRNAs as novel biomarkers for diagnosis and clinical assessment of rheumatoid arthritis.",
+    "summary": "The functional role of tRNA-derived small RNAs (tsRNAs) in CD3+ T lymphocytes in rheumatoid arthritis (RA) remains unclear. This study aimed to characterize their expression profile and evaluate their biomarker potential in RA.",
+    "authors": [
+      "Tao Sha-Sha",
+      "Ge Man",
+      "Chen Xiao-Yu",
+      "Wang Meng-Han",
+      "Li Wen-Jie",
+      "Wang Peng",
+      "Pan Hai-Feng"
+    ],
+    "published": "2026 Nov 01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42636512/",
+    "pmid": "42636512",
+    "source": "PubMed"
+  },
+  {
+    "title": "CIGMA: Causal-inspired invariant graph matching with multi-view contrastive distillation for predicting herb-symptom associations.",
+    "summary": "Deciphering herb-symptom associations (HSAs) and their underlying mechanisms is essential for the modernization of Traditional Chinese Medicine. However, current methods primarily focus on graph topology modeling, which often relies on coarse-grained structures that overlook the heterogeneous contributions of individual proteins and are susceptible to spurious correlations. To address these limitations, we proposed CIGMA, a novel framework explicitly designed for out-of-distribution generalization in biological network association prediction. First, we introduced a gated graph matching module integrated with multi-view distillation, which captured fine-grained, context-aware interactions by enforcing consistency across local, global, and interaction-based representations. Second, to mitigate spurious correlations, we implemented a causal representation invariance learning mechanism that employed invariant risk minimization to prioritize invariant and robust pathways over observational biases. Experiments on the benchmark dataset demonstrated that CIGMA achieved average AUPRC improvements of 2.84% and 2.26%, and AUROC improvements of 3.02% and 1.83% under cross validation and independent validation, respectively. Furthermore, case studies on classic formulas like Siwu Decoction and Xuefu Zhuyu Decoction demonstrated the model's ability to provide plausible mechanistic deconstruction and identify stable and environment-invariant protein pathways. CIGMA provides a powerful, generalizable, and interpretable framework for HSA prediction, advancing the systematic discovery of herb-based therapeutic mechanisms.",
+    "authors": [
+      "Long Qiuyu",
+      "Zhao Nan",
+      "Liu Haifeng",
+      "Zhang Qingpeng",
+      "Yang Jiannan"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42628174/",
+    "pmid": "42628174",
+    "source": "PubMed"
+  },
+  {
+    "title": "PregBase: A comprehensive knowledge base for clinically relevant knowledge representation and biomarker prediction in pregnancy.",
+    "summary": "Pregnancy complications are a leading cause of maternal and neonatal mortality worldwide. Understanding their underlying mechanisms is hindered by dispersed evidence across thousands of studies and complex biological interactions. We present PregBase, a comprehensive knowledge base for pregnancy research comprising automated extraction, validation, and exploration. PregBase was constructed by utilising large language models (LLMs) to extract relationships from literature; 13 LLMs were benchmarked across seven prompting strategies, with ensemble shuffle prompting outperforming single-strategy alternatives. A three-tier validation pipeline combining ontology mapping, graph neural networks, and statistical analysis produced PregKG, a knowledge graph containing 64,087 associations between 13,303 biomedical entities spanning 155 semantic types and 50 vocabularies across 8 relationship types from 8420 articles. Link prediction validated PregBase's inference capability beyond extracted knowledge, recovering established clinical interventions, reconstructing canonical hormonal pathways across maternal-placental-fetal compartments, and identifying novel biomarker candidates for preterm birth, gestational diabetes, and preeclampsia, supported by genetic and expression databases. An interactive web interface (https://pregknowledgebase.com) has been created to enable further exploration via conversational queries. This work provides a scalable foundation for systematic discovery in maternal health research.",
+    "authors": [
+      "Bhandari Aashish",
+      "Mehta Deval",
+      "Verspoor Karin",
+      "Spina Damiano",
+      "Xia Feng",
+      "Tyagi Sonika"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42628173/",
+    "pmid": "42628173",
+    "source": "PubMed"
+  },
+  {
+    "title": "Transcript isoform switching during embryonic and post-hatch development of broiler breast muscle.",
+    "summary": "Gene-level analysis of RNA-Seq data provides only a partial view of muscle transcriptional regulation because gene isoforms may be differentially used without changes in total gene expression. This study evaluated the extent and potential role of differential transcript usage (DTU) during breast muscle development from the late embryonic stage to market age. Publicly available RNA-Seq data from breast muscle of Cornish, White Plymouth Rock, and their crossbred progeny sampled at embryonic day 17 (ED17) and post-hatch days 1, 21, and 42 were analyzed using The R package IsoformSwitchAnalyzeR (n = 6 samples per genetic background and stage, total = 72 samples). The highest number of isoform switches (|Δ isoform fraction| > 0.1 and FDR < 0.05) occurred during ED17-to-D1 transition (933 switches), followed by D1-to-D21 (631 switches), whereas only 46 occurred between D21 and D42. Exon skipping, alternative transcription start sites, and alternative transcription termination sites were the most frequent splicing events associated with these switches (n = 1,042, 964, and 817, respectively). Changes in coding sequence completeness, intrinsically disordered regions, and protein domains were the most frequently predicted functional consequences (n = 497, 472, and 461 events, respectively). Gene ontology enrichment (P < 0.05) indicated that ED17-to-D1 switching genes were involved in sarcomeric and cytoskeletal organization, redox and metabolic adaptation, signaling, chromatin regulation, and RNA processing, with top genes including OBSCN, DTNA, ABLIM3, and LIMCH1. D1-to-D21 switching genes were associated with cytoskeletal restructuring, adhesion and mechanosensing, RNA processing, protein turnover, autophagy, metabolic adaptation, and stress signaling, with TNNT3, FHL1, and FHL3 among the top-ranked genes. Although fewer genes exhibited isoform switching during the D21-to-D42 transition, the top-ranked genes included MYH1B, SMYD1, and MRTFA, which are involved in contractile or muscle regulatory processes. In conclusion, isoform switching represents an additional layer of transcriptional regulation of muscle development and it may contribute to hatch-related maturation, rapid post-hatch growth, and later refinement of contractile function. Future studies should experimentally validate candidate switches and their predicted functional consequences.",
+    "authors": [
+      "Alnahhas Nabeel"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42617261/",
+    "pmid": "42617261",
+    "source": "PubMed"
+  },
+  {
+    "title": "DeltaGNN: Graph Neural Network With Information Flow Control.",
+    "summary": "Graph Neural Networks (GNNs) are popular deep learning models designed to process graph-structured data through recursive neighborhood aggregations in the message passing process. When applied to semi-supervised node classification, the message-passing enables GNNs to understand short-range spatial interactions, but also causes them to suffer from over-smoothing and over-squashing. These challenges hinder model expressiveness and prevent the use of deeper models to capture long-range node interactions (LRIs) within the graph. Popular solutions for LRIs detection are either too expensive to process large graphs due to high time complexity or fail to generalize across diverse graph structures. To address these limitations, we propose a mechanism called information flow control, which leverages a novel connectivity measure, called information flow score, to address over-smoothing and over-squashing with linear computational overhead, supported by theoretical evidence. Building on this mechanism, we introduce DeltaGNN, to the best of our knowledge among the first scalable (featuring linear computational and memory complexity overhead) and generalizable (capable of effectively handling graphs with diverse homophily, density, and topology) architectures for long-range and short-range interaction detection. We benchmark our model across 10 real-world datasets, including graphs with varying sizes, topologies, densities, and homophilic ratios, showing superior performance with limited computational complexity. The implementation of the proposed methods are publicly available at https://github.com/basiralab/DeltaGNN.",
+    "authors": [
+      "Mancini Kevin",
+      "Rekik Islem"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42611664/",
+    "pmid": "42611664",
+    "source": "PubMed"
+  },
+  {
+    "title": "DUSP9 Regulates Hepatoblastoma Progression With Implications for Diagnosis and Targeted Therapy.",
+    "summary": "This study investigated the mechanistic role of DUSP9 in hepatoblastoma (HB) development and progression to provide new insights into the diagnosis and treatment of pediatric HB. Pediatric HB mRNA expression data were obtained from the GEO database. Differentially expressed genes (DEGs) between patients with metastatic and non-metastatic HB were analyzed using the R software, followed by a functional annotation of the DEGs. Least Absolute Shrinkage and Selection Operator regression and Support Vector Machine-Recursive Feature Elimination machine learning methods were employed to further screen for DEGs and identify DUSP9 as a key feature gene. The diagnostic efficacy of DUSP9 was evaluated using the area under the receiver operating characteristic curve. Additionally, in vitro and in vivo functional experiments were conducted to determine the effects of DUSP9 on HB progression. A total of 33 DEGs were identified. Gene Ontology analysis revealed that these DEGs were mainly associated with xenobiotics and fatty acid metabolism. Kyoto Encyclopedia of Genes and Genomes analysis indicated involvement in regulating active transmembrane transporter activity and cytochrome P450-mediated xenobiotic metabolism. Machine learning methods identified DUSP9 as a pivotal feature gene that was significantly upregulated in HB tumor tissues. In vitro functional assays demonstrated that DUSP9 knockdown markedly inhibited the proliferation and migration of HB cells. Additionally, western blot analysis revealed increased expression of epithelial markers and decreased expression of mesenchymal markers, along with a significant reduction in the phosphorylation of markers related to the MAPK signaling pathway. DUSP9 plays a crucial role in HB cell proliferation, migration, and epithelial-mesenchymal transition (EMT), potentially promoting tumor progression by regulating the MAPK signaling pathway.",
+    "authors": [
+      "Zhou Pingping",
+      "Wu Xiongwei",
+      "Yang Qvanxin",
+      "Wang Chaojin",
+      "Duan Yuhe",
+      "Dong Qian"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42574564/",
+    "pmid": "42574564",
+    "source": "PubMed"
+  },
+  {
+    "title": "Differential expression of salivary microRNA associated with keratoconus.",
+    "summary": "Research into biomarkers has transformed the identification and management of many diseases. Keratoconus (KC) is a multifactorial corneal ectasia, and due to limited understanding of disease pathophysiology, no biomarkers have been fully validated. microRNAs (miRNAs) are involved in regulating gene expression. Differentially expressed miRNAs have been reported in KC corneal tissue and as biomarkers for other ocular disorders. Salivary biomarkers mirror systemic processes and saliva contains substantial miRNAs. However, it is unknown if salivary miRNAs are differentially expressed in KC. Salivary miRNAs were collected from healthy (n = 16) and KC subjects (n = 50) and measured by qRT-PCR. Upregulated gene expression of miR-939-5p, miR-26a-5p, miR-25-3p, and miR-92a-3p; and downregulated expression of miR-320a was observed. Bioinformatic analysis using Ingenuity Pathway Analysis identified 248 experimental validated miRNA target genes and an enriched subset of 16 genes uniquely related to KC corneal functions. Gene ontology analysis demonstrated the over-representation of genes involved in protein kinase complex, protein phosphorylation, cellular senescence, apoptosis, and stress response. Our data detected previously unknown KC-dependent dysregulation of salivary miRNA expression. Future studies are warranted to determine the viability of these miRNAs as possible KC biomarkers, and to further establish their pathophysiological function.",
+    "authors": [
+      "Mabry Steve",
+      "Sharma Purnima",
+      "Nicholas Sarah E",
+      "Riaz Kamran M",
+      "Liu Yutao",
+      "Karamichos Dimitrios"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42567395/",
+    "pmid": "42567395",
+    "source": "PubMed"
+  },
+  {
+    "title": "Single-Cell atlas of aqueous humor outflow in glaucomatous Non-Human Primates identified MGP as a regulator of ECM remodeling.",
+    "summary": "This study investigated the heterogeneity and molecular alterations of trabecular meshwork (TM) in glaucomatous non-human primates, aiming to identify potential pathogenic genes and signaling pathways involved in glaucoma.",
+    "authors": [
+      "Liu Hongyi",
+      "Hou Simeng",
+      "Yan Xuejing",
+      "Zhang Jingxue",
+      "Wu Shen",
+      "Wu Jian",
+      "Wang Ningli"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42562148/",
+    "pmid": "42562148",
+    "source": "PubMed"
+  },
+  {
+    "title": "DSMV-DDI: A dual-level pharmacological semantic and stereochemical visual representation learning framework for drug-drug interaction prediction.",
+    "summary": "Drug-drug interactions (DDIs) are a major cause of adverse drug events in clinical practice, especially under polypharmacy settings where patients receive multiple medications simultaneously. Reliable computational prediction of DDIs is therefore essential for improving medication safety and supporting clinical decision-making. Despite recent advances in computational DDI prediction, existing methods often struggle to jointly model multi-granularity pharmacological semantics and stereochemical molecular characteristics, limiting their ability to generalize to previously unseen drugs under cold-start scenarios. To address these limitations, we propose DSMV-DDI, a multimodal representation learning framework for drug-drug interaction prediction that integrates biomedical knowledge graph topology, chemical substructure features, dual-level pharmacological semantic representations, and stereochemical molecular visual representations derived from three-dimensional molecular conformations. In particular, the proposed dual-level semantic strategy jointly characterizes interaction-level pharmacological associations and intrinsic single-drug functional properties, enabling complementary modeling of pharmacological information across different semantic granularities. Furthermore, molecular visual representation learning captures geometric and spatial characteristics beyond topology-based molecular representations, improving generalization to topologically unseen drugs. Extensive experiments on real-world DDI datasets demonstrate that DSMV-DDI outperforms state-of-the-art methods, achieving an accuracy of 0.967 and an AUPR of 0.992 under the conventional setting. The proposed framework also maintains strong performance under both partial and complete cold-start settings. Ablation analyses show that dual-level pharmacological semantics contribute most to overall performance, while molecular visual representations provide complementary geometric information that further improves prediction accuracy.",
+    "authors": [
+      "Chen Fangni",
+      "Jiang Tingting",
+      "Yang Shuai",
+      "Yuan Xiaohui",
+      "Wang Chao",
+      "Gu Lichuan"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42556010/",
+    "pmid": "42556010",
+    "source": "PubMed"
+  },
+  {
+    "title": "Identification of PTGS2 as a genetically supported protective biomarker and potential therapeutic target in myasthenia gravis.",
+    "summary": "Myasthenia Gravis (MG) is an autoimmune disease that damages the neuromuscular junction (NMJ), reduces the transmission of nerve impulses to muscles, and thus causes fluctuating muscle weakness and fatigue. The main types of MG are autoantibodies that target necessary components of the postsynaptic membrane, such as acetylcholine receptors (AChRs) and muscle-specific kinase (MuSK). The above immune-mediated alterations disrupt synaptic transmission and reduce muscle contraction. Study the molecular and cellular mechanisms of MG to find genes that regulate the immune system, cause inflammation, or affect NMJ homeostasis and may serve as biomarkers. These biomarkers can provide more information on the course of a disease and help to customise diagnosis and treatment according to this information.",
+    "authors": [
+      "Li Yuwei",
+      "Zhang Minxue",
+      "Liu Zhan"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42541991/",
+    "pmid": "42541991",
+    "source": "PubMed"
+  },
+  {
+    "title": "GATA4 modulates autophagy, apoptosis and tight junction marker remodeling in Bactrian camel Sertoli cells.",
+    "summary": "Bactrian camels exhibit distinct seasonal estrus, with periodic testicular functional fluctuations regulating their reproductive activity. As a key transcription factor in reproductive modulation, the specific role of GATA4 in the testicular microenvironment of Bactrian camels remains unclear. This study investigates the expression patterns of GATA4 in the testicular tissue during estrus and anestrus phases, alongside its potential regulatory effects on Sertoli cells (SCs) function. Utilizing mRNA sequencing, we analyzed testicular samples in estrus (n = 3) and anestrus (n = 3), identifying 291 differentially expressed genes (DEGs). Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses revealed that GATA4 was involved in reproduction-related processes, including tight junction formation, autophagy, and cell cycle regulation. Notably, validation showed that GATA4 expression was significantly upregulated in testicular tissue during the anestrus period, with its protein localized primarily in SCs. Gain- and loss-of-function assays revealed that altered GATA4 expression is associated with changes in autophagy-related marker profiles, evidenced by a lower LC3II/LC3I ratio, decreased Beclin-1, and increased P62 expression level. Silencing GATA4 induced opposite alterations in these autophagy-associated molecular markers, and these molecular changes are associated with modified mTOR/NF-κB pathway expression. Additionally, GATA4 influences SCs apoptosis and G0/G1 cell cycle arrest and these cellular phenotypic changes are accompanied by alterations in the PI3K/AKT pathway, which correlates with changed levels of BAX, Caspase-3, BCL2, and CDK1. And moreover, GATA4 modulates the expression of the tight junction markers ZO-1 and Occludin, and these remodeling events are associated with modified WNT1/β-catenin signaling. In conclusion, GATA4 exhibits dynamic expression patterns throughout the reproductive cycle, which correlates with the modulation of multiple biological processes in SCs, including autophagy-related marker remodeling, apoptosis regulation, and tight junction marker remodeling. This study's findings provide a key molecular target for elucidating the seasonal reproductive mechanism and reproductive regulation of Bactrian camels and enrich the current understanding of reproductive regulatory mechanisms in this species.",
+    "authors": [
+      "Wang Qi",
+      "Nan Jinghong",
+      "Ge Tingting",
+      "Si Caihui",
+      "Zhang Yong",
+      "Zhao Xingxu"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42531677/",
+    "pmid": "42531677",
+    "source": "PubMed"
+  },
+  {
+    "title": "Taurine ameliorates damages induced by acute heat stress on porcine Sertoli cells.",
+    "summary": "Porcine Sertoli cells (SCs) treated by acute heat stress (HS) (43°C, 0.5 h) have significantly decreased taurine level. Taurine treatment of porcine SCs could promote proliferation, inhibit apoptosis, enhance mitochondrial function and modulate protein profile. However, whether taurine can alleviate damages of porcine SCs caused by acute HS is unknown. We here showed that treatment of porcine SCs using taurine (5.7 μM) for 12 h before acute HS (HS0.5-B12-Taurine) significantly rescued damages induced by acute HS (HS0.5-Control), including cell viability, proliferation, apoptosis, intracellular reactive oxygen species (ROS) levels, mitochondrial number, and lactate content. Transcriptome sequencing identified 18 differentially expressed genes (DEGs) (HS0.5-B12-Taurine vs. HS0.5-Control), mainly enriched in Gene Ontology (GO) terms of apoptosis, transmembrane transport, inward rectifier potassium channel activity, and 2 iron/2 sulfur cluster binding. RT-qPCR validated expression of 5 DEGs (GRIA4, KCNJ13, PTER, RAB44 and SLC12A8) and 7 other genes (AFF4, CXCL8, DENND5B, EPM2AIP1, SLC6A6, SSH2 and WNK3), most of them showing change trend consistent with RNA-seq results. Moreover, HDAC5 was confirmed to be significantly reduced in HS0.5-B12-Taurine (Western blotting: P < 0.05; Immunofluorescence: P < 0.01). Collectively, these findings suggest that taurine protects porcine SCs against damages induced by acute HS.",
+    "authors": [
+      "Liu Xiao-Ying",
+      "Hao Ruo-Bing",
+      "Wang Xin-Xin",
+      "Yin Zongjun",
+      "Du Zhi-Qiang",
+      "Yang Cai-Xia"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42497608/",
+    "pmid": "42497608",
+    "source": "PubMed"
+  },
+  {
+    "title": "Integrating transcriptomics and molecular AOPs to identify T3-dependent regulation of neuronal development in the human neural progenitor test.",
+    "summary": "Thyroid hormone (TH) is an important regulator of human brain development, and maternal TH imbalance is linked to adverse outcomes such as reduced IQ and decreased motor function in children. As part of the VHP4Safety initiative, using the human neural progenitor test (hNPT), we investigated the molecular effects of elevated levels and absence of T3. Neural progenitor cells were differentiated for 10 days under no (0 nM), normal (4.1 nM; the reference), or high (410 nM) triiodothyronine (T3) conditions. RNA-Seq was used to assess gene expression, and a molecular Adverse Outcome Pathway (AOP) network was applied to interpret transcriptomic changes compared to the reference alongside Gene Ontology (GO) enrichment analysis. Data show that normal T3 levels induce key neurodevelopmental processes which are not active without T3 exposure, based on significantly altered gene expression in pathways related to neurogenesis, synaptogenesis, differentiation and metabolism, including pathways of brain-derived neurotrophic factor (BDNF) signalling, proliferation, oligodendrocyte specification, and glycolysis. Key Events (KEs) such as reduced BDNF and impaired proliferation were, compared to normal levels of T3, significantly affected in the molecular AOP network in absence of T3, while high T3 levels showed minimal differences in transcriptional effects. Our findings demonstrate that absence of T3 inhibits brain development since no T3 condition affects key neurodevelopmental processes in vitro. This study illustrates the utility of integrating transcriptomics with molecular AOPs to provide a structured, mechanistic framework for evaluating the regulation of neuronal cell proliferation and differentiation in brain development. The framework may be useful for chemical risk assessment.",
+    "authors": [
+      "Martens Marvin",
+      "Dierichs Nathalie T O M",
+      "Pennings Jeroen L A",
+      "Piersma Aldert H",
+      "de Leeuw Victoria C",
+      "van Oostrom Conny T M",
+      "Malyar Celina V",
+      "Kienhuis Anne S",
+      "Evelo Chris T",
+      "Willighagen Egon L",
+      "Hessel Ellen V S"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42472570/",
+    "pmid": "42472570",
+    "source": "PubMed"
+  },
+  {
+    "title": "Proteomic and amino acid profiling of SK-MEL-30 melanoma reveals metabolic and structural changes.",
+    "summary": "Melanoma exhibits high metastatic potential and therapy resistance, driven by metabolic flexibility and structural remodeling. In this study, we performed an integrated analysis of the SK-MEL-30 melanoma cell line using function-focused quantitative proteomics and amino acid profiling. Proteins were quantified using a label-free normalized spectral abundance factor (NSAF) approach, while intracellular amino acids were measured by LC-MS/MS. Functional enrichment analyses based on KEGG and Gene Ontology were used to associate protein expression patterns with metabolic pathways. A total of 148 proteins were identified, predominantly representing high-abundance and functionally relevant components of metabolic and structural pathways. Key cytoskeletal proteins, including vimentin and S100A11, were among the most abundant, consistent with a mesenchymal-like and potentially invasive phenotype. Metabolic profiling revealed elevated expression of glycolytic enzymes such as PKM and LDHA, consistent with a glycolytic shift. Increased levels of l-glutamine and l-glutamic acid, together with GOT2 expression, suggest an active glutamine aspartate axis supporting tricarboxylic acid cycle activity and nitrogen metabolism. In addition, elevated levels of stress-response proteins, including HSP90 and SOD2, indicate a proteostatic network adapted to metabolic stress. Although the proteome coverage is lower than that reported in large-scale deep proteomic studies, the NSAF-based workflow was designed to capture the most abundant and functionally relevant proteins, providing a focused overview of the major metabolic and structural characteristics of SK-MEL-30 melanoma cells. Overall, this integrative analysis highlights the coordination between metabolic reprogramming and cytoskeletal organization in SK-MEL-30 cells and suggests that glutamine-dependent metabolic pathways warrant further investigation as potential therapeutic targets in melanoma.",
+    "authors": [
+      "Turker Nebiye Pelin"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42470940/",
+    "pmid": "42470940",
+    "source": "PubMed"
+  },
+  {
+    "title": "Coherence and the memorability of supernatural concepts.",
+    "summary": "A prominent theory in the cognitive science of religion proposes that supernatural concepts share a common structure that contributes to their cultural success. While concepts of all kinds - i.e., natural and supernatural - are theorized to rely on inferences drawn from intuitive ontological categories, supernatural concepts also violate these ontological categories. A few violations of intuitive ontologies promote memorability, however, too many violations cause concepts to degrade, reducing recall. Therefore, the optimal template for supernatural concepts is a minimally counterintuitive structure, containing a few, but not too many violations (Boyer, 2001). Here, we focus on so-called maximally counterintuitive concepts, which possess many violations are theorized to be recalled poorly. Sommer, Musolino, and Hemmer (2022) suggested that this lower recall might not be the result of ontological violations, but the lower coherence of supernatural characteristics. In two studies, we examine predictions from the coherence account of maximally counterintuitive concepts. In Study 1, we compare the coherence of participant-generated natural and supernatural concepts and find lower coherence for the latter. Additionally, our results suggest that lab-designed maximally counterintuitive concepts may have poor ecological validity. In Study 2, we assess memorability of high vs. low coherence natural and supernatural concepts. Our findings suggest that supernatural concepts with many violations may be poorly recalled because of low coherence, rather than because too many ontological violations render them difficult to represent in the mind.",
+    "authors": [
+      "Sommer Joseph",
+      "Musolino Julien",
+      "Hemmer Pernille"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42456400/",
+    "pmid": "42456400",
+    "source": "PubMed"
+  },
+  {
+    "title": "Discovering heart failure patient pathways through event enrichment and abstraction.",
+    "summary": "Integration of electronic health data from patients with heart failure into process mining could provide insights to the patient journey. However, the current approaches have challenges in addressing all aspects of patient care.",
+    "authors": [
+      "Antonov Anton",
+      "Beyel Harry H",
+      "Verket Marlo",
+      "Schwanen Christopher T",
+      "Peeva Viki",
+      "Pegoraro Marco",
+      "Brandts Julia",
+      "Müller-Wieland Dirk",
+      "Marx Nikolaus",
+      "van der Aalst Wil M P",
+      "Marx-Schütt Katharina"
+    ],
+    "published": "2026 Nov 01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42435615/",
+    "pmid": "42435615",
+    "source": "PubMed"
+  },
+  {
+    "title": "Retrieval-augmented generation for medication safety: A case study using drug package inserts.",
+    "summary": "Retrieval-augmented generation (RAG) has shown promise in mitigating hallucinations in large language models (LLMs), although its utility in medication safety education remains underexplored. To evaluate the performance of RAG-based LLMs in generating patient medication safety education materials, and to assess the agreement between LLM-as-a-judge evaluations and clinical expert judgments.",
+    "authors": [
+      "Sun Yuanyuan",
+      "Wang Wei",
+      "Cheng Wanqiu",
+      "Li Ronghui",
+      "Liu Xiang",
+      "Pei Qi",
+      "Tang Jintao",
+      "Yang Guoping"
+    ],
+    "published": "2026 Nov 01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42435614/",
+    "pmid": "42435614",
+    "source": "PubMed"
+  },
+  {
+    "title": "What can we learn from 30 years development of clinical decision support system?",
+    "summary": "Clinical decision support systems (CDSS) have emerged as a vital means to boost decision-making capabilities of clinicians, but still exhibit low clinical adoption rates. Systematically exploring the evolution, status, topic trends and variations of CDSS is expected to guide the development of next-generation CDSS.",
+    "authors": [
+      "Zhu Yifan",
+      "Yin Shuangyi",
+      "Song Yalin",
+      "Bai Ling",
+      "Guan Zheng",
+      "Lu Yuquan"
+    ],
+    "published": "2026 Nov 01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430884/",
+    "pmid": "42430884",
+    "source": "PubMed"
+  },
+  {
+    "title": "Urinary Proteome Enables Noninvasive Differentiation of Ureteropelvic Junction Obstruction From Vesicoureteral Reflux.",
+    "summary": "Currently, invasive diagnostic studies are needed to determine the underlying pathology of urinary tract dilation. In this study, we demonstrate that the urinary proteome can be used to differentiate between ureteropelvic junction obstruction and vesicoureteral reflux, which are the 2 most common diagnoses underlying congenital urinary tract dilation. These markers may have the potential to differentiate between obstructive and nonobstructive causes of urinary tract dilation.",
+    "authors": [
+      "Lee Ted",
+      "Vitko Dijana",
+      "Das Barnali",
+      "Cotsonas Abby",
+      "Prabhakran Manubhai K",
+      "Logvinenko Tanya",
+      "Froehlich John W",
+      "Lee Richard S"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430706/",
+    "pmid": "42430706",
+    "source": "PubMed"
+  },
+  {
+    "title": "Integrated quantitative proteomics reveals stress-associated network remodeling induced by mitragynine in RSC96 Schwann cells.",
+    "summary": "Mitragynine, the principal alkaloid of Mitragyna speciosa (kratom), exhibits opioid-like analgesic effects but is associated with tolerance following prolonged exposure. Schwann cells are particularly vulnerable to chemically induced toxicity, and disruption of their homeostatic functions has been implicated in neurotoxic injury. The cellular mechanisms underlying this adaptive response remain poorly understood. In this study, an integrated quantitative proteomics and systems biology approach was performed to investigate mitragynine-induced molecular remodeling in RSC96 Schwann cells. Cells were exposed to 20 µM mitragynine, the highest non-cytotoxic concentration, for 72 h and analyzed using liquid chromatography-tandem mass spectrometry (LC-MS/MS)-based proteomic profiling. Differentially expressed proteins were characterized through Gene Ontology enrichment, Kyoto Encyclopedia of Genes and Genomes (KEGG) and Reactome pathway mapping, InterPro domain annotation, and protein-protein interaction network reconstruction using STRING and BioGRID. Proteomic profiling identified 91 significantly altered proteins, comprising 60 downregulated and 31 upregulated proteins. Functional enrichment revealed coordinated suppression of translational machinery, cytoskeletal organization, and metabolic pathways associated with Schwann cell homeostasis. Network reconstruction highlighted AMP-activated protein kinase (AMPK) as a high-centrality node within the downregulated interaction network. Upregulated proteins were enriched in xenobiotic stress responses, aminoacyl-tRNA biosynthesis, and chromatin remodeling pathways. Structural similarity analysis revealed limited overlap between the mitragynine scaffold and morphine despite their shared receptor target. These findings suggest that chronic mitragynine exposure induces coordinated proteomic and network-level remodeling in Schwann cells, identifying regulatory pathways consistent with tolerance-related cellular adaptation and peripheral neurotoxic risk.",
+    "authors": [
+      "Hasriadi Hasriadi",
+      "Peththa Wadu Dasuni Wasana",
+      "Weerakul Thorsang",
+      "Pattamadilok Chutichot",
+      "Sritularak Boonchoo",
+      "Towiwat Pasarapa"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42423989/",
+    "pmid": "42423989",
+    "source": "PubMed"
+  },
+  {
+    "title": "Systematic Investigation of Key Drivers of Lung Adenocarcinoma: A Focus on Genes, Pathways, and miRNAs.",
+    "summary": "Lung cancer remains a leading cause of cancer-related mortality worldwide, largely due to its asymptomatic progression in early stages and the development of drug resistance. Non-small cell lung cancer (NSCLC) accounts for 80% of all lung cancer cases, and lung adenocarcinoma (LUAD) is the most prevalent subtype. Despite advancements in treatment, the 5-year survival rate for LUAD remains low. A comprehensive literature review across various databases was conducted to curate a robust set of LUAD-associated genes. These genes were used to construct a weighted network based on KEGG pathway similarity, followed by clustering, hub gene detection, and gene ontology analysis. In parallel, a protein-protein interaction (PPI) network and a gene-miRNA regulatory network were established to provide additional layers of molecular insight. Our analysis identified 48 genes as central to LUAD pathogenesis. Several of these genes, along with their corresponding miRNAs, exhibited significant dysregulation in LUAD tissues. The hub genes PIK3CA, BRAF, EGFR, ERBB2, FGFR3, MTOR, and TP53, along with KRAS, MET, and FGFR2, emerged as potential biomarkers. Additionally, miR-17-5p and miR-27a-3p were highlighted as novel biomarker candidates with strong implications in LUAD biology. In conclusion, this study provides a refined list of genes and miRNAs with high relevance for LUAD, alongside key signaling pathways central to disease progression. These findings establish a foundation for future studies and support the development of targeted therapeutic strategies aimed at improving clinical outcomes in LUAD.",
+    "authors": [
+      "Navaei Maryam",
+      "Karami Fatemeh",
+      "Jahanimoghadam Aria",
+      "Zareei Sara",
+      "Khorsand Babak"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42421540/",
+    "pmid": "42421540",
+    "source": "PubMed"
+  },
+  {
+    "title": "Fibroblast heterogeneity and abnormal phenotype transition in vaginal wall prolapse at single-nucleus transcriptional resolution.",
+    "summary": "Pelvic organ prolapse significantly impacts women's physical and mental health. Although current research primarily focuses on the analysis of extracellular matrix components, the underlying pathologic imbalances of pelvic organ prolapse remain incompletely understood. The functional roles and phenotypic changes of fibroblasts within the complex microenvironment of prolapsed tissue warrant further investigation.",
+    "authors": [
+      "Wu Chenghao",
+      "Zhang Shasha",
+      "Zhou Zixuan",
+      "Tong Xiaowen",
+      "Chu Lei",
+      "Chen Xinliang"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42413807/",
+    "pmid": "42413807",
+    "source": "PubMed"
+  },
+  {
+    "title": "Identification of Novel Interacting Proteins of FUZ and GPR161.",
+    "summary": "Protein-protein interactions are central to the dynamic regulation of signaling pathways and provide critical insight into the cellular mechanisms underlying human disease. Our previous study demonstrated biochemical and genetic interactions between FUZ and GPR161 in sonic hedgehog signaling during spinal neural tube development. In this study, we sought to identify novel interacting proteins of FUZ and GPR161 to further characterize their biochemical and functional relationships. Using affinity-based liquid chromatography-tandem mass spectrometry of immunoprecipitated complexes from cells overexpressing FUZ and GPR161, we identified 159 shared co-interacting proteins, along with 289 proteins exclusive to FUZ and 617 proteins exclusive to GPR161. Gene Ontology (GO) analysis of the co-interactome revealed significant enrichment in proteasomal catabolic processes and intracellular trafficking pathways. GO analysis of the FUZ-specific interactome showed enrichment in cell cycle progression, mitochondrial membrane, and RNA metabolism, whereas the GPR161-specific interactome was enriched in receptor complex and endoplasmic reticulum-Golgi transport pathways. These findings were supported by STRING network analysis. Among the prioritized candidates, FKBP8 was validated as a binding partner of both FUZ and GPR161. Collectively, our proteomic study defines the protein interaction networks of FUZ and GPR161, highlighting their distinct and cooperative roles in multiple cellular processes and providing a foundation for future functional studies.",
+    "authors": [
+      "Salazar Gabriella",
+      "Battenhouse Anna",
+      "Kim Andrew J",
+      "Kim Sung-Eun"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42400918/",
+    "pmid": "42400918",
+    "source": "PubMed"
+  },
+  {
+    "title": "Crystalline silica particles exposure modulated miRNA expression profiles in human macrophage-like THP-1 cells.",
+    "summary": "Occupational and environmental exposure to crystalline silica particles is a major global health concern linked to silicosis, pulmonary fibrosis, autoimmune disease, and lung cancer. MicroRNAs (miRNAs) regulate gene expression post-transcriptionally and are emerging as potential effect biomarkers of exposure in human biomonitoring studies. To identify intracellular and extracellular miRNAs responses to silica-particle exposure in human THP-1 derived macrophages, differentiated THP-1 derived macrophages were exposed to 0-300 µg/mL crystalline silica particles for 24 h. Cytotoxicity was assessed via LDH release assays. Expression profiles of 24 selected miRNAs were evaluated in intracellular and extracellular compartments, i.e., in cell-suspension and in their conditioned culturing media (secreted exosomes). Significant miRNAs were identified using fold change > ±1.5 and adjusted p < 0.05 (BH method), followed by functional enrichment and correlation analyses. Silica exposure induced dose-dependent cytotoxicity up to 200 µg/mL. Nine intracellular miRNAs (miR-132-5p, miR-1-3p, miR-146a-5p, miR-146b-3p, miR-146b-5p, miR-148a-3p, miR-181a-3p, miR-181c-3p, miR-193a-3p) were significantly modulated; five of these (miR-132-5p, miR-1-3p, miR-146a-5p, miR-148a-3p, miR-193a-3p) were also changed in the secreted exosomes. These five miRNAs showed often non-linear dose-response expression patterns, with bell-shaped or U-shaped trends. Functional enrichment analysis linked these miRNAs to immune activation, inflammatory signaling, and fibrotic pathways, and diseases including silicosis, pulmonary fibrosis, and metabolic disorders. Correlation analyses revealed co-regulation within intracellular and extracellular compartments, with selective miRNA export suggested for miR-193a-3p. In this macrophage model, silica exposure modulates miRNA expression in a non-linear dose-dependent and compartment-specific manner, highlighting intracellular and extracellular miRNAs as potential mechanistic mediators and biomarkers of exposure.",
+    "authors": [
+      "Kummari Evangel",
+      "Lindeman Birgitte",
+      "Nygaard Unni C",
+      "Helle-Valle Tellef",
+      "Ghosh Manosij",
+      "Hoet Peter H M",
+      "Dirven Hubert",
+      "Duale Nur"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42379284/",
+    "pmid": "42379284",
+    "source": "PubMed"
+  },
+  {
+    "title": "EGR1 mediates neuronal damage via suppressing HIF1A-induced mitophagy following traumatic brain injury.",
+    "summary": "Traumatic brain injury (TBI) remains a leading cause of neurological morbidity and mortality, characterized by complex pathophysiological cascades. Here, we investigate the role of the transcription factor EGR1 (early growth response 1) in modulating mitochondrial homeostasis via the HIF1A (hypoxia inducible factor 1, alpha subunit)-BNIP3 (BCL2/adenovirus E1B interacting protein 3) axis following TBI. Using integrated transcriptomic and epigenomic analyses, we identified EGR1 as a critical regulator of TBI pathology, with its expression acutely upregulated in neurons post-injury. Genetic ablation of",
+    "authors": [
+      "Hou Xiaoxiang",
+      "Zhang Danfeng",
+      "Sang Xianzheng",
+      "Peng Chaogui",
+      "Chen Wen",
+      "Xu Jing",
+      "Ye Yichao",
+      "Guo Yangu",
+      "Shi Hantong",
+      "Yang Chengzi",
+      "Cai Hanzi",
+      "Wang Yijian",
+      "Chu Guangxin",
+      "Xu Haoxiang",
+      "Lv Liquan",
+      "Jin Hai",
+      "Wang Chunhui",
+      "Qu Xiaolin"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42323821/",
+    "pmid": "42323821",
+    "source": "PubMed"
+  },
+  {
+    "title": "Theoretical study on manipulating core structure and energy level of non-fused ring electron acceptors in organic solar cells.",
+    "summary": "Non-fused ring electron acceptors (NFREAs) have recently received a lot of interest as a possible alternative to fused-ring acceptors in bulk heterojunction organic solar cells (OSCs) because of their synthetic simplicity and structural tunability. Nevertheless, there is still a lack of systematic knowledge regarding how interfacial charge dynamics and overall device performance are determined by molecular engineering of the core structure of NFREA. The Density functional theory (DFT) and time-dependent DFT (TD-DFT) calculations were used to describe the structure-property performance relationships of tetrathiophene-based NFREAs (4T-3, 4T-BOE, 4TThC-ICF, o-4TBC-2F, 4T-OEH, and LW-out-2F) and their donor/acceptor (D/A) interfaces with PBDB-T. We demonstrate that improved π-conjugation and electron-donating substitutions efficiently raise the highest occupied molecular orbital energy levels, narrow the bandgap, cause significant bathochromic shifts in optical absorption, and decrease nonradiative energy loss (E",
+    "authors": [
+      "Mubarik Adeel",
+      "Shafiq Faiza",
+      "Ju Xue-Hai"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42320291/",
+    "pmid": "42320291",
+    "source": "PubMed"
+  },
+  {
+    "title": "Cutibacterium acnes induces T-cell extracellular traps with distinct proteome programs.",
+    "summary": "Cutibacterium acnes is a common skin commensal associated with acne pathogenesis. In this study, we investigated whether acne-associated (denoted as C",
+    "authors": [
+      "To Thao Tam",
+      "Deng Min",
+      "Andrade Priscila R",
+      "Nguyen Nam Phuong N",
+      "Brewer Gregory M",
+      "Hu Chanyue",
+      "Agak George W"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42302922/",
+    "pmid": "42302922",
+    "source": "PubMed"
+  },
+  {
+    "title": "CD44 gene rs9666607 polymorphism is associated with papillary thyroid carcinoma and interacts with CREB3L1.",
+    "summary": "The incidence of papillary thyroid carcinoma (PTC) has been rising. CD44 is involved in cell adhesion and migration, but the role of its genetic variation in PTC remains unclear.",
+    "authors": [
+      "Ma Lili",
+      "Qu Xia",
+      "Li Xinxi",
+      "Tian Ye",
+      "Wang Bowei",
+      "Qiang Borong",
+      "Jiang Sheng",
+      "Bao Jianling",
+      "Du Guoli"
+    ],
+    "published": "2026 Nov ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42296777/",
+    "pmid": "42296777",
+    "source": "PubMed"
+  }
+]
