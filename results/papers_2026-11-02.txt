@@ -1,0 +1,31 @@
+Ontology 文献追踪报告 - 2026-11-02
+==================================================
+
+共发现 4 篇新论文
+
+--- PubMed (4 篇) ------------------------------
+
+1. Diagnosing Rare Genetic Diseases From Facial Images Using Visual Prompting With Multimodal Large Language Models: Diagnostic Accuracy Study.
+   作者: Song Jie, Xu Zhichuan, Xiao Meng, Bi Cheng, Zhang Yuxin 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42970790/
+   PMID: 42970790
+   摘要: Rare genetic diseases often present with recognizable facial phenotypes. Whether multimodal large language models (MLLMs) can prioritize the diagnosis of rare genetic diseases from facial images and whether image enhancement or visual prompting can improve this process remain unclear....
+
+2. Adherens Junctions and Spectrin-Associated Proteins Function Interdependently to Stabilize Fiber Cell Membranes and Preserve Lens Transparency.
+   作者: Coffman Electra, Martin Jessica B, Plageman Timothy F
+   链接: https://pubmed.ncbi.nlm.nih.gov/42969569/
+   PMID: 42969569
+   摘要: Cortical cataracts develop in mice in the absence of Arvcf, a protein that serves as a key component of the adherens junctional complex (AJC) in lens cells. This study aimed to mechanistically probe the proteomic complex associated with Arvcf to identify novel mechanisms underlying cortical cataract formation....
+
+3. InterPro: the protein sequence classification resource in 2027.
+   作者: Blum Matthias, Andreeva Antonina, Chuguransky Sara, Florentino Laise Cavalcanti, Flores Nicole Morveli 等 28 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42969043/
+   PMID: 42969043
+   摘要: InterPro (https://www.ebi.ac.uk/interpro) is a freely accessible resource for the classification of protein sequences. It integrates predictive models, known as signatures, from multiple member databases to classify sequences into families and to predict the presence of domains and functionally important sites. The InterPro database provides annotations for hundreds of millions of sequences, ensuring extensive coverage of UniProtKB, the standard repository of protein sequences, and includes mapp...
+
+4. HUCMSCs-Derived Exosomes Attenuate Keloid Fibroblast Pathological Phenotypes with Associated Metabolic-Redox-Matrix Network Remodeling: A Proteomic and
+   作者: Chen Zimiao, Lu Lina, Liu Qin, Chen Xiaosong
+   链接: https://pubmed.ncbi.nlm.nih.gov/42818600/
+   PMID: 42818600
+   摘要: Human umbilical cord mesenchymal stem cell-derived exosomes (HUCMSCs-Exo) have emerged as investigational cell-free candidates for the treatment of fibrotic diseases....
+
