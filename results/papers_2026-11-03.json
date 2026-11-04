@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Cross-Level Graph Fusion With Knowledge Distillation for Efficient and Accurate Drug Repositioning.",
+    "summary": "Drug repositioning accelerates the identification of novel therapeutic indications for approved compounds by leveraging established safety and pharmacokinetic profiles, thereby substantially reducing development costs and timelines. Heterogeneous graph neural networks have shown strong potential for modeling multi-relational biomedical associations among drugs, diseases, and protein targets. However, their considerable computational complexity limits scalability in high- throughput screening scenarios. Here, we present GraphKD-DR, a cross-level graph fusion framework that reconciles representational expressiveness with computational efficiency through knowledge distillation. Specifically, the teacher model integrates homogeneous similarity graphs with multi-view heterogeneous biomedical representations via Transformer-based cross-level fusion. Predictive, feature-level, and relational knowledge is then transferred from the teacher to a lightweight student model, substantially reducing model complexity while preserving predictive performance. GraphKD-DR achieves approximately 98% fewer parameters and reduces training time by 98.73-99.33%, while retaining comparable predictive performance relative to the teacher model. Experiments on three benchmark datasets demonstrate that GraphKD-DR achieves strong overall performance compared with six state-of-the-art methods across multiple evaluation metrics, including AUROC, AUPRC, and Matthews correlation coefficient. Case studies on Alzheimer's disease and breast neoplasms identify highly ranked candidate drugs with varying degrees of literature support, while molecular docking and ADMET analyses provide complementary in silico evidence for their computational prioritization. These results establish GraphKD-DR as an efficient framework for large-scale drug-disease association prediction and computational candidate prioritization.",
+    "authors": [
+      "Wang Guishen",
+      "Fu Yuyouqiang",
+      "Kong Yuxiang",
+      "Chen Honghan",
+      "Shi Caiye",
+      "Cao Chen"
+    ],
+    "published": "2026 Nov 03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42976061/",
+    "pmid": "42976061",
+    "source": "PubMed"
+  },
+  {
+    "title": "Experimental Design Signatures Emerge from Topic Modeling of Graphene Oxide Literature.",
+    "summary": "The literature on graphene oxide (GO) comprises hundreds of thousands of publications spanning synthesis, characterization, and applications in diverse domains. Advancing GO materials requires a structured knowledge map derived from systematic mining of this extensive corpus. However, extracting meaningful insights from this vast, heterogeneous, sparse, and unstructured data remains a challenge. To address this challenge, Natural Language Processing techniques, including topic modeling, community discovery, and parameter extraction, are here employed to establish a framework. Latent Dirichlet Allocation (LDA) was applied to the full text of more than 120,000 articles, enabling the identification of eight macro-domains within the GO literature, and neural topic modeling was subsequently employed to characterize the granularity and heterogeneity of these domains. Parameter extraction was performed using Large Language Models (LLMs) on a subset of 8000 full-text articles, with a proto-ontology incorporated into the extraction prompt. Even with a broad prompt, an F1 score of 94% was achieved against manual validation. The extracted parameters were then clustered through community modeling and compared with the LDA-derived topics. At this intermediate resolution of the literature, we demonstrate the application of a recommendation system for relevant parameters according to the material family and application domain. The applicability of the framework at higher resolutions was further demonstrated through the construction of a data set of CO2 adsorption for graphene- and GO-based materials. This data set was subsequently employed in a downstream predictive case study using an Extremely Randomized Trees Regressor, with different training-test splitting strategies evaluated to assess in-domain and out-of-domain generalization at article-level resolution.",
+    "authors": [
+      "Kobs Henry J",
+      "Ferreira Henrique",
+      "Yang Liu",
+      "Paula Amauri J",
+      "Andrade Carlos E",
+      "Faria Andreia F"
+    ],
+    "published": "2026 Nov 03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42975260/",
+    "pmid": "42975260",
+    "source": "PubMed"
+  },
+  {
+    "title": "The Network Psychometric Properties of the Temporomandibular Joint Disorder Questionnaire Among Australian Adults.",
+    "summary": "Australian adults have at least one symptom of temporomandibular joint disorder (TMD), and those who experience TMD report lower oral health-related quality of life. While a self-administered TMD questionnaire can be a valuable screening instrument for initial identification of disease/conditions, to the best of our knowledge, there are no comprehensively validated TMD questionnaires for the Australian population.",
+    "authors": [
+      "Singh Abanish",
+      "Nath Sonia",
+      "Jamieson Lisa",
+      "Santiago Pedro Henrique Ribeiro"
+    ],
+    "published": "2026 Nov 03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42973379/",
+    "pmid": "42973379",
+    "source": "PubMed"
+  },
+  {
+    "title": "De Novo transcriptome assembly and functional annotation in non-model organisms.",
+    "summary": "Advances in RNA sequencing have established transcriptomics as a key approach for investigating gene expression, regulation, and functional diversity across both model and non-model organisms. In the absence of high-quality reference genomes, de novo transcriptome assembly remains essential, yet its accuracy and reproducibility depend heavily on the choice and integration of computational strategies. This review provides a comprehensive and structured framework for de novo transcriptome reconstruction and functional annotation in non-model systems, integrating current best practices across quality control, assembly, redundancy reduction, and annotation workflows. We systematically compare short-read, long-read, and hybrid assembly approaches, and evaluate multi-layered annotation strategies combining homology-based, domain-based, and ontology-driven methods. We further highlight emerging developments, including long-read transcriptomics, machine learning-assisted annotation, orthology inference, and multi-omics integration, which improve transcriptome completeness and biological interpretability. Key limitations in current workflows are critically examined, including database biases, incomplete annotations, and challenges in isoform resolution, particularly in underrepresented taxa. By consolidating methodological advances with practical recommendations, this review proposes a reproducible and scalable roadmap for transcriptome analysis in non-model organisms. We also discuss future directions, including the development of inclusive reference databases, AI-driven annotation frameworks, and open, containerized infrastructures aligned with FAIR principles to support global transcriptomics research.",
+    "authors": [
+      "Habib Nihal",
+      "Rfaki Abderrazak",
+      "Al Idrissi Najib",
+      "Nejjari Chakib",
+      "Belyamani Lahcen",
+      "Ghazal Hassan"
+    ],
+    "published": "2026 Nov 03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42972139/",
+    "pmid": "42972139",
+    "source": "PubMed"
+  }
+]

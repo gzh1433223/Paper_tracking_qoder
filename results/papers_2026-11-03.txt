@@ -1,0 +1,31 @@
+Ontology 文献追踪报告 - 2026-11-03
+==================================================
+
+共发现 4 篇新论文
+
+--- PubMed (4 篇) ------------------------------
+
+1. Cross-Level Graph Fusion With Knowledge Distillation for Efficient and Accurate Drug Repositioning.
+   作者: Wang Guishen, Fu Yuyouqiang, Kong Yuxiang, Chen Honghan, Shi Caiye 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42976061/
+   PMID: 42976061
+   摘要: Drug repositioning accelerates the identification of novel therapeutic indications for approved compounds by leveraging established safety and pharmacokinetic profiles, thereby substantially reducing development costs and timelines. Heterogeneous graph neural networks have shown strong potential for modeling multi-relational biomedical associations among drugs, diseases, and protein targets. However, their considerable computational complexity limits scalability in high- throughput screening sce...
+
+2. Experimental Design Signatures Emerge from Topic Modeling of Graphene Oxide Literature.
+   作者: Kobs Henry J, Ferreira Henrique, Yang Liu, Paula Amauri J, Andrade Carlos E 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42975260/
+   PMID: 42975260
+   摘要: The literature on graphene oxide (GO) comprises hundreds of thousands of publications spanning synthesis, characterization, and applications in diverse domains. Advancing GO materials requires a structured knowledge map derived from systematic mining of this extensive corpus. However, extracting meaningful insights from this vast, heterogeneous, sparse, and unstructured data remains a challenge. To address this challenge, Natural Language Processing techniques, including topic modeling, communit...
+
+3. The Network Psychometric Properties of the Temporomandibular Joint Disorder Questionnaire Among Australian Adults.
+   作者: Singh Abanish, Nath Sonia, Jamieson Lisa, Santiago Pedro Henrique Ribeiro
+   链接: https://pubmed.ncbi.nlm.nih.gov/42973379/
+   PMID: 42973379
+   摘要: Australian adults have at least one symptom of temporomandibular joint disorder (TMD), and those who experience TMD report lower oral health-related quality of life. While a self-administered TMD questionnaire can be a valuable screening instrument for initial identification of disease/conditions, to the best of our knowledge, there are no comprehensively validated TMD questionnaires for the Australian population....
+
+4. De Novo transcriptome assembly and functional annotation in non-model organisms.
+   作者: Habib Nihal, Rfaki Abderrazak, Al Idrissi Najib, Nejjari Chakib, Belyamani Lahcen 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42972139/
+   PMID: 42972139
+   摘要: Advances in RNA sequencing have established transcriptomics as a key approach for investigating gene expression, regulation, and functional diversity across both model and non-model organisms. In the absence of high-quality reference genomes, de novo transcriptome assembly remains essential, yet its accuracy and reproducibility depend heavily on the choice and integration of computational strategies. This review provides a comprehensive and structured framework for de novo transcriptome reconstr...
+
