@@ -1,0 +1,49 @@
+Ontology 文献追踪报告 - 2026-11-04
+==================================================
+
+共发现 7 篇新论文
+
+--- PubMed (7 篇) ------------------------------
+
+1. Complex-Valued Relational Embeddings With Amplitude-Phase Decomposition for Scene Graph Generation.
+   作者: Jung NamGyu, Choi Chang
+   链接: https://pubmed.ncbi.nlm.nih.gov/42981241/
+   PMID: 42981241
+   摘要: Learning compact and discriminative representations of object relations is central to structured visual reasoning. In scene graph generation, these relations must be inferred from ambiguous visual cues under a heavy class imbalance; yet most methods encode a relation as a single real-valued vector that entangles interaction strength with a discriminative orientation, so frequent predicates overwrite the distinctions among rare ones. We propose CReaL, which fuses the subject-object pair with its ...
+
+2. Osteoclastogenesis associated gene signatures in postmenopausal low bone mineral density: cross-dataset transcriptomics and whole-blood validation.
+   作者: Anbreen Nasira, Iqbal Muhammad Junaid, Wahab Hussain, Manzoor Shumaila, Tariq Aamira 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42980885/
+   PMID: 42980885
+   摘要: Osteoporosis is characterized by reduced bone mass and increased fracture risk, yet minimally invasive molecular correlates of postmenopausal low bone mineral density remain limited....
+
+3. Multiobjective exploration of intramolecular torsional space.
+   作者: Lazzari Federico, Crisci Luigi, Barone Vincenzo
+   链接: https://pubmed.ncbi.nlm.nih.gov/42978402/
+   PMID: 42978402
+   摘要: We present an exploration-first strategy for intramolecular conformational search. Because practical quantum-chemical (QC) models are approximate, candidate retention combines energy and interaction descriptors as separate objectives, while structural diversity is preserved until post-search reduction. The SEEKER (Structural Ensemble Exploration through Knowledge-Guided Evaluation and Routing) program explores explicitly declared acyclic torsions through unit-quaternion rotations while retaining...
+
+4. Telomere-to-telomere co-mapping of transposable elements and human genes identifies a cluster of young L1 elements in the interferon-alpha domain with potential evolutionary arms-race.
+   作者: Nikitin Daniil
+   链接: https://pubmed.ncbi.nlm.nih.gov/42777117/
+   PMID: 42777117
+   摘要: Transposable elements (TEs) have played a central role in major evolutionary transitions across the human lineage, from eukaryogenesis to the emergence of the eutherian placenta, and are currently reactivated in cancer and autoimmune diseases. The complete telomere-to-telomere (T2T) assembly enables comprehensive investigation of TE contributions to gene regulation. Using a 10 kb window around transcription start sites, we mapped 3,709,429 human TEs to 28,738 genes against a 500-permutation back...
+
+5. Age-dependent genetic effects contribute to immunosenescence in Drosophila melanogaster.
+   作者: Campbell Shonda, Gudino Isabella, Rhee Mary, Harbison Susan, Leips Jeff
+   链接: https://pubmed.ncbi.nlm.nih.gov/42759491/
+   PMID: 42759491
+   摘要: Immunosenescence, the age-related decline in immune function, varies widely among individuals. Although both genetic and environmental factors contribute to variation in immunosenescence, the extent to which age-specific genetic effects shape age-related immune decline remains poorly understood. Here, we tested whether age-related variation in bacterial clearance is shaped by age-dependent genetic effects by measuring clearance of Escherichia coli infection in 175 genotypes at 1 wk of age and 18...
+
+6. Temporal transcriptomic and microbiome changes in American bison during experimental SARS-CoV-2 challenge.
+   作者: Petry Bruna, Boggiatto Paola M, Buckley Alexandra, Cassmann Eric D, Sarlo Davila Kaitlyn 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42684938/
+   PMID: 42684938
+   摘要: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) continues to pose a threat to humans as well as domestic and wild animals. The variability in severity of clinical signs, the zoonotic potential, and the host-specific response to infection contribute to the persistence of circulation of disease. In wildlife species, white-tailed deer have been shown to be more permissive to infection than bovids. However, among bovids, American bison have shown a greater susceptibility than cattle. In...
+
+7. Transcriptomic signature of frontotemporal lobar degeneration with TDP-43 type C pathology.
+   作者: Rajicic Ana, Mol Merel O, Melhem Shamiram, Kisic Helena, van Swieten John C 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/41789476/
+   PMID: 41789476
+   摘要: The semantic variant of primary progressive aphasia is a clinical subtype of frontotemporal lobar degeneration and is marked by TDP-43 subtype C pathology (FTLD-TDP C). It is a sporadic disease, yet has a strikingly homogeneous clinicopathological presentation, suggesting a common pathophysiology. The aim of this study was to discover dysregulated pathways in FTLD-TDP C through transcriptomics of the temporal cortex-its most affected region. Bulk RNA sequencing was conducted on temporal cortices...
+

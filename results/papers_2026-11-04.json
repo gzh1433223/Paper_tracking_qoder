@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Complex-Valued Relational Embeddings With Amplitude-Phase Decomposition for Scene Graph Generation.",
+    "summary": "Learning compact and discriminative representations of object relations is central to structured visual reasoning. In scene graph generation, these relations must be inferred from ambiguous visual cues under a heavy class imbalance; yet most methods encode a relation as a single real-valued vector that entangles interaction strength with a discriminative orientation, so frequent predicates overwrite the distinctions among rare ones. We propose CReaL, which fuses the subject-object pair with its context through complex multiplication, letting the context scale the magnitude and shift the phase of the relation. The result is split into an amplitude branch trained for interaction strength and a phase branch for the angular structure that discriminates similar relations, with branch-specific objectives that keep the two disentangled. A dynamic gating mechanism then fuses them with per-class weights computed from both branches, and the framework stays compatible with standard real-valued pipelines. On Visual Genome 150 (VG-150), CReaL improves mR@100 across predicate classification (PredCls), scene graph classification (SGCls), and scene graph detection (SGDet) over state-of-the-art methods, including a 5.9% gain in PredCls over the strongest knowledge-graph-based baseline despite using no external knowledge graph, and it attains the best overall score on Open Images v6 (OI-V6). Visualization and clustering analyses show that the amplitude and phase form complementary structures whose gated combination sharpens decision boundaries, indicating that explicit relational decomposition is an effective foundation for fine-grained relational understanding.",
+    "authors": [
+      "Jung NamGyu",
+      "Choi Chang"
+    ],
+    "published": "2026 Nov 04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42981241/",
+    "pmid": "42981241",
+    "source": "PubMed"
+  },
+  {
+    "title": "Osteoclastogenesis associated gene signatures in postmenopausal low bone mineral density: cross-dataset transcriptomics and whole-blood validation.",
+    "summary": "Osteoporosis is characterized by reduced bone mass and increased fracture risk, yet minimally invasive molecular correlates of postmenopausal low bone mineral density remain limited.",
+    "authors": [
+      "Anbreen Nasira",
+      "Iqbal Muhammad Junaid",
+      "Wahab Hussain",
+      "Manzoor Shumaila",
+      "Tariq Aamira",
+      "Aruge Samreen",
+      "Menotta Michele"
+    ],
+    "published": "2026 Nov 04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980885/",
+    "pmid": "42980885",
+    "source": "PubMed"
+  },
+  {
+    "title": "Multiobjective exploration of intramolecular torsional space.",
+    "summary": "We present an exploration-first strategy for intramolecular conformational search. Because practical quantum-chemical (QC) models are approximate, candidate retention combines energy and interaction descriptors as separate objectives, while structural diversity is preserved until post-search reduction. The SEEKER (Structural Ensemble Exploration through Knowledge-Guided Evaluation and Routing) program explores explicitly declared acyclic torsions through unit-quaternion rotations while retaining fixed ring families. We assess reference-set coverage for amino acids, the sugars D-glucose, erythrulose, and fructose, and thiopronine using per-reference nearest-candidate heavy-atom root-mean-square deviation (RMSD), minimized over graph automorphisms. Four amino-acid systems are also examined across four production seeds using same-level optimized references and candidates, all-atom RMSDs, and one-to-one assignment. Fixed-budget audits probe seed sensitivity for glycine and thiopronine, with three and six torsions, respectively. The results establish feasibility within the tested systems and motivate evaluation on larger torsional spaces and against established protocols.",
+    "authors": [
+      "Lazzari Federico",
+      "Crisci Luigi",
+      "Barone Vincenzo"
+    ],
+    "published": "2026 Nov 04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978402/",
+    "pmid": "42978402",
+    "source": "PubMed"
+  },
+  {
+    "title": "Telomere-to-telomere co-mapping of transposable elements and human genes identifies a cluster of young L1 elements in the interferon-alpha domain with potential evolutionary arms-race.",
+    "summary": "Transposable elements (TEs) have played a central role in major evolutionary transitions across the human lineage, from eukaryogenesis to the emergence of the eutherian placenta, and are currently reactivated in cancer and autoimmune diseases. The complete telomere-to-telomere (T2T) assembly enables comprehensive investigation of TE contributions to gene regulation. Using a 10 kb window around transcription start sites, we mapped 3,709,429 human TEs to 28,738 genes against a 500-permutation background and assessed the enrichment and functional associations of 6 TE classes and 44 families. We identified a 220 kb interferon-alpha domain enriched with young L1 elements: 77 of its 175 TEs are evolutionary young L1 copies from 36 subfamilies, at mean divergence 135.7 against 188.2 genome-wide. This is consistent with recent L1 activity and could indicate a recent evolutionary arms-race affecting innate immune gene regulation. Distinct TE classes exhibited specific functional associations: SVA elements were enriched near genes involved in transcription termination; Alu elements were linked to RNA processing and splicing; MIR elements were associated with zinc homeostasis and voltage-gated potassium channel genes; LINE elements were enriched near genes related to lipid metabolism and olfactory perception; and LTR elements were associated with ion transport. This correlative map provides a positional baseline against which epigenomic and functional TE studies can be normalized, and a set of candidate loci for further investigation of evolutionary arms race.",
+    "authors": [
+      "Nikitin Daniil"
+    ],
+    "published": "2026 Nov 04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42777117/",
+    "pmid": "42777117",
+    "source": "PubMed"
+  },
+  {
+    "title": "Age-dependent genetic effects contribute to immunosenescence in Drosophila melanogaster.",
+    "summary": "Immunosenescence, the age-related decline in immune function, varies widely among individuals. Although both genetic and environmental factors contribute to variation in immunosenescence, the extent to which age-specific genetic effects shape age-related immune decline remains poorly understood. Here, we tested whether age-related variation in bacterial clearance is shaped by age-dependent genetic effects by measuring clearance of Escherichia coli infection in 175 genotypes at 1 wk of age and 183 genotypes at 5 wk of age. Clearance ability declined with age, but the magnitude of decline differed markedly among genotypes. Age-specific genetic effects explained substantially more phenotypic variation than age-independent genetic differences, and the genetic correlation in clearance ability across ages was modest, indicating that genetic effects on immune performance were only partially shared across ages. Consistent with these findings, genome-wide analyses identified largely distinct sets of candidate genes associated with clearance in young and old flies, including genes exhibiting genotype-by-age effects. Network and gene ontology analyses revealed enrichment for plasma membrane-associated genes and pathways involved in cell adhesion and cell migration. Functional follow-up of 14 candidate genes using hemocyte-specific RNA interference produced limited effects overall but confirmed that nebulosa contributes to bacterial clearance. Together, our results demonstrate that immunosenescence is shaped by age-dependent genetic effects and identify conserved pathways and candidate genes for future mechanistic studies of age-related immune decline.",
+    "authors": [
+      "Campbell Shonda",
+      "Gudino Isabella",
+      "Rhee Mary",
+      "Harbison Susan",
+      "Leips Jeff"
+    ],
+    "published": "2026 Nov 04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42759491/",
+    "pmid": "42759491",
+    "source": "PubMed"
+  },
+  {
+    "title": "Temporal transcriptomic and microbiome changes in American bison during experimental SARS-CoV-2 challenge.",
+    "summary": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) continues to pose a threat to humans as well as domestic and wild animals. The variability in severity of clinical signs, the zoonotic potential, and the host-specific response to infection contribute to the persistence of circulation of disease. In wildlife species, white-tailed deer have been shown to be more permissive to infection than bovids. However, among bovids, American bison have shown a greater susceptibility than cattle. In this study, we investigate the transcriptomic response to experimental SARS-CoV-2 infection in bison over time. Substantial numbers of differentially expressed genes were identified between pre- and 2, 5, 7, 14, and 21 days post-inoculation. Kyoto Encyclopedia of Genes and Genomes and Gene Ontology term analysis identified associations with immune response, inflammatory response, and viral infection including COVID-19. Ingenuity Pathway Analysis of the coronavirus pathway highlighted differences in signaling at days 2 versus 21 post-inoculation. We additionally examined changes in the nasal microbiome of bison over the course of experimental infection, which suggested an increase in opportunity for secondary infection causing pathogens such as Mannheimia. Collectively, this study presents a profile of bison transcriptomic response to SARS-CoV-2 infection and continues to expand our understanding of variation in host response.",
+    "authors": [
+      "Petry Bruna",
+      "Boggiatto Paola M",
+      "Buckley Alexandra",
+      "Cassmann Eric D",
+      "Sarlo Davila Kaitlyn",
+      "Olsen Steven C",
+      "Fernandes Luis Guilherme Virgilio",
+      "Tibbs-Cortes Bienvenido",
+      "Rahic-Seggerman Faith M",
+      "Palmer Mitchell V",
+      "Putz Ellie J"
+    ],
+    "published": "2026 Nov 04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42684938/",
+    "pmid": "42684938",
+    "source": "PubMed"
+  },
+  {
+    "title": "Transcriptomic signature of frontotemporal lobar degeneration with TDP-43 type C pathology.",
+    "summary": "The semantic variant of primary progressive aphasia is a clinical subtype of frontotemporal lobar degeneration and is marked by TDP-43 subtype C pathology (FTLD-TDP C). It is a sporadic disease, yet has a strikingly homogeneous clinicopathological presentation, suggesting a common pathophysiology. The aim of this study was to discover dysregulated pathways in FTLD-TDP C through transcriptomics of the temporal cortex-its most affected region. Bulk RNA sequencing was conducted on temporal cortices of a post-mortem cohort of 18 FTLD-TDP C patients and 23 sex- and age-matched controls. Differential expression and functional analyses were performed to identify differentially expressed genes [DEGs; false discovery rate (FDR) < 0.05] and functionally annotate them. We assessed the enrichment of TARDBP's protein interactors and RNA targets among the DEGs. Our findings were compared with other published RNA sequencing data on tauopathies (Alzheimer's dementia, progressive supranuclear palsy and FTLD with MAPT), FTLD-TDP (subtypes A and B) and available proteomics from this cohort. Additionally, we performed a weighted gene co-expression network analysis (WGCNA), adjusting for differences in cell type composition between cases and controls using cell deconvolution, and removing genes dysregulated in temporal cortices identified in other datasets. Among the FTLD-TDP DEGs, we focused on the enrichment of synaptic processes using SynGO. We found upregulation of (i) damage response, (ii) cell structure and (iii) RNA splicing processes, and (iv) downregulation of synaptic processes in 6322 DEGs and five disease-related WGCNA modules. TARDBP-related genes were enriched among the DEGs. Additionally, transmembrane transport across the neurovascular unit was dysregulated. After cell deconvolution and removal of common tau genes, postsynaptic processes remained dysregulated, specifically the gene ontology terms 'modulation of chemical synaptic transmission' and 'neurotransmitter receptor localization to postsynaptic specialization membrane'. We found 11 synaptic FTLD-TDP C-specific genes affected at both the RNA and protein levels in the temporal cortex, which were involved in synaptic adhesion (CADM1, NCAN), signal transmission (COMT, RGS144, SLC1A2, TUBB2B) and synaptic plasticity (BEGAIN, ITPKA, LRFN1, RAB3B, SYNPO). In conclusion, a wide range of processes were dysregulated at the RNA level in the temporal cortex of FTLD-TDP C, including commonly affected processes in neurodegeneration, such as structural cell alterations. Dysregulation of TARDBP-related genes and RNA splicing has also been observed in other TDP-43 proteinopathies. Importantly, we found that postsynaptic processes were downregulated in FTLD-TDP C, after removing tauopathy-related genes and after cell deconvolution. In particular, the assembly of receptors at the postsynaptic membrane and synaptic signal transmission were affected, both at the RNA and protein levels. Future research on these pathways could elucidate distinct pathophysiological mechanisms and guide targeted clinical approaches.",
+    "authors": [
+      "Rajicic Ana",
+      "Mol Merel O",
+      "Melhem Shamiram",
+      "Kisic Helena",
+      "van Swieten John C",
+      "Seelaar Harro",
+      "van Rooij Jeroen G J"
+    ],
+    "published": "2026 Nov 04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41789476/",
+    "pmid": "41789476",
+    "source": "PubMed"
+  }
+]
