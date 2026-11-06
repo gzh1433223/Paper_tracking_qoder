@@ -1,0 +1,175 @@
+[
+  {
+    "title": "Unveiling Molecular Basis of Terminalia chebula in Modulating the AGE-RAGE-PRKCB Axis in Diabetic Nephropathy: Integrative Network Pharmacology and Computational Study.",
+    "summary": "AbstractDiabetic nephropathy (DN), a progressive microvascular complication of diabetes, remains a principal cause of renal failure worldwide, yet its multifaceted molecular complexity continues to challenge effective therapeutic intervention. In this study, an integrative network pharmacology and computational modeling framework was employed to unravel the mechanistic basis of Terminalia chebula in mitigating DN pathology. A total of 357 phytoconstituents were retrieved from the IMPPAT 2.0 and PubChem databases and screened through SwissADME and pkCSM, yielding 14 bioactive, drug-like, and non-toxic compounds. Target prediction integrated data from SwissTargetPrediction, BindingDB, and CTD, while DN-related genes were compiled from GeneCards, OMIM, and transcriptomic datasets (GSE154561, GSE154881, GSE217709, and GSE30528). Overlapping targets were analyzed using STRING and Cytoscape to identify key hub proteins, followed by Gene Ontology (GO) and KEGG enrichment analysis. Integration of compound- and disease-associated targets identified 173 overlapping genes. Enrichment analyses revealed significant involvement in the AGE-RAGE signaling pathway, implicating PRKCB as a key regulatory node linking hyperglycemia to oxidative stress, inflammation, and apoptosis. The Random Forest-based QSAR model (R2 = 0.91, RMSE = 0.41) denoted Luteolin and Quercetin as potent PRKCB inhibitors (predicted pIC₅₀ ≥ 6). Docking and molecular dynamics simulations confirmed stable PRKCB binding (RMSD ≤ 3.0 Å; ΔG_bind ≈ -122 kcal/mol), supported by DFT analysis indicating high chemical softness and strong charge-transfer potential. This integrative computational analysis suggests that T. chebula may exert renoprotective effects through modulation of the PRKCB-driven AGE-RAGE axis, with luteolin and quercetin emerging as promising natural inhibitors. Therefore, these computational findings provide potential molecular insight into the traditional therapeutic efficacy of T. chebula and a foundation for further experimental validation in DN.",
+    "authors": [
+      "Niaz S M Riaduzzaman",
+      "Jannat Sumaia",
+      "Al Ashik Sheikh Abdullah",
+      "Islam Md Khairul"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42986908/",
+    "pmid": "42986908",
+    "source": "PubMed"
+  },
+  {
+    "title": "Bridging scRNA-seq and scATAC-seq With Graph Domain Adaptation for Cell Type Annotation.",
+    "summary": "Accurate cell type annotation of single-cell ATAC-seq (scATAC-seq) data is crucial for downstream analysis but remains challenging due to the modality gap between scATAC-seq and scRNA-seq. Cross-omics methods typically transfer annotations from scRNA-seq References via label propagation, but often suffer from overcorrection, which can obscure biological variability. To address the challenges associated with cross-omics alignment in scATAC-seq cell type annotation, we propose scGDA, a task-specific graph domain adaptation (GDA) framework that integrates modality-specific graph modeling, structural representation learning, and cross-modality alignment for scRNA-seq to scATAC-seq label transfer. In particular, scGDA independently constructs k-nearest neighbor graphs for both scRNA-seq and scATAC-seq datasets and employs dual graph neural network modules to capture both global and local structural features within each omics. These omics-specific representations are subsequently aligned within a shared embedding space, enabling effective knowledge transfer for cell type annotation. Extensive experiments across multiple benchmark datasets demonstrate that scGDA achieves competitive or superior accuracy compared with existing methods. The source code is available at https://anonymous.4open.science/r/scGDA-4B05.",
+    "authors": [
+      "Liu Yan",
+      "Xia Yu",
+      "Yan He",
+      "Shen Long-Chen",
+      "Zhu Yi-Heng",
+      "Qiang Ji-Peng",
+      "Wei Guo",
+      "Wu Xin-Dong"
+    ],
+    "published": "2026 Nov 05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42986739/",
+    "pmid": "42986739",
+    "source": "PubMed"
+  },
+  {
+    "title": "Data, AI and healthcare equity: why Africa is being left behind and how synthetic data can close the gap.",
+    "summary": "Only 2% of the world's Artificial Intelligence (AI) training data originates from Africa, while the continent bears more than 20% of the global disease burden - a historic disparity representing a form of epistemic injustice. Health AI is improving screening, diagnostics, data analysis, telemedicine, surgical support, administrative automation, drug development, and other applications globally. Yet Africa is falling behind due to data scarcity - a disparity mirroring the inequities seen during the COVID-19 pandemic. To rectify this epistemic injustice and alleviate the region's disproportionate disease burden, I argue that cautiously adopting synthetic data as an immediate, practical short-term solution to bridge the current data gap is not only pragmatic but also an ethical imperative. This should be paired with foundational and consolidated AI governance frameworks reflecting diverse African ontologies, ongoing investment in physical and digital infrastructure, and developing interoperable data systems. Synthetic data is no longer novel; it is already a standard practice in health, medical and life sciences fields. Studies show that synthetic data can closely mimic real-world data to the extent that even domain experts may struggle to distinguish between the two, and some forecasts predict it will overshadow real data in AI models by 2030. Thus, the technology offers a viable, immediately deployable resource that can accelerate equitable healthcare delivery across Africa if adopted with appropriate ethical safeguards. Moreover, its deployment can help ensure that AI development aligns with context-specific lived realities, reflects African ethical frameworks, and respects diverse knowledge systems - provided it is designed with local input.",
+    "authors": [
+      "Kasoka Kasoka"
+    ],
+    "published": "2026 Nov 05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42986603/",
+    "pmid": "42986603",
+    "source": "PubMed"
+  },
+  {
+    "title": "Integrated Network Pharmacology and Experimental Analyses of the Anti-Colorectal Cancer Effects of Cinobufotalin.",
+    "summary": "To investigate the potential mechanism of cinobufotalin against colorectal cancer (CRC) through network pharmacology and experimental approaches.",
+    "authors": [
+      "Yao Jia-Jiu",
+      "Li Yu",
+      "Zhang Cui-Cui",
+      "He Kai",
+      "Mei Run",
+      "Tian Xiao-Xi",
+      "Shang Yu-Yu"
+    ],
+    "published": "2026 Nov 05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42986572/",
+    "pmid": "42986572",
+    "source": "PubMed"
+  },
+  {
+    "title": "7-Hydroxyflavone Attenuates Amyloid-β-Induced Alzheimer's Disease-Like Pathology Through Modulation of ROS/NLRP3 Inflammasome Signaling.",
+    "summary": "Alzheimer's disease (AD), the widely recognised neurodegenerative disease with no proper cure to date, is typified by memory decline. Apart from the amyloid hypothesis and cholinergic dysfunction, neuroinflammation is also a key factor behind AD. 7-Hydroxyflavone (7HF), a flavonoid, possesses antioxidant, anti-inflammatory, and neuroprotective activities and remains unexplored in AD. Thus, in our study, we aimed to investigate the efficacy of 7HF against amyloid beta (Aβ)-induced AD in mice. Target acquisition for AD- and 7HF-related targets was performed, and gene ontology enrichment analysis was conducted using network pharmacology. 7HF was docked with AChE and NLRP3 proteins. The effect of 7HF was evaluated on Aβ-induced cytotoxicity, AChE activity and proinflammatory cytokines in Neuro2a (N2a) cells. Aβ",
+    "authors": [
+      "Rakshit Debarati",
+      "Mishra Awanish"
+    ],
+    "published": "2026 Nov 05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42986540/",
+    "pmid": "42986540",
+    "source": "PubMed"
+  },
+  {
+    "title": "Applications, Technical Characteristics, and Evaluation Approaches of Retrieval-Augmented Generation in Nursing: Scoping Review.",
+    "summary": "Large language models (LLMs) show great potential for widespread application in the field of nursing; however, their limitations include hallucinations, insufficient domain knowledge, and delays in updating evidence. Retrieval-augmented generation (RAG), by combining external knowledge retrieval with text generation, holds promise for optimizing model outputs. However, current evidence on the use of RAG in nursing remains fragmented and has not been systematically synthesized.",
+    "authors": [
+      "Chen Mengqi",
+      "Ma Anna",
+      "Wang Chengyun",
+      "Lyu Chuanwu",
+      "He Yonghui",
+      "Xu Zhongkang",
+      "Li Xueyun",
+      "Cheng Danyang",
+      "Li Jie",
+      "Wang Lina"
+    ],
+    "published": "2026 Nov 05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42986217/",
+    "pmid": "42986217",
+    "source": "PubMed"
+  },
+  {
+    "title": "Metabolomics Subcenter (Met-SC): an integrated metabolomics database and analysis platform.",
+    "summary": "The rapid growth of metabolomics data has increased the need for integrated storage, analysis, and reuse. Here, we present Metabolomics Subcenter (Met-SC) V1.0 (https://metabolomics.dicp.ac.cn/), an integrated database and platform for standardized data deposition, spectral-resource management, online analysis, and disease-focused knowledge mining. The deposition framework captures project, sample, pretreatment, and instrument metadata across chromatographic, capillary electrophoresis-mass spectrometry, and nuclear magnetic resonance workflows. Met-SC contains 7  756  867 reference spectra associated with 1 989 680 unique compounds and 73  014  049 unknown-feature spectra derived from diverse biological matrices and experimental conditions. Its web-based analysis module provides 27 functions for data preprocessing, quality-control visualization, and statistical analysis. Metabolism-centered knowledge graph for colorectal cancer (MetKG-CRC) comprises 108 679 biomolecular entities and 600 093 literature-supported evidence triples. By linking data deposition, spectral resources, analysis, and evidence-supported knowledge exploration in a single platform, Met-SC facilitates reproducible metabolomics data management and downstream discovery.",
+    "authors": [
+      "Wen Liliang",
+      "Wang Mingchao",
+      "Zeng Zhongda",
+      "Song Shuhui",
+      "Zhao Wenming",
+      "Xu Guowang",
+      "Liu Xinyu"
+    ],
+    "published": "2026 Nov 05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42984451/",
+    "pmid": "42984451",
+    "source": "PubMed"
+  },
+  {
+    "title": "Integrative miRNA-multi-omics analysis of brain-metastasis predisposition in non-small cell lung cancer prioritizes HDAC inhibitors and anti-miR-330-3p as hypothesis-generating therapeutic candidates.",
+    "summary": "Brain metastasis (BM) is the leading cause of death in non-small cell lung cancer (NSCLC), yet its molecular drivers remain poorly targeted. Here we present an integrative in-silico pipeline that moves from miRNA discovery to therapeutic hypothesis generation. Reprocessing the GSE23019 miRNA microarray cohort (7 BM+ versus 5 BM- primary tumors) recovered the published BM-associated miRNAs miR-328 and miR-330-3p and, through validated miRNA-target interactions, yielded a signature of 828 up-regulated and 177 down-regulated genes enriched for extracellular-matrix and vasculature programs. Resampling analyses show this discovery-cohort signal is directionally reproducible but statistically fragile (no probe passes FDR control; permutation P = 0.29), so we carry it forward only as a seed for independent testing. In 519 TCGA lung adenocarcinomas, multi-omics factor analysis linked the signature to a latent stromal factor whose association with worse overall survival persisted after adjustment for stage, age, sex and smoking (adjusted HR 1.26 per SD, 95% CI 1.07-1.48), and miRNA-target anti-correlation nominated miR-330-3p-> VEGFA as the strongest effector axis (Spearman rho = -0.37). Connectivity mapping against ~ 693,000 LINCS L1000 signatures identified histone deacetylase (HDAC) inhibition as the only enriched reversal mechanism (odds ratio 30.7, FDR = 0.0019). Blood-brain-barrier and lipophilicity machine-learning models ranked panobinostat first among 30 candidates, and anti-miR-330-3p is the prioritized miRNA therapeutic. Single-cell analysis of 208,506 lung-cancer transcriptomes and spatial co-localization across 13 NSCLC pucks mapped the program to cancer-associated fibroblasts, indicating the bulk signature tracks stromal composition. Knowledge-graph propagation recovered HDAC1 and HDAC2 among top-ranked genes, though sensitivity analyses show this convergence partly reflects hub structure. All nominations are hypothesis-generating and require experimental validation.",
+    "authors": [
+      "Shah Fahad Hassan",
+      "Cho Jung Sig",
+      "Konishi Hiroyuki",
+      "Lee Seung Hyeun",
+      "Jo Young Rae",
+      "Huh Seok Jae",
+      "Jung Junyang",
+      "Jeong Na Young",
+      "Chung Hyung-Joo"
+    ],
+    "published": "2026 Nov 05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983116/",
+    "pmid": "42983116",
+    "source": "PubMed"
+  },
+  {
+    "title": "The Architecture of Nocturnal Fear: A Network Pharmacology Approach to Discover Nightmare-Associated Genes.",
+    "summary": "Nightmares impose a substantial burden on mental health, yet their molecular determinants remain poorly understood. We employed a network pharmacology approach to identify shared protein targets of structurally diverse nightmare-inducing drugs. This approach revealed an eight-protein interactome: serotonergic (HTR2A, HTR2C, HTR1A, HTR6, HTR7), dopaminergic (DRD2, DRD3), and the potassium channel KCNH2. Protein-protein interaction networks and Gene Ontology analysis identified DRD2, HTR1A, and HTR2A as central hubs. These genes showed enrichment for neurotransmitter receptor activity and synaptic transmission. Multiple validation approaches provided initial, though not definitive, support for specificity. Negative-control drugs with lower nightmare incidence yielded a distinct intersection (ACHE and CHRM2). Permutation analysis confirmed the eight-protein composition was significantly distinct from random expectation (p = 0.0200). Experimental binding data from ChEMBL and IUPHAR/BPS confirmed high-affinity interactions for clozapine (7/8 targets) and partial support for other drugs. Analysis of nightmare-treating drugs revealed six shared proteins (HTR7, HTR2C, HTR1A, KCNH2, DRD3, DRD2). This suggests a \"shared pathway perturbation\" framework where directionality of modulation may determine clinical outcome. Brain expression data confirmed that all eight proteins are expressed in regions critical for sleep and emotional regulation. This framework offers a mechanistic basis for understanding nightmare susceptibility and identifies potential targets for intervention, while highlighting the need for prospective experimental validation.",
+    "authors": [
+      "Jafari Amirsajad",
+      "Jahanbakhsh Shayan",
+      "Azadian Shima",
+      "Sarduiyeh Abolfazl Omrani",
+      "Rajabi Tara"
+    ],
+    "published": "2026 Nov 05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42982945/",
+    "pmid": "42982945",
+    "source": "PubMed"
+  },
+  {
+    "title": "Novel hybrid salicylaldehyde-sulfonamide schiff bases elicit an ISR-associated transcriptomic response and suppress cancer cell survival.",
+    "summary": "In this study, we describe the rational design, synthesis, and biological evaluation of a novel series of salicylaldehyde-derived sulfonamide Schiff base hybrids. Eight compounds (C3-C10) were synthesized via condensation of 3-formyl-4-hydroxybenzenesulfonyl chloride with diverse primary amines and extensively characterized using IR, NMR, and MS/MS. Synthesized compounds were evaluated for their cytotoxicity in a variety of pancreatic, breast, colorectal, hepatic and ovarian cancer cell lines, and compound C5 was identified as the lead candidate, with an IC₅₀ ranging 4.1-75 μM across the complete cancer-cell panel. Interestingly, C5 exhibited lower cytotoxicity towards the normal nonmalignant cells as compared to cancer cell lines indicating selectivity. Transcriptomic profiling (RNA-seq) in SUIT-2 pancreatic cancer cells treated with C5 identified a gene expression signature that was associated with the activation of integrated stress response (ISR) through upregulation of key stress-associated genes, alongside suppression of oncogenes. Gene ontology and pathway enrichment analysis demonstrated significant modulation of ER stress, unfolded protein response, amino acid metabolism, and lipid metabolic pathways, indicating metabolic reprogramming and stress adaptation. Long non-coding RNA (lncRNA) profiling identified treatment-associated changes in stress- and cancer-related transcripts. Taken together, these findings identify C5 as a promising lead compound with anticancer activity associated with modulation of cellular stress-response pathways and metabolic pathways.",
+    "authors": [
+      "Eltokhy Mohamed A",
+      "Abusaif Moustafa S",
+      "Fayed Eman A",
+      "Ragab Ahmed",
+      "Radwan Sahar",
+      "Ammar Yousry A",
+      "Srivastava Sanjay K"
+    ],
+    "published": "2026 Nov 05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837737/",
+    "pmid": "42837737",
+    "source": "PubMed"
+  },
+  {
+    "title": "Synthonpedia: a sustainable and unbiased paradigm for the democratization of retrosynthetic knowledge.",
+    "summary": "Existing retrosynthesis AI often inherits literature popularity bias. We introduce Synthonpedia, an open-access, community-driven platform redefining synthetic planning through human-machine cooperation. Using connectivity-based \"radical synthons\", it streamlines graph matching with minimal computational footprint. A proof-of-concept on clavulanic acid reveals non-intuitive, unbiased disconnections on consumer-grade hardware.",
+    "authors": [
+      "Zanella Simone",
+      "Brusa Alessandro",
+      "Carlone Armando"
+    ],
+    "published": "2026 Nov 05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42657757/",
+    "pmid": "42657757",
+    "source": "PubMed"
+  }
+]

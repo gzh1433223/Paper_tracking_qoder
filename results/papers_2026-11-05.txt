@@ -1,0 +1,73 @@
+Ontology 文献追踪报告 - 2026-11-05
+==================================================
+
+共发现 11 篇新论文
+
+--- PubMed (11 篇) ------------------------------
+
+1. Unveiling Molecular Basis of Terminalia chebula in Modulating the AGE-RAGE-PRKCB Axis in Diabetic Nephropathy: Integrative Network Pharmacology and Computational Study.
+   作者: Niaz S M Riaduzzaman, Jannat Sumaia, Al Ashik Sheikh Abdullah, Islam Md Khairul
+   链接: https://pubmed.ncbi.nlm.nih.gov/42986908/
+   PMID: 42986908
+   摘要: AbstractDiabetic nephropathy (DN), a progressive microvascular complication of diabetes, remains a principal cause of renal failure worldwide, yet its multifaceted molecular complexity continues to challenge effective therapeutic intervention. In this study, an integrative network pharmacology and computational modeling framework was employed to unravel the mechanistic basis of Terminalia chebula in mitigating DN pathology. A total of 357 phytoconstituents were retrieved from the IMPPAT 2.0 and ...
+
+2. Bridging scRNA-seq and scATAC-seq With Graph Domain Adaptation for Cell Type Annotation.
+   作者: Liu Yan, Xia Yu, Yan He, Shen Long-Chen, Zhu Yi-Heng 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42986739/
+   PMID: 42986739
+   摘要: Accurate cell type annotation of single-cell ATAC-seq (scATAC-seq) data is crucial for downstream analysis but remains challenging due to the modality gap between scATAC-seq and scRNA-seq. Cross-omics methods typically transfer annotations from scRNA-seq References via label propagation, but often suffer from overcorrection, which can obscure biological variability. To address the challenges associated with cross-omics alignment in scATAC-seq cell type annotation, we propose scGDA, a task-specif...
+
+3. Data, AI and healthcare equity: why Africa is being left behind and how synthetic data can close the gap.
+   作者: Kasoka Kasoka
+   链接: https://pubmed.ncbi.nlm.nih.gov/42986603/
+   PMID: 42986603
+   摘要: Only 2% of the world's Artificial Intelligence (AI) training data originates from Africa, while the continent bears more than 20% of the global disease burden - a historic disparity representing a form of epistemic injustice. Health AI is improving screening, diagnostics, data analysis, telemedicine, surgical support, administrative automation, drug development, and other applications globally. Yet Africa is falling behind due to data scarcity - a disparity mirroring the inequities seen during t...
+
+4. Integrated Network Pharmacology and Experimental Analyses of the Anti-Colorectal Cancer Effects of Cinobufotalin.
+   作者: Yao Jia-Jiu, Li Yu, Zhang Cui-Cui, He Kai, Mei Run 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42986572/
+   PMID: 42986572
+   摘要: To investigate the potential mechanism of cinobufotalin against colorectal cancer (CRC) through network pharmacology and experimental approaches....
+
+5. 7-Hydroxyflavone Attenuates Amyloid-β-Induced Alzheimer's Disease-Like Pathology Through Modulation of ROS/NLRP3 Inflammasome Signaling.
+   作者: Rakshit Debarati, Mishra Awanish
+   链接: https://pubmed.ncbi.nlm.nih.gov/42986540/
+   PMID: 42986540
+   摘要: Alzheimer's disease (AD), the widely recognised neurodegenerative disease with no proper cure to date, is typified by memory decline. Apart from the amyloid hypothesis and cholinergic dysfunction, neuroinflammation is also a key factor behind AD. 7-Hydroxyflavone (7HF), a flavonoid, possesses antioxidant, anti-inflammatory, and neuroprotective activities and remains unexplored in AD. Thus, in our study, we aimed to investigate the efficacy of 7HF against amyloid beta (Aβ)-induced AD in mice. Tar...
+
+6. Applications, Technical Characteristics, and Evaluation Approaches of Retrieval-Augmented Generation in Nursing: Scoping Review.
+   作者: Chen Mengqi, Ma Anna, Wang Chengyun, Lyu Chuanwu, He Yonghui 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42986217/
+   PMID: 42986217
+   摘要: Large language models (LLMs) show great potential for widespread application in the field of nursing; however, their limitations include hallucinations, insufficient domain knowledge, and delays in updating evidence. Retrieval-augmented generation (RAG), by combining external knowledge retrieval with text generation, holds promise for optimizing model outputs. However, current evidence on the use of RAG in nursing remains fragmented and has not been systematically synthesized....
+
+7. Metabolomics Subcenter (Met-SC): an integrated metabolomics database and analysis platform.
+   作者: Wen Liliang, Wang Mingchao, Zeng Zhongda, Song Shuhui, Zhao Wenming 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42984451/
+   PMID: 42984451
+   摘要: The rapid growth of metabolomics data has increased the need for integrated storage, analysis, and reuse. Here, we present Metabolomics Subcenter (Met-SC) V1.0 (https://metabolomics.dicp.ac.cn/), an integrated database and platform for standardized data deposition, spectral-resource management, online analysis, and disease-focused knowledge mining. The deposition framework captures project, sample, pretreatment, and instrument metadata across chromatographic, capillary electrophoresis-mass spect...
+
+8. Integrative miRNA-multi-omics analysis of brain-metastasis predisposition in non-small cell lung cancer prioritizes HDAC inhibitors and anti-miR-330-3p as hypothesis-generating therapeutic candidates.
+   作者: Shah Fahad Hassan, Cho Jung Sig, Konishi Hiroyuki, Lee Seung Hyeun, Jo Young Rae 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42983116/
+   PMID: 42983116
+   摘要: Brain metastasis (BM) is the leading cause of death in non-small cell lung cancer (NSCLC), yet its molecular drivers remain poorly targeted. Here we present an integrative in-silico pipeline that moves from miRNA discovery to therapeutic hypothesis generation. Reprocessing the GSE23019 miRNA microarray cohort (7 BM+ versus 5 BM- primary tumors) recovered the published BM-associated miRNAs miR-328 and miR-330-3p and, through validated miRNA-target interactions, yielded a signature of 828 up-regul...
+
+9. The Architecture of Nocturnal Fear: A Network Pharmacology Approach to Discover Nightmare-Associated Genes.
+   作者: Jafari Amirsajad, Jahanbakhsh Shayan, Azadian Shima, Sarduiyeh Abolfazl Omrani, Rajabi Tara
+   链接: https://pubmed.ncbi.nlm.nih.gov/42982945/
+   PMID: 42982945
+   摘要: Nightmares impose a substantial burden on mental health, yet their molecular determinants remain poorly understood. We employed a network pharmacology approach to identify shared protein targets of structurally diverse nightmare-inducing drugs. This approach revealed an eight-protein interactome: serotonergic (HTR2A, HTR2C, HTR1A, HTR6, HTR7), dopaminergic (DRD2, DRD3), and the potassium channel KCNH2. Protein-protein interaction networks and Gene Ontology analysis identified DRD2, HTR1A, and HT...
+
+10. Novel hybrid salicylaldehyde-sulfonamide schiff bases elicit an ISR-associated transcriptomic response and suppress cancer cell survival.
+   作者: Eltokhy Mohamed A, Abusaif Moustafa S, Fayed Eman A, Ragab Ahmed, Radwan Sahar 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42837737/
+   PMID: 42837737
+   摘要: In this study, we describe the rational design, synthesis, and biological evaluation of a novel series of salicylaldehyde-derived sulfonamide Schiff base hybrids. Eight compounds (C3-C10) were synthesized via condensation of 3-formyl-4-hydroxybenzenesulfonyl chloride with diverse primary amines and extensively characterized using IR, NMR, and MS/MS. Synthesized compounds were evaluated for their cytotoxicity in a variety of pancreatic, breast, colorectal, hepatic and ovarian cancer cell lines, a...
+
+11. Synthonpedia: a sustainable and unbiased paradigm for the democratization of retrosynthetic knowledge.
+   作者: Zanella Simone, Brusa Alessandro, Carlone Armando
+   链接: https://pubmed.ncbi.nlm.nih.gov/42657757/
+   PMID: 42657757
+   摘要: Existing retrosynthesis AI often inherits literature popularity bias. We introduce Synthonpedia, an open-access, community-driven platform redefining synthetic planning through human-machine cooperation. Using connectivity-based "radical synthons", it streamlines graph matching with minimal computational footprint. A proof-of-concept on clavulanic acid reveals non-intuitive, unbiased disconnections on consumer-grade hardware....
+
