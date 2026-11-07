@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Aligning entity of knowledge graph based on graph convolutional network with maximum translated similarity.",
+    "summary": "Entity alignment is a pivotal technology for integrating heterogeneous knowledge graphs, yet most embedding-based alignment methods destroy the inherent structural embedding information of knowledge graphs when unifying cross-graph embedding spaces, resulting in limited alignment accuracy and stability. To tackle this issue, this paper proposes a novel model for entity alignment tasks, which named as Graph Convolutional Network with Maximum Translated Similarity (GCN-MTS). GCN-MTS innovatively leverages a maximum translated similarity mechanism to optimize the adjacency matrix, degree matrix and loss function. This core design effectively maintains the original relative embedding structure of cross-graph entities during embedding space unification, which is the key improvement over existing approaches. Comprehensive experiments on 3 pairs of real-world knowledge graph dataset demonstrate the superior performance of GCN-MTS against advanced baseline methods. It achieves average performance gains of 5%-15% in Hits@1 and 4%-16% in Hits@10. Ablation results confirm that the optimized module brings a nearly 22% improvement in alignment metrics compared with the vanilla GCN. Furthermore, GCN-MTS presents excellent robustness and stability across different seed alignment quantities and seed combinations.",
+    "authors": [
+      "Zhou Jianhui",
+      "Gao Yun",
+      "Zhao Xiangbing",
+      "Guo Yanping",
+      "Zhang Xulong"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42993751/",
+    "pmid": "42993751",
+    "source": "PubMed"
+  },
+  {
+    "title": "Oriented Ship Detection via Key Structural Landmarks in Optical Remote Sensing Image.",
+    "summary": "Ship detection from remote sensing imagery constitutes a cornerstone for applications such as marine monitoring and maritime traffic management. However, existing methods based on horizontal bounding box (HBB) or oriented bounding box (OBB) regression paradigms are often plagued by notable limitations in complex scenarios. Traditional HBBs tend to encompass excessive background noise, degrading feature representation efficacy and localization precision. Although OBBs mitigate misalignment, they suffer from angular periodicity discontinuities and high sensitivity to aspect ratios. To overcome these issues, this paper first proposes a novel nine-landmark ship structural representation based on ship functional morphology, which characterizes key regions of the bow, stern, and superstructure as explicit geometric priors. Built upon this representation, we further present a two-stage framework for high-accuracy OBB detection and semantic segmentation. Specifically, an HBB detector first coarsely localizes ship instances. Then, a Ship Holistic-Part Graph Transformer (SHPG-Transformer) module is introduced to explicitly model spatial correlations between global ship geometry and local structural components, thereby improving landmark localization through enhanced structural feature modeling. Furthermore, the Segment Anything Model (SAM) is incorporated to achieve fine-grained semantic segmentation, establishing a unified detection-segmentation pipeline. In the experiments, we extend the HRSC2016 dataset with dense landmark annotations for training and evaluation. Extensive experiments demonstrate that the proposed method achieves state-of-the-art performance on two popular public benchmarks, HRSC2016 and ShipRSImageNet. Moreover, it accomplishes multi-object instance segmentation on HRSC2016, ShipRSImageNet, ISDSD, FGSCR, and FGSD2021 datasets. Project web page: https://vsislab.github.io/OSD-KS/.",
+    "authors": [
+      "Zhang Youmei",
+      "Yu Yang",
+      "Li Bin",
+      "Li Zhiheng",
+      "Zhang Mingxin",
+      "Cong Runmin",
+      "Zhang Wei"
+    ],
+    "published": "2026 Nov 06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42993652/",
+    "pmid": "42993652",
+    "source": "PubMed"
+  },
+  {
+    "title": "Context-Aware Graph Causality Inference for Few-Shot Molecular Property Prediction.",
+    "summary": "Molecular property prediction is becoming one of the major applications of graph learning in Web-based services, e.g., online protein structure prediction and drug discovery. A key challenge arises in few-shot scenarios, where only a few labeled molecules are available for predicting unseen properties. Recently, several studies have used in-context learning to capture relationships among molecules and properties, but they face two limitations: (1) exploiting prior knowledge of functional groups that are causally linked to properties and (2) identifying key substructures directly correlated with properties. We propose CaMol, a context-aware graph causality inference framework, to address these challenges by using a causal inference perspective, assuming that each molecule consists of a latent causal structure that determines a specific property. First, we introduce a context graph that encodes chemical knowledge by linking functional groups, molecules, and properties to guide the discovery of causal substructures. Second, we propose a learnable atom soft-masking strategy to disentangle causal substructures from confounding ones. Third, we introduce a chemically grounded augmented distribution intervener that holds the learned property-relevant representation $C$ fixed while varying complementary functional-group representations sampled from other molecular contexts. This mechanism reduces dependence on context-specific correlations and promotes intervention-robust prediction. Experiments on diverse molecular datasets showed that CaMol achieved superior accuracy and sample efficiency in few-shot tasks, showing its generalizability to unseen properties. Also, the discovered causal substructures were strongly aligned with chemical knowledge about functional groups, supporting the model interpretability.",
+    "authors": [
+      "Hoang Van Thuy",
+      "Ho Huu-Tuong",
+      "Lee O-Joun"
+    ],
+    "published": "2026 Nov 06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42993641/",
+    "pmid": "42993641",
+    "source": "PubMed"
+  },
+  {
+    "title": "Manchester Proteome Profiler: A User-Friendly Platform for Quantitative Proteomic Analysis.",
+    "summary": "Manchester Proteome Profiler (MPP) is an open-source R Shiny application that streamlines the downstream analysis of quantitative proteomic data. Compatible with grouped protein intensities tables from MaxQuant, FragPipe, Proteome Discoverer, and other custom layouts, MPP provides an integrated platform for filtering, normalization, imputation, differential expression analysis, and cluster analysis across user-chosen experimental conditions. MPP supports both single- and dual-data set comparisons, incorporates SAINTexpress for affinity purification and proximity labeling experiments, and enables downstream analysis of the significant protein list clusters to functional enrichment and interaction networks via Gene Ontology, BioGRID, and STRING. Benchmarking with a KRAS proximity biotinylation data set demonstrated the ability of MPP to identify reproducible clusters of differentially expressed proteins and reveal biologically meaningful patterns, including enrichment of solute carrier transporters and adhesion molecules. With interactive visualizations, customizable reports, and support for complex experimental designs, MPP offers a novel, versatile, and user-friendly environment for proteomic data exploration and hypothesis generation.",
+    "authors": [
+      "Cain Stuart A",
+      "Fatima Mahak",
+      "Humphries Martin J"
+    ],
+    "published": "2026 Nov 06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42992902/",
+    "pmid": "42992902",
+    "source": "PubMed"
+  },
+  {
+    "title": "Detecting Methylation in MCF7 Cells with a Combination of SCX- and No-Enrichment Methods.",
+    "summary": "Methylation is an important post-translational modification that impacts cellular processes. Yet, protein methylation remains analytically challenging to study by proteomics due to variable methylation stoichiometry and the lack of broadly applicable enrichment strategies, resulting in an underrepresentation of methylated peptides in LC-MS/MS analyses. Although methylation does not alter the physicochemical properties of amino acids, there is a reduced probability of trypsin cleavage after methylated lysine or arginine, leading to increased positive charges on methylated peptides. Strong cation exchange (SCX) can be used to enrich methylated peptides. However, the number of methylation sites identified with SCX varies across previous studies, likely because of the use of different stationary phases and supports, elution strategies, and combinations of multiple enrichment techniques. Therefore, we hypothesize that commercially available SCX tips with an MS-friendly ammonium acetate elution can be used to enrich methylated peptides. Our results show that SCX effectively fractionates peptides by charge, which is associated with the number of missed cleavages, and that methylated peptides elute in fractions with high concentrations of ammonium acetate. When comparing SCX and nonenrichment methods, complementary methylation sites are identified, differing by sequence motifs, cellular component ontologies, and biological process ontologies. Ultimately, these results suggest that both SCX and nonenrichment methods enable the detection of distinct methylation sites, and a combination of approaches may be required to effectively profile the methylome of complex biological samples. Data have been deposited in MassIVE (MSV000098142).",
+    "authors": [
+      "Conforti Jessica M",
+      "Worth Charli S",
+      "Ziegler Amanda M",
+      "Swanzy Hadden K",
+      "Budhathoki Rabin",
+      "Taube Joseph H",
+      "Gallagher Elyssia S"
+    ],
+    "published": "2026 Nov 06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42992901/",
+    "pmid": "42992901",
+    "source": "PubMed"
+  },
+  {
+    "title": "Recovery and Transformation of Erythrina edulis Albumin: Tangential Flow Filtration and Alcalase Hydrolysis for Multifunctional Applications.",
+    "summary": "The growing demand for sustainable nutraceutical ingredients has driven the exploration of underutilized plant proteins such as the Andean legume Erythrina edulis. The study aimed to recover and characterize an enriched albumin fraction (AF) and optimize its enzymatic hydrolysis to produce multifunctional protein hydrolysates. The AF was recovered using tangential flow filtration (TFF), achieving a 7.4-fold concentration, 73.5% recovery, and 57.3% protein content, with proteins predominantly between 15 ̶ 20 kDa. The AF showed a high essential amino acid content (45.0%), including Met (0.97%), Cys (1.97%), Lys (6.00%), antioxidant capacity (up to 0.62 ± 0.03 µmol TE/mg protein) but limited in vitro protein digestibility (45.80%) and trypsin-inhibitor activity (49.12%). Proteomic analysis further revealed a balanced annotated distribution across Gene Ontology categories, including cellular component (33.11%), molecular function (33.23%), and biological process (33.65%). AF was hydrolyzed using Alcalase under optimized conditions (E/S 7000 U/mg, 50 °C, 120 min). The resulting hydrolysate (AHA) exhibited a predominance of low-molecular-weight peptides (< 10 kDa), enhanced antioxidant capacity (up to 4.37-fold), IVPD (94.6%), and in vitro α-glucosidase (IC",
+    "authors": [
+      "Egocheaga-Maguiña Francesca",
+      "Ayzanoa Astrid",
+      "Jiménez-Aliaga Karim",
+      "Intiquilla Arturo",
+      "Arredondo-Nuñez Annsy",
+      "Ramirez-Veliz Carlos",
+      "Zavaleta Amparo Iris",
+      "Tapia Cristian",
+      "Paterson Samuel",
+      "Hernández-Ledesma Blanca"
+    ],
+    "published": "2026 Nov 06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42989028/",
+    "pmid": "42989028",
+    "source": "PubMed"
+  }
+]

@@ -1,0 +1,43 @@
+Ontology 文献追踪报告 - 2026-11-06
+==================================================
+
+共发现 6 篇新论文
+
+--- PubMed (6 篇) ------------------------------
+
+1. Aligning entity of knowledge graph based on graph convolutional network with maximum translated similarity.
+   作者: Zhou Jianhui, Gao Yun, Zhao Xiangbing, Guo Yanping, Zhang Xulong
+   链接: https://pubmed.ncbi.nlm.nih.gov/42993751/
+   PMID: 42993751
+   摘要: Entity alignment is a pivotal technology for integrating heterogeneous knowledge graphs, yet most embedding-based alignment methods destroy the inherent structural embedding information of knowledge graphs when unifying cross-graph embedding spaces, resulting in limited alignment accuracy and stability. To tackle this issue, this paper proposes a novel model for entity alignment tasks, which named as Graph Convolutional Network with Maximum Translated Similarity (GCN-MTS). GCN-MTS innovatively l...
+
+2. Oriented Ship Detection via Key Structural Landmarks in Optical Remote Sensing Image.
+   作者: Zhang Youmei, Yu Yang, Li Bin, Li Zhiheng, Zhang Mingxin 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42993652/
+   PMID: 42993652
+   摘要: Ship detection from remote sensing imagery constitutes a cornerstone for applications such as marine monitoring and maritime traffic management. However, existing methods based on horizontal bounding box (HBB) or oriented bounding box (OBB) regression paradigms are often plagued by notable limitations in complex scenarios. Traditional HBBs tend to encompass excessive background noise, degrading feature representation efficacy and localization precision. Although OBBs mitigate misalignment, they ...
+
+3. Context-Aware Graph Causality Inference for Few-Shot Molecular Property Prediction.
+   作者: Hoang Van Thuy, Ho Huu-Tuong, Lee O-Joun
+   链接: https://pubmed.ncbi.nlm.nih.gov/42993641/
+   PMID: 42993641
+   摘要: Molecular property prediction is becoming one of the major applications of graph learning in Web-based services, e.g., online protein structure prediction and drug discovery. A key challenge arises in few-shot scenarios, where only a few labeled molecules are available for predicting unseen properties. Recently, several studies have used in-context learning to capture relationships among molecules and properties, but they face two limitations: (1) exploiting prior knowledge of functional groups ...
+
+4. Manchester Proteome Profiler: A User-Friendly Platform for Quantitative Proteomic Analysis.
+   作者: Cain Stuart A, Fatima Mahak, Humphries Martin J
+   链接: https://pubmed.ncbi.nlm.nih.gov/42992902/
+   PMID: 42992902
+   摘要: Manchester Proteome Profiler (MPP) is an open-source R Shiny application that streamlines the downstream analysis of quantitative proteomic data. Compatible with grouped protein intensities tables from MaxQuant, FragPipe, Proteome Discoverer, and other custom layouts, MPP provides an integrated platform for filtering, normalization, imputation, differential expression analysis, and cluster analysis across user-chosen experimental conditions. MPP supports both single- and dual-data set comparison...
+
+5. Detecting Methylation in MCF7 Cells with a Combination of SCX- and No-Enrichment Methods.
+   作者: Conforti Jessica M, Worth Charli S, Ziegler Amanda M, Swanzy Hadden K, Budhathoki Rabin 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42992901/
+   PMID: 42992901
+   摘要: Methylation is an important post-translational modification that impacts cellular processes. Yet, protein methylation remains analytically challenging to study by proteomics due to variable methylation stoichiometry and the lack of broadly applicable enrichment strategies, resulting in an underrepresentation of methylated peptides in LC-MS/MS analyses. Although methylation does not alter the physicochemical properties of amino acids, there is a reduced probability of trypsin cleavage after methy...
+
+6. Recovery and Transformation of Erythrina edulis Albumin: Tangential Flow Filtration and Alcalase Hydrolysis for Multifunctional Applications.
+   作者: Egocheaga-Maguiña Francesca, Ayzanoa Astrid, Jiménez-Aliaga Karim, Intiquilla Arturo, Arredondo-Nuñez Annsy 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42989028/
+   PMID: 42989028
+   摘要: The growing demand for sustainable nutraceutical ingredients has driven the exploration of underutilized plant proteins such as the Andean legume Erythrina edulis. The study aimed to recover and characterize an enriched albumin fraction (AF) and optimize its enzymatic hydrolysis to produce multifunctional protein hydrolysates. The AF was recovered using tangential flow filtration (TFF), achieving a 7.4-fold concentration, 73.5% recovery, and 57.3% protein content, with proteins predominantly bet...
+
