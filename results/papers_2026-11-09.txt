@@ -1,0 +1,13 @@
+Ontology 文献追踪报告 - 2026-11-09
+==================================================
+
+共发现 1 篇新论文
+
+--- PubMed (1 篇) ------------------------------
+
+1. Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders.
+   作者: Gu Xuemei, Krenn Mario
+   链接: https://pubmed.ncbi.nlm.nih.gov/43002667/
+   PMID: 43002667
+   摘要: The rapid growth of scientific literature makes it increasingly challenging for researchers to identify novel and impactful ideas, especially across disciplines. Modern AI systems offer new opportunities for scientific ideation, but how compelling are AI-generated ideas, and how can their quality be improved? Here, we introduce SCIMUSE, which generates personalized research ideas using a knowledge graph of 58 million papers and a large language model (LLM). A central focus of this work is to und...
+
