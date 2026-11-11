@@ -1,0 +1,43 @@
+Ontology 文献追踪报告 - 2026-11-10
+==================================================
+
+共发现 6 篇新论文
+
+--- PubMed (6 篇) ------------------------------
+
+1. Characterization of transcriptomic profiles underlying gross morphological changes observed in semelparous pink salmon (
+   作者: Butensky Max, Phelps Michael
+   链接: https://pubmed.ncbi.nlm.nih.gov/43007850/
+   PMID: 43007850
+   摘要: Pacific salmon undergo dramatic physiological remodeling during their terminal spawning migration, culminating in reproductive maturation, senescence, and death. To investigate the molecular mechanisms underlying these processes, we characterized transcriptomic changes in wild pink salmon (...
+
+2. The six capacities of responsible autonomy: naturalizing free will in biological and artificial systems.
+   作者: Verschure Paul F M J
+   链接: https://pubmed.ncbi.nlm.nih.gov/43007832/
+   PMID: 43007832
+   摘要: The rapid integration of agentic AI is intensifying disputes about artificial autonomy, widening an agency schism between normative frameworks that presuppose agency and a scientific ontology that denies it. This paper proposes a revisionary naturalization: free will designates the control interface that embodied agents evolved to navigate social worlds pervaded by hidden intentional states, not a metaphysical ornament. The antinomy between determinism and libertarian freedom is dissolved by ana...
+
+3. Dsg2 truncation causes a severe intestinal epithelial barrier breakdown and alters microbiome and immune response.
+   作者: Kugelmann Daniela, García-Ponce Alexander, Thielemann Nadja, Radeva Mariya Y, Anders Maresa 等 18 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43007723/
+   PMID: 43007723
+   摘要: Inflammatory bowel diseases (IBD) including Crohn's disease (CD) are characterized by impaired intestinal epithelial barrier (IEB) function. Alterations in the desmosomal cadherin desmoglein 2 (Dsg2) have been linked to loss of IEB and intestinal inflammation in IBD. We investigated the pathogenic impact of a cytoplasmatic-truncating mutation in the desmosomal cadherin desmoglein 2 gene (DSG2) in an IBD patient. Genetic analysis of a CD patient revealed a likely pathogenic DSG2 mutation leading ...
+
+4. EZpred: Improving Deep Learning-Based Enzyme Function Prediction Using Unlabeled Sequence Homologs.
+   作者: Zhang Chengxin, Liu Quancheng, Freddolino Lydia
+   链接: https://pubmed.ncbi.nlm.nih.gov/43006747/
+   PMID: 43006747
+   摘要: Features extracted from sequence homologs significantly enhance the accuracy of deep learning-based protein structure prediction. Indeed, homolog-aware models such as AlphaFold generally produce more accurate protein structures compared to single sequence-based methods like ESMfold. In contrast, features from sequence homologs are seldom employed for deep learning-based prediction of the biological functions of a protein, such as Gene Ontology terms or Enzyme Commission (EC) numbers. Although a ...
+
+5. gcPathogen 2.0: an expanded multi-omics database advancing global pathogen surveillance and One Health research.
+   作者: Chen Qi, Guo Chongye, Wang Ligui, Fan Guomei, Qu Xiaoli 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43006134/
+   PMID: 43006134
+   摘要: Launched in 2024, gcPathogen established a critical foundation for the genomic surveillance of human pathogens. Here, we present gcPathogen 2.0, a major multi-omics update designed to address key analytical bottlenecks, including the integration of genomic and transcriptional profiles, systematic tracking of cross-habitat distribution, and large-scale discovery of antimicrobial peptides (AMPs). This release expands coverage from 1134 to 1506 pathogenic species, spanning 557 bacteria, 508 fungi, ...
+
+6. TBX6 promotes proliferation, invasion, and migration in colorectal cancer: Integrated transcriptomic and protein interaction network analysis.
+   作者: Zhang Nianjie, Wan Lei, He Nian, Chen Xu, Yang Xuefeng 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42401341/
+   PMID: 42401341
+   摘要: The role of T-box transcription factor 6 (TBX6), a developmental transcription factor, in tumor initiation and progression in colorectal cancer (CRC) remains unclear. The present study investigated the expression pattern, biological functions, and downstream transcriptional regulatory networks of TBX6 in CRC. Public databases, clinical cohorts, functional assays, xenograft models, and RNA sequencing coupled with Gene Ontology, Kyoto Encyclopedia of Genes and Genomes, and protein-protein interact...
+

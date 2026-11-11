@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Characterization of transcriptomic profiles underlying gross morphological changes observed in semelparous pink salmon (",
+    "summary": "Pacific salmon undergo dramatic physiological remodeling during their terminal spawning migration, culminating in reproductive maturation, senescence, and death. To investigate the molecular mechanisms underlying these processes, we characterized transcriptomic changes in wild pink salmon (",
+    "authors": [
+      "Butensky Max",
+      "Phelps Michael"
+    ],
+    "published": "2026 Nov 10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43007850/",
+    "pmid": "43007850",
+    "source": "PubMed"
+  },
+  {
+    "title": "The six capacities of responsible autonomy: naturalizing free will in biological and artificial systems.",
+    "summary": "The rapid integration of agentic AI is intensifying disputes about artificial autonomy, widening an agency schism between normative frameworks that presuppose agency and a scientific ontology that denies it. This paper proposes a revisionary naturalization: free will designates the control interface that embodied agents evolved to navigate social worlds pervaded by hidden intentional states, not a metaphysical ornament. The antinomy between determinism and libertarian freedom is dissolved by analysing free will from the perspective of control mechanisms. Diagnosing the philosophical record and systems neuroscience, I specify six capacities that naturalize free will as Responsible Autonomy: Active Decoupling, Endogenous Drive, Leeway, Normative Self-Governance, Diachronic Integrity and Experiential Ownership. These are proposed as control constraints on any responsible agent, and hence as design constraints for model construction and as a checklist for evaluating responsible agency in biological and artificial systems. A companion paper maps each capacity to the Distributed Adaptive Control theory of volition and agency, its neurobiological substrates and the Evaluation Suite for Responsible Autonomy (ESRA) test, supplying, in Carnap's terms, the precision and predictive power that complete the explication. This article is part of the discussion meeting issue 'From being to identity: analysis and synthesis of the self'.",
+    "authors": [
+      "Verschure Paul F M J"
+    ],
+    "published": "2026 Nov 10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43007832/",
+    "pmid": "43007832",
+    "source": "PubMed"
+  },
+  {
+    "title": "Dsg2 truncation causes a severe intestinal epithelial barrier breakdown and alters microbiome and immune response.",
+    "summary": "Inflammatory bowel diseases (IBD) including Crohn's disease (CD) are characterized by impaired intestinal epithelial barrier (IEB) function. Alterations in the desmosomal cadherin desmoglein 2 (Dsg2) have been linked to loss of IEB and intestinal inflammation in IBD. We investigated the pathogenic impact of a cytoplasmatic-truncating mutation in the desmosomal cadherin desmoglein 2 gene (DSG2) in an IBD patient. Genetic analysis of a CD patient revealed a likely pathogenic DSG2 mutation leading to a truncated protein lacking part of the intracellular domain. Generation of an enterocyte-specific mouse model to recapitulate the human mutation resulted in a lethal intestinal barrier defect which was evident in homozygous but not in heterozygous mice. In vitro, barrier defects correlated with changes in Dsg2 mobility and upregulation of pore-forming tight junction protein claudin-2. Organoids derived from heterozygous Dsg2 truncated mice exhibited increased epithelial susceptibility to proinflammatory cytokines. Bulk RNAseq followed by gene ontology analysis in homozygous mice revealed a skewed IL17/IL23 response overlapping with transcriptional changes in patients with CD. Furthermore, 16S rRNA sequencing revealed alterations in microbiome composition in animals that carried the Dsg2 truncation. In summary, a patient-derived mutation in the DSG2 gene causing cytoplasmic truncation in homozygous state induced a lethal intestinal barrier breakdown in mice paralleled by altered gut microbiota and intestinal immune response.",
+    "authors": [
+      "Kugelmann Daniela",
+      "García-Ponce Alexander",
+      "Thielemann Nadja",
+      "Radeva Mariya Y",
+      "Anders Maresa",
+      "Kang Da Eun",
+      "Siadjeu Christian",
+      "Burkard Natalie",
+      "Horn Anja Ke",
+      "Neubauer Jessica",
+      "Hiermaier Matthias",
+      "Egu Desalegn T",
+      "Schmitz Christoph",
+      "Kurzai Oliver",
+      "Vuopala Katri S",
+      "Kuismin Outi",
+      "Schlegel Nicolas",
+      "Waschke Jens"
+    ],
+    "published": "2026 Nov 10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43007723/",
+    "pmid": "43007723",
+    "source": "PubMed"
+  },
+  {
+    "title": "EZpred: Improving Deep Learning-Based Enzyme Function Prediction Using Unlabeled Sequence Homologs.",
+    "summary": "Features extracted from sequence homologs significantly enhance the accuracy of deep learning-based protein structure prediction. Indeed, homolog-aware models such as AlphaFold generally produce more accurate protein structures compared to single sequence-based methods like ESMfold. In contrast, features from sequence homologs are seldom employed for deep learning-based prediction of the biological functions of a protein, such as Gene Ontology terms or Enzyme Commission (EC) numbers. Although a small number of models also incorporate function labels from sequence homologs, they cannot utilize features extracted from homologs that lack function labels. To address this gap, we developed EZpred, which is the first deep learning model to use sequence homologs by extracting their sequence features while ignoring any function labels. Starting with the target sequence and homologs identified by MMseqs2, EZpred extracts sequence features using the ESM-C protein language model. These features are then fed into a deep learning model to predict the EC numbers of the target protein. For test enzymes with < 30% sequence identity to any training proteins, the F1-score of EZpred EC number prediction is at least 34% higher than state-of-the-art EC number prediction models. These results demonstrate the strong positive impact of sequence homologs in deep learning-based enzyme function prediction.",
+    "authors": [
+      "Zhang Chengxin",
+      "Liu Quancheng",
+      "Freddolino Lydia"
+    ],
+    "published": "2026 Nov 10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43006747/",
+    "pmid": "43006747",
+    "source": "PubMed"
+  },
+  {
+    "title": "gcPathogen 2.0: an expanded multi-omics database advancing global pathogen surveillance and One Health research.",
+    "summary": "Launched in 2024, gcPathogen established a critical foundation for the genomic surveillance of human pathogens. Here, we present gcPathogen 2.0, a major multi-omics update designed to address key analytical bottlenecks, including the integration of genomic and transcriptional profiles, systematic tracking of cross-habitat distribution, and large-scale discovery of antimicrobial peptides (AMPs). This release expands coverage from 1134 to 1506 pathogenic species, spanning 557 bacteria, 508 fungi, 258 viruses, and 183 parasites, and increases total genomic records past 2.3 million. By incorporating 12 597 transcriptomes across 148 species, gcPathogen 2.0 bridges the gap between gene carriage and functional expression for risk assessment. Furthermore, the platform integrates 285 925 pathogen metagenome-assembled genomes (MAGs) spanning human, animal, and environmental niches. Mapped across 68 Environment Ontology (ENVO) habitat categories, these MAGs enable comprehensive tracking of cross-habitat distribution of pathogens, antibiotic resistance genes (ARGs), virulence factors (VFs), and mobile genetic elements (MGEs). Leveraging a nonredundant reference set curated from seven public databases, we identified over 77 million AMPs belonging to >55 000 families across 438 bacterial pathogens. Finally, pan-genome analyses of 440 bacterial species map intraspecies functional distributions across core, accessory, and unique gene repertoires. gcPathogen 2.0 is publicly accessible at https://nmdc.cn/gcpathogen/.",
+    "authors": [
+      "Chen Qi",
+      "Guo Chongye",
+      "Wang Ligui",
+      "Fan Guomei",
+      "Qu Xiaoli",
+      "Li Shiwen",
+      "Feng Min",
+      "Ma Juncai",
+      "Tong Zhou",
+      "Song Hongbin",
+      "Wu Linhuan"
+    ],
+    "published": "2026 Nov 10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43006134/",
+    "pmid": "43006134",
+    "source": "PubMed"
+  },
+  {
+    "title": "TBX6 promotes proliferation, invasion, and migration in colorectal cancer: Integrated transcriptomic and protein interaction network analysis.",
+    "summary": "The role of T-box transcription factor 6 (TBX6), a developmental transcription factor, in tumor initiation and progression in colorectal cancer (CRC) remains unclear. The present study investigated the expression pattern, biological functions, and downstream transcriptional regulatory networks of TBX6 in CRC. Public databases, clinical cohorts, functional assays, xenograft models, and RNA sequencing coupled with Gene Ontology, Kyoto Encyclopedia of Genes and Genomes, and protein-protein interaction analyses were used to define TBX6-associated molecular alterations. TBX6 was markedly upregulated in CRC tissues and cell lines, and its high expression was associated with advanced stage, lymph node metastasis, and poor survival. Functionally, TBX6 promoted proliferation, migration, invasion, and epithelial-mesenchymal transition in CRC cells in vitro, whereas TBX6 knockdown suppressed these malignant phenotypes and inhibited tumor growth with reduced proliferation and increased apoptosis in vivo. Transcriptomic analyses showed that TBX6 knockdown induced coordinated gene expression reprogramming and altered multiple tumor-related pathways. Protein-protein interaction analysis identified C-X-C motif chemokine ligand 14 (CXCL14), NOTUM, adrenoceptor α2A (ADRA2A), and melanin-concentrating hormone receptor 1 (MCHR1) as hub nodes within the TBX6-regulated network. Mechanistically, TBX6 knockdown regulated CXCL14 expression and attenuated Wnt/β-catenin signaling, findings that were further validated in xenograft tissues. These results indicate that TBX6 is aberrantly reactivated in CRC and promotes tumor progression through transcriptional network remodeling, suggesting that TBX6 may represent a potential prognostic biomarker and therapeutic target.",
+    "authors": [
+      "Zhang Nianjie",
+      "Wan Lei",
+      "He Nian",
+      "Chen Xu",
+      "Yang Xuefeng",
+      "Wang Jing"
+    ],
+    "published": "2026 Nov 10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42401341/",
+    "pmid": "42401341",
+    "source": "PubMed"
+  }
+]
