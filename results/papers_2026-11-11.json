@@ -1,0 +1,65 @@
+[
+  {
+    "title": "DRLCI: Dual-view Representation Learning Framework for Predicting Drug-Gene Interactions via Causal Intervention.",
+    "summary": "Investigating drug-gene interactions is essential for advancing personalized medicine and therapeutic innovation. In recent years, Graph Neural Network-based approaches have demonstrated significant potential for this task by utilizing diverse strategies, such as subgraph extraction and hypergraph modeling. However, these associative paradigms remain confined to observational statistics, primarily identifying superficial correlations rather than underlying causal mechanisms. Drug-gene prediction tasks are frequently hindered by hard negative samples acting as confounders, which lead existing methods to overweight biologically irrelevant nodes and introduce substantial noise. Moreover, relying solely on a single topological view restricts the prediction framework to a closed loop of established connections, impeding the discovery of novel interaction patterns. Addressing these deficiencies, we propose a dual-view representation learning framework. Initially, Relation-Aware graph convolution adaptively quantifies the differentiated contributions of neighboring nodes via an attention mechanism to capture key interaction patterns. To refine this procedure, we incorporate a causal intervention mask and a causally-debiased contrastive loss into the feature extraction stage, thereby optimizing the representation space and suppressing confounding effects. Finally, external medical prior knowledge is integrated into the prediction pipeline through a textual modality governed by a gated fusion mechanism. Comprehensive benchmark evaluations demonstrate that our framework achieves state-of-the-art performance on the DrugBank and DGIdb datasets.",
+    "authors": [
+      "Huang Peng",
+      "Pan Xue",
+      "Liu Yongbin",
+      "Yu Ying",
+      "Liu Jun",
+      "Ouyang Chunping"
+    ],
+    "published": "2026 Nov 11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013439/",
+    "pmid": "43013439",
+    "source": "PubMed"
+  },
+  {
+    "title": "Altered dynamic brain states and potential transcriptomic correlates in autism spectrum disorder.",
+    "summary": "Autism spectrum disorder (ASD) is associated with widespread alterations in functional brain networks, but its transient dynamic brain states and potential transcriptomic correlates remain unclear. We applied Leading Eigenvector Dynamics Analysis (LEiDA) to resting-state functional magnetic resonance imaging data from 110 individuals with ASD and 110 healthy controls (HCs) from the Autism Brain Imaging Data Exchange I (ABIDE I) dataset. Five recurrent phase-locking states were identified, and dynamic brain state metrics were compared between groups. Compared with HCs, individuals with ASD showed reduced fractional occupancy (FO) of State 5, which was predominantly characterized by the visual network with additional involvement of the sensorimotor network. Exploratory analyses within the ASD group revealed nominal negative associations between State 4 FO and ADOS total and social scores. To investigate potential transcriptomic correlates, we derived an ROI-wise ASD-HC State 5 weighted beta map and related it to Allen Human Brain Atlas (AHBA) gene expression data and SFARI ASD risk gene sets. SFARI ASD risk gene sets showed a consistent pattern of negative spatial associations with the ASD-related State 5 imaging phenotype, but these associations did not reach statistical significance after BrainSMASH testing and FDR correction. Exploratory rank-based Gene Ontology (GO) analysis implicated biological functions related to neuronal structure, synaptic function, and the regulation of neuronal excitability. These findings identify alterations in dynamic brain state organization in ASD and provide exploratory transcriptomic clues to their potential biological context.",
+    "authors": [
+      "Li Jing",
+      "Ma Xian",
+      "Liu Juan",
+      "Xu Wanze",
+      "Zhang Xiaoyi",
+      "Liang Feifei",
+      "Dou Yu"
+    ],
+    "published": "2026 Nov 11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013182/",
+    "pmid": "43013182",
+    "source": "PubMed"
+  },
+  {
+    "title": "Orchids as epistemological tools: species recognition in the botany of Carolus Clusius.",
+    "summary": "Early modern botanical works represent an elementary yet challenging chapter in the history of biological classification. This study re-assesses the orchid species descriptions of Carolus Clusius (1526-1609), focusing on his Rariorum aliquot stirpium (1583) and Rariorum plantarum historia (1601). Combining philological analysis with modern taxonomy, it examines how Clusius documented Central European Orchidaceae through empirical observation. Rather than treating retrospective identification as a teleological exercise, the study employs modern taxonomy as a diagnostic baseline to evaluate the epistemic status of Clusius's observational categories and to determine whether they correspond to stable biological entities. Close analysis of his Latin diagnostic texts and woodcut illustrations reveals a high degree of correspondence between many pre-Linnaean categories and modern species concepts. Cases of seeming taxonomic ambiguity often reflect Clusius's accurate representation of phenotypic plasticity and natural hybridization as distinct from classificatory confusion. The results of this research indicate that the empirical traditions of sixteenth-century botany were already predisposed to the recognition of morphologically stable natural entity independent of formal taxonomic classification. By situating Clusius's orchid corpus within broader debates on species ontology and empirical individuation, this study contributes to ongoing discussions about the historical basis of biological classification.",
+    "authors": [
+      "Gaál Botond"
+    ],
+    "published": "2026 Nov 11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013149/",
+    "pmid": "43013149",
+    "source": "PubMed"
+  },
+  {
+    "title": "Transcriptomic changes associated with the antiproliferative effects of indole-3-acetic acid in SH-SY5Y neuroblastoma cells: an exploratory study.",
+    "summary": "Neuroblastoma is a highly heterogeneous paediatric malignancy characterized by dysregulated oncogenic pathways that promote tumor progression and therapeutic resistance. We previously demonstrated that indole-3-acetic acid (IAA), a naturally occurring indole derivative, exerts antiproliferative effects in SH-SY5Y and SK-N-BE(2) neuroblastoma cells by reducing cell viability, downregulating ALK expression, inducing G1 cell-cycle arrest, promoting autophagy, and suppressing clonogenicity and migration.",
+    "authors": [
+      "Varriale Stefano",
+      "Amenta Maria Laura",
+      "Merlo Rosa",
+      "Mattosovich Rosanna",
+      "Mallardo Marta",
+      "Nigro Ersilia",
+      "Daniele Aurora",
+      "Valenti Anna",
+      "Bianco Carmelina"
+    ],
+    "published": "2026 Nov 11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43012885/",
+    "pmid": "43012885",
+    "source": "PubMed"
+  }
+]

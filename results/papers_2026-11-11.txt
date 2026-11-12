@@ -1,0 +1,31 @@
+Ontology 文献追踪报告 - 2026-11-11
+==================================================
+
+共发现 4 篇新论文
+
+--- PubMed (4 篇) ------------------------------
+
+1. DRLCI: Dual-view Representation Learning Framework for Predicting Drug-Gene Interactions via Causal Intervention.
+   作者: Huang Peng, Pan Xue, Liu Yongbin, Yu Ying, Liu Jun 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43013439/
+   PMID: 43013439
+   摘要: Investigating drug-gene interactions is essential for advancing personalized medicine and therapeutic innovation. In recent years, Graph Neural Network-based approaches have demonstrated significant potential for this task by utilizing diverse strategies, such as subgraph extraction and hypergraph modeling. However, these associative paradigms remain confined to observational statistics, primarily identifying superficial correlations rather than underlying causal mechanisms. Drug-gene prediction...
+
+2. Altered dynamic brain states and potential transcriptomic correlates in autism spectrum disorder.
+   作者: Li Jing, Ma Xian, Liu Juan, Xu Wanze, Zhang Xiaoyi 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43013182/
+   PMID: 43013182
+   摘要: Autism spectrum disorder (ASD) is associated with widespread alterations in functional brain networks, but its transient dynamic brain states and potential transcriptomic correlates remain unclear. We applied Leading Eigenvector Dynamics Analysis (LEiDA) to resting-state functional magnetic resonance imaging data from 110 individuals with ASD and 110 healthy controls (HCs) from the Autism Brain Imaging Data Exchange I (ABIDE I) dataset. Five recurrent phase-locking states were identified, and dy...
+
+3. Orchids as epistemological tools: species recognition in the botany of Carolus Clusius.
+   作者: Gaál Botond
+   链接: https://pubmed.ncbi.nlm.nih.gov/43013149/
+   PMID: 43013149
+   摘要: Early modern botanical works represent an elementary yet challenging chapter in the history of biological classification. This study re-assesses the orchid species descriptions of Carolus Clusius (1526-1609), focusing on his Rariorum aliquot stirpium (1583) and Rariorum plantarum historia (1601). Combining philological analysis with modern taxonomy, it examines how Clusius documented Central European Orchidaceae through empirical observation. Rather than treating retrospective identification as ...
+
+4. Transcriptomic changes associated with the antiproliferative effects of indole-3-acetic acid in SH-SY5Y neuroblastoma cells: an exploratory study.
+   作者: Varriale Stefano, Amenta Maria Laura, Merlo Rosa, Mattosovich Rosanna, Mallardo Marta 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43012885/
+   PMID: 43012885
+   摘要: Neuroblastoma is a highly heterogeneous paediatric malignancy characterized by dysregulated oncogenic pathways that promote tumor progression and therapeutic resistance. We previously demonstrated that indole-3-acetic acid (IAA), a naturally occurring indole derivative, exerts antiproliferative effects in SH-SY5Y and SK-N-BE(2) neuroblastoma cells by reducing cell viability, downregulating ALK expression, inducing G1 cell-cycle arrest, promoting autophagy, and suppressing clonogenicity and migra...
+
