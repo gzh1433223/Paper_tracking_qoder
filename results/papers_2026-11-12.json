@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Youthful circulation reshapes age-associated DNA methylation across blood and liver.",
+    "summary": "Prolonged heterochronic parabiosis (HPB) reduces DNA methylation (DNAm) age in old mice, but how age-opposing methylation changes are organized across tissues and retained after removal of youthful circulation is unclear. We analyzed processed reduced-representation bisulfite sequencing data from 78 blood and liver samples from a published prolonged-HPB experiment. Across 1,008,133 CpGs with at least 10-fold coverage in every sample, we quantified normal-aging and HPB effects, defined directional reversal by effect size, tested exact cross-tissue and post-detachment persistence, and used chromosome-aware null models for overlap and gene-convergence analyses. HPB-associated methylation changes opposed normal aging in blood and liver, including in independent-cohort comparisons that avoided a shared Old-ISO reference. At the primary 10-percentage-point threshold, 22,424 blood and 22,286 liver CpGs were reversed immediately after HPB; 1,792 were shared at identical loci. After two months of recovery, 25,867 blood and 15,437 liver CpGs were reversed, with 1,387 exact shared loci. A 64-CpG cross-tissue core persisted across both time points. Reversed CpGs were depleted from promoters and CpG islands and enriched in gene bodies and open-sea regions. After exact shared CpGs were removed, tissue-specific sites showed a modest excess of nearest-gene convergence (4,716 observed vs 4,215 expected; empirical P≈.001), whereas promoter/gene-body and Gene Ontology convergence were not supported by stricter genomic null models. Youthful circulation produces both conserved and tissue-specific reversal of age-associated methylation. Persistence after detachment and modest cross-tissue genomic-neighborhood convergence suggest that systemic rejuvenation is encoded at multiple levels of epigenomic organization.",
+    "authors": [
+      "Kovalchuk Igor",
+      "Kovalchuk Olga"
+    ],
+    "published": "2026 Nov 12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43016321/",
+    "pmid": "43016321",
+    "source": "PubMed"
+  },
+  {
+    "title": "PANTHER: the protein tree and function resource in 2027.",
+    "summary": "PANTHER (Protein ANalysis THrough Evolutionary Relationships) is a comprehensive resource of phylogenetic trees of protein-coding gene families. Trees are manually annotated with Gene Ontology (GO) terms describing how protein functional characteristics were gained and lost over time along tree branches, and these evolutionary models are used to create GO annotations for protein-coding genes. Orthologs, paralogs, and xenologs are assigned based on the trees. Here, we describe updates to the PANTHER resource since our previous published report in 2022. Since that time, the content of the database has been systematically improved: GO annotations of the trees have been expanded to increase coverage of genes by 20%-100% depending on the organism; thousands of families have been revised and ~100 added; and the PANTHER release pipeline has been modified to improve stability of the trees across versions. The expanded annotations for all 131 genomes in the PANTHER trees can be downloaded or used for analyzing gene lists directly on the PANTHER website, and users can now generate tree-based GO annotations for any sequence file using InterProScan.",
+    "authors": [
+      "Mi Huaiyu",
+      "Ebert Dustin",
+      "Muruganujan Anushya",
+      "Thomas Paul D"
+    ],
+    "published": "2026 Nov 12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43016065/",
+    "pmid": "43016065",
+    "source": "PubMed"
+  },
+  {
+    "title": "MAGR-TCM: a knowledge graph-powered multi-agent model for intelligent home health consultation and triage in TCM gynecology.",
+    "summary": "Traditional Chinese Medicine (TCM) demonstrates distinct efficacy in managing gynecological disorders. However, accessing this specialized care in a home setting remains challenging due to the high cost of frequent hospital visits, privacy concerns, and a lack of immediate professional guidance. While general-purpose artificial intelligence offers a convenient alternative, the semantic gap between a patient's colloquial symptom descriptions and formal TCM diagnostic logic-compounded by the inherent 'hallucination' risks of large language models-prevents these tools from providing safe, actionable advice. To bridge this gap, this study proposes MAGR-TCM, an intelligent home health consultation and triage model.",
+    "authors": [
+      "Lv Ming",
+      "Pan Xu",
+      "Li Yishan",
+      "Hu Yalan",
+      "Xu Wei",
+      "Jin Li",
+      "Fang Fang"
+    ],
+    "published": "2026 Nov 12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43015875/",
+    "pmid": "43015875",
+    "source": "PubMed"
+  }
+]

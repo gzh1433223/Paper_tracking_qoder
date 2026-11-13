@@ -1,0 +1,25 @@
+Ontology 文献追踪报告 - 2026-11-12
+==================================================
+
+共发现 3 篇新论文
+
+--- PubMed (3 篇) ------------------------------
+
+1. Youthful circulation reshapes age-associated DNA methylation across blood and liver.
+   作者: Kovalchuk Igor, Kovalchuk Olga
+   链接: https://pubmed.ncbi.nlm.nih.gov/43016321/
+   PMID: 43016321
+   摘要: Prolonged heterochronic parabiosis (HPB) reduces DNA methylation (DNAm) age in old mice, but how age-opposing methylation changes are organized across tissues and retained after removal of youthful circulation is unclear. We analyzed processed reduced-representation bisulfite sequencing data from 78 blood and liver samples from a published prolonged-HPB experiment. Across 1,008,133 CpGs with at least 10-fold coverage in every sample, we quantified normal-aging and HPB effects, defined directiona...
+
+2. PANTHER: the protein tree and function resource in 2027.
+   作者: Mi Huaiyu, Ebert Dustin, Muruganujan Anushya, Thomas Paul D
+   链接: https://pubmed.ncbi.nlm.nih.gov/43016065/
+   PMID: 43016065
+   摘要: PANTHER (Protein ANalysis THrough Evolutionary Relationships) is a comprehensive resource of phylogenetic trees of protein-coding gene families. Trees are manually annotated with Gene Ontology (GO) terms describing how protein functional characteristics were gained and lost over time along tree branches, and these evolutionary models are used to create GO annotations for protein-coding genes. Orthologs, paralogs, and xenologs are assigned based on the trees. Here, we describe updates to the PANT...
+
+3. MAGR-TCM: a knowledge graph-powered multi-agent model for intelligent home health consultation and triage in TCM gynecology.
+   作者: Lv Ming, Pan Xu, Li Yishan, Hu Yalan, Xu Wei 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43015875/
+   PMID: 43015875
+   摘要: Traditional Chinese Medicine (TCM) demonstrates distinct efficacy in managing gynecological disorders. However, accessing this specialized care in a home setting remains challenging due to the high cost of frequent hospital visits, privacy concerns, and a lack of immediate professional guidance. While general-purpose artificial intelligence offers a convenient alternative, the semantic gap between a patient's colloquial symptom descriptions and formal TCM diagnostic logic-compounded by the inher...
+
