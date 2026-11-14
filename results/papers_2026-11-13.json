@@ -1,0 +1,79 @@
+[
+  {
+    "title": "A Knowledge Graph-Enhanced Question-Answering System for Chinese Patent Medicines in Pediatric Influenza: Development and Evaluation Study.",
+    "summary": "Pediatric influenza is an important public health concern. Chinese patent medicines are used in its treatment, but relevant clinical evidence is dispersed across guidelines, expert consensus statements, and clinical studies. The multidimensional knowledge required for syndrome-based prescribing complicates information retrieval and standardized clinical use.",
+    "authors": [
+      "Li Haoyuan",
+      "Zhao Guozhen",
+      "Zong Xingyu",
+      "Liang Ning",
+      "Li Huizhen",
+      "Zhang Wandi",
+      "Lin Jiahao",
+      "Ma Bohan",
+      "Jia Jinghan",
+      "Wang Yanping",
+      "Shi Nannan"
+    ],
+    "published": "2026 Nov 13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43024798/",
+    "pmid": "43024798",
+    "source": "PubMed"
+  },
+  {
+    "title": "γ-Terpinene modulates an HLA-centered antigen processing and presentation network at the tuberculosis-lung cancer molecular interface: an integrated computational and experimental study.",
+    "summary": "Tuberculosis (TB) and lung cancer (LC) have common inflammatory and immune-regulatory pathways but there is still a lot of unknown about how they are related at a molecular level and whether they can be treated with some compounds. The present study employed an integrated computational and experimental strategy to investigate shared TB-LC molecular targets and to prioritize γ-terpinene as a candidate phytochemical targeting an HLA-centered antigen processing and presentation network. Targeted diseases were identified and then analyzed by protein-protein interaction network analysis, hub gene selection, Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment. Molecular docking, 100-ns molecular dynamics simulations and MM/PBSA analysis were subsequently employed to characterize the predicted interactions of γ-terpinene with the prioritized HLA proteins. The computational analysis identified 103 shared TB-LC targets and highlighted HLA-B, HLA-C, HLA-DMA, HLA-DQA2 and HLA-DRA as central hub genes, with antigen processing and presentation among the prominent enriched biological pathways. Experimental validation in A549 and H-1299 lung cancer cells demonstrated concentration-dependent effects of γ-terpinene on cellular viability, accompanied by increased apoptotic populations and altered cell-cycle progression. Furthermore, γ-terpinene treatment modulated the expression of HLA-B, HLA-C, HLA-DMA, HLA-DQA2 and HLA-DRA at the transcript level, with protein-level validation performed for HLA-B, HLA-C and HLA-DRA. Collectively, these findings identify an HLA-centered antigen-processing and presentation network as a candidate molecular interface between tuberculosis and lung cancer and support further investigation of γ-terpinene-associated cellular responses. However, direct target engagement and a causal role for HLA modulation remain to be established in disease-relevant experimental models.",
+    "authors": [
+      "Saravanan Snega",
+      "Arockiasamy Edward",
+      "Chowmian Harikesh",
+      "Saravanan Mathesh"
+    ],
+    "published": "2026 Nov 13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43024103/",
+    "pmid": "43024103",
+    "source": "PubMed"
+  },
+  {
+    "title": "Gfa2bin enables graph-based GWAS by converting genome graphs to pan-genomic genotypes.",
+    "summary": "Variation graphs offer superior representation of genomic diversity compared to traditional linear reference genomes, capturing complex features, especially structural variants, that are otherwise inaccessible to analysis. Given the known role of structural variants in functional allelic variation, it seems self-evident that exploiting variation graphs for genome-wide association studies (GWAS) should enable more comprehensive knowledge of associations between genetic variants and phenotypic traits. We present a tool, gfa2bin, that offers multiple methods to (i) use variation graphs for genotyping, and (ii) convert the genotypes into well-established data formats for use in GWAS. In a case study where we apply gfa2bin to Arabidopsis thaliana, we demonstrate with 1,695 traits that variation graphs can detect genotype-phenotype associations not found with linear reference genomes. Our approach complements SNP-based methods; not only does graph-based GWAS produce additional associations, but associations also found with SNPs have on average higher significance in graph-based GWAS. gfa2bin is implemented in Rust, and commented source code is available under an MIT license at https://github.com/MoinSebi/gfa2bin. Examples of how to run gfa2bin are provided in the documentation. We provide several Python scripts and a Snakemake pipeline for easy use of the tool with larger data sets. The packing tool (https://github.com/MoinSebi/packing) is recommended for reduced storage and preprocessing (normalization) of sequence-to-graph alignments.",
+    "authors": [
+      "Vorbrugg Sebastian",
+      "Bezrukov Ilja",
+      "Bao Zhigui",
+      "Xian Wenfei",
+      "Weigel Detlef"
+    ],
+    "published": "2026 Nov 13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43023389/",
+    "pmid": "43023389",
+    "source": "PubMed"
+  },
+  {
+    "title": "A Topology-Feature Disentangled Deep Clustering Method for scRNA-seq Based on Graph-to-MLP Distillation.",
+    "summary": "Graph neural networks (GNNs), owing to their ability to model topological relationships between cells, have gradually emerged as a mainstream approach in the clustering analysis of single-cell RNA sequencing (scRNA-seq) data. However, their practical application still faces the following challenges: (1) excessive smoothing undermines cellular heterogeneity; (2) pre-constructed graphs introduce end-to-end dependencies; (3) large-scale cellular graph computations are computationally intensive.",
+    "authors": [
+      "Gao Xilai",
+      "Liu Hao",
+      "Zhao Yang",
+      "Lv Xiaoyi",
+      "Zhao Xiangwei",
+      "Chen Cheng"
+    ],
+    "published": "2026 Nov 13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43021569/",
+    "pmid": "43021569",
+    "source": "PubMed"
+  },
+  {
+    "title": "Operationalizing African Relational Ontology: Concept Derivation for the Theory of Communal-Relational Person-Becoming.",
+    "summary": "AbstractThis article operationalizes the Theory of Communal-Relational Person-Becoming by translating African relational ontology into measurable and clinically applicable concepts. Using a structured concept derivation methodology, abstract philosophical constructs were transformed into practice-ready variables across corporeal-relational, soulular-spiritual, and mental-communal domains. The resulting operational concepts illuminate communal, relational, and spiritual dimensions of personhood often obscured in Western individualistic nursing models. This article advances decolonial nursing scholarship by demonstrating the methodological rigor and theoretical coherence of African relational thought. The operational framework establishes the foundation for middle-range theory development, culturally grounded assessment tools, and future empirical testing.",
+    "authors": [
+      "Bayuo Jonathan"
+    ],
+    "published": "2026 Nov 13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43021461/",
+    "pmid": "43021461",
+    "source": "PubMed"
+  }
+]
