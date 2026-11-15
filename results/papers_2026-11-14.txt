@@ -1,0 +1,13 @@
+Ontology 文献追踪报告 - 2026-11-14
+==================================================
+
+共发现 1 篇新论文
+
+--- PubMed (1 篇) ------------------------------
+
+1. PDBe in 2027: integrating literature annotations, molecular dynamics data, and AI-ready access.
+   作者: Afonso Marcelo Querino Lima, Vollmar Melanie, Bellaiche Adam, Choudhary Preeti, Nair Sreenath Sasidharan 等 45 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43031547/
+   PMID: 43031547
+   摘要: The Protein Data Bank in Europe (PDBe; pdbe.org) provides open access to experimentally determined biomacromolecular structures and enriches these data with biological and functional context. Here, we describe recent developments that expand the information connected to PDB structures and introduce new ways for researchers and computational tools to access it. Literature integration has been extended to additional open-access publications, substantially increasing the availability of residue-lev...
+
