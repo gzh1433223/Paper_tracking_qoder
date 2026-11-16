@@ -1,0 +1,84 @@
+[
+  {
+    "title": "RBFOX3 regulates hippocampal transcriptomic programs to maintain synaptic and ultrastructural integrity.",
+    "summary": "RBFOX3 is a neuron-specific RNA-binding protein essential for maintaining brain circuit homeostasis and functional connectivity. Genetic disruptions in RBFOX3 are clinically linked to cognitive impairment, epilepsy, and sleep disorders. Although global Rbfox3 knockout (Rbfox3",
+    "authors": [
+      "Lee Chih-Yu",
+      "Huang De-Fong",
+      "Lai Ivan Pochou",
+      "Lee Li-Jen",
+      "Huang Hsien-Sung"
+    ],
+    "published": "2026 Nov 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42692383/",
+    "pmid": "42692383",
+    "source": "PubMed"
+  },
+  {
+    "title": "ODTIC-KG: A knowledge graph framework for proactive oncology drug inventory management in hospitals.",
+    "summary": "Managing oncology drug inventories in hospitals is a critical yet complex task due to high treatment sensitivity, fluctuating patient demand, supply chain disruptions, and strict storage constraints. Traditional hospital inventory systems mainly provide descriptive monitoring and lack mechanisms for anticipatory decision support. This study proposes ODTIC (Oncology Drug Traceability and Intelligent Control), a knowledge graph-driven framework designed to enable proactive control of oncology drug inventories through semantic traceability and intelligent reasoning. The framework models relationships among oncology drugs, batches, inventory items, storage units, and hospital departments using an ontology-based knowledge graph. By combining Semantic Web Rule Language (SWRL) reasoning and SPARQL inference, the system automatically detects operational risks such as stock depletion, safety stock violations, expiration threats, and inter-department stock imbalance. When risks are identified, the framework generates semantically structured decision actions including alerts, reorder triggers, safety stock replenishment, stock redistribution, and therapeutic substitution recommendations. A case study conducted on fourteen oncology drugs distributed across multiple hospital departments demonstrates the capability of the proposed approach to detect risks and generate actionable decisions with low reasoning latency. The results highlight the potential of knowledge graph technologies to transform pharmaceutical traceability systems into proactive decision-support infrastructures.",
+    "authors": [
+      "Bouzidi Kaouther Rabah",
+      "Titah Mawloud",
+      "Khalil Mekki Ibrahim El"
+    ],
+    "published": "2026 Nov 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42648278/",
+    "pmid": "42648278",
+    "source": "PubMed"
+  },
+  {
+    "title": "Chemical Characterization and Mechanism Analysis of Ganjianglingzhu Decoction in the Treatment of Low Back Pain Based on UPLC-Q-TOF-MS/MS and Network Pharmacology.",
+    "summary": "Ganjianglingzhu decoction (GJLZD), a classical traditional Chinese medicine (TCM) formula, has been widely used in the treatment of low back pain. However, its chemical composition and underlying mechanisms remain insufficiently elucidated.",
+    "authors": [
+      "Chen Baoduan",
+      "Li Ping",
+      "Shi Jun",
+      "Xu Fei",
+      "Sun Sifan"
+    ],
+    "published": "2026 Nov 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42618042/",
+    "pmid": "42618042",
+    "source": "PubMed"
+  },
+  {
+    "title": "Ethnopharmacological evaluation of Plumbago zeylanica L. against Russell's viper envenomation: a combined computational and experimental study.",
+    "summary": "Russell's viper envenomation (RVE) continues to result in substantial morbidity and death because of the complex effects of its venom on coagulation, inflammation, and tissue integrity, coupled with the low efficacy of conventional antivenom against local and enzyme-mediated toxicity. This study aimed to validate the antivenom properties of the Plumbago zeylanica L. hydroalcoholic methanol extract (PZE) through integrated experimental and computational approaches.",
+    "authors": [
+      "Dodakallanavar Jagadeesh",
+      "Harish Darasaguppe R",
+      "Watangi Rubina U",
+      "Chand Jagdish",
+      "Kundu Reetu",
+      "Banerjee Ritika",
+      "Desai Akanksha",
+      "Khatib Nayeem A",
+      "Hegde Harsha",
+      "Roy Subarna"
+    ],
+    "published": "2026 Nov 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263919/",
+    "pmid": "42263919",
+    "source": "PubMed"
+  },
+  {
+    "title": "Shuang-Xin-Tong-Tiao formula from Menghe medicine exerts dual cardioprotective and antidepressant effects associated with the suppression of Toll-like receptor 4 / nuclear factor kappa-B / hypoxia-inducible factor-1 alpha signaling.",
+    "summary": "Shuang-Xin-Tong-Tiao formula (SXTTF) is a characteristic traditional Chinese medicine (TCM) prescription developed within the Menghe medical lineage, traditionally used for cardioprotective and antidepressant. Increasing clinical and experimental evidence suggests a close interplay between heart and depression, however, the underlying mechanisms remain poorly understood.",
+    "authors": [
+      "Cao Ji",
+      "Lian Yuanpei",
+      "He Yufan",
+      "Qian Yuwen",
+      "Wang Dijun",
+      "Xu Jianda",
+      "Chen Lan",
+      "Luo Libo",
+      "Yan Xiaojing"
+    ],
+    "published": "2026 Nov 15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42214566/",
+    "pmid": "42214566",
+    "source": "PubMed"
+  }
+]

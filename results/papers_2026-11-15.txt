@@ -1,0 +1,37 @@
+Ontology 文献追踪报告 - 2026-11-15
+==================================================
+
+共发现 5 篇新论文
+
+--- PubMed (5 篇) ------------------------------
+
+1. RBFOX3 regulates hippocampal transcriptomic programs to maintain synaptic and ultrastructural integrity.
+   作者: Lee Chih-Yu, Huang De-Fong, Lai Ivan Pochou, Lee Li-Jen, Huang Hsien-Sung
+   链接: https://pubmed.ncbi.nlm.nih.gov/42692383/
+   PMID: 42692383
+   摘要: RBFOX3 is a neuron-specific RNA-binding protein essential for maintaining brain circuit homeostasis and functional connectivity. Genetic disruptions in RBFOX3 are clinically linked to cognitive impairment, epilepsy, and sleep disorders. Although global Rbfox3 knockout (Rbfox3...
+
+2. ODTIC-KG: A knowledge graph framework for proactive oncology drug inventory management in hospitals.
+   作者: Bouzidi Kaouther Rabah, Titah Mawloud, Khalil Mekki Ibrahim El
+   链接: https://pubmed.ncbi.nlm.nih.gov/42648278/
+   PMID: 42648278
+   摘要: Managing oncology drug inventories in hospitals is a critical yet complex task due to high treatment sensitivity, fluctuating patient demand, supply chain disruptions, and strict storage constraints. Traditional hospital inventory systems mainly provide descriptive monitoring and lack mechanisms for anticipatory decision support. This study proposes ODTIC (Oncology Drug Traceability and Intelligent Control), a knowledge graph-driven framework designed to enable proactive control of oncology drug...
+
+3. Chemical Characterization and Mechanism Analysis of Ganjianglingzhu Decoction in the Treatment of Low Back Pain Based on UPLC-Q-TOF-MS/MS and Network Pharmacology.
+   作者: Chen Baoduan, Li Ping, Shi Jun, Xu Fei, Sun Sifan
+   链接: https://pubmed.ncbi.nlm.nih.gov/42618042/
+   PMID: 42618042
+   摘要: Ganjianglingzhu decoction (GJLZD), a classical traditional Chinese medicine (TCM) formula, has been widely used in the treatment of low back pain. However, its chemical composition and underlying mechanisms remain insufficiently elucidated....
+
+4. Ethnopharmacological evaluation of Plumbago zeylanica L. against Russell's viper envenomation: a combined computational and experimental study.
+   作者: Dodakallanavar Jagadeesh, Harish Darasaguppe R, Watangi Rubina U, Chand Jagdish, Kundu Reetu 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42263919/
+   PMID: 42263919
+   摘要: Russell's viper envenomation (RVE) continues to result in substantial morbidity and death because of the complex effects of its venom on coagulation, inflammation, and tissue integrity, coupled with the low efficacy of conventional antivenom against local and enzyme-mediated toxicity. This study aimed to validate the antivenom properties of the Plumbago zeylanica L. hydroalcoholic methanol extract (PZE) through integrated experimental and computational approaches....
+
+5. Shuang-Xin-Tong-Tiao formula from Menghe medicine exerts dual cardioprotective and antidepressant effects associated with the suppression of Toll-like receptor 4 / nuclear factor kappa-B / hypoxia-inducible factor-1 alpha signaling.
+   作者: Cao Ji, Lian Yuanpei, He Yufan, Qian Yuwen, Wang Dijun 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42214566/
+   PMID: 42214566
+   摘要: Shuang-Xin-Tong-Tiao formula (SXTTF) is a characteristic traditional Chinese medicine (TCM) prescription developed within the Menghe medical lineage, traditionally used for cardioprotective and antidepressant. Increasing clinical and experimental evidence suggests a close interplay between heart and depression, however, the underlying mechanisms remain poorly understood....
+
