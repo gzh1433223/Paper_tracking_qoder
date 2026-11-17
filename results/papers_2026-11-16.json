@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Transcriptomic profiling of embryo-derived cell lines from the Chagas disease insect vector Rhodnius prolixus (Hemiptera: Triatominae).",
+    "summary": "Rhodnius prolixus is a primary insect vector of Trypanosoma cruzi, the causative agent of Chagas disease, a neglected parasitosis endemic in Latin American countries. It has been estimated that Chagas disease affects 7-8 million people worldwide and is responsible for approximately 1,000 deaths per year. Genetic and molecular studies in this species remain challenging due to its life cycle and feeding habits, thus hindering the development of new strategies to control their populations and reduce the diffusion of Chagas disease. Recently, two stable cell lines - RPE/LULS53 and RPE/LULS57 - were derived from Rhodnius embryos, which represent promising new tools to investigate the genetics of this insect vector. Here, we describe their gene expression landscapes through transcriptomic approaches. We show that 8,968 expressed genes are shared between the two cell lines, whereas 391 and 1,088 genes were enriched in RPE/LULS53 and RPE/LULS57 datasets, respectively. Although key components of primary developmental, immune and redox signaling pathways are expressed in both cell lines, the expression of certain genes such as Frizzled-10-a-like and catalase appear to differ suggesting that RPE/LULS53 and RPE/LULS57 may display different cellular characteristics. Consistent with this, gene ontology analysis identified distinct functional categories, including animal organ morphogenesis and stress response in RPE/LULS53 and DNA-directed RNA polymerase activity in RPE/LULS57, among others. Despite these differences, both cell lines express comparable levels of transcripts from resident transposable elements, including the highly abundant Mariner and LINE/I elements, as well as transposable elements previously acquired through horizontal transfer. Our findings shed light on the nature of the RPE/LULS53 and RPE/LULS57 embryo-derived cell lines and provide valuable transcriptomic resources for future genetic and functional studies in Rhodnius and other triatomine insect vectors.",
+    "authors": [
+      "de Andrade Tavares Laura",
+      "Garcia Anna Carolina Silva",
+      "Wangari Wangombe Joyce",
+      "Bell-Sakyi Lesley",
+      "Fontenele de Brito Tarcísio",
+      "Pane Attilio"
+    ],
+    "published": "2026 Nov 16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43038271/",
+    "pmid": "43038271",
+    "source": "PubMed"
+  },
+  {
+    "title": "Identification of IFI44L as a potential immune-associated molecule and theoretical CAR-T target for systemic lupus erythematosus: a cross-platform bioinformatic analysis.",
+    "summary": "Systemic lupus erythematosus (SLE) is a highly heterogeneous autoimmune disorder characterized by disrupted immune homeostasis, persistent chronic inflammation, and progressive multi-organ injury, accompanied by frequent disease flares and marked interindividual clinical heterogeneity. At present, specific molecular biomarkers for precise evaluation of immune dysregulation and guidance for individualized targeted therapy for SLE remain scarce.",
+    "authors": [
+      "Yao Qian",
+      "Zhang Xingxing",
+      "Liu Lingxiao",
+      "Yang Peng"
+    ],
+    "published": "2026 Nov 16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037860/",
+    "pmid": "43037860",
+    "source": "PubMed"
+  },
+  {
+    "title": "ReMoD-Mol: Reliability-Aware Multimodal Learning with Descriptor-Guided Knowledge Distillation for Molecular Property Prediction.",
+    "summary": "Accurate molecular property prediction (MPP) remains a central challenge in drug discovery. Given the limited availability of labeled molecular data, multimodal molecular representation learning offers a promising means of integrating complementary structural information for MPP. Existing multimodal models still face two limitations: (i) common fusion strategies, particularly direct concatenation, can introduce redundant information or signals that are weakly relevant to the target property; and (ii) the effective incorporation of complementary physicochemical priors into multimodal representations remains insufficiently explored.",
+    "authors": [
+      "Yang Yilin",
+      "Chen Shuqi",
+      "Zhao Qichang",
+      "Yan Cheng"
+    ],
+    "published": "2026 Nov 16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037076/",
+    "pmid": "43037076",
+    "source": "PubMed"
+  }
+]

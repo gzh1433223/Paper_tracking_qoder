@@ -1,0 +1,25 @@
+Ontology 文献追踪报告 - 2026-11-16
+==================================================
+
+共发现 3 篇新论文
+
+--- PubMed (3 篇) ------------------------------
+
+1. Transcriptomic profiling of embryo-derived cell lines from the Chagas disease insect vector Rhodnius prolixus (Hemiptera: Triatominae).
+   作者: de Andrade Tavares Laura, Garcia Anna Carolina Silva, Wangari Wangombe Joyce, Bell-Sakyi Lesley, Fontenele de Brito Tarcísio 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43038271/
+   PMID: 43038271
+   摘要: Rhodnius prolixus is a primary insect vector of Trypanosoma cruzi, the causative agent of Chagas disease, a neglected parasitosis endemic in Latin American countries. It has been estimated that Chagas disease affects 7-8 million people worldwide and is responsible for approximately 1,000 deaths per year. Genetic and molecular studies in this species remain challenging due to its life cycle and feeding habits, thus hindering the development of new strategies to control their populations and reduc...
+
+2. Identification of IFI44L as a potential immune-associated molecule and theoretical CAR-T target for systemic lupus erythematosus: a cross-platform bioinformatic analysis.
+   作者: Yao Qian, Zhang Xingxing, Liu Lingxiao, Yang Peng
+   链接: https://pubmed.ncbi.nlm.nih.gov/43037860/
+   PMID: 43037860
+   摘要: Systemic lupus erythematosus (SLE) is a highly heterogeneous autoimmune disorder characterized by disrupted immune homeostasis, persistent chronic inflammation, and progressive multi-organ injury, accompanied by frequent disease flares and marked interindividual clinical heterogeneity. At present, specific molecular biomarkers for precise evaluation of immune dysregulation and guidance for individualized targeted therapy for SLE remain scarce....
+
+3. ReMoD-Mol: Reliability-Aware Multimodal Learning with Descriptor-Guided Knowledge Distillation for Molecular Property Prediction.
+   作者: Yang Yilin, Chen Shuqi, Zhao Qichang, Yan Cheng
+   链接: https://pubmed.ncbi.nlm.nih.gov/43037076/
+   PMID: 43037076
+   摘要: Accurate molecular property prediction (MPP) remains a central challenge in drug discovery. Given the limited availability of labeled molecular data, multimodal molecular representation learning offers a promising means of integrating complementary structural information for MPP. Existing multimodal models still face two limitations: (i) common fusion strategies, particularly direct concatenation, can introduce redundant information or signals that are weakly relevant to the target property; and...
+
