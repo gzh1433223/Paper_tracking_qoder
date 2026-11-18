@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Detecting Invisible Triangular Citations in Biomedical Research Using a Dual-Threshold Framework Based on Textual Similarity and Bibliographic Coupling Strength: Method Development and Validation Study.",
+    "summary": "Invisible triangular citations (ITCs)-a form of citation malpractice where authors of a follower document (C) derive content from a seminal work (A) through an unacknowledged intermediary (B)-pose a significant threat to knowledge provenance and academic integrity. This concealed practice is particularly hazardous in biomedical research, where distorted attribution can propagate misinterpreted concepts into clinical guidelines and therapeutic protocols. Current detection methods lack robust, content-based models to identify such obscured citation pathways.",
+    "authors": [
+      "Liu Yunmei",
+      "Xu Jingyi",
+      "Huang Lei"
+    ],
+    "published": "2026 Nov 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044108/",
+    "pmid": "43044108",
+    "source": "PubMed"
+  },
+  {
+    "title": "Ontology pre-training improves machine learning-based predictions for metabolites.",
+    "summary": "Deep learning has recently led to multiple breakthroughs in longstanding biological problems. Recent advances have shown that integration of expert knowledge can improve deep learning model predictive performance in complex domains such as biology. Bio-ontologies offer a rich source of curated biological knowledge that can be harnessed to this end. Here, we describe an intuitive and generalisable approach to embed the knowledge contained in a classification hierarchy derived from a bio-ontology into a deep learning model as an intermediate training step between general-purpose pre-training and task-specific fine-tuning: a process that we call'ontology pre-training'. We show that this approach leads to an improvement in predictive performance and a reduction in training time for a broad range of prediction tasks related to metabolite functions, activities and properties in living systems, using a range of datasets derived from MoleculeNet. We see the biggest improvement for regression tasks, e.g., prediction of lipophilicity and aqueous solubility of molecules, and a robust improvement for most classification tasks. Our approach can be adapted for a wide range of knowledge sources, models and prediction tasks.",
+    "authors": [
+      "Tumescheit Charlotte",
+      "Glauer Martin",
+      "Flügel Simon",
+      "Larralde Martin",
+      "Neuhaus Fabian",
+      "Mossakowski Till",
+      "Hastings Janna"
+    ],
+    "published": "2026 Nov 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043967/",
+    "pmid": "43043967",
+    "source": "PubMed"
+  },
+  {
+    "title": "How VR Systems Impact Virtual Navigation for Blind People.",
+    "summary": "Virtual Reality (VR) offers immersive experiences through embodied interactions like head tracking, going beyond traditional controls like joysticks or keyboards. Prior research has studied the impact of VR affordances on people's experience and performance, but exclusively through sighted people's perspectives. While blind people may also leverage the physical nature of VR interactions, there is no knowledge on how VR compares with traditional controls in nonvisual tasks. We conducted a study where 26 blind participants performed navigation tasks with two conditions: VR and Game Controller. Additionally, as virtual environments can offer various degrees of complexity, we observed how participants performed under different cognitive demands. Our findings showed that VR improved navigation performance, whereas adding a simultaneous cognitive task decreased performance in both conditions. In VR, participants benefited from direct rotation, but with game controllers, the added complexity of rotating often led to reliance on translational 2D movements (e.g., moving sideways).",
+    "authors": [
+      "Picarra Manuel",
+      "Guerreiro Joao"
+    ],
+    "published": "2026 Nov 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043746/",
+    "pmid": "43043746",
+    "source": "PubMed"
+  },
+  {
+    "title": "Multi-View Synergistic Learning with Vision-Language Adaptation for Low-Resource Biomedical Image Classification.",
+    "summary": "Accurate biomedical image classification under limited supervision remains challenging due to scarce annotations, subtle inter-class differences, and complex disease semantics. Pretrained vision-language models offer a promising foundation for alleviating data scarcity through knowledge transfer, yet effectively adapting them to low-resource biomedical tasks remains nontrivial. To this end, we propose Multi-View Synergistic Learning (MVSL), a unified framework that jointly considers three complementary perspectives: adaptation paradigms, representation granularity, and disease semantic relationships. Specifically, MVSL adopts tailored adaptation strategies for visual and textual encoders, accommodating their distinct representational characteristics while preserving pretrained knowledge. To capture both holistic image semantics and localized pathological evidence, we introduce multi-granularity contrastive learning that aligns global image representations and local visual features with disease-specific textual embeddings. Furthermore, we develop a Disease Semantic Graph (DSG) that leverages disease descriptions generated by large language models to model class-level semantic relationships and regularize adapted textual representations, thereby complementing discriminative learning and helping mitigate excessive specialization toward observed categories. Through the synergy of these complementary perspectives, MVSL enhances fine-grained discrimination while supporting semantic consistency and generalization to unseen categories. Extensive experiments on 11 public biomedical datasets spanning 9 imaging modalities and 10 anatomical regions demonstrate the effectiveness of MVSL in few-shot classification and base-to-novel generalization. The implementation and detailed experimental results are publicly available at https://github.com/luoxiaoliu/MVSL.",
+    "authors": [
+      "Luo Xiaoliu",
+      "Xiao Minxue",
+      "Xie Ting",
+      "Wang Mengzhu",
+      "Qi Huiqing",
+      "Zhou Joey Tianyi",
+      "Zhang Taiping",
+      "Wang Xu"
+    ],
+    "published": "2026 Nov 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043745/",
+    "pmid": "43043745",
+    "source": "PubMed"
+  },
+  {
+    "title": "Decolonising Autistic Phenomenology: Towards a Critical-Enactive Account of Cognitive Diversity.",
+    "summary": "Recent years have seen a turn toward phenomenological, ecological, and enactive approaches to autism and neurodiversity, within the philosophy of psychiatry and cognitive science. These approaches challenge dominant neuro-reductionist and computational biomedical paradigms, centring embodiment, relationality, affectivity, and the constitutive role of sociomaterial environments in cognition. However, both phenomenological and ecological-enactive approaches are heterogeneous; not all escape the Eurocentric neuronormative assumptions underlying colonial modernity. This paper argues that, where classical phenomenology positions autism as a deviation from implicitly Western standards of 'neurotypical' embodiment and intersubjectivity, critical phenomenology and enactivism supply promising resources to reconceive autistic traits as intrinsically meaningful forms of sense-making - whilst interrogating the universality of categories such as 'autism' and 'neurotypicality.' Critical phenomenology draws attention to how power shapes embodiment, stretching the phenomenological method to confront its own complicity in Eurocentric neuronormativity. Enactivism goes further, providing an inclusive relational ontology of cognitive diversity that can facilitate dialogue with non-Western and Indigenous ways of knowing. Yet it risks becoming politically neutralised when inattentive to coloniality and intersectional oppression. Drawing insight from South Asian autistic experiences, I sketch out a critical-enactive framework oriented toward dismantling both neuronormative and Eurocentric (including logocentric and anthropocentric) assumptions in phenomenology and cognitive science. This decolonial approach paves the way for a pluralistic, intercultural understanding of autism - and embodied cognitive diversity, more broadly - doing justice to culturally and ecologically situated styles of sense-making, without essentialising neurological or cognitive differences.",
+    "authors": [
+      "Hambrook Michael"
+    ],
+    "published": "2026 Nov 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043718/",
+    "pmid": "43043718",
+    "source": "PubMed"
+  },
+  {
+    "title": "Effects of Direct-Current Electric Field on Cellular Behaviors and Gene Expression in HTR-8/SVneo trophoblast cells.",
+    "summary": "Adequate invasion of trophoblasts into the uterus and decidua is essential for placental formation and fetal development. Endogenous electrotactic behavior has been observed in various cell types and electric fields (EFs) present during embryonic development. However, the response of trophoblasts to electric fields and the underlying mechanisms are unclear. This study investigated the effects of direct-current electric fields on trophoblasts behaviors. Cell images were recorded and analyzed using an image analyzer. Scratch wounds were created in confluent monolayers, and migration distances of wound edges were measured. Flow cytometry was used to analyze cell cycle progression and proliferation. Under the electric field, trophoblasts exhibited significant cathode-directed migration. Similarly, the cathode-facing edge of the scratch wound displayed a collective cathode-directed migratory response. EF exposure induced G2/M arrest and inhibited cell proliferation. Furthermore, the differentially expressed genes (DEGs) were identified using RNA sequencing in EF-stimulated trophoblasts, which were verified by reverse transcription quantitative polymerase chain reaction. Gene Ontology analysis revealed these DEGs were associated with biological processes including cell migration, proliferation, and cell cycle. Genome pathway analysis and protein-protein interaction analyses indicated significant enrichment of DEGs in the PI3K and MAPK signaling pathways. Western blotting confirmed the activation of AKT and ERK1/2 in trophoblasts exposed to EF. Inhibition of PI3K, AKT, or ERK1/2 attenuated the directional migration of trophoblasts and impaired the wound healing of scratch models under the electric field. Our results suggest direct-current electric fields regulate trophoblasts behaviors and transcriptome profiling provides novel insights into the mechanism of EF-guided cellular functions.",
+    "authors": [
+      "Tang Yixin",
+      "Zhou Siyu",
+      "Yang Xiaoxiao",
+      "Meng Zihan",
+      "Li Yanling",
+      "Hu Rong",
+      "Zhang Yan",
+      "Chen Jinxin"
+    ],
+    "published": "2026 Nov 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043122/",
+    "pmid": "43043122",
+    "source": "PubMed"
+  },
+  {
+    "title": "CellStressDB: an AI-powered database of cellular responses to physical stressors.",
+    "summary": "Physical stressors profoundly influence cellular behavior by triggering coordinated stress-response programs that regulate signaling, gene expression, metabolism, and cell fate. Here, we present CellStressDB (https://cellstressdb.omic.tech), an AI-powered database for exploring cellular responses to physical stressors. The current release contains data from 131 transcriptomic studies, with 2 364 816 cell and 1205 bulk sample observations from human and mouse across nine physical-stress classes and 21 tissue categories. Data and analyses are organized into 2848 indexed analysis entries across 71 canonical species-tissue-stress contexts with detailed exposure conditions retained. CellStressDB provides ontology-guided cell-type annotation through 22 tissue-aware classifiers and incorporates 941 Geneformer checkpoints for context-specific in silico perturbation. Analyses include stress-response programs, differential gene expression, functional enrichment, regulon activity, cell-type composition, and cell-cell communication where applicable, with candidate compound prioritization, downloadable datasets and models, and analysis of user-provided transcriptomic data. Annotation evaluation and known-factor recovery analyses indicated context-dependent performance and coverage across biological settings. The mouse radiation-intestine example identifies Stat1 as a candidate regulator of radiation-induced intestinal injury supported by independent experimental evidence. Overall, CellStressDB provides an integrated, AI-enabled framework for exploring and interpreting cellular responses to physical stressors and generating testable hypotheses.",
+    "authors": [
+      "Quan Cheng",
+      "Wang Yuyuan",
+      "Liu Qixiang",
+      "Wang Xinze",
+      "Tian Hongyue",
+      "Li Caihui",
+      "Ping Jie",
+      "Zhou Pingkun",
+      "Lu Hao",
+      "Lu Yiming"
+    ],
+    "published": "2026 Nov 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43042471/",
+    "pmid": "43042471",
+    "source": "PubMed"
+  },
+  {
+    "title": "miRPathDB 2027: an updated multi-species atlas of microRNA-pathway associations.",
+    "summary": "Pathway enrichment helps interpret the many genes targeted by microRNAs (miRNAs), but comparisons across organisms are complicated by differences in target evidence and functional annotation. Here, we present miRPathDB 2027, which extends miRPathDB from human and mouse to rat and rhesus macaque. Its retained enrichment profiles span 5701 miRNA entries and 28 044 pathway and ontology accessions from Gene Ontology, Reactome, and WikiPathways. Three cumulative evidence tiers allow users to examine how associations change as broader experimental records and computational predictions are included. Cross-species views align curated miRNA families, separated by mature arm, with corresponding pathway terms and indicate unavailable comparisons; a prespecified analysis tests whether orthologous miRNA profiles agree more than expected from matched random target sets. Interactive miRNA and pathway profiles, heat maps, versioned downloads, and programmatic access connect these patterns to the underlying targets and evidence. miRPathDB 2027 supports exploration of miRNA function and prioritization of associations for experimental follow-up. The database web interface is freely available without registration at https://web.ccb.uni-saarland.de/mirpathdb/.",
+    "authors": [
+      "Flotho Matthias",
+      "Rishik Shusruto",
+      "Keller Andreas"
+    ],
+    "published": "2026 Nov 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43042465/",
+    "pmid": "43042465",
+    "source": "PubMed"
+  },
+  {
+    "title": "A Graded Immune-Cell-Resolved cis-eQTL Mendelian Randomisation Screen Across Systemic Lupus Erythematosus and Related Immune Phenotypes.",
+    "summary": "Systemic lupus erythematosus (SLE) is a genetically complex autoimmune disease. Whole-blood expression quantitative trait locus (eQTL) analyses capture average regulatory effects across leukocytes, whereas SLE involves immune processes that depend on cell context. Therefore, a cell-resolved screen requires rigorous verification of instrument identity, allele orientation, and the multiple-testing denominator before biological interpretation.",
+    "authors": [
+      "Wu Yue",
+      "Ren Jie"
+    ],
+    "published": "2026 Nov 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041076/",
+    "pmid": "43041076",
+    "source": "PubMed"
+  },
+  {
+    "title": "Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders.",
+    "summary": "The rapid growth of scientific literature makes it increasingly challenging for researchers to identify novel and impactful ideas, especially across disciplines. Modern AI systems offer new opportunities for scientific ideation, but how compelling are AI-generated ideas, and how can their quality be improved? Here, we introduce SCIMUSE, which generates personalized research ideas using a knowledge graph of 58 million papers and a large language model (LLM). A central focus of this work is to understand how interesting these ideas are. Therefore, we conducted a large-scale evaluation in which more than 100 research group leaders-spanning the natural sciences to the humanities-rated over 4,400 personalized ideas according to their level of interest. Overall, expert ratings were modest (mean 2.40 on a 5-point scale, most common rating 1), while 24.9% of ideas were rated 4 or 5. We find that supplying concept pairs selected using the knowledge graph does not improve expert-rated interest over a titles-only GPT baseline. High-citation-predicted pairs even showed a weak tendency (1.94",
+    "authors": [
+      "Gu Xuemei",
+      "Krenn Mario"
+    ],
+    "published": "2026 Nov 17",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002667/",
+    "pmid": "43002667",
+    "source": "PubMed"
+  }
+]

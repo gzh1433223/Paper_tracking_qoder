@@ -1,0 +1,67 @@
+Ontology 文献追踪报告 - 2026-11-17
+==================================================
+
+共发现 10 篇新论文
+
+--- PubMed (10 篇) ------------------------------
+
+1. Detecting Invisible Triangular Citations in Biomedical Research Using a Dual-Threshold Framework Based on Textual Similarity and Bibliographic Coupling Strength: Method Development and Validation Study.
+   作者: Liu Yunmei, Xu Jingyi, Huang Lei
+   链接: https://pubmed.ncbi.nlm.nih.gov/43044108/
+   PMID: 43044108
+   摘要: Invisible triangular citations (ITCs)-a form of citation malpractice where authors of a follower document (C) derive content from a seminal work (A) through an unacknowledged intermediary (B)-pose a significant threat to knowledge provenance and academic integrity. This concealed practice is particularly hazardous in biomedical research, where distorted attribution can propagate misinterpreted concepts into clinical guidelines and therapeutic protocols. Current detection methods lack robust, con...
+
+2. Ontology pre-training improves machine learning-based predictions for metabolites.
+   作者: Tumescheit Charlotte, Glauer Martin, Flügel Simon, Larralde Martin, Neuhaus Fabian 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43043967/
+   PMID: 43043967
+   摘要: Deep learning has recently led to multiple breakthroughs in longstanding biological problems. Recent advances have shown that integration of expert knowledge can improve deep learning model predictive performance in complex domains such as biology. Bio-ontologies offer a rich source of curated biological knowledge that can be harnessed to this end. Here, we describe an intuitive and generalisable approach to embed the knowledge contained in a classification hierarchy derived from a bio-ontology ...
+
+3. How VR Systems Impact Virtual Navigation for Blind People.
+   作者: Picarra Manuel, Guerreiro Joao
+   链接: https://pubmed.ncbi.nlm.nih.gov/43043746/
+   PMID: 43043746
+   摘要: Virtual Reality (VR) offers immersive experiences through embodied interactions like head tracking, going beyond traditional controls like joysticks or keyboards. Prior research has studied the impact of VR affordances on people's experience and performance, but exclusively through sighted people's perspectives. While blind people may also leverage the physical nature of VR interactions, there is no knowledge on how VR compares with traditional controls in nonvisual tasks. We conducted a study w...
+
+4. Multi-View Synergistic Learning with Vision-Language Adaptation for Low-Resource Biomedical Image Classification.
+   作者: Luo Xiaoliu, Xiao Minxue, Xie Ting, Wang Mengzhu, Qi Huiqing 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43043745/
+   PMID: 43043745
+   摘要: Accurate biomedical image classification under limited supervision remains challenging due to scarce annotations, subtle inter-class differences, and complex disease semantics. Pretrained vision-language models offer a promising foundation for alleviating data scarcity through knowledge transfer, yet effectively adapting them to low-resource biomedical tasks remains nontrivial. To this end, we propose Multi-View Synergistic Learning (MVSL), a unified framework that jointly considers three comple...
+
+5. Decolonising Autistic Phenomenology: Towards a Critical-Enactive Account of Cognitive Diversity.
+   作者: Hambrook Michael
+   链接: https://pubmed.ncbi.nlm.nih.gov/43043718/
+   PMID: 43043718
+   摘要: Recent years have seen a turn toward phenomenological, ecological, and enactive approaches to autism and neurodiversity, within the philosophy of psychiatry and cognitive science. These approaches challenge dominant neuro-reductionist and computational biomedical paradigms, centring embodiment, relationality, affectivity, and the constitutive role of sociomaterial environments in cognition. However, both phenomenological and ecological-enactive approaches are heterogeneous; not all escape the Eu...
+
+6. Effects of Direct-Current Electric Field on Cellular Behaviors and Gene Expression in HTR-8/SVneo trophoblast cells.
+   作者: Tang Yixin, Zhou Siyu, Yang Xiaoxiao, Meng Zihan, Li Yanling 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43043122/
+   PMID: 43043122
+   摘要: Adequate invasion of trophoblasts into the uterus and decidua is essential for placental formation and fetal development. Endogenous electrotactic behavior has been observed in various cell types and electric fields (EFs) present during embryonic development. However, the response of trophoblasts to electric fields and the underlying mechanisms are unclear. This study investigated the effects of direct-current electric fields on trophoblasts behaviors. Cell images were recorded and analyzed usin...
+
+7. CellStressDB: an AI-powered database of cellular responses to physical stressors.
+   作者: Quan Cheng, Wang Yuyuan, Liu Qixiang, Wang Xinze, Tian Hongyue 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43042471/
+   PMID: 43042471
+   摘要: Physical stressors profoundly influence cellular behavior by triggering coordinated stress-response programs that regulate signaling, gene expression, metabolism, and cell fate. Here, we present CellStressDB (https://cellstressdb.omic.tech), an AI-powered database for exploring cellular responses to physical stressors. The current release contains data from 131 transcriptomic studies, with 2 364 816 cell and 1205 bulk sample observations from human and mouse across nine physical-stress classes a...
+
+8. miRPathDB 2027: an updated multi-species atlas of microRNA-pathway associations.
+   作者: Flotho Matthias, Rishik Shusruto, Keller Andreas
+   链接: https://pubmed.ncbi.nlm.nih.gov/43042465/
+   PMID: 43042465
+   摘要: Pathway enrichment helps interpret the many genes targeted by microRNAs (miRNAs), but comparisons across organisms are complicated by differences in target evidence and functional annotation. Here, we present miRPathDB 2027, which extends miRPathDB from human and mouse to rat and rhesus macaque. Its retained enrichment profiles span 5701 miRNA entries and 28 044 pathway and ontology accessions from Gene Ontology, Reactome, and WikiPathways. Three cumulative evidence tiers allow users to examine ...
+
+9. A Graded Immune-Cell-Resolved cis-eQTL Mendelian Randomisation Screen Across Systemic Lupus Erythematosus and Related Immune Phenotypes.
+   作者: Wu Yue, Ren Jie
+   链接: https://pubmed.ncbi.nlm.nih.gov/43041076/
+   PMID: 43041076
+   摘要: Systemic lupus erythematosus (SLE) is a genetically complex autoimmune disease. Whole-blood expression quantitative trait locus (eQTL) analyses capture average regulatory effects across leukocytes, whereas SLE involves immune processes that depend on cell context. Therefore, a cell-resolved screen requires rigorous verification of instrument identity, allele orientation, and the multiple-testing denominator before biological interpretation....
+
+10. Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders.
+   作者: Gu Xuemei, Krenn Mario
+   链接: https://pubmed.ncbi.nlm.nih.gov/43002667/
+   PMID: 43002667
+   摘要: The rapid growth of scientific literature makes it increasingly challenging for researchers to identify novel and impactful ideas, especially across disciplines. Modern AI systems offer new opportunities for scientific ideation, but how compelling are AI-generated ideas, and how can their quality be improved? Here, we introduce SCIMUSE, which generates personalized research ideas using a knowledge graph of 58 million papers and a large language model (LLM). A central focus of this work is to und...
+
