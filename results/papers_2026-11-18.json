@@ -1,0 +1,135 @@
+[
+  {
+    "title": "IEPA scavenges reactive carbonyl species to mitigate oxidative stress in a rat model of acute radiation syndrome and modulates irradiation-induced transcriptomic changes.",
+    "summary": "Exposure to high doses of ionizing radiation may cause acute radiation syndrome (ARS), in which reactive oxygen and carbonyl species (ROS/RCS) and DNA damage contribute to cell death and depletion of bone marrow and peripheral blood cells. Although recombinant growth factor therapies reduce mortality in preclinical models, their reliance on parenteral administration may limit their utility in mass-casualty scenarios. Imidazolyl ethanamide pentandioic acid (IEPA) is an orally bioavailable small molecule that improves survival in rodent models of ARS. While in vitro data suggest an antioxidant mechanism, its mode of action in vivo remains incompletely understood.",
+    "authors": [
+      "Eibl Michael",
+      "Singh Nikita",
+      "Sharma Guru Prasad",
+      "Kast Naomi",
+      "Gurka Stephanie",
+      "Gasperetti Tracy",
+      "Himburg Heather A",
+      "Pleimes Dirk",
+      "Wesolowski Radoslaw"
+    ],
+    "published": "2026 Nov 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43050569/",
+    "pmid": "43050569",
+    "source": "PubMed"
+  },
+  {
+    "title": "Knowledge-enhanced Incomplete Multi-view Clustering on Relational Knowledge.",
+    "summary": "Incomplete multi-view clustering (IMVC) methods have drawn increasingly attention these years, as their better potential to the complex real-world scenario. The key of the models in such tasks is how to perform high-quality imputation. Traditional intra-view and inter-view imputation strategies rely mainly on observed features. Such strategies may introduce semantic noise and biased estimations, making it difficult to recover the true semantics of missing views. Meanwhile, they are hard to directly apply to relational knowledge MVC, as fail to utilize the knowledge sufficiently. To this end, we propose a simple yet effective knowledge-enhanced anchor-based IMVC framework with two specific knowledge enhancement mechanisms, i.e., one for anchors, and the other for anchor graph. With the structural knowledge enhancement, the model can be gifted with better expressive ability and get good results. Extensive experiments compared with 10 models have proven the promising capacity of our method from 5 aspects, i.e., superiority, stability, sensitivity, complexity, and visualization. Notably, as the first work on IMVC on relational knowledge, 45 incomplete multi-view datasets are constructed with missing ratios ranging from 10% to 90%, which also facilitate the future research.",
+    "authors": [
+      "Liang Ke",
+      "Zhang Mengjiao",
+      "Li Hao",
+      "Wan Xinhang",
+      "Liang Weixuan",
+      "Liu Tianrui",
+      "Li Miaomiao",
+      "Liu Xinwang"
+    ],
+    "published": "2026 Nov 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43050380/",
+    "pmid": "43050380",
+    "source": "PubMed"
+  },
+  {
+    "title": "Exploratory Transcriptomic Profiling of Salinity and Temperature Stress Responses in the Parasitic Isopod Livoneca redmanii.",
+    "summary": "The cymothoid isopod Livoneca redmanii is a gill-associated parasite of commercially important fishes, yet the molecular mechanisms underlying its responses to environmental stress remain poorly understood. This study generated the first de novo transcriptome for this non-model parasite and explored transcript-abundance patterns associated with hyposalinity and low-temperature exposure. Parasites were collected from experimentally exposed Tilapia zillii maintained under control (35 ppt, 25 °C), hyposalinity (8 ppt, 25 °C), or low-temperature (35 ppt, 10 °C) conditions. High-throughput RNA sequencing produced approximately 8.9 million quality-filtered reads, which were assembled into 31,922 transcripts representing 26,084 unigenes. Functional annotation assigned Gene Ontology terms to 12,382 transcripts and KEGG pathway annotations to 9169 transcripts. BLAST top-hit classification assigned 34.69% of homologs to Arthropoda, including 4.97% to Crustacea. Exploratory transcript-abundance comparisons revealed distinct library-level stress-associated signatures. Hyposalinity showed a comparatively restricted profile involving innate immune, pattern-recognition, and cell-interface-related functions. The low-temperature library exhibited broader transcript-abundance variation involving RNA processing, ribosome biogenesis, chromatin organization, and gene-expression machinery. Candidate transcripts related to apoptosis regulation, mitochondrial energy metabolism, cytoskeletal organization, and post-transcriptional regulation also exhibited stress-associated transcript variation. COG classification further revealed a substantial proportion of functionally uncharacterized candidate transcripts, underscoring the limited genomic information currently available for cymothoid isopods. Overall, the contrasting transcript profiles observed under hyposalinity and low temperature provided new molecular insights into the environmental stress biology of L. redmanii.",
+    "authors": [
+      "Saied Mahmoud",
+      "Megahed Engy T",
+      "Abdelmageed Adel",
+      "Fadel Amr",
+      "El Gelani Safaa S",
+      "Elsaied Hosam"
+    ],
+    "published": "2026 Nov 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43050019/",
+    "pmid": "43050019",
+    "source": "PubMed"
+  },
+  {
+    "title": "Analog Rules, Digital Reality: Implementing Rules as Code for Pesticide and Crop Biotechnology Safety Assessments.",
+    "summary": "Agricultural and digital innovations are advancing rapidly, creating new opportunities to explore how regulatory review processes can become more efficient, transparent, and scalable while maintaining rigorous oversight. This perspective introduces Rules-as-Code (RaC), the practice of translating regulatory requirements into machine-executable logic as a mechanism to realize this transition. Two case studies illustrate how RaC can support automated compliance checks in pesticide and crop biotechnology risk assessments. By providing a standardized digital representation of regulatory requirements, RaC offers a framework to enhance consistency, efficiency, and regulatory preparedness in an increasingly data-rich scientific landscape.",
+    "authors": [
+      "Riter Leah S",
+      "Kuster Christian",
+      "Ruts Tom",
+      "Urbanczyk-Wochniak Ewa",
+      "Vega-Sanchez Miguel E"
+    ],
+    "published": "2026 Nov 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43049391/",
+    "pmid": "43049391",
+    "source": "PubMed"
+  },
+  {
+    "title": "A multi-layer, multi-species graph-based framework for comparative analysis of sRNA-mediated regulation.",
+    "summary": "Small RNAs (sRNAs) are central post-transcriptional regulators of bacterial gene expression, yet their evolutionary dynamics remain difficult to resolve due to limited sequence conservation. While sequence-homologous sRNAs can retain or diverge in function, unrelated sRNAs may independently evolve to regulate similar biological processes, making functional conservation invisible to sequence-based approaches. Here, we present a multi-layer, multi-species graph-based framework that integrates experimentally detected sRNA-messenger RNA interactions, orthology relationships, functional annotations, and semantic clustering of Gene Ontology biological process terms. The framework provides two complementary tools for assessing functional conservation among orthologous sRNAs and convergent regulation by distinct sRNAs across species, capturing functional signals that are weak in individual data sources, yet emerge from integrating multiple layers and species. Applied to six Gammaproteobacterial strains, our approach reveals that functional conservation is frequently maintained among orthologous sRNAs despite divergence in their target repertoires. We further identify lineage-specific regulatory modules and cases of convergent regulation, where non-homologous sRNAs from phylogenetically distant species independently regulate the same essential biological processes. These results demonstrate that sRNA-mediated regulation is both evolutionarily flexible and functionally constrained. The framework is modular, scalable, and adaptable to additional data sets and regulatory layers, establishing a generalizable and hypothesis-generating approach for studying the evolution of post-transcriptional regulatory networks across species.",
+    "authors": [
+      "Cohen Shani",
+      "Rokach Lior",
+      "Melamed Sahar",
+      "Veksler-Lublinsky Isana"
+    ],
+    "published": "2026 Nov 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43049348/",
+    "pmid": "43049348",
+    "source": "PubMed"
+  },
+  {
+    "title": "From prediction to meaning, from knowledge to practice: revisiting the cis-regulatory code in plants.",
+    "summary": "Despite major advances in plant genomics, researchers' ability to predict complex trait variation remains limited by an incomplete understanding of the regulatory genome. Cis-regulatory elements (CREs) and their organisation into cis-regulatory modules (CRMs) form the building blocks of the regulatory grammar, yet their variability at the intra- and interspecific levels, context dependence, and poor annotation have long hindered their systematic use in plant science. We review how recent progress in deep learning and integrative modelling marks a turning point for deciphering plant regulatory grammar. Moving beyond sequence-centric motif discovery, we highlight the need for plant-oriented, context-aware, and evolution-informed frameworks that explicitly learn and interpret the regulatory grammar. Integrating CRE and CRM predictions into gene regulatory networks, knowledge graphs, and genomic prediction models will be pivotal to bridging regulatory sequences, phenotypes, and environments. Beyond fundamental insight, understanding the cis-regulatory code opens new avenues for causal variant prioritisation, regulatory engineering, and ultimately regulation-aware precision breeding and agronomic decision-making. Deciphering plant regulatory grammar is therefore both a scientific and a societal priority, with the potential to maximise breeding efficiency and support the development of fine-tuned agronomic management practices.",
+    "authors": [
+      "Coursol Sylvie",
+      "Lucas Mikaël",
+      "Bonhomme Ludovic",
+      "Brunaud Véronique",
+      "Choulet Frédéric",
+      "Confais Johann",
+      "Denis Marie",
+      "Francillonne Nicolas",
+      "Larmande Pierre",
+      "Pot David",
+      "Tonda Alberto",
+      "Martin Marie-Laure"
+    ],
+    "published": "2026 Nov 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43049206/",
+    "pmid": "43049206",
+    "source": "PubMed"
+  },
+  {
+    "title": "pegi3s bioinformatics Docker images project improved container selection.",
+    "summary": "The persistent shortage of researchers with expertise in bioinformatics remains a significant obstacle to the effective use of the large datasets already available and those being produced at an ever-increasing pace. Projects such as the pegi3s Bioinformatics Docker Image Project (pegi3s-BDIP; http://bdip.i3s.up.pt; accessed on the 21/9/2026) empower researchers without such background by providing: 1) clear instructions on how to install Docker with tutorials; 2) ready-to-run Docker images for commonly used bioinformatics software; 3) clear instructions on how to use each image; 4) test data along with the respective results; 5) links to manuals, GitHub and Docker Hub; 6) GUIs for Docker images management and execution; and 7) troubleshooting instructions for common problems. Ontology searching capabilities, an improved getting started section, and a new image view, where useful information such as the tags status, a testing section (including instructions on how to run project images with Podman), a Dockerfile section, the number of software co-occurrences in the literature, and easy access to searches in literature and protocol databases are here added. The new \"Choosing the right software\" section also provides links to literature reviews comparing the different software applications available for similar tasks. This way, high quality, repeatable and reproducible analyses are promoted.",
+    "authors": [
+      "Reboiro-Jato Miguel",
+      "González-González Pablo",
+      "Vieira Cristina P",
+      "López-Fernández Hugo",
+      "Soares Ricardo",
+      "Vieira Jorge"
+    ],
+    "published": "2026 Nov 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43040952/",
+    "pmid": "43040952",
+    "source": "PubMed"
+  },
+  {
+    "title": "Multiobjective exploration of intramolecular torsional space.",
+    "summary": "We present an exploration-first strategy for intramolecular conformational search. Because practical quantum-chemical (QC) models are approximate, candidate retention combines energy and interaction descriptors as separate objectives, while structural diversity is preserved until post-search reduction. The SEEKER (Structural Ensemble Exploration through Knowledge-Guided Evaluation and Routing) program explores explicitly declared acyclic torsions through unit-quaternion rotations while retaining fixed ring families. We assess reference-set coverage for amino acids, the sugars D-glucose, erythrulose, and fructose, and thiopronine using per-reference nearest-candidate heavy-atom root-mean-square deviation (RMSD), minimized over graph automorphisms. Four amino-acid systems are also examined across four production seeds using same-level optimized references and candidates, all-atom RMSDs, and one-to-one assignment. Fixed-budget audits probe seed sensitivity for glycine and thiopronine, with three and six torsions, respectively. The results establish feasibility within the tested systems and motivate evaluation on larger torsional spaces and against established protocols.",
+    "authors": [
+      "Lazzari Federico",
+      "Crisci Luigi",
+      "Barone Vincenzo"
+    ],
+    "published": "2026 Nov 18",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978402/",
+    "pmid": "42978402",
+    "source": "PubMed"
+  }
+]

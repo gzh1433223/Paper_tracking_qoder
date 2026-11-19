@@ -1,0 +1,55 @@
+Ontology 文献追踪报告 - 2026-11-18
+==================================================
+
+共发现 8 篇新论文
+
+--- PubMed (8 篇) ------------------------------
+
+1. IEPA scavenges reactive carbonyl species to mitigate oxidative stress in a rat model of acute radiation syndrome and modulates irradiation-induced transcriptomic changes.
+   作者: Eibl Michael, Singh Nikita, Sharma Guru Prasad, Kast Naomi, Gurka Stephanie 等 9 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43050569/
+   PMID: 43050569
+   摘要: Exposure to high doses of ionizing radiation may cause acute radiation syndrome (ARS), in which reactive oxygen and carbonyl species (ROS/RCS) and DNA damage contribute to cell death and depletion of bone marrow and peripheral blood cells. Although recombinant growth factor therapies reduce mortality in preclinical models, their reliance on parenteral administration may limit their utility in mass-casualty scenarios. Imidazolyl ethanamide pentandioic acid (IEPA) is an orally bioavailable small m...
+
+2. Knowledge-enhanced Incomplete Multi-view Clustering on Relational Knowledge.
+   作者: Liang Ke, Zhang Mengjiao, Li Hao, Wan Xinhang, Liang Weixuan 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43050380/
+   PMID: 43050380
+   摘要: Incomplete multi-view clustering (IMVC) methods have drawn increasingly attention these years, as their better potential to the complex real-world scenario. The key of the models in such tasks is how to perform high-quality imputation. Traditional intra-view and inter-view imputation strategies rely mainly on observed features. Such strategies may introduce semantic noise and biased estimations, making it difficult to recover the true semantics of missing views. Meanwhile, they are hard to direc...
+
+3. Exploratory Transcriptomic Profiling of Salinity and Temperature Stress Responses in the Parasitic Isopod Livoneca redmanii.
+   作者: Saied Mahmoud, Megahed Engy T, Abdelmageed Adel, Fadel Amr, El Gelani Safaa S 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43050019/
+   PMID: 43050019
+   摘要: The cymothoid isopod Livoneca redmanii is a gill-associated parasite of commercially important fishes, yet the molecular mechanisms underlying its responses to environmental stress remain poorly understood. This study generated the first de novo transcriptome for this non-model parasite and explored transcript-abundance patterns associated with hyposalinity and low-temperature exposure. Parasites were collected from experimentally exposed Tilapia zillii maintained under control (35 ppt, 25 °C), ...
+
+4. Analog Rules, Digital Reality: Implementing Rules as Code for Pesticide and Crop Biotechnology Safety Assessments.
+   作者: Riter Leah S, Kuster Christian, Ruts Tom, Urbanczyk-Wochniak Ewa, Vega-Sanchez Miguel E
+   链接: https://pubmed.ncbi.nlm.nih.gov/43049391/
+   PMID: 43049391
+   摘要: Agricultural and digital innovations are advancing rapidly, creating new opportunities to explore how regulatory review processes can become more efficient, transparent, and scalable while maintaining rigorous oversight. This perspective introduces Rules-as-Code (RaC), the practice of translating regulatory requirements into machine-executable logic as a mechanism to realize this transition. Two case studies illustrate how RaC can support automated compliance checks in pesticide and crop biotech...
+
+5. A multi-layer, multi-species graph-based framework for comparative analysis of sRNA-mediated regulation.
+   作者: Cohen Shani, Rokach Lior, Melamed Sahar, Veksler-Lublinsky Isana
+   链接: https://pubmed.ncbi.nlm.nih.gov/43049348/
+   PMID: 43049348
+   摘要: Small RNAs (sRNAs) are central post-transcriptional regulators of bacterial gene expression, yet their evolutionary dynamics remain difficult to resolve due to limited sequence conservation. While sequence-homologous sRNAs can retain or diverge in function, unrelated sRNAs may independently evolve to regulate similar biological processes, making functional conservation invisible to sequence-based approaches. Here, we present a multi-layer, multi-species graph-based framework that integrates expe...
+
+6. From prediction to meaning, from knowledge to practice: revisiting the cis-regulatory code in plants.
+   作者: Coursol Sylvie, Lucas Mikaël, Bonhomme Ludovic, Brunaud Véronique, Choulet Frédéric 等 12 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43049206/
+   PMID: 43049206
+   摘要: Despite major advances in plant genomics, researchers' ability to predict complex trait variation remains limited by an incomplete understanding of the regulatory genome. Cis-regulatory elements (CREs) and their organisation into cis-regulatory modules (CRMs) form the building blocks of the regulatory grammar, yet their variability at the intra- and interspecific levels, context dependence, and poor annotation have long hindered their systematic use in plant science. We review how recent progres...
+
+7. pegi3s bioinformatics Docker images project improved container selection.
+   作者: Reboiro-Jato Miguel, González-González Pablo, Vieira Cristina P, López-Fernández Hugo, Soares Ricardo 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43040952/
+   PMID: 43040952
+   摘要: The persistent shortage of researchers with expertise in bioinformatics remains a significant obstacle to the effective use of the large datasets already available and those being produced at an ever-increasing pace. Projects such as the pegi3s Bioinformatics Docker Image Project (pegi3s-BDIP; http://bdip.i3s.up.pt; accessed on the 21/9/2026) empower researchers without such background by providing: 1) clear instructions on how to install Docker with tutorials; 2) ready-to-run Docker images for ...
+
+8. Multiobjective exploration of intramolecular torsional space.
+   作者: Lazzari Federico, Crisci Luigi, Barone Vincenzo
+   链接: https://pubmed.ncbi.nlm.nih.gov/42978402/
+   PMID: 42978402
+   摘要: We present an exploration-first strategy for intramolecular conformational search. Because practical quantum-chemical (QC) models are approximate, candidate retention combines energy and interaction descriptors as separate objectives, while structural diversity is preserved until post-search reduction. The SEEKER (Structural Ensemble Exploration through Knowledge-Guided Evaluation and Routing) program explores explicitly declared acyclic torsions through unit-quaternion rotations while retaining...
+
