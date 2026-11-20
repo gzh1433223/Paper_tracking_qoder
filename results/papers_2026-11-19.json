@@ -1,0 +1,112 @@
+[
+  {
+    "title": "From Sequence Uncertainty to Phenotype Hypotheses: Uncertainty-Conditioned Inference over Biomedical Knowledge Graphs",
+    "summary": "Genomic foundation models provide variant-level evidence, but connecting that evidence to phenotype hypotheses requires accounting for uncertainty throughout structured reasoning. We introduce an uncertainty-conditioned path-energy framework that converts sequence predictions and calibrated predictive uncertainty into explicit distributions over graph-supported phenotype hypotheses, without patient-level phenotype supervision. An interpretable learned energy scores admissible gene--disease--phenotype routes, query uncertainty controls the target temperature, and path probabilities are aggregated into phenotype hypotheses. This formulation makes evidence quality an explicit determinant of hypothesis breadth while retaining traceable multi-path support. Exact normalization over enumerable candidate sets provides a reference for evaluating a Hastings-corrected learned revision operator. On AlzKB and Hetionet, phenotype-level entropy tracks upstream uncertainty, with Spearman correlations of 0.951 and 0.878, respectively; ablations identify the contribution of uncertainty conditioning. In masked-edge recovery, the model exceeds chance and degree-matched probability-permutation controls. Training the energy under the uncertainty-dependent temperature yields higher held-out recall@10 than training under a constant temperature of comparable magnitude. Under gene hold-out, recall@10 exceeds that of a trained DistMult embedding on 24 of 30 graph masks (0.183 versus 0.123); this difference is attributable mainly to three genes with many variants and is not established for all genes. These results establish an uncertainty-aware interface from genomic predictions to graph-supported phenotype hypotheses that combines interpretable probability allocation with held-out association recovery of explicitly stated scope.",
+    "authors": [
+      "Huixin Zhan",
+      "Jason H. Moore"
+    ],
+    "published": "2026-11-19T03:02:19Z",
+    "url": "http://arxiv.org/abs/2611.25422v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.25422v1"
+  },
+  {
+    "title": "Protein Functional Semantic Alignment via Representation Rectification",
+    "summary": "Protein language models (PLMs) are commonly pretrained with likelihood-based objectives such as masked language modeling or denoising. These objectives capture sequence-level regularities, but can produce representations in which functional signals are entangled with non-functional variation (e.g., sequence identity, compositional bias, and frequent local motifs), creating a readout bottleneck for downstream function prediction. We introduce Functional Semantic Alignment via Representation Rectification (SAVR), a contrastive post-training method using Pfam family co-membership as a homology-guided discrete semantic signal to reshape PLM representations. SAVR reduces directional dominance and redistributes variance across embedding dimensions, decreasing variance concentration, and increasing effective dimensionality of the embedding covariance spectrum. Without observing any task-specific labels during post-training, SAVR achieves state-of-the-art results on Enzyme Commission (EC) benchmarks and competitive results on Gene Ontology (GO) benchmarks under frozen-backbone evaluation. These results suggest that homology-guided contrastive post-training can rectify PLM representation geometry and improve sequence-based protein function prediction.",
+    "authors": [
+      "Chuyang Zhou",
+      "Bingxin Zhou",
+      "Andi Han",
+      "Chang Xu"
+    ],
+    "published": "2026-11-19T02:38:28Z",
+    "url": "http://arxiv.org/abs/2611.25396v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.25396v1"
+  },
+  {
+    "title": "Assessing the Terminological Representation of Context Factors in Clinical Decision-Making Using SNOMED CT: Exploratory Analysis Study.",
+    "summary": "Clinical decision-making is inherently shaped by contextual factors that extend beyond guideline-based knowledge and objective clinical parameters. Although clinical decision support systems (CDSSs) aim to improve decision quality and safety, many existing systems insufficiently account for such contextual influences, limiting their effectiveness and acceptance. A prerequisite for a context-sensitive CDSS is the systematic and standardized representation of context factors. However, the extent to which existing clinical terminologies are capable of representing these factors remains unclear.",
+    "authors": [
+      "Schuler Katharina",
+      "Sedlmayr Martin",
+      "Henke Elisa"
+    ],
+    "published": "2026 Nov 19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056618/",
+    "pmid": "43056618",
+    "source": "PubMed"
+  },
+  {
+    "title": "Semantic alignment of phenotype and disease terminologies for mouse and human facilitates the discovery and validation of human disease genes and variants.",
+    "summary": "Leveraging the curated, structured knowledge of phenotype-genotype associations available in model organism databases has proven valuable for predicting gene-disease associations in humans. While efforts to improve algorithms for semantic similarity using phenotype and disease ontologies for mouse and human are ongoing, significant gaps remain. Specifically, there are no comprehensive, validated mappings of equivalent terms from the primary phenotype ontology for the laboratory mouse (i.e., the Mammalian Phenotype Ontology [MPO]) and the human clinical phenotype terminologies (e.g., International Classification of Diseases [ICD] codes) used extensively in electronic health records (EHRs) and for genome and phenotype-wide association studies in human genetics research. Using two case studies, we demonstrate the potential to advance disease gene discovery by bridging EHR-based and laboratory mouse phenotype terminologies and outline the challenges that need to be addressed to realize this potential. We then propose using new methods, such as combining ontology-based and AI-driven similarity matching, to address limitations in previous approaches for mapping equivalent terms in mouse phenotype terminologies and human clinical terminologies; applying these methods, we provide results from preliminary mapping focused on cardiovascular phenotypes to demonstrate the feasibility of cross-ontology alignment and one-to-many mapping. We conclude that such methods, combined with expert manual review for validation and refinement, are needed to bridge the gaps currently limiting the translation of gene-phenotype knowledge from model organisms to the discovery and validation of phenotype-disease-gene associations in humans.",
+    "authors": [
+      "Feng Qiping",
+      "Smith Cynthia L",
+      "Dickson Alyson L",
+      "Xin Yi",
+      "Wu Haoming",
+      "Serley Sevim",
+      "Wei-Qi Wei",
+      "Bult Carol J"
+    ],
+    "published": "2026 Nov 19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055964/",
+    "pmid": "43055964",
+    "source": "PubMed"
+  },
+  {
+    "title": "Liberation and protection for whom? PrEP, subjectivity, and the uneven politics of sexual healthcare.",
+    "summary": "This article argues that Pre-Exposure Prophylaxis (PrEP) for HIV is paradigmatic of the pharmacopornographic era, as it not only prevents HIV, which is a profound achievement, but it also formulates and impacts new kinds of sexual subjects, hierarchies of immunity and vulnerability, and semiotic regimes for understanding whose bodies warrant pharmacological protection and whose do not. This article examines how the availability of PrEP has sparked changes within the sexual practices of gay men who have moved away from condom use and sought to challenge the biopolitical power of the US state, now leading to the combined usage of 'PrEP + DoxyPEP'. It then delineates how PrEP's distribution and marketing often follow pre-existing racial, class, and social inequalities, thereby reaffirming an exclusionary economy of healthcare access that cements vulnerability for marginalised groups. Building from queer, feminist, and critical frameworks, such as Haraway's cyborg ontology, Puar's homonationalism, and Esposito's",
+    "authors": [
+      "Pérez José O"
+    ],
+    "published": "2026 Nov 19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055474/",
+    "pmid": "43055474",
+    "source": "PubMed"
+  },
+  {
+    "title": "PRGdb 5.0: a multi-layered resource for plant resistance gene discovery and exploration.",
+    "summary": "Plant Resistance Genes database (PRGdb) 5.0 (https://prgdb.org/prgdb5/) is a major update of the PRGdb, designed to expand plant disease resistance gene resources within a unified web platform. The release incorporates predictions for 97 plant proteomes and adds 288, 315 new putative resistance-associated proteins, bringing the database to 874,967 candidate resistance proteins from 279 plant proteomes. The curated reference collection increased from 199 to 462 experimentally supported resistance proteins. To complement domain-based classification, the platform introduces an AI-assisted prioritization layer powered by the Deep Resistance gene Evaluator Model (DREM), a deep learning model that evaluates amino acid sequences to predict resistance-associated features. DREM provides an overall resistance score, domain-level probabilities, a Structural Confidence Score, and a composite prioritization score, assigning proteins to five prioritization categories. Furthermore, PRGdb 5.0 bridges genomic sequences with functional data by transforming gene entries into connected evidence hubs. Through dynamic API integrations, individual gene pages embed real-time external data, including STRING protein interaction networks, Reactome pathways, Expression Atlas tissue profiles, and standardized Gene Ontology annotations. A redesigned interface supports multicriteria searches with Boolean operators, bulk downloads, and a live literature news feed. Together, these updates provide a scalable platform supporting the workflow from sequence analysis to target protein identification.",
+    "authors": [
+      "Dublino Rita",
+      "Paytuví-Gallart Andreu",
+      "Martínez Marc Rodríguez",
+      "Vigilante Fulvio",
+      "Carandente Vincenzo",
+      "Sperlì Giancarlo",
+      "Sanseverino Walter",
+      "Ercolano Maria Raffaella"
+    ],
+    "published": "2026 Nov 19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43053334/",
+    "pmid": "43053334",
+    "source": "PubMed"
+  },
+  {
+    "title": "The mOTUs-db in 2027: linking taxonomy, genome-encoded function, and biogeography across environments.",
+    "summary": "A molecular understanding of microbial communities requires linking taxonomic composition to the genome-resolved functional potential of member taxa. However, this integration remains challenging since representative genomes from cultivated strains are unavailable. Here, we present a new release of the mOTUs database, which extends genome coverage of underexplored environments and enriches its 3.9 million genome collection with functional annotations. Samples are annotated with a new hierarchical environmental ontology and geographic coordinates, supporting customizable sample grouping and biogeographic analyses, while links to MicrobeAtlas provide further insight into global taxon distributions. The web interface has new features for interactive exploration of samples, studies, and taxon abundances on a map. The integrated mOTUs command-line tool enables taxonomic profiling of metagenomes, comparison of user genomes with marker gene-based operational species-level taxonomic units (mOTUs) represented in the database, and retrieval of genomes based on identifiers, taxonomic labels, and functional annotations. A new API enables high-throughput programmatic retrieval of user-tailored subsets. Taken together, mOTUs provides a foundation for advancing microbial ecology through systematic integration of taxonomic composition, functional potential, and environmental distribution of taxa within one framework. The database is available at https://motus-db.org.",
+    "authors": [
+      "Dmitrijeva Marija",
+      "Ruscheweyh Hans-Joachim",
+      "Miravet-Verde Samuel",
+      "Priest Taylor",
+      "Schnepp-Pesch Luca",
+      "Li Kang",
+      "Feer Lilith",
+      "Malfertheiner Lukas",
+      "Tackmann Janko",
+      "Peluso Matteo",
+      "Mende Daniel R",
+      "Zeller Georg",
+      "von Mering Christian",
+      "Sunagawa Shinichi"
+    ],
+    "published": "2026 Nov 19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43053326/",
+    "pmid": "43053326",
+    "source": "PubMed"
+  }
+]

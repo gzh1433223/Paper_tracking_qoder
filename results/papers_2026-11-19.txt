@@ -1,0 +1,51 @@
+Ontology 文献追踪报告 - 2026-11-19
+==================================================
+
+共发现 7 篇新论文
+
+--- arXiv (2 篇) ------------------------------
+
+1. From Sequence Uncertainty to Phenotype Hypotheses: Uncertainty-Conditioned Inference over Biomedical Knowledge Graphs
+   作者: Huixin Zhan, Jason H. Moore
+   链接: http://arxiv.org/abs/2611.25422v1
+   PDF: https://arxiv.org/pdf/2611.25422v1
+   摘要: Genomic foundation models provide variant-level evidence, but connecting that evidence to phenotype hypotheses requires accounting for uncertainty throughout structured reasoning. We introduce an uncertainty-conditioned path-energy framework that converts sequence predictions and calibrated predictive uncertainty into explicit distributions over graph-supported phenotype hypotheses, without patient-level phenotype supervision. An interpretable learned energy scores admissible gene--disease--phen...
+
+2. Protein Functional Semantic Alignment via Representation Rectification
+   作者: Chuyang Zhou, Bingxin Zhou, Andi Han, Chang Xu
+   链接: http://arxiv.org/abs/2611.25396v1
+   PDF: https://arxiv.org/pdf/2611.25396v1
+   摘要: Protein language models (PLMs) are commonly pretrained with likelihood-based objectives such as masked language modeling or denoising. These objectives capture sequence-level regularities, but can produce representations in which functional signals are entangled with non-functional variation (e.g., sequence identity, compositional bias, and frequent local motifs), creating a readout bottleneck for downstream function prediction. We introduce Functional Semantic Alignment via Representation Recti...
+
+--- PubMed (5 篇) ------------------------------
+
+1. Assessing the Terminological Representation of Context Factors in Clinical Decision-Making Using SNOMED CT: Exploratory Analysis Study.
+   作者: Schuler Katharina, Sedlmayr Martin, Henke Elisa
+   链接: https://pubmed.ncbi.nlm.nih.gov/43056618/
+   PMID: 43056618
+   摘要: Clinical decision-making is inherently shaped by contextual factors that extend beyond guideline-based knowledge and objective clinical parameters. Although clinical decision support systems (CDSSs) aim to improve decision quality and safety, many existing systems insufficiently account for such contextual influences, limiting their effectiveness and acceptance. A prerequisite for a context-sensitive CDSS is the systematic and standardized representation of context factors. However, the extent t...
+
+2. Semantic alignment of phenotype and disease terminologies for mouse and human facilitates the discovery and validation of human disease genes and variants.
+   作者: Feng Qiping, Smith Cynthia L, Dickson Alyson L, Xin Yi, Wu Haoming 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43055964/
+   PMID: 43055964
+   摘要: Leveraging the curated, structured knowledge of phenotype-genotype associations available in model organism databases has proven valuable for predicting gene-disease associations in humans. While efforts to improve algorithms for semantic similarity using phenotype and disease ontologies for mouse and human are ongoing, significant gaps remain. Specifically, there are no comprehensive, validated mappings of equivalent terms from the primary phenotype ontology for the laboratory mouse (i.e., the ...
+
+3. Liberation and protection for whom? PrEP, subjectivity, and the uneven politics of sexual healthcare.
+   作者: Pérez José O
+   链接: https://pubmed.ncbi.nlm.nih.gov/43055474/
+   PMID: 43055474
+   摘要: This article argues that Pre-Exposure Prophylaxis (PrEP) for HIV is paradigmatic of the pharmacopornographic era, as it not only prevents HIV, which is a profound achievement, but it also formulates and impacts new kinds of sexual subjects, hierarchies of immunity and vulnerability, and semiotic regimes for understanding whose bodies warrant pharmacological protection and whose do not. This article examines how the availability of PrEP has sparked changes within the sexual practices of gay men w...
+
+4. PRGdb 5.0: a multi-layered resource for plant resistance gene discovery and exploration.
+   作者: Dublino Rita, Paytuví-Gallart Andreu, Martínez Marc Rodríguez, Vigilante Fulvio, Carandente Vincenzo 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43053334/
+   PMID: 43053334
+   摘要: Plant Resistance Genes database (PRGdb) 5.0 (https://prgdb.org/prgdb5/) is a major update of the PRGdb, designed to expand plant disease resistance gene resources within a unified web platform. The release incorporates predictions for 97 plant proteomes and adds 288, 315 new putative resistance-associated proteins, bringing the database to 874,967 candidate resistance proteins from 279 plant proteomes. The curated reference collection increased from 199 to 462 experimentally supported resistance...
+
+5. The mOTUs-db in 2027: linking taxonomy, genome-encoded function, and biogeography across environments.
+   作者: Dmitrijeva Marija, Ruscheweyh Hans-Joachim, Miravet-Verde Samuel, Priest Taylor, Schnepp-Pesch Luca 等 14 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43053326/
+   PMID: 43053326
+   摘要: A molecular understanding of microbial communities requires linking taxonomic composition to the genome-resolved functional potential of member taxa. However, this integration remains challenging since representative genomes from cultivated strains are unavailable. Here, we present a new release of the mOTUs database, which extends genome coverage of underexplored environments and enriches its 3.9 million genome collection with functional annotations. Samples are annotated with a new hierarchica...
+
