@@ -1,0 +1,137 @@
+[
+  {
+    "title": "GSNMF: A Graph-Regularized Nonnegative Matrix Factorization Framework With Biological Priors for Protein-Protein Interaction Prediction.",
+    "summary": "Accurate prediction of protein-protein interactions (PPIs) supports the reconstruction of cellular networks and the prioritization of experimentally testable hypotheses. Network-based prediction is challenged by sparse, noisy, and incomplete interaction data, motivating the integration of complementary biological information. We propose GSNMF, a graph-regularized nonnegative matrix factorization framework that combines PPI topology and Gene Ontology (GO) semantic similarity through a shared latent basis. View-specific coefficient matrices reconstruct the topological and functional information, while graph Laplacian regularization encourages neighborhood consistency and an element-wise $L_{p}$ penalty, with $1< p< 2$, regularizes the shared basis. The reconstructed interaction scores are symmetrized and subsequently adjusted using subcellular-localization compatibility. Soft localization weighting attenuates scores for protein pairs without shared annotations rather than excluding them outright. Evaluation on five Saccharomyces cerevisiae PPI datasets shows competitive performance against representative matrix-factorization baselines. Localization ablations illustrate the tradeoff between prioritizing compatible pairs and suppressing recorded interactions lacking shared localization annotations. On collins2007 and DIP core, soft weighting preserves nearly the same P@100 as hard filtering while yielding higher AUPRC. These findings support the use of complementary functional information and localization-aware candidate prioritization within a shared-factorization framework. Because unobserved pairs are provisionally treated as negatives, the reported performance measures recovery of recorded interactions rather than definitive biological interaction accuracy.",
+    "authors": [
+      "Yan Yan",
+      "Tian Tianhai",
+      "Zhang Wei"
+    ],
+    "published": "2026 Nov 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063158/",
+    "pmid": "43063158",
+    "source": "PubMed"
+  },
+  {
+    "title": "A Hierarchical KAN-Augmented Graph Convolutional Model for Inferring Cell-Type-Specific Gene Regulations in Single-Cell Omics.",
+    "summary": "Accurate inference of gene regulatory networks (GRNs) from single-cell RNA-seq data remains challenging due to the complexity of transcription factor (TF)-target interactions and the difficulty in capturing both local and global regulatory dependencies. Here, we present GeneKAN, a novel deep learning framework that integrates multiscale graph convolution with Kolmogorov-Arnold Networks (KANs) for robust GRN inference. GeneKAN employs a kernel-based graph convolution module to hierarchically encode gene representations, while KANs model high-order, interpretable TF-target relationships through learnable spline activations. Benchmarking against eleven existing models, and seven scRNA-seq datasets from BEELINE, including diverse cell types, species, and ground-truth networks (ChIP-seq, STRING, LOF/GOF), demonstrates that our proposed GeneKAN achieves state-of-the-art performance in both AUROC and AUPRC. Ablation studies of the proposed model confirm the necessity of each component. Biological validation on human hepatocyte and lung cancer datasets reveals that GeneKAN not only recovers known regulatory interactions with high precision but also identifies functionally relevant hub genes and oncogenic pathways. GeneKAN thus offers a powerful, interpretable, and scalable solution for GRN reconstruction under real-world conditions of data sparsity and noise, with significant potential for advancing systems biology and precision medicine.",
+    "authors": [
+      "Tang Binhua",
+      "Mao Mengyao",
+      "Wang Jingyu",
+      "Zhou Fengfeng"
+    ],
+    "published": "2026 Nov 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43062791/",
+    "pmid": "43062791",
+    "source": "PubMed"
+  },
+  {
+    "title": "Proteomic characterization of the renoprotective effects of Goreisan in high-fat diet/L-NAME-treated mice.",
+    "summary": "Heart failure with preserved ejection fraction (HFpEF) is frequently complicated by chronic kidney disease (CKD). A mouse model combining a high-fat diet (HFD) and N-nitro-L-arginine methyl ester (L-NAME) reproduces key features of HFpEF, including renal injury; however, the underlying renal pathophysiology remains poorly understood. This study investigated the mechanisms of renal impairment in HFD/L-NAME-treated mice and evaluated the renoprotective effects and potential mechanisms of Goreisan (GRS), a traditional Japanese Kampo medicine. C57BL/6J mice were treated with HFD/L-NAME with or without GRS. Renal parameters were assessed, and proteomic analyses of kidney and plasma samples were performed using LC-MS/MS and SomaScan",
+    "authors": [
+      "Shimizu Tomofumi",
+      "Hiramoto Masashi",
+      "Tempaku Mamoru",
+      "Matsumoto Takashi",
+      "Kido Toshitaka"
+    ],
+    "published": "2026 Nov 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43062768/",
+    "pmid": "43062768",
+    "source": "PubMed"
+  },
+  {
+    "title": "SynCED: the Synthetic Chemical Exposome Database.",
+    "summary": "The Synthetic Chemical Exposome Database (SynCED) (https://syncedb.ca) is a substantially updated and expanded version of the Toxin and Toxin Target Database (T3DB). SynCED provides rich data on 316 418 synthetic chemicals from diverse chemical, toxicological, exposure, and regulatory sources. The synthetic chemical exposome comprises a vast and rapidly expanding range of anthropogenic chemicals, yet information on their sources, uses, biological effects, toxicity, and molecular interactions remains fragmented across numerous resources. SynCED addresses this problem by consolidating this information and linking most known synthetic chemicals with standardized chemical names and identifiers, compound descriptions, predicted or measured physicochemical properties, reference spectral data, exposure and use information, toxicological data, and biological targets or interactions. Literature-derived compound descriptions and functional annotations were built using the Chemical Functional Ontology (ChemFOnt) Fact Finder pipeline, which extracts semantically defined chemical-relation-entity associations while retaining supporting evidence and provenance. In addition to literature-derived biological target information, SynCED also incorporates ligand-based protein-target predictions to extend the coverage of chemicals lacking experimentally characterized interactions. To facilitate compound identification using non-target or suspect screening, SynCED provides extensive search utilities supporting searches by chemical structure, toxicity, text, mass, molecular weight, elemental composition, ESI-MS, EI-MS, and NMR spectra (both measured and predicted) as well as searches by target sequence (protein and DNA). It also supports database browsing by chemical names, ClassyFire chemical taxonomy and exposure source. Together, these features extend T3DB to turn SynCED into a broader, more provenance-aware database, that supports suspect or non-target screening, chemical exposure and hazard assessment, mechanistic studies, and general chemical exposomics research.",
+    "authors": [
+      "Kyes Megane",
+      "Kruger Ray",
+      "Oler Eponine",
+      "Saha Sukanta",
+      "Salian Riya",
+      "Elgamal Serag",
+      "Punsalan Mark Peter",
+      "Sabby Akhlaqur Rahman",
+      "Yang Felix",
+      "Wang Fei",
+      "Zhai Jason",
+      "Kovur Prashanthi",
+      "LeVatte Marcia",
+      "MacKay Scott",
+      "Greiner Russell",
+      "Schymanski Emma L",
+      "Wishart David S"
+    ],
+    "published": "2026 Nov 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059401/",
+    "pmid": "43059401",
+    "source": "PubMed"
+  },
+  {
+    "title": "LACA: a cross-species single-cell resource for exploring longevity and aging-associated cellular and molecular programs.",
+    "summary": "Different species can have various maximum lifespans, some with exceptional longevity, yet the underlying cellular and molecular mechanisms remain poorly understood. Despite rapid advances in single-cell transcriptomics, resources that systematically connect single-cell gene expression profiles to species lifespan are limited. We hereby present the Longevity & Aging Cell Atlas (LACA), a database that integrates single-cell transcriptomic datasets across 134 species with their maximum lifespans. LACA includes over 148 million cells with 190 annotated cell types from single-cell datasets. LACA also has a cross-species analytical toolbox of longevity gene comparison, gene-lifespan correlation, and cell-lifespan correlation. These tools allow researchers to better interpret both evolutionarily conserved longevity mechanisms and the evolution of species-specific adaptations in longevity mechanisms without extensive computational expertise. LACA also provides a centenarian single-cell atlas and a human immune aging multi-omics atlas, demonstrating the analytical capability of the resource, as well as 11 different modules for longevity-related analysis, an integrated knowledge graph including curated longevity knowledge bases, and a retrieval-augmented research agent to further facilitate functional interpretation. The database is freely available at https://www.longevityaging.net/ or http://8.142.154.29/LACA/.",
+    "authors": [
+      "Chen Taoyu",
+      "Yin Shulei",
+      "Wang Shikai",
+      "Guan Yuerwei",
+      "Deng Yushan",
+      "Tian Shengwei",
+      "Li Chunzhen",
+      "Wen Yingling",
+      "Yang Xuan",
+      "Zhang Min",
+      "Yu Yizhi",
+      "Su Chang",
+      "He Yuanqing",
+      "Fan Xiaopeng",
+      "Chen Dongsheng",
+      "Xu Sheng",
+      "Cui Shufang",
+      "Liu Aidong"
+    ],
+    "published": "2026 Nov 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059359/",
+    "pmid": "43059359",
+    "source": "PubMed"
+  },
+  {
+    "title": "Monocyte TNF superfamily receptor dysregulation in tuberculosis-type 2 diabetes mellitus comorbidity.",
+    "summary": "Type 2 diabetes mellitus (T2DM) increases susceptibility to tuberculosis (TB) and contributes to immune dysregulation, partly through altered monocyte signaling. Although our earlier work has demonstrated that T2DM alters monocyte subsets and promotes hyper-inflammatory responses during TB, the mechanisms underlying dysregulated TNF superfamily pathways in TB-T2DM comorbidity are underexplored. A study cohort of 176 individuals (TB, TB-T2DM, T2DM-only, and healthy controls) was evaluated. Classical monocytes (CD14",
+    "authors": [
+      "G Nandita",
+      "Radhakrishnan Rajeshkumar",
+      "Gv Jai Priya",
+      "Suresh Kaviya",
+      "Hissar Syed",
+      "Vankayalapati Ramakrishna",
+      "Pavan Kumar Nathella"
+    ],
+    "published": "2026 Nov 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022259/",
+    "pmid": "43022259",
+    "source": "PubMed"
+  },
+  {
+    "title": "Comparative transcriptome analysis reveals candidate genes and defence pathways associated with resistance to potato cyst nematodes in potato (Solanum tuberosum).",
+    "summary": "Globodera rostochiensis and Globodera pallida are two nematode species responsible for are potato cyst nematode (PCN) that significantly reduce potato (Solanum tuberosum) productivity worldwide. To elucidate the molecular basis of PCN resistance, we compared transcriptomic responses of the highly resistant potato breeding clone SM/11-120 with the susceptible cultivar Kufri Jyoti following simultaneous infection with both PCN species. Nematode penetration assays showed that SM/11-120 completely restricted nematode invasion up to 7 days post-inoculation (dpi), whereas Kufri Jyoti was susceptible to nematode penetration within 24 h post-inoculation (hpi) and supported juvenile development at 72 hpi and 7 dpi. RNA-sequencing (RNA-Seq) generated 18-27 million high-quality paired-end reads per library, of which 51.6-68.3% mapped uniquely to the potato reference genome. Comparative transcriptome analysis identified 724, 795, 694, and 899 differentially expressed genes (DEGs) between SM/11-120 and Kufri Jyoti at 0 hpi, 24 hpi, 72 hpi, and 7 dpi, respectively. The resistant genotype exhibited enhanced expression of genes involved in immune signalling (NRC1, NBS-LRR), transcriptional regulation (WRKY, MYB), calcium signalling, pathogenesis-related proteins (PR1), hormone and defence metabolism (ACO1, geraniol 10-hydroxylase), and cell wall reinforcement (HRGP, XTH3, pectinesterase, β-expansin). Gene Ontology analysis revealed stronger enrichment of stress response, biological regulation, nitrogen compound metabolism, and response to biotic stimulus in SM/11-120 than in Kufri Jyoti. Expression patterns of selected defence-related genes were validated by quantitative reverse transcription (qRT)-PCR, confirming their rapid and sustained induction in the resistant genotype.",
+    "authors": [
+      "Sood Salej",
+      "Dipta Bhawna",
+      "Bairwa Aarti",
+      "Bhardwaj Vinay",
+      "Sharma Barkha",
+      "Avashthi Himanshu",
+      "Mangal Vikas",
+      "Sharma Sanjeev",
+      "Kumar Sharma Ashwani",
+      "Kumar Vinod",
+      "Singh Brajesh"
+    ],
+    "published": "2026 Nov 20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42988540/",
+    "pmid": "42988540",
+    "source": "PubMed"
+  }
+]

@@ -1,0 +1,49 @@
+Ontology 文献追踪报告 - 2026-11-20
+==================================================
+
+共发现 7 篇新论文
+
+--- PubMed (7 篇) ------------------------------
+
+1. GSNMF: A Graph-Regularized Nonnegative Matrix Factorization Framework With Biological Priors for Protein-Protein Interaction Prediction.
+   作者: Yan Yan, Tian Tianhai, Zhang Wei
+   链接: https://pubmed.ncbi.nlm.nih.gov/43063158/
+   PMID: 43063158
+   摘要: Accurate prediction of protein-protein interactions (PPIs) supports the reconstruction of cellular networks and the prioritization of experimentally testable hypotheses. Network-based prediction is challenged by sparse, noisy, and incomplete interaction data, motivating the integration of complementary biological information. We propose GSNMF, a graph-regularized nonnegative matrix factorization framework that combines PPI topology and Gene Ontology (GO) semantic similarity through a shared late...
+
+2. A Hierarchical KAN-Augmented Graph Convolutional Model for Inferring Cell-Type-Specific Gene Regulations in Single-Cell Omics.
+   作者: Tang Binhua, Mao Mengyao, Wang Jingyu, Zhou Fengfeng
+   链接: https://pubmed.ncbi.nlm.nih.gov/43062791/
+   PMID: 43062791
+   摘要: Accurate inference of gene regulatory networks (GRNs) from single-cell RNA-seq data remains challenging due to the complexity of transcription factor (TF)-target interactions and the difficulty in capturing both local and global regulatory dependencies. Here, we present GeneKAN, a novel deep learning framework that integrates multiscale graph convolution with Kolmogorov-Arnold Networks (KANs) for robust GRN inference. GeneKAN employs a kernel-based graph convolution module to hierarchically enco...
+
+3. Proteomic characterization of the renoprotective effects of Goreisan in high-fat diet/L-NAME-treated mice.
+   作者: Shimizu Tomofumi, Hiramoto Masashi, Tempaku Mamoru, Matsumoto Takashi, Kido Toshitaka
+   链接: https://pubmed.ncbi.nlm.nih.gov/43062768/
+   PMID: 43062768
+   摘要: Heart failure with preserved ejection fraction (HFpEF) is frequently complicated by chronic kidney disease (CKD). A mouse model combining a high-fat diet (HFD) and N-nitro-L-arginine methyl ester (L-NAME) reproduces key features of HFpEF, including renal injury; however, the underlying renal pathophysiology remains poorly understood. This study investigated the mechanisms of renal impairment in HFD/L-NAME-treated mice and evaluated the renoprotective effects and potential mechanisms of Goreisan ...
+
+4. SynCED: the Synthetic Chemical Exposome Database.
+   作者: Kyes Megane, Kruger Ray, Oler Eponine, Saha Sukanta, Salian Riya 等 17 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43059401/
+   PMID: 43059401
+   摘要: The Synthetic Chemical Exposome Database (SynCED) (https://syncedb.ca) is a substantially updated and expanded version of the Toxin and Toxin Target Database (T3DB). SynCED provides rich data on 316 418 synthetic chemicals from diverse chemical, toxicological, exposure, and regulatory sources. The synthetic chemical exposome comprises a vast and rapidly expanding range of anthropogenic chemicals, yet information on their sources, uses, biological effects, toxicity, and molecular interactions rem...
+
+5. LACA: a cross-species single-cell resource for exploring longevity and aging-associated cellular and molecular programs.
+   作者: Chen Taoyu, Yin Shulei, Wang Shikai, Guan Yuerwei, Deng Yushan 等 18 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43059359/
+   PMID: 43059359
+   摘要: Different species can have various maximum lifespans, some with exceptional longevity, yet the underlying cellular and molecular mechanisms remain poorly understood. Despite rapid advances in single-cell transcriptomics, resources that systematically connect single-cell gene expression profiles to species lifespan are limited. We hereby present the Longevity & Aging Cell Atlas (LACA), a database that integrates single-cell transcriptomic datasets across 134 species with their maximum lifespans. ...
+
+6. Monocyte TNF superfamily receptor dysregulation in tuberculosis-type 2 diabetes mellitus comorbidity.
+   作者: G Nandita, Radhakrishnan Rajeshkumar, Gv Jai Priya, Suresh Kaviya, Hissar Syed 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43022259/
+   PMID: 43022259
+   摘要: Type 2 diabetes mellitus (T2DM) increases susceptibility to tuberculosis (TB) and contributes to immune dysregulation, partly through altered monocyte signaling. Although our earlier work has demonstrated that T2DM alters monocyte subsets and promotes hyper-inflammatory responses during TB, the mechanisms underlying dysregulated TNF superfamily pathways in TB-T2DM comorbidity are underexplored. A study cohort of 176 individuals (TB, TB-T2DM, T2DM-only, and healthy controls) was evaluated. Classi...
+
+7. Comparative transcriptome analysis reveals candidate genes and defence pathways associated with resistance to potato cyst nematodes in potato (Solanum tuberosum).
+   作者: Sood Salej, Dipta Bhawna, Bairwa Aarti, Bhardwaj Vinay, Sharma Barkha 等 11 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/42988540/
+   PMID: 42988540
+   摘要: Globodera rostochiensis and Globodera pallida are two nematode species responsible for are potato cyst nematode (PCN) that significantly reduce potato (Solanum tuberosum) productivity worldwide. To elucidate the molecular basis of PCN resistance, we compared transcriptomic responses of the highly resistant potato breeding clone SM/11-120 with the susceptible cultivar Kufri Jyoti following simultaneous infection with both PCN species. Nematode penetration assays showed that SM/11-120 completely r...
+
