@@ -1,0 +1,25 @@
+Ontology 文献追踪报告 - 2026-11-22
+==================================================
+
+共发现 3 篇新论文
+
+--- PubMed (3 篇) ------------------------------
+
+1. One Process, Two Speeds: Constitution and Individuation in Biological Organismality.
+   作者: Ding Yi
+   链接: https://pubmed.ncbi.nlm.nih.gov/43068419/
+   PMID: 43068419
+   摘要: Contemporary philosophy of biology hosts two influential frameworks that reach opposite conclusions about what organisms are. Organizational closure theory, developed by Mossio, Bich, and Montévil, treats organism boundaries as determined by the mutual dependence of constraints within a closed causal network. Process ontology, championed by Dupré and Nicholson, dissolves organism boundaries into stabilized processes that are contingent, plural, and context-dependent. These conclusions appear inc...
+
+2. One of a Kind: Biological Uniqueness and Population Thinking.
+   作者: Vila Juan
+   链接: https://pubmed.ncbi.nlm.nih.gov/43068411/
+   PMID: 43068411
+   摘要: Ernst Mayr's idea of "population thinking" remains one of the most discussed -yet arguably least understood- concepts in the philosophy of biology. Recently, a renewed debate concerning the metaphysical significance of population thinking has emerged among prominent philosophers of biology, challenging classical interpretations and claiming the need to clarify one of its central but theoretically underdeveloped notions: biological uniqueness. This article aims to offer support that claim. First,...
+
+3. SpectralTAG: Functional group identification from infrared spectra via unified LLM and GNN textual graphs.
+   作者: Yu Ziru, Liang Jiheng, Xie Zujie, He Jing
+   链接: https://pubmed.ncbi.nlm.nih.gov/42887948/
+   PMID: 42887948
+   摘要: Spectral analysis underpins much of modern chemical characterization, yet extracting chemically meaningful interpretations from spectral signals remains constrained by the disconnect between data-driven pattern recognition and structured domain knowledge....
+

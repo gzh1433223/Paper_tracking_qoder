@@ -1,0 +1,38 @@
+[
+  {
+    "title": "One Process, Two Speeds: Constitution and Individuation in Biological Organismality.",
+    "summary": "Contemporary philosophy of biology hosts two influential frameworks that reach opposite conclusions about what organisms are. Organizational closure theory, developed by Mossio, Bich, and Montévil, treats organism boundaries as determined by the mutual dependence of constraints within a closed causal network. Process ontology, championed by Dupré and Nicholson, dissolves organism boundaries into stabilized processes that are contingent, plural, and context-dependent. These conclusions appear incompatible. We argue that the disagreement is a matter of timescale rather than substance: constitution and individuation are not two levels but two speeds of one process. Each framework reads both speeds but foregrounds one: organizational closure foregrounds the slow process, by which a living system is constituted as an organism to a greater or lesser degree; process ontology foregrounds the fast process, by which such organisms are counted and demarcated. Each speed sustains the other. We demonstrate this reading through conceptual analysis of the core texts of both traditions and through three biological case studies - bacterial biofilms, Dictyostelium aggregation, and eusocial insect colonies - that jointly confirm the two-speeds reading, the apparent conflict dissolving in each case. This reading preserves the insights of both traditions and clarifies unresolved debates about biological individuality.",
+    "authors": [
+      "Ding Yi"
+    ],
+    "published": "2026 Nov 22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068419/",
+    "pmid": "43068419",
+    "source": "PubMed"
+  },
+  {
+    "title": "One of a Kind: Biological Uniqueness and Population Thinking.",
+    "summary": "Ernst Mayr's idea of \"population thinking\" remains one of the most discussed -yet arguably least understood- concepts in the philosophy of biology. Recently, a renewed debate concerning the metaphysical significance of population thinking has emerged among prominent philosophers of biology, challenging classical interpretations and claiming the need to clarify one of its central but theoretically underdeveloped notions: biological uniqueness. This article aims to offer support that claim. First, I reconstruct Mayr's original conception of population thinking in terms of four distinct theses, and argue that, under a particular interpretation, all four can be defended against recent criticism. I then classify the main assessments of population thinking as historical, methodological, and metaphysical, before focusing on the two most influential metaphysical interpretations, advanced by Sober (1980) and Nicolson (2025). As an alternative to both, I will defend a functional reading of the ontology presupposed by population thinking. To do so, I clarify the relationship between uniqueness and related notions such as individuality, heterogeneity, and variability. I argue that this clarification resolves longstanding ambiguities concerning both the ontology implied by population thinking and its scope across different biological domains. Finally, I examine two examples -drawn from population ecology and immunology- in order to demonstrate the theoretical and practical relevance of biological uniqueness.",
+    "authors": [
+      "Vila Juan"
+    ],
+    "published": "2026 Nov 22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068411/",
+    "pmid": "43068411",
+    "source": "PubMed"
+  },
+  {
+    "title": "SpectralTAG: Functional group identification from infrared spectra via unified LLM and GNN textual graphs.",
+    "summary": "Spectral analysis underpins much of modern chemical characterization, yet extracting chemically meaningful interpretations from spectral signals remains constrained by the disconnect between data-driven pattern recognition and structured domain knowledge.",
+    "authors": [
+      "Yu Ziru",
+      "Liang Jiheng",
+      "Xie Zujie",
+      "He Jing"
+    ],
+    "published": "2026 Nov 22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42887948/",
+    "pmid": "42887948",
+    "source": "PubMed"
+  }
+]
