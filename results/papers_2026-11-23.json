@@ -1,0 +1,206 @@
+[
+  {
+    "title": "When Does Reasoning Help Entity Disambiguation? Small LLMs In-Domain and Under Shift",
+    "summary": "Entity disambiguation (mapping ambiguous mentions in text to entities in a knowledge base) is a foundational step in tasks such as knowledge graph construction, question answering, and information extraction. Recent work has applied LLMs to this problem, achieving stateof-the-art performance. Notably, reasoning LLMs have been shown to perform entity disambiguation in a true zero-shot fashion, generalizing across knowledge bases and domains. However, it is unclear whether this capability survives, or remains competitive, with smaller LLMs, where entity disambiguation has typically relied on reranking rather than reasoning. We ask when reasoning is worth its cost at small scale. We compare pointwise, listwise, and reasoning-based candidate-selection components within a classical coarse-to-fine entity disambiguation pipeline, across the classical, few-shot and true zero-shot settings. The reasoning paradigm is trained with distillation and reinforcement learning recipes. The benefit of reasoning grows with domain shift: negligible in-domain, decisive in the true zero-shot setting. We show that two distinct factors are at work: the reranker's uncertainty over the candidates locates where the paradigms disagree, while shift governs which is right when they do.",
+    "authors": [
+      "Samy Haffoudhi",
+      "Fabian M Suchanek",
+      "Nils Holzenberger"
+    ],
+    "published": "2026-11-23T09:11:54Z",
+    "url": "http://arxiv.org/abs/2611.30334v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.30334v1"
+  },
+  {
+    "title": "A statistical measure of trust in generative AI",
+    "summary": "Trustworthiness is a crucial issue for generative AI, as modern models can produce convincing and confident responses even when their outputs are incomplete, unsupported, or wrong. The frequent absence of ground-truth knowledge or labels complicates verification of generative AI outputs. To address this issue, we propose a trustworthiness framework grounded in model-internal confidence calibrated against an external expert reference. We estimate per-token trustworthiness of a student generative model as the statistical typicality of each generated token relative to an expert model's distribution, where the expert is used as a distributional reference rather than as a source of factual verification labels. To this end, we introduce an AI ontology calibrator that leverages the student model's internal latent features and token-level output statistics to compute expert-reference acceptance scores. Combined with traditional token-level confidence, entropy, and perplexity statistics, calibrator scores yield a compact set of $15$ response-level indicators for correctness classification. Evaluated across BF program generation, mathematical problem solving, and medical question answering, combined calibrator and traditional indicators provide complementary reliability signal which could be used to build detectors of untrustworthy outputs and hallucinations. Remarkably, our experiments show that these detectors are transferable across domains, although transferability is not always symmetric.",
+    "authors": [
+      "Alina Ermilova",
+      "Valeria Yakupova",
+      "Nikita Sushko",
+      "Andrey Lovyagin",
+      "George Ovchinnikov",
+      "Maksim G. Sharaev",
+      "Evgeny M. Mirkes",
+      "Denis Turdakov",
+      "Ivan Y. Tyukin"
+    ],
+    "published": "2026-11-23T08:43:54Z",
+    "url": "http://arxiv.org/abs/2611.30286v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.30286v1"
+  },
+  {
+    "title": "Ontology-Compiled 2D Clinical State Fields with Bidirectional Diffusion Encoders for Zero-Training Cross-Ontology Medical Coding",
+    "summary": "Healthcare systems continually revise clinical taxonomies, update reimbursement schedules, and harmonize cross-border registries. Existing automated coding models bind clinical text understanding to fixed vocabulary-specific heads, requiring manual relabeling and retraining whenever code sets change. We introduce Ontology-Compiled 2D Clinical State Fields (OCSF), a vocabulary-free framework that decouples clinical document reading from target ontology indexing so one trained encoder can switch across arbitrary medical vocabularies in seconds without target training. A single-pass bidirectional diffusion-pretrained encoder and vocabulary-free decoder map each clinical note into a fixed-dimension two-dimensional state matrix with zero code-specific parameters. Any target ontology is compiled offline on CPU from public text descriptions into a scale-invariant Tikhonov deconvolution operator that suppresses sibling-code interference while preserving source decision thresholds. Trained solely on English MIMIC-IV ICD-9 discharge summaries and evaluated without target tuning across 58,706 held-out test notes and five unseen ontologies spanning English ICD-10, MS-DRG, Spanish, Greek, and Chinese (115-185,458 codes), OCSF reaches 63.15% Micro-F1 on in-domain ICD-9 (outperforming a matched closed-vocabulary classifier and eliminating late-epoch tail overfitting) and transfers directly to 26,085 English ICD-10 codes (29.23% recall at gold cardinality), MS-DRG groups, and multilingual terminologies, compiling up to 185,458 codes in under 10 seconds on CPU with sub-millisecond GPU readout.",
+    "authors": [
+      "Zeqiang Wang"
+    ],
+    "published": "2026-11-23T07:50:43Z",
+    "url": "http://arxiv.org/abs/2611.30218v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.30218v1"
+  },
+  {
+    "title": "LODESTONE: Linking System Events to Threat Intelligence for Evidence-Grounded Cyber Attack Investigation",
+    "summary": "System provenance graphs help reconstruct attacks through causal dependencies, but these connections alone do not explain how events accomplish an adversary's goal. Cyber threat intelligence (CTI) provides the necessary security knowledge, yet linking it to execution evidence requires bridging differences in meaning and granularity between events and attack relations amid scarce labels and sparse relevant evidence. We present LODESTONE, a cross-graph alignment system that links observed system events to CTI attack relations to support evidence-grounded attack reports. LODESTONE uses a novel CTI-driven training-data engine and an expert-verified benchmark of edge-level correspondences and reference attack reports. The engine pairs real CTI knowledge graphs with provenance graphs from isolated executions. A large language model (LLM) agent recursively improves correspondences by checking execution evidence and repairing retrieval, parsing, and reproduction failures; experts independently verify benchmark correspondences. LODESTONE combines text cross-encoder and directed-graph relevance scores to extract compact alert-centered subgraphs, retrieves article-level knowledge graphs through node- and edge-level dual-softmax assignment, and uses a fine-tuned 4B-parameter LLM to align event combinations with CTI attack steps. We evaluate LODESTONE on 27 expert-verified attack cases amid continuous benign activity from real applications, using 713 CTI articles. LLM judgments aligned with multiple human experts yield an attack-step description score of 82%, and attack identification reaches 91%, versus 73% and 32% using the same generator with provenance alone. Baseline pipelines and coding agents achieve description scores of at most 57%. Human-verified correspondences further demonstrate advantages in balancing attack-edge coverage with subgraph size, CTI retrieval, and cross-graph alignment.",
+    "authors": [
+      "Liangyi Huang",
+      "Zichen Liu",
+      "Fei Shao",
+      "Xusheng Xiao"
+    ],
+    "published": "2026-11-23T02:46:44Z",
+    "url": "http://arxiv.org/abs/2611.29932v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.29932v1"
+  },
+  {
+    "title": "Fusion2AI: functional re-annotation of the bacterial transparent matter proteins.",
+    "summary": "Determining the biological function of bacterial proteins remains a central challenge in microbiology. We previously developed Fusion, a reference-free scheme that clustered the tens of millions of known, unique, bacterial proteins into about four hundred thousand groups of functionally similar proteins, i.e. functions. For any newly identified proteins, Fusion function assignment could be performed using function-aware sequence alignment to each function's representatives. However, Fusion functions lack human-readable descriptions of their functionality. Here, we leverage large language models (LLMs) to synthesize scattered, partial annotations of functions of individual proteins into coherent English-language descriptions for ∼100,000 clusters, i.e. a quarter of all Fusion functions. From these descriptions, we extract Gene Ontology (GO) terms and Enzyme Commission (EC) numbers. We validate these against annotations inferred from UniProtKB/Swiss-Prot. These annotations immediately expand functional coverage for both genome and microbiome -level analyses. For organisms in FusionDB, we annotate ⩾50% more proteins than alignment to Swiss-Prot alone. For other bacteria, the gain is smaller but still reaches 30% for some organisms. For microbiomes, annotation coverage increases nearly ten-fold. Our work thus enables the analysis of microbial \"transparent matter,\" i.e. functions already described in earlier research that have not yet made it into usable annotations. Our annotated Fusion function database is freely available at https://services.bromberglab.org/fusion2ai and as a reference DB for metagenome annotation https://services.bromberglab.org/mifaser.",
+    "authors": [
+      "Maloney-Bertelli Aiden",
+      "Bromberg Yana"
+    ],
+    "published": "2026 Nov 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43072595/",
+    "pmid": "43072595",
+    "source": "PubMed"
+  },
+  {
+    "title": "Diagnostic yield of massive exome sequencing in an adult epilepsy monographic consultation.",
+    "summary": "To evaluate the performance and usefulness of genetic studies in a selected cohort of adult patients with epilepsy with or without onset in pediatric age.",
+    "authors": [
+      "Bellido Cuéllar S",
+      "Arteche-López A",
+      "Pérez de la Fuente R",
+      "Amarante Cuadrado C",
+      "Santos Martín C",
+      "González Arbizu M",
+      "Alcalá Torres J",
+      "Saiz Díaz R A",
+      "Quesada Espinosa J F",
+      "González de la Aleja Tejera J"
+    ],
+    "published": "2026 Nov 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43072527/",
+    "pmid": "43072527",
+    "source": "PubMed"
+  },
+  {
+    "title": "Chrysanthemi flos and Ocular Health: An Ethnopharmacological Review from Traditional Use to Modern Evidence.",
+    "summary": "Chrysanthemi flos consists of the dried capitula of Chrysanthemum morifolium Ramat. (Asteraceae) and has long been used medicinally, as a tea, and as a dietary material. Its traditional oral and external applications, including the concept of \"calming the liver and improving vision,\" provide an ethnopharmacological basis for evaluating its relationship with ocular health.",
+    "authors": [
+      "Liu Gaigai",
+      "Lu Jiamin",
+      "Zhang Shaoshi",
+      "Yan Wenjie"
+    ],
+    "published": "2026 Nov 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43072456/",
+    "pmid": "43072456",
+    "source": "PubMed"
+  },
+  {
+    "title": "Distilling Hierarchical Reasoning from Pathogenomic Graphs for Survival Analysis.",
+    "summary": "The ability to accurately predict patient survival time by integrating multi-modal data is critical for advancing personalized cancer therapy. Although recent methods combining Whole Slide Images (WSIs) and genomic data have shown promising results, they often employ structure-agnostic interaction strategies and fail to transfer knowledge effectively when a modality is missing. In this study, we aimed to answer two key questions: how can a multi-modal model effectively fuse WSIs and genomic data by reorganizing WSI patches into task-relevant region-level structures and preserving functional organization in genomic data? And how can a uni-modal model inherit the structured relational knowledge of its multi-modal counterpart when genomic data are absent? To address these challenges, we proposed the Di-Graph model equipped with a Structured Heterogeneous Graph Fusion (SHGF) mechanism and a Multi-Level Graph Knowledge Distillation (ML-GKD) strategy. The SHGF mechanism constructs a task-relevant heterogeneous graph to model intra-modal and inter-modal relationships, thereby capturing gene-guided pathology-genomic associations in the learned feature space. ML-GKD then enables a WSI-only student to learn from a multi-modal teacher by generating pseudo-genomic features and aligning attention distributions, thereby inheriting cross-modal reasoning ability. Experiments on five TCGA cohorts show competitive overall performance of the multi-modal teacher. With ResNet-50 features, the WSI-only student achieves an overall C-index of 0.6888, with modest average gains over G-HANet and Surformer. Specialized WSI-only methods remain stronger on some individual cohorts.",
+    "authors": [
+      "Liu Leiye",
+      "Liu Xinyu",
+      "Zhang Miao",
+      "Piao Yongri",
+      "Sun Weibing",
+      "Tian Feng",
+      "Bi Huan",
+      "Lu Huchuan"
+    ],
+    "published": "2026 Nov 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43071558/",
+    "pmid": "43071558",
+    "source": "PubMed"
+  },
+  {
+    "title": "PertiNet: Interaction-Aware Multimodal Modeling of Protein-Protein Interactions.",
+    "summary": "Protein-protein interaction (PPI) prediction requires models that combine sequence, structure and functional evidence for proteins excluded from training. We developed PertiNet, which represents these inputs as separate modality tokens, models their interactions and assigns each token a protein-pair-specific weight. On the fixed protein-disjoint Bernett benchmark, PertiNet using sequence and structure achieved AUROC, AUPRC, balanced accuracy and MCC values of 0.71, 0.72, 0.66 and 0.33, respectively. Adding Gene Ontology (GO) annotations increased these values to 0.72, 0.73, 0.67 and 0.35, compared with published TUnA values of 0.70, 0.69, 0.65, and 0.30. Within-study Bernett controls showed that complete fusion improved on concat-MLP with identical sequence and structural inputs, using either the original sequence representation or ESM-2. Matched RBP400 ablations examined the contributions of modalities and fusion components, and Dset_186_72_PDB164 provided a complementary evaluation of residue-level interface localization. These results support integrating structural and functional context with sequence representations through interactions among modality tokens.",
+    "authors": [
+      "Zhang Jiangbo",
+      "Zhang Zilong",
+      "Cui Feifei",
+      "Zhang Qingchen",
+      "Yan Shankai"
+    ],
+    "published": "2026 Nov 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070974/",
+    "pmid": "43070974",
+    "source": "PubMed"
+  },
+  {
+    "title": "HyperDFI: Cross-View Hypergraph-Graph Contrastive Learning for Drug-Food Interaction Prediction.",
+    "summary": "Drug-food interactions (DFIs) are one of the major factors that trigger adverse drug events and have important research and clinical application value. However, experimental identification of DFIs remains costly and limited in scalability, leading to insufficient coverage of known interactions. Existing computational methods often treat DFI prediction as a variant of drug-drug interaction (DDI) prediction and primarily focus on drug-food constituent relationships, which restrict their ability to directly model drug-food interactions. In this study, we propose a cross-view hypergraph-graph contrastive learning framework named HyperDFI for predicting interactions between drug and food (food constituents). We first construct four benchmark data sets by integrating information from DrugBank and PubMed, covering both drug-food and drug-food constituent interactions. Based on these data sets, heterogeneous bipartite graphs were established. HyperDFI jointly captures local topological structures and global high-order semantic relationships by combining graph neural networks (GNNs) and dynamic hypergraph neural networks (HGNNs). Furthermore, a cross-view contrastive learning strategy is introduced to align representations at different structural scales, thereby enhancing their consistency and discriminability. Extensive experiments on four benchmark data sets demonstrate that HyperDFI consistently outperforms state-of-the-art methods. In addition, case studies on grapefruit further validate its ability to uncover novel DFIs.",
+    "authors": [
+      "Huang Lan",
+      "Han Zhiyao",
+      "Ding Jiana",
+      "Jing Zhen",
+      "Sheng Nan",
+      "Wang Yan"
+    ],
+    "published": "2026 Nov 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070951/",
+    "pmid": "43070951",
+    "source": "PubMed"
+  },
+  {
+    "title": "Large Language Model-Driven Knowledge Graph Construction for Photoresist Materials.",
+    "summary": "Vast knowledge dispersed across the unstructured literature remains an indispensable complement to photoresist development. However, the intricate relationships among formulation, processing, and performance are not only scattered throughout publications but also complicated by semantic heterogeneity and contextual ambiguity, hindering knowledge management that extends beyond simple retrieval. To address these issues, we employed large language models (LLMs) to construct a photoresist material knowledge graph (KG) covering synthesis, properties, and applications. From nearly 12,000 full-text documents, we extracted 320,000 entities, 178,000 relationships, and 1,172,000 attribute entries. By integrating this KG with an LLM via a dual-path retrieval-augmented generation (RAG) strategy, we achieved 95.33% accuracy on a domain-specific question-answering task, substantially outperforming the standalone LLM (76.67%). This work offers a reference framework for knowledge management and intelligent reasoning in the photoresist field.",
+    "authors": [
+      "Sui Bole",
+      "Tan Junjie",
+      "Huang Qi",
+      "Zhu Lei",
+      "Lin Jiaping",
+      "Wang Liquan"
+    ],
+    "published": "2026 Nov 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070940/",
+    "pmid": "43070940",
+    "source": "PubMed"
+  },
+  {
+    "title": "Gonadal PIP-seq reveals genes with enriched expression during germ cell development and sexual differentiation in sea lamprey (Petromyzon marinus Linnaeus).",
+    "summary": "The sea lamprey (Petromyzon marinus Linnaeus) is an extant jawless vertebrate that remains sexually labile in larval stage. Their gonad contains bipotential, female, and male germ cells before metamorphosis. To examine the genetic programs during germ cell development and differentiation, we profiled transcriptomes of dissociated gonadal cells from larvae and metamorphosed transformers (sex-determined) using fluorescence-activated cell sorting (BD FACS Aria IIu) and PIPseqTM (Fluent BioSciences/Illumina). The detected primordial germ cells exhibited genes enriched in cell fate commitment, cellular response to lipopolysaccharide, protein folding, and regulation of gene expression and RNA splicing. The female germ cells we assessed differentially expressed aep1, cuzd1, s100a1, and zp genes from multiple loci. Pseudotime trajectory and Gene Ontology analyses of genes changing along the female differentiation pathway revealed enrichment in genes involved in binding of sperm to zona pellucida, egg coat formation, prevention of polyspermy, and positive regulation of acrosome reaction. On the other hand, genes enriched in a male differentiation pathway were involved in cell cycle, DNA replication and repair, transcription and mRNA splicing and rRNA maturation, ribosome assembly and translation, and protein folding, modification and catabolism. Sea lamprey germ cell development likely requires numerous genes that regulate germ cell specification and differentiation.",
+    "authors": [
+      "Chung-Davidson Yu-Wen",
+      "Hickey Stephanie L",
+      "Bernard Matthew P",
+      "Sarasamma Sreeja",
+      "Amato Ciro",
+      "Estermann Martin",
+      "Kimmel Jacob",
+      "Gorman Lily",
+      "Buchinger Tyler J",
+      "Idalski Braden A",
+      "Johnson Nicholas S",
+      "Yao Humphrey Hung-Chang",
+      "Li Weiming"
+    ],
+    "published": "2026 Nov 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070185/",
+    "pmid": "43070185",
+    "source": "PubMed"
+  },
+  {
+    "title": "Reconsidering the term \"smoker\" in clinical settings-a survey of doctors in clinical practice.",
+    "summary": "An ongoing debate among tobacco researchers suggests moving away from the term \"smoker\" due to its lack of uniformity of use, imprecision regarding substance and quantity, and association with stigma. While academic discourse advocates for person-first language (\"people who smoke\") and standardized terminology, there is limited data on how doctors perceive and utilize these terms.",
+    "authors": [
+      "Turner Jeffrey",
+      "Ferro Charles",
+      "Jarrett Georgina"
+    ],
+    "published": "2026 Nov 23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42397956/",
+    "pmid": "42397956",
+    "source": "PubMed"
+  }
+]

@@ -1,0 +1,87 @@
+Ontology 文献追踪报告 - 2026-11-23
+==================================================
+
+共发现 13 篇新论文
+
+--- arXiv (4 篇) ------------------------------
+
+1. When Does Reasoning Help Entity Disambiguation? Small LLMs In-Domain and Under Shift
+   作者: Samy Haffoudhi, Fabian M Suchanek, Nils Holzenberger
+   链接: http://arxiv.org/abs/2611.30334v1
+   PDF: https://arxiv.org/pdf/2611.30334v1
+   摘要: Entity disambiguation (mapping ambiguous mentions in text to entities in a knowledge base) is a foundational step in tasks such as knowledge graph construction, question answering, and information extraction. Recent work has applied LLMs to this problem, achieving stateof-the-art performance. Notably, reasoning LLMs have been shown to perform entity disambiguation in a true zero-shot fashion, generalizing across knowledge bases and domains. However, it is unclear whether this capability survives...
+
+2. A statistical measure of trust in generative AI
+   作者: Alina Ermilova, Valeria Yakupova, Nikita Sushko, Andrey Lovyagin, George Ovchinnikov 等 9 人
+   链接: http://arxiv.org/abs/2611.30286v1
+   PDF: https://arxiv.org/pdf/2611.30286v1
+   摘要: Trustworthiness is a crucial issue for generative AI, as modern models can produce convincing and confident responses even when their outputs are incomplete, unsupported, or wrong. The frequent absence of ground-truth knowledge or labels complicates verification of generative AI outputs. To address this issue, we propose a trustworthiness framework grounded in model-internal confidence calibrated against an external expert reference. We estimate per-token trustworthiness of a student generative ...
+
+3. Ontology-Compiled 2D Clinical State Fields with Bidirectional Diffusion Encoders for Zero-Training Cross-Ontology Medical Coding
+   作者: Zeqiang Wang
+   链接: http://arxiv.org/abs/2611.30218v1
+   PDF: https://arxiv.org/pdf/2611.30218v1
+   摘要: Healthcare systems continually revise clinical taxonomies, update reimbursement schedules, and harmonize cross-border registries. Existing automated coding models bind clinical text understanding to fixed vocabulary-specific heads, requiring manual relabeling and retraining whenever code sets change. We introduce Ontology-Compiled 2D Clinical State Fields (OCSF), a vocabulary-free framework that decouples clinical document reading from target ontology indexing so one trained encoder can switch a...
+
+4. LODESTONE: Linking System Events to Threat Intelligence for Evidence-Grounded Cyber Attack Investigation
+   作者: Liangyi Huang, Zichen Liu, Fei Shao, Xusheng Xiao
+   链接: http://arxiv.org/abs/2611.29932v1
+   PDF: https://arxiv.org/pdf/2611.29932v1
+   摘要: System provenance graphs help reconstruct attacks through causal dependencies, but these connections alone do not explain how events accomplish an adversary's goal. Cyber threat intelligence (CTI) provides the necessary security knowledge, yet linking it to execution evidence requires bridging differences in meaning and granularity between events and attack relations amid scarce labels and sparse relevant evidence. We present LODESTONE, a cross-graph alignment system that links observed system e...
+
+--- PubMed (9 篇) ------------------------------
+
+1. Fusion2AI: functional re-annotation of the bacterial transparent matter proteins.
+   作者: Maloney-Bertelli Aiden, Bromberg Yana
+   链接: https://pubmed.ncbi.nlm.nih.gov/43072595/
+   PMID: 43072595
+   摘要: Determining the biological function of bacterial proteins remains a central challenge in microbiology. We previously developed Fusion, a reference-free scheme that clustered the tens of millions of known, unique, bacterial proteins into about four hundred thousand groups of functionally similar proteins, i.e. functions. For any newly identified proteins, Fusion function assignment could be performed using function-aware sequence alignment to each function's representatives. However, Fusion funct...
+
+2. Diagnostic yield of massive exome sequencing in an adult epilepsy monographic consultation.
+   作者: Bellido Cuéllar S, Arteche-López A, Pérez de la Fuente R, Amarante Cuadrado C, Santos Martín C 等 10 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43072527/
+   PMID: 43072527
+   摘要: To evaluate the performance and usefulness of genetic studies in a selected cohort of adult patients with epilepsy with or without onset in pediatric age....
+
+3. Chrysanthemi flos and Ocular Health: An Ethnopharmacological Review from Traditional Use to Modern Evidence.
+   作者: Liu Gaigai, Lu Jiamin, Zhang Shaoshi, Yan Wenjie
+   链接: https://pubmed.ncbi.nlm.nih.gov/43072456/
+   PMID: 43072456
+   摘要: Chrysanthemi flos consists of the dried capitula of Chrysanthemum morifolium Ramat. (Asteraceae) and has long been used medicinally, as a tea, and as a dietary material. Its traditional oral and external applications, including the concept of "calming the liver and improving vision," provide an ethnopharmacological basis for evaluating its relationship with ocular health....
+
+4. Distilling Hierarchical Reasoning from Pathogenomic Graphs for Survival Analysis.
+   作者: Liu Leiye, Liu Xinyu, Zhang Miao, Piao Yongri, Sun Weibing 等 8 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43071558/
+   PMID: 43071558
+   摘要: The ability to accurately predict patient survival time by integrating multi-modal data is critical for advancing personalized cancer therapy. Although recent methods combining Whole Slide Images (WSIs) and genomic data have shown promising results, they often employ structure-agnostic interaction strategies and fail to transfer knowledge effectively when a modality is missing. In this study, we aimed to answer two key questions: how can a multi-modal model effectively fuse WSIs and genomic data...
+
+5. PertiNet: Interaction-Aware Multimodal Modeling of Protein-Protein Interactions.
+   作者: Zhang Jiangbo, Zhang Zilong, Cui Feifei, Zhang Qingchen, Yan Shankai
+   链接: https://pubmed.ncbi.nlm.nih.gov/43070974/
+   PMID: 43070974
+   摘要: Protein-protein interaction (PPI) prediction requires models that combine sequence, structure and functional evidence for proteins excluded from training. We developed PertiNet, which represents these inputs as separate modality tokens, models their interactions and assigns each token a protein-pair-specific weight. On the fixed protein-disjoint Bernett benchmark, PertiNet using sequence and structure achieved AUROC, AUPRC, balanced accuracy and MCC values of 0.71, 0.72, 0.66 and 0.33, respectiv...
+
+6. HyperDFI: Cross-View Hypergraph-Graph Contrastive Learning for Drug-Food Interaction Prediction.
+   作者: Huang Lan, Han Zhiyao, Ding Jiana, Jing Zhen, Sheng Nan 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43070951/
+   PMID: 43070951
+   摘要: Drug-food interactions (DFIs) are one of the major factors that trigger adverse drug events and have important research and clinical application value. However, experimental identification of DFIs remains costly and limited in scalability, leading to insufficient coverage of known interactions. Existing computational methods often treat DFI prediction as a variant of drug-drug interaction (DDI) prediction and primarily focus on drug-food constituent relationships, which restrict their ability to...
+
+7. Large Language Model-Driven Knowledge Graph Construction for Photoresist Materials.
+   作者: Sui Bole, Tan Junjie, Huang Qi, Zhu Lei, Lin Jiaping 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43070940/
+   PMID: 43070940
+   摘要: Vast knowledge dispersed across the unstructured literature remains an indispensable complement to photoresist development. However, the intricate relationships among formulation, processing, and performance are not only scattered throughout publications but also complicated by semantic heterogeneity and contextual ambiguity, hindering knowledge management that extends beyond simple retrieval. To address these issues, we employed large language models (LLMs) to construct a photoresist material k...
+
+8. Gonadal PIP-seq reveals genes with enriched expression during germ cell development and sexual differentiation in sea lamprey (Petromyzon marinus Linnaeus).
+   作者: Chung-Davidson Yu-Wen, Hickey Stephanie L, Bernard Matthew P, Sarasamma Sreeja, Amato Ciro 等 13 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43070185/
+   PMID: 43070185
+   摘要: The sea lamprey (Petromyzon marinus Linnaeus) is an extant jawless vertebrate that remains sexually labile in larval stage. Their gonad contains bipotential, female, and male germ cells before metamorphosis. To examine the genetic programs during germ cell development and differentiation, we profiled transcriptomes of dissociated gonadal cells from larvae and metamorphosed transformers (sex-determined) using fluorescence-activated cell sorting (BD FACS Aria IIu) and PIPseqTM (Fluent BioSciences/...
+
+9. Reconsidering the term "smoker" in clinical settings-a survey of doctors in clinical practice.
+   作者: Turner Jeffrey, Ferro Charles, Jarrett Georgina
+   链接: https://pubmed.ncbi.nlm.nih.gov/42397956/
+   PMID: 42397956
+   摘要: An ongoing debate among tobacco researchers suggests moving away from the term "smoker" due to its lack of uniformity of use, imprecision regarding substance and quantity, and association with stigma. While academic discourse advocates for person-first language ("people who smoke") and standardized terminology, there is limited data on how doctors perceive and utilize these terms....
+
