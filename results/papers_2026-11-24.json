@@ -1,0 +1,187 @@
+[
+  {
+    "title": "A Text-to-SQL Benchmark for Official Statistics",
+    "summary": "Official statistics are critical datasets for a wide variety of actors, including policymakers and businesses. For providers of official statistics, improving accessibility, governance, and disclosure of their data is of key importance. This can be improved by providing question-answering systems based on text-to-SQL approaches. However, existing text-to-SQL benchmarks do not resemble this setting. Official statistics are published as open-domain catalogs of thousands of wide tables whose columns and values are codes, and whose meaning is recorded in separate metadata rather than in a relational schema. To address this gap, we introduce LOCuST, a text-to-SQL benchmark that pairs over two thousand English and Dutch tables from Statistics Netherlands with a semantic knowledge graph. The graph describes the tables, measures, and dimension codes through labels, definitions, hierarchies, and units, and is the external knowledge a system needs to find the right tables and ground a question in the right codes. The benchmark includes expert-annotated questions for different query and aggregation types, including raw value retrieval, summations, proportion calculations, and joins. Alongside standard evaluation measures, we introduce an observation F1 metric that measures how close a query is to the ground truth even when the answers are different. We evaluate a variety of state-of-the-art LLMs and find that they struggle to write SQL that answers the questions correctly.",
+    "authors": [
+      "Lucas Lageweg",
+      "Karen Goes",
+      "Tom van den Broek",
+      "Frank Pijpers",
+      "Paul Groth",
+      "Jan-Christoph Kalo"
+    ],
+    "published": "2026-11-24T14:05:10Z",
+    "url": "http://arxiv.org/abs/2611.32646v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.32646v1"
+  },
+  {
+    "title": "Privacy Disclosure Control Benchmark (PDC-Bench): How Faithfully Do LLMs Keep Privacy Constraints on In-Context Disclosure Granularity?",
+    "summary": "In LLM task execution, a constraint on the permitted disclosure granularity of personal attributes is sometimes imposed on the output. For example, if a person's private attribute is their location (San Francisco) and disclosure is permitted only at the country level, an output at the state level (California) violates the constraint. Detecting such violations requires capturing not only direct privacy leakage (San Francisco) but also semantic leakage (California). However, existing benchmarks cannot measure the degree of leakage with respect to a given semantic constraint such as the country-level limit. We therefore formalize disclosure control as a constraint on the permitted ceiling over the hierarchy of a knowledge graph. Building on this formulation, we construct PDC-Bench, a benchmark of 16,105 samples covering geography, age, race and ethnicity, and occupation. In our experiments applying PDC-Bench to eleven LLMs, 62% of the constraint violations were semantic leakage. We further found that semantic leakage depends less on the model than on the permitted disclosure granularity and the task's need for the private attribute; reliable auditing must therefore target semantic leakage together with these two factors. Data, prompts, and code are available at https://github.com/fuji1655/PDC-Bench.",
+    "authors": [
+      "Kosuke Fujita",
+      "Daiki Nishiyama",
+      "Jun Sakuma"
+    ],
+    "published": "2026-11-24T13:43:03Z",
+    "url": "http://arxiv.org/abs/2611.32610v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.32610v1"
+  },
+  {
+    "title": "When the Miner is the Generator: Rethinking the Separation Axiom in LLM-Driven Data Mining",
+    "summary": "The theoretical foundation of data mining implicitly relies on an unstated premise, the Separation Axiom (SA), which assumes that mining tools and the data being analyzed are epistemologically independent. However, this premise is increasingly challenged by the emergence of LLM-driven AI agents that actively participate in data generation. We argue that this shift leads to a new epistemic failure mode, which we term ontological self-reference, where discovered patterns may reflect the inductive biases of the tools rather than the underlying structure of the data. This raises fundamental concerns about the credibility of knowledge discovery and the risk of self-reinforcing epistemic loops, where inferred patterns may reflect model-internal biases rather than the underlying structure of the data. We therefore call for a rethinking of the data mining paradigm in the era of large language models, grounded in an SA-aware theoretical foundation and extended to system-level epistemic safeguards. We argue that such a shift is necessary to conceptually rearm the discipline, preventing future knowledge discovery from collapsing into self-justifying algorithmic echo chambers.",
+    "authors": [
+      "Xi Chen",
+      "Mengke Li"
+    ],
+    "published": "2026-11-24T08:54:06Z",
+    "url": "http://arxiv.org/abs/2611.32207v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.32207v1"
+  },
+  {
+    "title": "SPARQL-Planned Single-Hop Traversal over a Live Knowledge Graph for Multi-Hop Question Answering",
+    "summary": "Semantic retrieval struggles with multi-hop question answering on both recall and precision: gold passages are buried among distractors that degrade the reader's answer, and retrieving them requires reasoning over the query rather than matching it. GraphRAG techniques expand semantic retrieval by connecting passages to graph nodes and performing one or more hops of expansion after initial retrieval. This improves recall, but multi-hop expansion becomes expensive and brings additional noise into the retrieved set. We break this tradeoff by \\emph{interleaving} dense retrieval with knowledge-graph traversal for complex multi-hop questions. Dense retrieval locates the first relevant regions of the search space at good recall, while traversal of a pre-existing external KG (Wikidata) restores precision and improves recall by confirming retrieved passages against a reasoning path through the KG. To keep traversal both question-adaptive and reliable, we have an LLM plan it as code generation task for graph traversal in SPARQL format but \\emph{parse rather than execute} the query. On full 1{,}000-question splits under a shared corpus and reader, and with a single configuration applied identically to every dataset, we reach \\textbf{62.5 / 75.1} EM/F1 on HotpotQA, \\textbf{73.5 / 81.0} on 2WikiMultiHopQA, and \\textbf{37.1 / 50.0} on MuSiQue, ahead of reproduced HippoRAG2, T\\textsuperscript{2}RAG, and IRCoT on all three benchmarks. A second, token-matched setting stays ahead of T\\textsuperscript{2}RAG on HotpotQA and 2Wiki while spending roughly its per-query budget. Executing the generated SPARQL instead of parsing it costs up to 11.4 EM, mostly because raw queries return empty results, not because of syntax errors.",
+    "authors": [
+      "Priyesh Vakharia",
+      "Masud Moshtaghi",
+      "Pratyay Banerjee",
+      "Nicholas Jedema",
+      "Amita Misra",
+      "Ankit Chadha"
+    ],
+    "published": "2026-11-24T01:24:00Z",
+    "url": "http://arxiv.org/abs/2611.31771v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.31771v1"
+  },
+  {
+    "title": "Online Continual Graph Learning.",
+    "summary": "Continual learning (CL) aims to incrementally acquire new knowledge while mitigating catastrophic forgetting. Within this setting, online CL (OCL) focuses on updating models promptly and incrementally from single or small batches of observations from a data stream. Extending OCL to graph-structured data is crucial, as many real-world networks evolve and require timely, online predictions. However, existing continual or streaming graph learning methods typically assume access to entire graph snapshots or multiple passes over tasks, violating the efficiency constraints of the online setting. To address this gap, we introduce the online continual graph learning (OCGL) setting, which formalizes node-level CL on evolving graphs under strict memory and computational budgets. OCGL defines how a model incrementally processes a stream of node-level information while maintaining anytime inference and respecting resource constraints. We further establish a comprehensive benchmark comprising seven datasets and nine CL strategies, suitably adapted to the OCGL setting, enabling a standardized evaluation setup. Finally, we present a minimalistic yet competitive baseline for OCGL, inspired by our benchmarking results, that achieves strong empirical performance with high efficiency.",
+    "authors": [
+      "Donghi Giovanni",
+      "Pasa Luca",
+      "Zambon Daniele",
+      "Alippi Cesare",
+      "Navarin Nicolo"
+    ],
+    "published": "2026 Nov 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077388/",
+    "pmid": "43077388",
+    "source": "PubMed"
+  },
+  {
+    "title": "NUCLEON: An Ontology of Chemical Elements and Nuclides for Diagnostic and Therapeutic Nuclear Medicine.",
+    "summary": "Radiopharmaceutical information in imaging systems is typically recorded as free text or as flat code system entries that include little or no computable information about radionuclides' physical properties. This article introduces the Nuclide and Element Ontology (NUCLEON), a machine-processable knowledge resource that represents the 118 known chemical elements and 5408 nuclides, including 2019 metastable isomers, with computable nuclear properties. The ontology declares each element and nuclide as both a class and an individual: the class structure generates a taxonomy that aligns with vocabularies of chemistry and clinical medicine, and the individual entities support quantitative assertions, such as half-life. Each of 7691 decay branches is an individual specifying its mode of decay and branching ratio; 7399 branches have an explicit link to their decay product (daughter) nuclide, derived from the decay mode rather than transcribed. Ground-state data were taken from the International Atomic Energy Agency (IAEA) LiveChart of Nuclides, isomer data from the NUBASE2020 evaluation, and the energies and yields of 3990 radiation emissions of clinically coded radionuclides and their decay chains from International Commission on Radiological Protection (ICRP) Publication 107; symbols and names were verified against standard chemical nomenclature. NUCLEON is linked to the Ontology of Chemical Elements, SNOMED Clinical Terms, and DICOM radiopharmaceutical isotope and PET radionuclide code sequences, allowing a nuclide to be resolved directly from a DICOM header. The ontology incorporates 215,862 triples across 5533 classes and 17,253 named individuals. Automated checks confirmed the arithmetic consistency of atomic, neutron, and mass numbers, and none of the derived decay products disagreed with ICRP Publication 107 or the Evaluated Nuclear Structure Data File. Element names are provided in seven languages. NUCLEON is available at https://bioportal.bioontology.org/ontologies/NUCLEON .",
+    "authors": [
+      "Kahn Charles E"
+    ],
+    "published": "2026 Nov 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077139/",
+    "pmid": "43077139",
+    "source": "PubMed"
+  },
+  {
+    "title": "MKP-ECG: A Knowledge-Enhanced Dual-Stream Network for Robust Arrhythmia Classification with Medical Prior-Guided Multi-Loss Optimization.",
+    "summary": "Accurate classification of cardiac arrhythmias from electrocardiogram (ECG) signals is essential for clinical decision-making, yet deep learning models often struggle with minority classes such as Fusion beats (F-type) owing to severe class imbalance and insufficient integration of domain knowledge. In this work, we propose Medical Knowledge Prior Network (MKP-ECG), a knowledge-enhanced dual-stream network for four-class arrhythmia classification (N, S, V, F) following the AAMI standard. The first stream employs a multi-scale CNN with residual connections and squeeze-and-excitation attention to learn data-driven representations from raw waveforms. The second stream, termed the Medical Prior Module, extracts a 34-dimensional clinical feature vector encoding morphology, rhythm, template matching, and rule-based indicators that mirror the reasoning process of cardiologists. The two streams are fused through explicit feature concatenation and a knowledge attention gate that dynamically modulates neural representations based on clinical evidence, and are jointly optimized by a composite loss function comprising two novel medical knowledge prior losses: a knowledge graph KL-divergence loss that aligns predictions with expert-defined electrophysiological priors and a clinical constraint loss that penalizes predictions contradicting established diagnostic criteria. Evaluated on the MIT-BIH Arrhythmia Database under the inter-patient DS1/DS2 paradigm with methodologically corrected data augmentation (waveform-only SMOTE with nearest-neighbor clinical feature copying and purity-weighted contrastive loss), MKP-ECG achieves 99.14% accuracy, 92.77% Macro-F1, and 76.98% F-class F1-score with perfect F-recall, representing a 51.7% relative improvement over the knowledge-free baseline. Independent evaluation on the INCART database, where the model is trained and tested entirely within INCART using the same architecture and hyperparameters without any dataset-specific tuning, provides encouraging evidence of architectural generalizability under a record-split protocol, achieving 99.71% accuracy and 87.43% F-class F1-score.",
+    "authors": [
+      "Zhang Tianjun",
+      "Diao Lisong",
+      "Li Qian",
+      "Zhang Hongxia",
+      "Zhou Qi"
+    ],
+    "published": "2026 Nov 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077017/",
+    "pmid": "43077017",
+    "source": "PubMed"
+  },
+  {
+    "title": "Impact of EEG-related HPO terms on phenotype-driven variant prioritization in pediatric epilepsy.",
+    "summary": "The Human Phenotype Ontology (HPO) is a standardized resource of hierarchically organized phenotypic terms used for deep phenotyping, both in research and diagnosis. In our study, we aimed to investigate how the specificity of EEG-related HPO terms may impact phenotype and gene scoring and prioritization.",
+    "authors": [
+      "Perjoc Radu Ștefan",
+      "Pâslaru Alexandru Cătălin",
+      "Roza Eugenia",
+      "Teleanu Raluca Ioana",
+      "Severin Emilia"
+    ],
+    "published": "2026 Nov 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43076434/",
+    "pmid": "43076434",
+    "source": "PubMed"
+  },
+  {
+    "title": "AI-guided discovery of mechanistic degeneracy in TiO",
+    "summary": "The rational design of TiO",
+    "authors": [
+      "Castillo Salvador",
+      "Valencia Diego"
+    ],
+    "published": "2026 Nov 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43075978/",
+    "pmid": "43075978",
+    "source": "PubMed"
+  },
+  {
+    "title": "OMA orthology in 2027: orthology, ancestral gene repertoires, and comparative genomics at scale.",
+    "summary": "OMA is a longstanding resource for inferring and exploring orthologous relationships across the tree of life. Here, we describe recent developments that broaden the comparative genomics information and analyses supported by the OMA ecosystem. The latest OMA release contains 2983 extant genomes and 1226 ancestral genome reconstructions spanning all domains of life, with expanded eukaryotic representation and quality-assessed genome selection. We integrated protein structure-aware information across all proteins in OMA, providing structure-derived 3Di representations and structural alignments for hierarchical orthologous groups. For custom datasets, FastOMA enables scalable orthology across thousands of genomes, while OrthoXML-tools facilitates interoperable manipulation and downstream analysis of orthology data. Building on previous resources for ancestral gene repertoire and gene order reconstruction, an extended chromosome viewer enables richer exploration of gene order in extant and reconstructed ancestral genomes, including gene adjacency evolution and integrated downstream analyses. Functional analysis has been extended through the OMA REST API, enabling customizable Gene Ontology enrichment analyses of extant and ancestral gene sets. Finally, updated training resources and support for private deployments broaden access to the OMA ecosystem. Together, these developments provide an integrated framework for studying gene families and genome evolution from sequences, structures, and evolutionary context. OMA is freely accessible at https://omabrowser.org/.",
+    "authors": [
+      "Altenhoff Adrian",
+      "Vesztrocy Alex Warwick",
+      "Romashchenko Nikolai",
+      "Kim Dongwook",
+      "Train Clément",
+      "Pascarelli Stefano",
+      "Prieto-Baños Silvia",
+      "Kharrazi Ali Yazdizadeh",
+      "Gavriilidou Athina",
+      "Haefliger Yann",
+      "Aldà Silvano",
+      "Damen Ryan",
+      "Pankin Artem",
+      "James Geo Velikkakam",
+      "Moi David",
+      "Nevers Yannis",
+      "Julca Irene",
+      "Majidian Sina",
+      "Dessimoz Christophe",
+      "Glover Natasha"
+    ],
+    "published": "2026 Nov 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074597/",
+    "pmid": "43074597",
+    "source": "PubMed"
+  },
+  {
+    "title": "Transcriptomic profiling of Thanatophilus sinuatus across developmental stages reveals stage-specific expression of olfactory genes.",
+    "summary": "Thanatophilus sinuatus (Fabricius, 1775) (Coleoptera: Staphylinidae) is a globally widespread and common necrophagous insect, which is considered a valuable indicator for postmortem interval (PMI) estimation in forensic entomology. However, the lack of developmental stage-specific transcriptomic resources has hindered the interpretation of the biological functions of this species and its forensic applications. In this study, the de novo transcriptome of T. sinuatus across five developmental stages, namely egg, young larva, mature larva, pupa, and adult, was generated by combining Illumina short-read and PacBio long-read sequencing. A total of 536,625 full-length non-chimeric sequences were obtained through quality control from the raw data. After deduplication, 49,527 non-redundant transcripts were generated, of which 38,744 transcripts were annotated in public databases. Subsequently, differentially expressed genes were screened, and weighted gene co-expression network analysis (WGCNA) was employed to construct co-expression networks. Five modules significantly associated with developmental phenotypes were identified, and Gene Ontology (GO) functional annotation and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis were performed on the genes within these modules. Furthermore, 125 olfactory-related candidate genes were identified. Expression heatmaps revealed that most of these genes were specifically highly expressed during the stages of young larva and adult, which indicates their critical role in biological behaviors such as foraging and colonization. Quantitative real-time PCR results confirmed the same gene expression trends as those obtained from RNA-seq, validating the reliability of the sequencing data. The full-length transcriptomic data of T. sinuatus provides a foundation for understanding its stage-specific development and olfactory system, and represents a valuable resource for future forensic research.",
+    "authors": [
+      "Zhao Wangqian",
+      "Shao Shipeng",
+      "Li Lijuan",
+      "Gu Zhiya",
+      "Wang Yu"
+    ],
+    "published": "2026 Nov 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43073530/",
+    "pmid": "43073530",
+    "source": "PubMed"
+  },
+  {
+    "title": "Knowledge gaps and scientific progress.",
+    "summary": "Knowledge production is often viewed as an endogenous process in which discovery arises through the recombination of existing theories, findings, and concepts. Yet not all recombinations are equally valuable, and identifying those that may prove most generative remains challenging. We propose that a crucial form of recombination occurs when linking concepts creates knowledge gaps-empty regions in the conceptual landscape that may focus scientific attention on unexplored connections. Using computational topology, we develop a method to identify knowledge gaps in science at scale. In this framework, gaps form when new connections complete cycles in evolving networks of scientific concepts. We apply the method to 34,363,623 papers in Microsoft Academic Graph spanning 1900 to 2020. The main analyses use samples ranging from 8,643,571 to 31,983,201 papers. Compared with papers that introduce novel concept pairs without opening gaps, gap-opening papers have greater long-term citation impact, are more disruptive of prior work, and exhibit greater delayed recognition. Gap-opening papers receive fewer citations within five years of publication but more over twenty years, consistent with scientific communities needing time to recognize and develop newly opened research territories. Evidence for the generative capacity of gap-opening papers-as indicated by high citation impact and disruption-replicates in five additional databases (OpenAlex, the PubMed Knowledge Graph, Dimensions, American Physical Society journals, and United States patents) and across eight concept vocabularies, including several derived directly from text. Together, these results point to a distinctive generative role for gap opening in scientific discovery.",
+    "authors": [
+      "Kedrick Kara",
+      "Yang Wenlong",
+      "Gebhart Thomas",
+      "Wang Yang",
+      "Funk Russell J"
+    ],
+    "published": "2026 Nov 24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43062959/",
+    "pmid": "43062959",
+    "source": "PubMed"
+  }
+]

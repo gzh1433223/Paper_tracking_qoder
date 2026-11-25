@@ -1,0 +1,81 @@
+Ontology 文献追踪报告 - 2026-11-24
+==================================================
+
+共发现 12 篇新论文
+
+--- arXiv (4 篇) ------------------------------
+
+1. A Text-to-SQL Benchmark for Official Statistics
+   作者: Lucas Lageweg, Karen Goes, Tom van den Broek, Frank Pijpers, Paul Groth 等 6 人
+   链接: http://arxiv.org/abs/2611.32646v1
+   PDF: https://arxiv.org/pdf/2611.32646v1
+   摘要: Official statistics are critical datasets for a wide variety of actors, including policymakers and businesses. For providers of official statistics, improving accessibility, governance, and disclosure of their data is of key importance. This can be improved by providing question-answering systems based on text-to-SQL approaches. However, existing text-to-SQL benchmarks do not resemble this setting. Official statistics are published as open-domain catalogs of thousands of wide tables whose column...
+
+2. Privacy Disclosure Control Benchmark (PDC-Bench): How Faithfully Do LLMs Keep Privacy Constraints on In-Context Disclosure Granularity?
+   作者: Kosuke Fujita, Daiki Nishiyama, Jun Sakuma
+   链接: http://arxiv.org/abs/2611.32610v1
+   PDF: https://arxiv.org/pdf/2611.32610v1
+   摘要: In LLM task execution, a constraint on the permitted disclosure granularity of personal attributes is sometimes imposed on the output. For example, if a person's private attribute is their location (San Francisco) and disclosure is permitted only at the country level, an output at the state level (California) violates the constraint. Detecting such violations requires capturing not only direct privacy leakage (San Francisco) but also semantic leakage (California). However, existing benchmarks ca...
+
+3. When the Miner is the Generator: Rethinking the Separation Axiom in LLM-Driven Data Mining
+   作者: Xi Chen, Mengke Li
+   链接: http://arxiv.org/abs/2611.32207v1
+   PDF: https://arxiv.org/pdf/2611.32207v1
+   摘要: The theoretical foundation of data mining implicitly relies on an unstated premise, the Separation Axiom (SA), which assumes that mining tools and the data being analyzed are epistemologically independent. However, this premise is increasingly challenged by the emergence of LLM-driven AI agents that actively participate in data generation. We argue that this shift leads to a new epistemic failure mode, which we term ontological self-reference, where discovered patterns may reflect the inductive ...
+
+4. SPARQL-Planned Single-Hop Traversal over a Live Knowledge Graph for Multi-Hop Question Answering
+   作者: Priyesh Vakharia, Masud Moshtaghi, Pratyay Banerjee, Nicholas Jedema, Amita Misra 等 6 人
+   链接: http://arxiv.org/abs/2611.31771v1
+   PDF: https://arxiv.org/pdf/2611.31771v1
+   摘要: Semantic retrieval struggles with multi-hop question answering on both recall and precision: gold passages are buried among distractors that degrade the reader's answer, and retrieving them requires reasoning over the query rather than matching it. GraphRAG techniques expand semantic retrieval by connecting passages to graph nodes and performing one or more hops of expansion after initial retrieval. This improves recall, but multi-hop expansion becomes expensive and brings additional noise into ...
+
+--- PubMed (8 篇) ------------------------------
+
+1. Online Continual Graph Learning.
+   作者: Donghi Giovanni, Pasa Luca, Zambon Daniele, Alippi Cesare, Navarin Nicolo
+   链接: https://pubmed.ncbi.nlm.nih.gov/43077388/
+   PMID: 43077388
+   摘要: Continual learning (CL) aims to incrementally acquire new knowledge while mitigating catastrophic forgetting. Within this setting, online CL (OCL) focuses on updating models promptly and incrementally from single or small batches of observations from a data stream. Extending OCL to graph-structured data is crucial, as many real-world networks evolve and require timely, online predictions. However, existing continual or streaming graph learning methods typically assume access to entire graph snap...
+
+2. NUCLEON: An Ontology of Chemical Elements and Nuclides for Diagnostic and Therapeutic Nuclear Medicine.
+   作者: Kahn Charles E
+   链接: https://pubmed.ncbi.nlm.nih.gov/43077139/
+   PMID: 43077139
+   摘要: Radiopharmaceutical information in imaging systems is typically recorded as free text or as flat code system entries that include little or no computable information about radionuclides' physical properties. This article introduces the Nuclide and Element Ontology (NUCLEON), a machine-processable knowledge resource that represents the 118 known chemical elements and 5408 nuclides, including 2019 metastable isomers, with computable nuclear properties. The ontology declares each element and nuclid...
+
+3. MKP-ECG: A Knowledge-Enhanced Dual-Stream Network for Robust Arrhythmia Classification with Medical Prior-Guided Multi-Loss Optimization.
+   作者: Zhang Tianjun, Diao Lisong, Li Qian, Zhang Hongxia, Zhou Qi
+   链接: https://pubmed.ncbi.nlm.nih.gov/43077017/
+   PMID: 43077017
+   摘要: Accurate classification of cardiac arrhythmias from electrocardiogram (ECG) signals is essential for clinical decision-making, yet deep learning models often struggle with minority classes such as Fusion beats (F-type) owing to severe class imbalance and insufficient integration of domain knowledge. In this work, we propose Medical Knowledge Prior Network (MKP-ECG), a knowledge-enhanced dual-stream network for four-class arrhythmia classification (N, S, V, F) following the AAMI standard. The fir...
+
+4. Impact of EEG-related HPO terms on phenotype-driven variant prioritization in pediatric epilepsy.
+   作者: Perjoc Radu Ștefan, Pâslaru Alexandru Cătălin, Roza Eugenia, Teleanu Raluca Ioana, Severin Emilia
+   链接: https://pubmed.ncbi.nlm.nih.gov/43076434/
+   PMID: 43076434
+   摘要: The Human Phenotype Ontology (HPO) is a standardized resource of hierarchically organized phenotypic terms used for deep phenotyping, both in research and diagnosis. In our study, we aimed to investigate how the specificity of EEG-related HPO terms may impact phenotype and gene scoring and prioritization....
+
+5. AI-guided discovery of mechanistic degeneracy in TiO
+   作者: Castillo Salvador, Valencia Diego
+   链接: https://pubmed.ncbi.nlm.nih.gov/43075978/
+   PMID: 43075978
+   摘要: The rational design of TiO...
+
+6. OMA orthology in 2027: orthology, ancestral gene repertoires, and comparative genomics at scale.
+   作者: Altenhoff Adrian, Vesztrocy Alex Warwick, Romashchenko Nikolai, Kim Dongwook, Train Clément 等 20 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43074597/
+   PMID: 43074597
+   摘要: OMA is a longstanding resource for inferring and exploring orthologous relationships across the tree of life. Here, we describe recent developments that broaden the comparative genomics information and analyses supported by the OMA ecosystem. The latest OMA release contains 2983 extant genomes and 1226 ancestral genome reconstructions spanning all domains of life, with expanded eukaryotic representation and quality-assessed genome selection. We integrated protein structure-aware information acro...
+
+7. Transcriptomic profiling of Thanatophilus sinuatus across developmental stages reveals stage-specific expression of olfactory genes.
+   作者: Zhao Wangqian, Shao Shipeng, Li Lijuan, Gu Zhiya, Wang Yu
+   链接: https://pubmed.ncbi.nlm.nih.gov/43073530/
+   PMID: 43073530
+   摘要: Thanatophilus sinuatus (Fabricius, 1775) (Coleoptera: Staphylinidae) is a globally widespread and common necrophagous insect, which is considered a valuable indicator for postmortem interval (PMI) estimation in forensic entomology. However, the lack of developmental stage-specific transcriptomic resources has hindered the interpretation of the biological functions of this species and its forensic applications. In this study, the de novo transcriptome of T. sinuatus across five developmental stag...
+
+8. Knowledge gaps and scientific progress.
+   作者: Kedrick Kara, Yang Wenlong, Gebhart Thomas, Wang Yang, Funk Russell J
+   链接: https://pubmed.ncbi.nlm.nih.gov/43062959/
+   PMID: 43062959
+   摘要: Knowledge production is often viewed as an endogenous process in which discovery arises through the recombination of existing theories, findings, and concepts. Yet not all recombinations are equally valuable, and identifying those that may prove most generative remains challenging. We propose that a crucial form of recombination occurs when linking concepts creates knowledge gaps-empty regions in the conceptual landscape that may focus scientific attention on unexplored connections. Using comput...
+
