@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Did the Model Forecast It, or Already Know It? Evaluating Large Language Models for Novel Drug-Target Prioritisation with a Temporal Knowledge-Graph Oracle",
+    "summary": "AI systems increasingly help decide which drug targets enter costly clinical trials. We recast each target-disease hypothesis as a dated event, the pair's first clinical trial. This lets us test whether a language model can forecast such events after its training cutoff, rather than recall events before it. We rebuild a dated biomedical knowledge graph as it stood at the end of each year from 2020 up to its newest version. We then ask six open language models, with and without this graph, which targets will enter a first trial for a disease the next year. Without retrieval, the models rank about as well as trial history, a count of each target's past trials in the same therapeutic area, also after their training cutoffs. Evidence dated before the decision adds at most a small gain, before or after the models' training cutoffs. The newest graph raises five of six models clearly above that baseline, but its paths usually include the answer: the pair's own trial, dated after the decision. Evaluations of target prioritisation should date both features and labels, with evidence from before the decision and outcomes after it.",
+    "authors": [
+      "Pui Chung Siu",
+      "Yuan Liang",
+      "Claudia Cabrera",
+      "Mani Mudaliar",
+      "Arkaitz Zubiaga"
+    ],
+    "published": "2026-11-25T12:10:57Z",
+    "url": "http://arxiv.org/abs/2611.34247v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.34247v1"
+  },
+  {
+    "title": "How LLM Agents Reshape Financial Knowledge Graphs: A Survey",
+    "summary": "Financial knowledge graphs (KGs) link information across sources to support risk assessment, investment research, asset recommendations, and forecasting. Large language models (LLMs) help build these graphs by extracting relationships from text and matching entities across records. Yet a workflow may still prescribe which sources to consult and which checks to run. If the chosen sources lack relevant evidence, even accurate extraction can leave a financial question unanswered. LLM agents can adapt the workflow as evidence emerges. They use the graph and earlier findings to decide where to look next, which claims to verify, and whether to update a record for later use. This is the first survey devoted to how LLM agents reshape the construction, maintenance, and use of financial KGs. Our taxonomy covers Knowledge Graph Construction, Temporal Evolution, Verification, Reconciliation, and Admission, Adaptive Acquisition, and Knowledge Graph Usage. We examine how studies evaluate graph quality, agents' use of evidence, financial task outcomes, and reliability over time. These evaluations show that agents can recover evidence missed in an initial search and revise records as new information arrives. Three questions remain unresolved. How can an agent tell whether it has enough evidence for a financial decision? After a record is corrected, how can the agent identify which earlier conclusions need to change? Which relationships and rules can it reuse in a new graph or domain?",
+    "authors": [
+      "Yunbai Zhang",
+      "Heze Ma",
+      "Nan Jiang",
+      "Wenxuan Liu",
+      "Ze Chen",
+      "Yunyi Gao",
+      "Winnie Gao",
+      "Han-Tai Shiao"
+    ],
+    "published": "2026-11-25T00:49:17Z",
+    "url": "http://arxiv.org/abs/2611.33584v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.33584v1"
+  },
+  {
+    "title": "FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation",
+    "summary": "Automated Scientific Hypothesis Generation (ASHG) leveraging large language models (LLMs) aims to harness their strengths in knowledge integration, logical reasoning, and text generation for efficiently producing innovative, verifiable scientific hypotheses. However, existing approaches face three critical limitations: (i) insufficient fine-grained knowledge representation, as unstructured context impairs LLM comprehension and reasoning; (ii) lack of knowledge evolution traceability, constraining the generation of innovative cross-domain conjectures; (iii) absence of human-inspired and role-specialized multi-agent collaboration, failing to leverage the efficient innovation mechanisms arising from cognitive diversity and division of labor among expert roles to complete the full ASHG-evaluation loop. To address these limitations, we propose the Fine-grained Inspiration Graph-empowered Multi-Agent Collaboration framework (FIG-MAC) including: (i) Fine-grained Inspiration Graph module (FIG), to obtain fine-grained structured knowledge representations, where nodes represent academic semantic units and edges encode heuristic relationships among them; (ii) ontology-guided hybrid reasoning module, which follows the FIG ontology to construct structured reasoning paths and uses vector search to enrich them with semantic evidence, to obtain the traceable scientific conjecture paths; (iii) role-specialized Multi-Agent framework, inspired by real scientific teamwork, enabling a closed-loop process of scientific conjecture generation, screening, and validation. Experimental results demonstrate that FIG-MAC significantly outperforms state-of-the-art methods on source diversity, provenance-adjusted novelty, and raw novelty.",
+    "authors": [
+      "Siyuan Chen",
+      "Yuping Gao",
+      "Tai Huang",
+      "Yuling Zhou",
+      "Dongyu Su",
+      "Tongguan Wang"
+    ],
+    "published": "2026-11-25T00:25:29Z",
+    "url": "http://arxiv.org/abs/2611.33563v1",
+    "source": "arXiv",
+    "pdf_url": "https://arxiv.org/pdf/2611.33563v1"
+  },
+  {
+    "title": "DataRecycle: Trustworthy Distillation of Structured Data from Scattered Web Evidence.",
+    "summary": "The web contains vast amounts of scattered quantitative evidence that is difficult to organize into comparable and verifiable structures. Yet its unstructured, sparse, and sometimes conflicting nature makes a systematic distillation costly and errorprone. Existing approaches force users to make a trade-off: search engines return document lists that require labor-intensive extraction and reconciliation, while generative AI systems produce fluent summaries that obscure data provenance, introduce reporting bias, and hide inconsistencies. We present DataRecycle, an interactive system that helps transform scattered web evidence into structured tables of comparable numerical facts. Given a user's query or statement, DataRecycle decomposes it into entities and attributes, retrieves candidate evidence, and organizes scattered, potentially conflicting records in a table-based evidence view. To address key challenges in automated data distillation (i.e., incomplete retrieval, untraceable generation, sparse data distribution, and multi-source inconsistency), DataRecycle adopts an ontology-guided, top-down data acquisition strategy, visualizes the recorded lineage from retrieved snippets to extracted values, and aligns heterogeneous data across dimensions such as time, definition, and scale. We evaluate DataRecycle through modulelevel experiments, a usage scenario, and a user study, showing that the system helps users organize numerical web evidence into provenance-linked tables and inspect uncertainty and conflicting sources.",
+    "authors": [
+      "Liu Can",
+      "Zhu Tengteng",
+      "Jiang Xinyu",
+      "Wen Xiaolin",
+      "Wang Yong"
+    ],
+    "published": "2026 Nov 25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084757/",
+    "pmid": "43084757",
+    "source": "PubMed"
+  },
+  {
+    "title": "CARE: Context-Augmented Relation Generation for Few-Shot Knowledge Graph Completion.",
+    "summary": "Knowledge graph completion (KGC) aims to predict the missing entity or relation based on the known triples. However, many KGC studies suffer from the long-tail distribution of relations, where a large number of relations are associated with fewer than ten triples. This problem stems from the incompleteness of knowledge graphs (KGs). To address this issue, few-shot KGC (FKGC) is introduced to predict missing facts for unseen relations, which has attracted considerable interest among researchers. Existing methods mainly focus on integrating local and context information to construct relation representations. Nevertheless, these methods still confront two critical challenges: 1) existing methods do not model the varying importance of support triples when aggregating multihop context for few-shot relation generation and 2) existing training objectives lack explicit supervision for distinguishing key context structures from irrelevant information. In this article, we propose context-augmented relation generation (CARE), a framework that integrates multihop context encoding with supervised key context identification for FKGC. Initially, the deep relation-aware encoding (DRE) is applied to aggregate information from multiple layers in the KG. Then, the relation learner generates features for each triple in the support set through a Transformer block. Following the adaptive generation of few-shot relation representations, context augmentation (CA) constructs negative samples to explicitly supervise key context identification. Finally, a dual-level optimization framework is introduced to tackle the inherent challenges of the FKGC task. Extensive experiments on three public datasets demonstrate that CARE achieves state-of-the-art or highly competitive performance across most evaluation settings. Ablation studies further validate the complementary contributions of each component.",
+    "authors": [
+      "Li Jiakai",
+      "Qin Ke",
+      "Liang Shuang",
+      "Luo Guangchun",
+      "Vasilakos Athanasios V",
+      "Leung Man-Fai"
+    ],
+    "published": "2026 Nov 25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084755/",
+    "pmid": "43084755",
+    "source": "PubMed"
+  },
+  {
+    "title": "Thymol attenuates bleomycin‑induced pulmonary fibrosis in mice by regulating the E2F8/NF‑κB/TGF‑β1/smad signaling pathway.",
+    "summary": "To investigate the potential therapeutic effect of thymol on idiopathic pulmonary fibrosis (IPF) by regulating the E2F8/NF‑κB/TGF‑β1/Smad signaling pathway.",
+    "authors": [
+      "Li Yuying",
+      "Zhang Guohua",
+      "Xu Yulin",
+      "Jiang Liyuan",
+      "Le Zhen",
+      "Qiu Huiping",
+      "Gan Chunchun"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084583/",
+    "pmid": "43084583",
+    "source": "PubMed"
+  },
+  {
+    "title": "Network toxicology and molecular docking identify candidate molecular links between bis (1,3-dichloro-2-propyl) phosphate and esophageal squamous cell carcinoma.",
+    "summary": "Bis(1,3-dichloro-2-propyl) phosphate (BDCIPP), a major metabolite and urinary biomarker of tris(1,3-dichloro-2-propyl) phosphate (TDCIPP), has recently been associated with an increased risk of esophageal squamous cell carcinoma (ESCC); however, the molecular basis of this association remains poorly understood. This study integrated in silico toxicity profiling, network toxicology, functional enrichment analysis, and molecular docking to investigate the potential molecular links between BDCIPP and ESCC. BDCIPP-related targets were collected from TargetNet, SwissTargetPrediction, STITCH, and CTD, whereas ESCC-related targets were obtained from GeneCards, OMIM, and TTD. Intersecting the two target sets yielded 102 common targets, and protein-protein interaction (PPI) network analysis prioritized 10 candidate hub targets, including EGFR, CASP3, CTNNB1, MYC, ESR1, MMP9, SRC, PTGS2, ERBB2, and SIRT1. Gene Ontology (GO) enrichment analysis highlighted apoptosis-related regulation and extracellular matrix disassembly, whereas Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis revealed enrichment of cancer-related pathways, including ErbB, PI3K-Akt, MAPK, and focal adhesion, as well as inflammatory and chemical carcinogenesis-related pathways. Molecular docking indicated varying degrees of predicted structural compatibility between BDCIPP and the candidate hub proteins, with ERBB2 exhibiting the lowest top-ranked MOE docking score among the examined proteins. Cross-method integration further highlighted EGFR/ERBB2-centered signaling, MMP9-associated extracellular matrix remodeling, PTGS2-related inflammatory regulation, and CASP3/SIRT1-mediated apoptotic control as candidate mechanistic modules. By focusing specifically on BDCIPP rather than extrapolating mechanistic evidence from its parent compound TDCIPP, these findings delineate a systems-level molecular framework potentially linking BDCIPP to ESCC and provide prioritized, experimentally testable targets and pathways for subsequent exposure-informed validation.",
+    "authors": [
+      "Liu Zihui",
+      "Fan Huanfang",
+      "Li Dehui",
+      "He Yun",
+      "Yin Jiatong",
+      "Gu Yiting"
+    ],
+    "published": "2026  ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084515/",
+    "pmid": "43084515",
+    "source": "PubMed"
+  },
+  {
+    "title": "Oocyte-borne alterations in extraembryonic tissue DNA methylation of day 14 embryos: insights from an in vitro - in vivo bovine model.",
+    "summary": "Does metabolic stress during oocyte maturation contribute to epigenetic modifications in extraembryonic tissues (EXT) during post-hatching embryo development?",
+    "authors": [
+      "Marei Waleed F A",
+      "Ibrahim Joe",
+      "Desmet Karolien L J",
+      "Meulders Ben",
+      "Leroy Jo L M R"
+    ],
+    "published": "2026 Nov 25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43083874/",
+    "pmid": "43083874",
+    "source": "PubMed"
+  }
+]

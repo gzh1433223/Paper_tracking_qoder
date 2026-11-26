@@ -1,0 +1,57 @@
+Ontology 文献追踪报告 - 2026-11-25
+==================================================
+
+共发现 8 篇新论文
+
+--- arXiv (3 篇) ------------------------------
+
+1. Did the Model Forecast It, or Already Know It? Evaluating Large Language Models for Novel Drug-Target Prioritisation with a Temporal Knowledge-Graph Oracle
+   作者: Pui Chung Siu, Yuan Liang, Claudia Cabrera, Mani Mudaliar, Arkaitz Zubiaga
+   链接: http://arxiv.org/abs/2611.34247v1
+   PDF: https://arxiv.org/pdf/2611.34247v1
+   摘要: AI systems increasingly help decide which drug targets enter costly clinical trials. We recast each target-disease hypothesis as a dated event, the pair's first clinical trial. This lets us test whether a language model can forecast such events after its training cutoff, rather than recall events before it. We rebuild a dated biomedical knowledge graph as it stood at the end of each year from 2020 up to its newest version. We then ask six open language models, with and without this graph, which ...
+
+2. How LLM Agents Reshape Financial Knowledge Graphs: A Survey
+   作者: Yunbai Zhang, Heze Ma, Nan Jiang, Wenxuan Liu, Ze Chen 等 8 人
+   链接: http://arxiv.org/abs/2611.33584v1
+   PDF: https://arxiv.org/pdf/2611.33584v1
+   摘要: Financial knowledge graphs (KGs) link information across sources to support risk assessment, investment research, asset recommendations, and forecasting. Large language models (LLMs) help build these graphs by extracting relationships from text and matching entities across records. Yet a workflow may still prescribe which sources to consult and which checks to run. If the chosen sources lack relevant evidence, even accurate extraction can leave a financial question unanswered. LLM agents can ada...
+
+3. FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation
+   作者: Siyuan Chen, Yuping Gao, Tai Huang, Yuling Zhou, Dongyu Su 等 6 人
+   链接: http://arxiv.org/abs/2611.33563v1
+   PDF: https://arxiv.org/pdf/2611.33563v1
+   摘要: Automated Scientific Hypothesis Generation (ASHG) leveraging large language models (LLMs) aims to harness their strengths in knowledge integration, logical reasoning, and text generation for efficiently producing innovative, verifiable scientific hypotheses. However, existing approaches face three critical limitations: (i) insufficient fine-grained knowledge representation, as unstructured context impairs LLM comprehension and reasoning; (ii) lack of knowledge evolution traceability, constrainin...
+
+--- PubMed (5 篇) ------------------------------
+
+1. DataRecycle: Trustworthy Distillation of Structured Data from Scattered Web Evidence.
+   作者: Liu Can, Zhu Tengteng, Jiang Xinyu, Wen Xiaolin, Wang Yong
+   链接: https://pubmed.ncbi.nlm.nih.gov/43084757/
+   PMID: 43084757
+   摘要: The web contains vast amounts of scattered quantitative evidence that is difficult to organize into comparable and verifiable structures. Yet its unstructured, sparse, and sometimes conflicting nature makes a systematic distillation costly and errorprone. Existing approaches force users to make a trade-off: search engines return document lists that require labor-intensive extraction and reconciliation, while generative AI systems produce fluent summaries that obscure data provenance, introduce r...
+
+2. CARE: Context-Augmented Relation Generation for Few-Shot Knowledge Graph Completion.
+   作者: Li Jiakai, Qin Ke, Liang Shuang, Luo Guangchun, Vasilakos Athanasios V 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43084755/
+   PMID: 43084755
+   摘要: Knowledge graph completion (KGC) aims to predict the missing entity or relation based on the known triples. However, many KGC studies suffer from the long-tail distribution of relations, where a large number of relations are associated with fewer than ten triples. This problem stems from the incompleteness of knowledge graphs (KGs). To address this issue, few-shot KGC (FKGC) is introduced to predict missing facts for unseen relations, which has attracted considerable interest among researchers. ...
+
+3. Thymol attenuates bleomycin‑induced pulmonary fibrosis in mice by regulating the E2F8/NF‑κB/TGF‑β1/smad signaling pathway.
+   作者: Li Yuying, Zhang Guohua, Xu Yulin, Jiang Liyuan, Le Zhen 等 7 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43084583/
+   PMID: 43084583
+   摘要: To investigate the potential therapeutic effect of thymol on idiopathic pulmonary fibrosis (IPF) by regulating the E2F8/NF‑κB/TGF‑β1/Smad signaling pathway....
+
+4. Network toxicology and molecular docking identify candidate molecular links between bis (1,3-dichloro-2-propyl) phosphate and esophageal squamous cell carcinoma.
+   作者: Liu Zihui, Fan Huanfang, Li Dehui, He Yun, Yin Jiatong 等 6 人
+   链接: https://pubmed.ncbi.nlm.nih.gov/43084515/
+   PMID: 43084515
+   摘要: Bis(1,3-dichloro-2-propyl) phosphate (BDCIPP), a major metabolite and urinary biomarker of tris(1,3-dichloro-2-propyl) phosphate (TDCIPP), has recently been associated with an increased risk of esophageal squamous cell carcinoma (ESCC); however, the molecular basis of this association remains poorly understood. This study integrated in silico toxicity profiling, network toxicology, functional enrichment analysis, and molecular docking to investigate the potential molecular links between BDCIPP a...
+
+5. Oocyte-borne alterations in extraembryonic tissue DNA methylation of day 14 embryos: insights from an in vitro - in vivo bovine model.
+   作者: Marei Waleed F A, Ibrahim Joe, Desmet Karolien L J, Meulders Ben, Leroy Jo L M R
+   链接: https://pubmed.ncbi.nlm.nih.gov/43083874/
+   PMID: 43083874
+   摘要: Does metabolic stress during oocyte maturation contribute to epigenetic modifications in extraembryonic tissues (EXT) during post-hatching embryo development?...
+
